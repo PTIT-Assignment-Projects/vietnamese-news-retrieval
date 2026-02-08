@@ -1,0 +1,64 @@
+services:
+  ir-spark-master:
+    image: spark:4.0.1-java21-python3
+    container_name: ir-spark-master
+    environment:
+      - SPARK_MODE=master
+      - SPARK_MASTER_HOST=ir-spark-master
+    ports:
+      - "7077:7077"
+      - "8080:8080"
+    # Run in foreground to keep container alive and show logs
+    command: /opt/spark/bin/spark-class org.apache.spark.deploy.master.Master
+    networks:
+      - spark-net
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 1g
+
+  ir-spark-worker:
+    image: spark:4.0.1-java21-python3
+    container_name: ir-spark-worker
+    depends_on:
+      - ir-spark-master
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER=spark://ir-spark-master:7077
+      - SPARK_WORKER_CORES=2
+      - SPARK_WORKER_MEMORY=2g
+    volumes:
+      - ./:/opt/app:ro
+    # Run in foreground to keep container alive
+    command: /opt/spark/bin/spark-class org.apache.spark.deploy.worker.Worker spark://ir-spark-master:7077
+    networks:
+      - spark-net
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 1g
+
+#  spark-app:
+#    build: .
+#    container_name: spark-app
+#    depends_on:
+#      - spark-master
+#    volumes:
+#      - ./:/opt/app:ro
+#    working_dir: /opt/app
+#    environment:
+#      - PYSPARK_PYTHON=/usr/bin/python3
+#      - SPARK_MASTER=spark://spark-master:7077
+#    networks:
+#      - spark-net
+#    deploy:
+#      resources:
+#        limits:
+#          cpus: '1.0'
+#          memory: 1g
+
+networks:
+  spark-net:
+    driver: bridge

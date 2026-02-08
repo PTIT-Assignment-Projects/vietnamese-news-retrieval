@@ -1,0 +1,3 @@
+pyspark==4.1.1
+python-dotenv==1.2.1
+underthesea==9.2.11
