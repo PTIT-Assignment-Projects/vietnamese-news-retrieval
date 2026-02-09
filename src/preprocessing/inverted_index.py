@@ -1,3 +1,5 @@
+import pickle
+from pathlib import Path
 
 from src.dependencies.constant import CID_COLUMN, CONTEXT_LIST_COLUMN, TEXT_COLUMN, CORPUS_PATH
 from src.dependencies.spark import SparkIRSystem
@@ -40,6 +42,11 @@ class SparkInvertedIndexIR(SparkIRSystem):
         # For large datasets, self.documents should ideally remain a DataFrame/RDD
         # but for the current architecture, we collect it back to the driver.
         self.documents = processed_df.rdd.map(lambda x: (x[0], x[1])).collectAsMap()
-        
+
+        path = "util/document_corpus.pkl"  # string path provided
+        Path(path).parent.mkdir(parents=True, exist_ok=True)
+
+        with open(path, "wb") as file:
+            pickle.dump(self.documents, file, protocol=pickle.HIGHEST_PROTOCOL)
         print(f"Loaded {len(self.documents)} documents.")
 
