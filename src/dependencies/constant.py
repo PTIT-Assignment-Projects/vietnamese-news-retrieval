@@ -14,6 +14,8 @@ STOPWORDS_DICT_PATH = UTIL_DIR / "vietnamese-stopwords.txt"
 CORPUS_JSON_PATH = DATA_DIR / "corpus.json"
 TEST_QUERIES_JSON_PATH = DATA_DIR / "test_queries.json"
 TERM_DOC_MATRIX_PICKLE_FILE = "term_doc_matrix.pkl"
+TF_MATRIX_PICKLE_FILE = "tf_matrix.pkl"
+IDF_MATRIX_PICKLE_FILE = "idf_matrix.pkl"
 # COLUMNS
 # TRAIN_DATA
 QUESTION_COLUMN = "question"
