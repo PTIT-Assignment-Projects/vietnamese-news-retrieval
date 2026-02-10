@@ -4,7 +4,6 @@ from pathlib import Path
 from src.dependencies.constant import CID_COLUMN, CONTEXT_LIST_COLUMN, TEXT_COLUMN, CORPUS_PATH
 from src.dependencies.spark import SparkIRSystem
 from src.preprocessing.data_loader import load_data
-from src.preprocessing.preprocessing import tokenize_words
 
 
 class SparkInvertedIndexIR(SparkIRSystem):
@@ -34,19 +33,20 @@ class SparkInvertedIndexIR(SparkIRSystem):
         # Apply vectorized tokenization (Pandas UDF)
         # This processes data in large chunks, significantly reducing IPC overhead
         processed_df = df.select(
-            CID_COLUMN, 
+            CID_COLUMN,
             tokenize_batch_udf(df[TEXT_COLUMN]).alias("tokens")
         )
-        
-        # Collect as a map. 
+
+        # Collect as a map.
         # For large datasets, self.documents should ideally remain a DataFrame/RDD
         # but for the current architecture, we collect it back to the driver.
         self.documents = processed_df.rdd.map(lambda x: (x[0], x[1])).collectAsMap()
 
-        path = "util/document_corpus.pkl"  # string path provided
-        Path(path).parent.mkdir(parents=True, exist_ok=True)
+        from src.dependencies.constant import UTIL_DIR
+        pickle_path = UTIL_DIR / "document_corpus.pkl"
+        pickle_path.parent.mkdir(parents=True, exist_ok=True)
 
-        with open(path, "wb") as file:
+        with open(pickle_path, "wb") as file:
             pickle.dump(self.documents, file, protocol=pickle.HIGHEST_PROTOCOL)
-        print(f"Loaded {len(self.documents)} documents.")
+        print(f"Loaded {df.count()} documents.")
 
