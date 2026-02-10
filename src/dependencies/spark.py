@@ -21,6 +21,7 @@ class SparkIRSystem:
     """
     def __init__(self):
         master = os.getenv('SPARK_MASTER', 'local[*]')
+        is_remote = master.startswith("spark://")
         import sys
         python_path = sys.executable
         os.environ['PYSPARK_PYTHON'] = python_path
@@ -31,8 +32,8 @@ class SparkIRSystem:
             .builder
             .master(master)
             .appName(APP_NAME)
-            .config("spark.driver.memory", "4g")
-            .config("spark.executor.memory", "4g")
+            .config("spark.driver.memory", "1g")
+            .config("spark.executor.memory", "512m")
             .config("spark.driver.maxResultSize", "2g")
             .config("spark.sql.shuffle.partitions", "200")
             .config("spark.pyspark.python", python_path)
@@ -40,6 +41,21 @@ class SparkIRSystem:
             .config("spark.sql.execution.arrow.pyspark.enabled", "true")
             .config("spark.sql.execution.arrow.maxRecordsPerBatch", "1000")
         )
+        if is_remote:
+            # 1. Tell executors to use the Python path INSIDE the Docker image
+            spark_builder = spark_builder.config("spark.pyspark.python", "/usr/bin/python3")
+            
+            # 2. Tell the workers to connect back to your computer's IP via the Docker gateway
+            # Most Linux systems use 172.17.0.1 or 172.18.0.1 for the Docker bridge
+            spark_builder = spark_builder.config("spark.driver.host", "172.18.0.1") 
+            
+            # 3. Use 1g for driver since it's local, 512m for executors in Docker
+            spark_builder = spark_builder.config("spark.driver.memory", "1g")
+            spark_builder = spark_builder.config("spark.executor.memory", "512m")
+        else:
+            # Local mode settings
+            spark_builder = spark_builder.config("spark.driver.memory", "1g")
+            spark_builder = spark_builder.config("spark.executor.memory", "1g")
         self.spark_sess = spark_builder.getOrCreate()
         self.logger = logging.Log4j(self.spark_sess)
         self.context = self.spark_sess.sparkContext

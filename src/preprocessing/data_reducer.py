@@ -10,27 +10,25 @@ def reduce_data():
     # 1. Load and limit corpus
     corpus_df = load_data(spark, CORPUS_PATH)
     # If the user wants cid <= 10000 specifically:
-    # corpus_reduced = corpus_df.filter(corpus_df[CID_COLUMN] <= 10000)
+    corpus_reduced = corpus_df.filter(corpus_df[CID_COLUMN] <= 15000)
     # But they said "first 10000 data", so let's use limit.
-    corpus_reduced = corpus_df.limit(10000)
-    
+    # corpus_reduced = corpus_df.limit(10000)
+
     # Save back corpus
     # Note: Spark can't easily overwrite the same path it's reading from in some versions
     # without caching or writing to a temp location first.
-    temp_corpus_path = str(CORPUS_PATH) + "_temp"
+    temp_corpus_path =  "_temp" + str(CORPUS_PATH)
     corpus_reduced.write.mode(OVERWRITE_WRITE_MODE).parquet(temp_corpus_path)
     
     print("Reducing train data...")
     # 2. Load and filter train data
     from pyspark.sql.functions import expr
     train_df = load_data(spark, TRAIN_PATH)
-    
-    # Since cid is an ARRAY<BIGINT>, we filter the elements inside the array
-    # and then keep rows that have at least one valid CID remaining.
-    train_reduced = train_df.withColumn(CID_COLUMN, expr(f"filter({CID_COLUMN}, x -> x <= 10000)")) \
+
+    train_reduced = train_df.withColumn(CID_COLUMN, expr(f"filter({CID_COLUMN}, x -> x <= 15000)")) \
                             .filter(expr(f"size({CID_COLUMN}) > 0"))
     
-    temp_train_path = str(TRAIN_PATH) + "_temp"
+    temp_train_path =  "_temp" + str(TRAIN_PATH)
     train_reduced.write.mode(OVERWRITE_WRITE_MODE).parquet(temp_train_path)
     
     print("Reducing test data...")
@@ -39,7 +37,7 @@ def reduce_data():
     test_reduced = test_df.withColumn(CID_COLUMN, expr(f"filter({CID_COLUMN}, x -> x <= 10000)")) \
                            .filter(expr(f"size({CID_COLUMN}) > 0"))
     
-    temp_test_path = str(TEST_PATH) + "_temp"
+    temp_test_path =  "_temp" + str(TEST_PATH)
     test_reduced.write.mode(OVERWRITE_WRITE_MODE).parquet(temp_test_path)
     
     spark.stop_session()

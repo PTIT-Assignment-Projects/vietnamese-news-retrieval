@@ -1,6 +1,6 @@
 services:
   ir-spark-master:
-    image: spark:4.0.1-java21-python3
+    image: apache/spark:4.1.1-java21-python3
     container_name: ir-spark-master
     environment:
       - SPARK_MODE=master
@@ -19,7 +19,7 @@ services:
           memory: 1g
 
   ir-spark-worker:
-    image: spark:4.0.1-java21-python3
+    image: apache/spark:4.1.1-java21-python3
     container_name: ir-spark-worker
     depends_on:
       - ir-spark-master
@@ -38,7 +38,7 @@ services:
       resources:
         limits:
           cpus: '1.0'
-          memory: 1g
+          memory: 2g
 
 #  spark-app:
 #    build: .
