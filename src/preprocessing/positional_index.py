@@ -3,7 +3,7 @@ from collections import defaultdict
 
 from src.dependencies.constant import CID_COLUMN, TEXT_COLUMN, CORPUS_PATH, UTIL_DIR, DOCUMENT_CORPUS_PICKLE_PATH, \
     TERM_DOC_MATRIX_PICKLE_PATH, TF_MATRIX_PICKLE_PATH, IDF_MATRIX_PICKLE_PATH, \
-    TF_IDF_MATRIX_PICKLE_PATH
+    TF_IDF_MATRIX_PICKLE_PATH, DOC_LENGTH_PICKLE_PATH, NORMALIZED_TFIDF_PICKLE_PATH, L2_PAIR_PICKLE_PATH
 from src.dependencies.spark import SparkIRSystem
 from src.preprocessing.data_loader import load_data
 from src.util.pickle_handling import load_pickle_file, save_to_pickle_file
@@ -22,6 +22,7 @@ class SparkInvertedIndexIR(SparkIRSystem):
         self.tf_idf_matrix = {}
         self.doc_lengths = {} # {doc: length}
         self.normalized_tfidf = {} # {term: {doc: value}}
+        self.pair_distance = {}
 
     def load_corpus(self) -> None:
         from pyspark.sql.functions import pandas_udf
@@ -178,4 +179,98 @@ class SparkInvertedIndexIR(SparkIRSystem):
     def load_computed_tf_idf(self):
         self.tf_idf_matrix = load_pickle_file(TF_IDF_MATRIX_PICKLE_PATH)
 
+    def compute_doc_lengths(self):
+        print("Computing document lengths (L2 norm)...")
+        if not self.tf_idf_matrix:
+            self.load_computed_tf_idf()
+            if not self.tf_idf_matrix:
+                self.compute_tfidf()
+
+        # Convert matrix items to RDD: RDD[(term, {doc_id: weight})]
+        # Use short-circuit: if we already have it in memory, skip expensive RDD creation if not needed
+        # but here we use Spark as requested.
+        tfidf_rdd = self.context.parallelize(list(self.tf_idf_matrix.items()))
+        
+        # Calculate sum of squares per document: RDD[(doc_id, weight^2)] -> aggregate by doc_id
+        doc_sq_sums = tfidf_rdd.flatMap(lambda x: [(doc_id, weight**2) for doc_id, weight in x[1].items()]) \
+                               .reduceByKey(lambda a, b: a + b) \
+                               .mapValues(math.sqrt) \
+                               .collectAsMap()
+        
+        self.doc_lengths = dict(doc_sq_sums)
+        print(f"Computed lengths for {len(self.doc_lengths)} documents.")
+        save_to_pickle_file(self.doc_lengths, DOC_LENGTH_PICKLE_PATH)
+        return self.doc_lengths
+    def load_computed_doc_lengths(self):
+        self.doc_lengths = load_pickle_file(DOC_LENGTH_PICKLE_PATH)
+
+    def compute_normalize_tfidf(self):
+        print("Starting compute Normalize TF-IDF...")
+        if not self.tf_idf_matrix:
+            self.load_computed_tf_idf()
+            if not self.tf_idf_matrix:
+                self.compute_tfidf()
+        if not self.doc_lengths:
+            self.load_computed_doc_lengths()
+            if not self.doc_lengths:
+                self.compute_doc_lengths()
+
+        # Optimize: instead of broadcasting matrix, parallelize it
+        tfidf_rdd = self.context.parallelize(list(self.tf_idf_matrix.items()))
+        lengths_bc = self.context.broadcast(self.doc_lengths)
+
+        def normalize_term_optimized(item):
+            term, doc_weights = item
+            lengths = lengths_bc.value
+            return term, {doc_id: weight / lengths.get(doc_id, 1.0) for doc_id, weight in doc_weights.items()}
+
+        results = tfidf_rdd.map(normalize_term_optimized).collect()
+        self.normalized_tfidf = dict(results)
+        print("Normalization complete.")
+        save_to_pickle_file(self.normalized_tfidf, NORMALIZED_TFIDF_PICKLE_PATH)
+        return self.normalized_tfidf
+
+    def load_computed_normalized_tfidf(self):
+        self.normalized_tfidf = load_pickle_file(NORMALIZED_TFIDF_PICKLE_PATH)
+
+
+    def retrieve(self, query_str, k=10):
+        print(f"Ranking documents for query: '{query_str}'")
+        if not self.tf_idf_matrix: self.load_computed_tf_idf()
+        if not self.doc_lengths: self.load_computed_doc_lengths()
+
+        # 1. Query Processing
+        query_tokens = query_str.lower().split()
+        tf_q = defaultdict(int)
+        for t in query_tokens:
+            if t in self.vocabulary: tf_q[t] += 1
+        
+        if not tf_q: return []
+
+        q_vec = {}
+        q_len_sq = 0
+        for term, count in tf_q.items():
+            weight = (1 + math.log10(count)) * self.idf_matrix.get(term, 0)
+            q_vec[term] = weight
+            q_sq_sum = weight ** 2
+            q_len_sq += q_sq_sum
+        q_len = math.sqrt(q_len_sq)
+
+        # 2. Parallel Scoring
+        relevant_terms = list(q_vec.keys())
+        relevant_data = [(t, self.tf_idf_matrix[t]) for t in relevant_terms if t in self.tf_idf_matrix]
+        
+        if not relevant_data: return []
+        
+        q_vec_bc = self.context.broadcast(q_vec)
+        q_len_bc = self.context.broadcast(q_len)
+        lengths_bc = self.context.broadcast(self.doc_lengths)
+
+        scores = self.context.parallelize(relevant_data) \
+            .flatMap(lambda x: [(doc_id, x[1][doc_id] * q_vec_bc.value[x[0]]) for doc_id in x[1]]) \
+            .reduceByKey(lambda a, b: a + b) \
+            .map(lambda x: (x[0], x[1] / (q_len_bc.value * lengths_bc.value.get(x[0], 1.0)))) \
+            .takeOrdered(k, key=lambda x: -x[1])
+
+        return scores
 

@@ -13,5 +13,10 @@ def main():
     spark.load_computed_idf()
     # spark.compute_tfidf()
     spark.load_computed_tf_idf()
+    # spark.compute_doc_lengths()
+    spark.load_computed_doc_lengths()
+    # spark.compute_normalize_tfidf()
+    spark.load_computed_normalized_tfidf()
+
 if __name__ == "__main__":
     main()
