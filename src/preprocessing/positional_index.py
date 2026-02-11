@@ -6,6 +6,7 @@ from src.dependencies.constant import CID_COLUMN, TEXT_COLUMN, CORPUS_PATH, UTIL
     TF_IDF_MATRIX_PICKLE_PATH, DOC_LENGTH_PICKLE_PATH, NORMALIZED_TFIDF_PICKLE_PATH, L2_PAIR_PICKLE_PATH
 from src.dependencies.spark import SparkIRSystem
 from src.preprocessing.data_loader import load_data
+from src.preprocessing.preprocessing import process_text
 from src.util.pickle_handling import load_pickle_file, save_to_pickle_file
 
 
@@ -240,24 +241,32 @@ class SparkInvertedIndexIR(SparkIRSystem):
         if not self.doc_lengths: self.load_computed_doc_lengths()
 
         # 1. Query Processing
-        query_tokens = query_str.lower().split()
+        processed_query = process_text(query_str)
+        print(f"  [STEP 2] Preprocessed Query: '{processed_query}'")
+        
+        query_tokens = processed_query.split()
         tf_q = defaultdict(int)
         for t in query_tokens:
             if t in self.vocabulary: tf_q[t] += 1
         
-        if not tf_q: return []
+        matched_tokens = list(tf_q.keys())
+        print(f"  [STEP 3] Matched Vocabulary Tokens: {matched_tokens}")
+        
+        if not tf_q: 
+            print("  [INFO] No matched tokens found in vocabulary.")
+            return []
 
         q_vec = {}
         q_len_sq = 0
         for term, count in tf_q.items():
             weight = (1 + math.log10(count)) * self.idf_matrix.get(term, 0)
             q_vec[term] = weight
-            q_sq_sum = weight ** 2
-            q_len_sq += q_sq_sum
+            q_len_sq += weight ** 2
         q_len = math.sqrt(q_len_sq)
+        print(f"  [STEP 4] Query Vector L2 Norm: {q_len:.6f}")
 
         # 2. Parallel Scoring
-        relevant_terms = list(q_vec.keys())
+        relevant_terms = matched_tokens
         relevant_data = [(t, self.tf_idf_matrix[t]) for t in relevant_terms if t in self.tf_idf_matrix]
         
         if not relevant_data: return []
