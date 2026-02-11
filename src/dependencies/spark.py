@@ -32,9 +32,9 @@ class SparkIRSystem:
             .builder
             .master(master)
             .appName(APP_NAME)
-            .config("spark.driver.memory", "1g")
-            .config("spark.executor.memory", "512m")
-            .config("spark.driver.maxResultSize", "2g")
+            .config("spark.driver.memory", "4g")
+            .config("spark.executor.memory", "4g")
+            .config("spark.driver.maxResultSize", "4g")
             .config("spark.sql.shuffle.partitions", "200")
             .config("spark.pyspark.python", python_path)
             .config("spark.pyspark.driver.python", python_path)
@@ -49,13 +49,13 @@ class SparkIRSystem:
             # Most Linux systems use 172.17.0.1 or 172.18.0.1 for the Docker bridge
             spark_builder = spark_builder.config("spark.driver.host", "172.18.0.1") 
             
-            # 3. Use 1g for driver since it's local, 512m for executors in Docker
-            spark_builder = spark_builder.config("spark.driver.memory", "1g")
-            spark_builder = spark_builder.config("spark.executor.memory", "512m")
+            # 3. Use 4g for driver since it's local, 2g for executors in Docker
+            spark_builder = spark_builder.config("spark.driver.memory", "4g")
+            spark_builder = spark_builder.config("spark.executor.memory", "2g")
         else:
             # Local mode settings
-            spark_builder = spark_builder.config("spark.driver.memory", "1g")
-            spark_builder = spark_builder.config("spark.executor.memory", "1g")
+            spark_builder = spark_builder.config("spark.driver.memory", "4g")
+            spark_builder = spark_builder.config("spark.executor.memory", "4g")
         self.spark_sess = spark_builder.getOrCreate()
         self.logger = logging.Log4j(self.spark_sess)
         self.context = self.spark_sess.sparkContext
