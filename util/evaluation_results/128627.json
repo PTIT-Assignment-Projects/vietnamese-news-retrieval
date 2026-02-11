@@ -1,0 +1,29 @@
+{
+  "qid": 128627,
+  "query": "Nước sạch dùng trong sinh hoạt bị nhiễm chì và thủy ngân vượt quá mức quy định thì đơn vị cung cấp sẽ bị xử phạt như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8140,
+    11467,
+    14564,
+    2456,
+    5098,
+    11129,
+    2764,
+    14562,
+    10936,
+    12344
+  ]
+}

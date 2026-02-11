@@ -1,0 +1,29 @@
+{
+  "qid": 106567,
+  "query": "Lập kế hoạch xác minh nội dung khiếu nại trong hoạt động tư pháp là trách nhiệm của ai? Kế hoạch xác minh gồm các nội dung gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1494,
+    1729,
+    1497,
+    1738,
+    1752,
+    1493,
+    1495,
+    1755,
+    2243,
+    8209
+  ]
+}

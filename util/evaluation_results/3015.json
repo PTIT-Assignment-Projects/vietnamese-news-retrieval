@@ -1,0 +1,29 @@
+{
+  "qid": 3015,
+  "query": "Có thể xếp thuốc vào danh mục thuốc không kê đơn nếu có thời gian lưu hành trên thị trường được 3 năm hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7616,
+    7618,
+    7615,
+    7613,
+    860,
+    855,
+    861,
+    14582,
+    858,
+    7768
+  ]
+}

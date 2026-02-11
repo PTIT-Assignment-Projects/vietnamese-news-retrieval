@@ -1,0 +1,29 @@
+{
+  "qid": 43033,
+  "query": "Yêu cầu công nhận quan hệ hôn nhân khi vợ hoặc chồng đã được hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự được Tòa án giải quyết như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    909,
+    4586,
+    912,
+    2275,
+    5152,
+    907,
+    3984,
+    202,
+    8905,
+    1880
+  ]
+}

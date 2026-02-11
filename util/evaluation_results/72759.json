@@ -1,0 +1,29 @@
+{
+  "qid": 72759,
+  "query": "Người tham gia tố tụng có được quyền khiếu nại khi không đồng ý với kết quả giải quyết yêu cầu, đề nghị của Cơ quan điều tra không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1001,
+    1745,
+    10943,
+    11401,
+    1714,
+    1732,
+    10951,
+    1756,
+    1741,
+    1742
+  ]
+}

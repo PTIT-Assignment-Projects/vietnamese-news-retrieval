@@ -1,0 +1,29 @@
+{
+  "qid": 85349,
+  "query": "Thời gian áp dụng biện pháp cưỡng chế cách ly y tế trong trường hợp đối tượng thuộc diện phải áp dụng biện pháp cách ly y tế tại các cơ sở, địa điểm khác là bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10414,
+    10420,
+    10422,
+    10424,
+    14552,
+    10425,
+    10426,
+    10417,
+    10415,
+    10416
+  ]
+}

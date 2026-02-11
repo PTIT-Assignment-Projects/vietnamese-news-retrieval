@@ -1,0 +1,29 @@
+{
+  "qid": 55783,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt doanh nghiệp kinh doanh dịch vụ lữ hành sử dụng người sử dụng thẻ hướng dẫn viên du lịch giả để hướng dẫn cho khách du lịch không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9801,
+    9780,
+    9807,
+    6607,
+    9806,
+    9803,
+    9805,
+    9804,
+    9809,
+    9808
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 160443,
+  "query": "Cảng hàng không bắt giữ tàu bay theo quyết định của Tòa án thì Hãng hàng không cần xử lý như thế nào về vận chuyển hành khách?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1795,
+    1793,
+    1797,
+    1794,
+    1792,
+    1790,
+    1798,
+    1796,
+    8371,
+    5938
+  ]
+}

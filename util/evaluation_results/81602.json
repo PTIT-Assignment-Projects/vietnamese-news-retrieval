@@ -1,0 +1,29 @@
+{
+  "qid": 81602,
+  "query": "Mối quan hệ giữa Hội đồng quản lý đơn vị sự nghiệp công lập trong lĩnh vực thông tin truyền thông và cơ quan quản lý cấp trên được quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    3156,
+    3149,
+    5545,
+    3146,
+    3151,
+    3154,
+    3153,
+    3155,
+    3871,
+    3147
+  ]
+}

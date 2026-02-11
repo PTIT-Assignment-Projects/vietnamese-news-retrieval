@@ -1,0 +1,29 @@
+{
+  "qid": 44767,
+  "query": "Cá nhân muốn kinh doanh đại lý lữ hành có cần đăng ký kinh doanh tại cơ quan nhà nước có thẩm quyền không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9783,
+    9785,
+    9784,
+    9786,
+    9774,
+    9778,
+    9775,
+    6612,
+    9777,
+    9779
+  ]
+}

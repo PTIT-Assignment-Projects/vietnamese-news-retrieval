@@ -1,0 +1,29 @@
+{
+  "qid": 29797,
+  "query": "Công chức giám sát hoạt động của Đoàn thanh tra thuế bị thay đổi trong những trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5121,
+    5119,
+    5122,
+    5124,
+    5114,
+    4963,
+    5110,
+    5112,
+    5115,
+    5113
+  ]
+}

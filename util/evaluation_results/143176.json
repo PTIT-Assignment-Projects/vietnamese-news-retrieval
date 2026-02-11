@@ -1,0 +1,29 @@
+{
+  "qid": 143176,
+  "query": "Để được cấp giấy chứng nhận khả năng chuyên môn thì thuyền trưởng, đại phó tàu từ 500GT trở lên cần đáp ứng những điều kiện chuyên môn gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3721,
+    3720,
+    3724,
+    3779,
+    3767,
+    3759,
+    3719,
+    3760,
+    3777,
+    3778
+  ]
+}

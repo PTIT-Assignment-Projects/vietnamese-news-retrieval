@@ -1,0 +1,29 @@
+{
+  "qid": 108339,
+  "query": "Người dân tự ý xây dựng nhà ở trên đất nông nghiệp của Ủy ban chưa thực hiện giao đất thì bị xử phạt hành chính như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11099,
+    1557,
+    1590,
+    1580,
+    14672,
+    1591,
+    1564,
+    1579,
+    11101,
+    11105
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 73566,
+  "query": "Công chức thanh tra chuyên ngành tôn giáo tại Ban Tôn giáo Chính phủ được bồi dưỡng kiến thức về tín ngưỡng, tôn giáo theo quy định nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4272,
+    2192,
+    2190,
+    4268,
+    4267,
+    4262,
+    4259,
+    4271,
+    2134,
+    4266
+  ]
+}

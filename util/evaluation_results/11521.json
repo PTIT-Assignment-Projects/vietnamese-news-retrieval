@@ -1,0 +1,29 @@
+{
+  "qid": 11521,
+  "query": "Bị can phạm tội đặc biệt nghiệm trọng bỏ trốn trong giai đoạn truy tố thì có tạm đình chỉ vụ án luôn hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10724,
+    10929,
+    10719,
+    10758,
+    10725,
+    10713,
+    10717,
+    10759,
+    10760,
+    6686
+  ]
+}

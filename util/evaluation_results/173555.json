@@ -1,0 +1,29 @@
+{
+  "qid": 173555,
+  "query": "Trưởng đoàn thanh tra của Cục Báo chí có quyền xử phạt tổ chức thiết lập trang thông tin điện tử tổng hợp trích dẫn không chính xác nguồn tin chính thức không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14921,
+    9737,
+    6599,
+    4955,
+    7307,
+    9736,
+    4951,
+    7037,
+    7022,
+    5129
+  ]
+}

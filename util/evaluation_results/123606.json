@@ -1,0 +1,29 @@
+{
+  "qid": 123606,
+  "query": "Tiêu chuẩn của giáo viên làm Tổng phụ trách Đội là giáo viên hạng III trường tiểu học được quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1538,
+    2817,
+    2815,
+    2820,
+    2814,
+    1537,
+    1533,
+    3852,
+    1535,
+    1530
+  ]
+}

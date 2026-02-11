@@ -1,0 +1,29 @@
+{
+  "qid": 22120,
+  "query": "Trong quá trình giải quyết khiếu nại kiểm toán, yêu cầu của người khiếu nại và kết quả xác minh nội dung khiếu nại còn khác nhau thì xử lý như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1729,
+    1738,
+    1497,
+    2243,
+    1752,
+    1500,
+    1495,
+    1499,
+    1731,
+    1755
+  ]
+}

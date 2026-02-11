@@ -1,0 +1,29 @@
+{
+  "qid": 6936,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt tổ chức đấu giá tài sản đặt thêm các yêu cầu, điều kiện đối với người tham gia đấu giá ngoài các điều kiện đăng ký theo quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    720,
+    725,
+    722,
+    723,
+    746,
+    721,
+    743,
+    696,
+    724,
+    734
+  ]
+}

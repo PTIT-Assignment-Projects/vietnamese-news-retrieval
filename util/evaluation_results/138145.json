@@ -1,0 +1,29 @@
+{
+  "qid": 138145,
+  "query": "Doanh nghiệp cảng hàng không có được sử dụng khinh khí cầu, bóng bay để quảng cáo trong khu vực cảng hàng không, sân bay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5942,
+    5881,
+    5910,
+    5872,
+    5912,
+    5929,
+    5911,
+    5923,
+    5879,
+    5877
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 68215,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt tổ chức chuyển nhượng quyền sử dụng tần số vô tuyến điện không thuộc trường hợp trúng đấu giá không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12528,
+    738,
+    8481,
+    733,
+    8472,
+    762,
+    8471,
+    759,
+    731,
+    12533
+  ]
+}

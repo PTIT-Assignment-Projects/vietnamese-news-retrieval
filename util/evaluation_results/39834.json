@@ -1,0 +1,29 @@
+{
+  "qid": 39834,
+  "query": "Doanh nghiệp không đăng ký bản công bố sản phẩm đối với sản phẩm dinh dưỡng dùng cho trẻ dưới 36 tháng tuổi thì bị xử phạt thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14190,
+    5711,
+    6358,
+    14590,
+    14206,
+    14189,
+    8104,
+    14191,
+    12293,
+    14195
+  ]
+}

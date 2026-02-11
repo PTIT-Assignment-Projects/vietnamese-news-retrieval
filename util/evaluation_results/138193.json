@@ -1,0 +1,29 @@
+{
+  "qid": 138193,
+  "query": "Tại cuộc đấu giá thực hiện theo phương thức đặt giá xuống, người chấp nhận mức giá khởi điểm rút lại giá đã chấp nhận trước khi đấu giá viên công bố người trúng đấu giá thì xử lý thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    737,
+    728,
+    729,
+    738,
+    745,
+    692,
+    739,
+    731,
+    733,
+    727
+  ]
+}

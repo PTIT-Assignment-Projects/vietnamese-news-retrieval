@@ -1,0 +1,29 @@
+{
+  "qid": 43521,
+  "query": "Thanh tra Sở Lao động Thương binh và Xã hội tỉnh là cơ quan thực hiện chức năng thanh tra nhà nước hay chuyên ngành?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13372,
+    13376,
+    13396,
+    13401,
+    7001,
+    13383,
+    13397,
+    13393,
+    1394,
+    13402
+  ]
+}

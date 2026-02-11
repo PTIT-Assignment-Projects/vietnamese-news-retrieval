@@ -1,0 +1,29 @@
+{
+  "qid": 108030,
+  "query": "Chức sắc là người nước ngoài cư trú tại Việt Nam có nhu cầu sinh hoạt tôn giáo tập trung tại cơ sở tôn giáo thì gửi hồ sơ đề nghị đến ai?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2177,
+    2138,
+    2178,
+    2180,
+    2147,
+    2179,
+    4261,
+    2183,
+    2137,
+    2182
+  ]
+}

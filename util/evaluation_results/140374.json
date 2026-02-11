@@ -1,0 +1,29 @@
+{
+  "qid": 140374,
+  "query": "Trường hợp không thể trì hoãn việc thu giữ thư tín Cơ quan điều tra có thể thực hiện việc thu giữ thư tín mà chưa được Viện kiểm sát phê duyệt lệnh không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10674,
+    10673,
+    10723,
+    10676,
+    3564,
+    10646,
+    10677,
+    10645,
+    12726,
+    10627
+  ]
+}

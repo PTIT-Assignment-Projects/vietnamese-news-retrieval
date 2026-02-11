@@ -1,0 +1,29 @@
+{
+  "qid": 29711,
+  "query": "Hợp tác xã trồng nấm muốn bán lẻ thêm các loại nông sản khác có cần bổ sung ngành nghề kinh doanh không?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    7794,
+    7790,
+    2468,
+    3064,
+    3063,
+    7795,
+    14669,
+    3058,
+    1384,
+    3067
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 4958,
+  "query": "Việc tổ chức đấu thầu cung cấp dịch vụ sự nghiệp công quản lý đường thủy nội địa quốc gia sử dụng ngân sách nhà nước từ nguồn kinh phí chi thường xuyên phải đáp ứng những điều kiện nào?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    13163,
+    13168,
+    11162,
+    13174,
+    13165,
+    11161,
+    11167,
+    13172,
+    13171,
+    13170
+  ]
+}

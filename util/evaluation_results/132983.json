@@ -1,0 +1,29 @@
+{
+  "qid": 132983,
+  "query": "Người chưa thành niên là người 17 tuổi uống rượu thì chủ tịch Uỷ ban nhân dân cấp xã có thẩm quyền xử phạt hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14571,
+    11876,
+    8481,
+    8472,
+    1717,
+    11910,
+    11889,
+    8471,
+    11887,
+    11888
+  ]
+}

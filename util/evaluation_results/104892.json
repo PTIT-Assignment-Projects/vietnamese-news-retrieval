@@ -1,0 +1,29 @@
+{
+  "qid": 104892,
+  "query": "Quy định hiện nay về thời gian làm việc trong lĩnh vực lưu trữ đối với người đăng ký cấp Chứng chỉ hành nghề lưu trữ ra sao?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    240,
+    239,
+    242,
+    241,
+    238,
+    90,
+    235,
+    9374,
+    9371,
+    9368
+  ]
+}

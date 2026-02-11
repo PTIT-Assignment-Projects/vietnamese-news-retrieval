@@ -1,0 +1,29 @@
+{
+  "qid": 114367,
+  "query": "Người phát ngôn của Bộ Kế hoạch và Đầu tư phải phát ngôn và cung cấp thông tin cho báo chí trong trường hợp đột xuất, bất thường nào?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    9740,
+    9735,
+    9738,
+    9736,
+    9739,
+    9733,
+    9741,
+    9737,
+    3647,
+    11071
+  ]
+}

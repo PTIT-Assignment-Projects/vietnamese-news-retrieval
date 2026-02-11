@@ -1,0 +1,29 @@
+{
+  "qid": 174889,
+  "query": "Khi xếp lương viên chức chuyên ngành văn hóa cơ sở thuộc nhóm chức danh hướng dẫn viên văn hóa cần đáp ứng những nguyên tắc gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6450,
+    6455,
+    6460,
+    9582,
+    13116,
+    6456,
+    1536,
+    13124,
+    9805,
+    9807
+  ]
+}

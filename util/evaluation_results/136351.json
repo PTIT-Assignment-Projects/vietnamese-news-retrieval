@@ -1,0 +1,29 @@
+{
+  "qid": 136351,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt vi phạm hành chính người tư vấn về y tế cho người mang thai hộ không phải là bác sỹ chuyên khoa sản không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14584,
+    679,
+    678,
+    8481,
+    8472,
+    11129,
+    8471,
+    12374,
+    8473,
+    11467
+  ]
+}

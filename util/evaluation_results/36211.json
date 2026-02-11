@@ -1,0 +1,29 @@
+{
+  "qid": 36211,
+  "query": "Hồ sơ bổ nhiệm chức danh người đứng đầu Viện Khoa học Giáo dục Việt Nam có cần bản kê khai tài sản và thu nhập không?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    8195,
+    8204,
+    8220,
+    8198,
+    8210,
+    8227,
+    8199,
+    8197,
+    8223,
+    14255
+  ]
+}

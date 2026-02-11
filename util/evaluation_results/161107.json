@@ -1,0 +1,29 @@
+{
+  "qid": 161107,
+  "query": "Đơn vị nào có nhiệm vụ kiểm tra Phiếu đăng ký dự tuyển công chức vào làm việc trong các đơn vị thuộc Thanh tra Chính phủ?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14221,
+    14224,
+    14218,
+    5128,
+    7017,
+    7013,
+    14212,
+    5121,
+    7031,
+    5110
+  ]
+}

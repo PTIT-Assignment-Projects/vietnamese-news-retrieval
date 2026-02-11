@@ -1,0 +1,29 @@
+{
+  "qid": 35028,
+  "query": "Quá trình sản xuất, kinh doanh tiền chất công nghiệp cần đáp ứng yêu cầu gì đối với công nghệ, thiết bị, dụng cụ, bao bì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13901,
+    13893,
+    13905,
+    13904,
+    13531,
+    4692,
+    13918,
+    13537,
+    1067,
+    13533
+  ]
+}

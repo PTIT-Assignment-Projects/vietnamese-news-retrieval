@@ -1,0 +1,29 @@
+{
+  "qid": 6721,
+  "query": "Cơ quan nào có trách nhiệm tham mưu, giúp Chánh án Tòa án nhân dân tối cao kiểm tra việc chấp hành pháp luật trong công tác giải quyết khiếu nại, tố cáo của các Tòa án nhân dân?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1527,
+    1525,
+    1526,
+    1488,
+    1504,
+    1487,
+    1524,
+    10945,
+    10949,
+    194
+  ]
+}

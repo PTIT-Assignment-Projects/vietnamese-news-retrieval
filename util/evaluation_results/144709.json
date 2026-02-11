@@ -1,0 +1,29 @@
+{
+  "qid": 144709,
+  "query": "Để tổ chức thí điểm kinh doanh đặt cược bóng đá quốc tế thì doanh nghiệp cần có tối thiểu bao nhiêu vốn điều lệ?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6501,
+    6505,
+    6502,
+    6504,
+    6533,
+    3247,
+    6476,
+    6467,
+    6469,
+    6465
+  ]
+}

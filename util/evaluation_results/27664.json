@@ -1,0 +1,29 @@
+{
+  "qid": 27664,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt cơ sở sản xuất thực phẩm không có quy định nội bộ về điều kiện bảo đảm an toàn thực phẩm không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14170,
+    14182,
+    14187,
+    14207,
+    14178,
+    8481,
+    14183,
+    8472,
+    14171,
+    8471
+  ]
+}

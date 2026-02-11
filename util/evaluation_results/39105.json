@@ -1,0 +1,29 @@
+{
+  "qid": 39105,
+  "query": "Trưởng đoàn thanh tra chuyên ngành cấp sở có quyền xử phạt người gian lận về giới tính để tham gia thi đấu thể thao không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7307,
+    7017,
+    7040,
+    7002,
+    7304,
+    4415,
+    4955,
+    254,
+    9259,
+    256
+  ]
+}

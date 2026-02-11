@@ -1,0 +1,29 @@
+{
+  "qid": 120099,
+  "query": "Cơ quan nào có thẩm quyền giải quyết khiếu nại, tố cáo về hành vi mai táng người chết tại khu dân cư?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10509,
+    4680,
+    1483,
+    2224,
+    120,
+    12548,
+    10950,
+    13514,
+    11586,
+    4839
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 93190,
+  "query": "Bằng khen của Thủ tướng Chính phủ để tặng cho những cá nhân đạt thành tích gì trong Quân đội nhân dân?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1341,
+    8762,
+    1154,
+    5606,
+    981,
+    3887,
+    1332,
+    3886,
+    5599,
+    5650
+  ]
+}

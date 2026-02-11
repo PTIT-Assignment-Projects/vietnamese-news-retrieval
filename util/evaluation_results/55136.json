@@ -1,0 +1,29 @@
+{
+  "qid": 55136,
+  "query": "Thanh tra viên thuộc Thanh tra Bộ Khoa học và Công nghệ có quyền xử phạt tổ chức đại diện sở hữu công nghiệp làm sai lệch nội dung chứng chỉ hành nghề không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11416,
+    11415,
+    11417,
+    8247,
+    179,
+    8232,
+    9135,
+    11388,
+    8229,
+    8244
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 153006,
+  "query": "Thanh tra viên chuyên ngành hàng hải được xử phạt người tự ý bốc dỡ hàng hóa khi tàu thuyền chưa hoàn thành thủ tục vào cảng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13071,
+    13079,
+    13074,
+    9135,
+    8375,
+    7660,
+    13088,
+    7671,
+    13076,
+    13087
+  ]
+}

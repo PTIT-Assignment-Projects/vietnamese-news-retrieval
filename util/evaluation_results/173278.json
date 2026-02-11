@@ -1,0 +1,29 @@
+{
+  "qid": 173278,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt cơ sở sản xuất thức ăn chăn nuôi không lưu nhật ký sản xuất theo quy định không?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    4541,
+    8481,
+    679,
+    8472,
+    4637,
+    8471,
+    678,
+    14690,
+    685,
+    8473
+  ]
+}

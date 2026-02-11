@@ -1,0 +1,29 @@
+{
+  "qid": 79698,
+  "query": "Việc công khai thông tin theo yêu cầu của công dân của Bộ Nội vụ được thực hiện thông qua những hình thức nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11703,
+    11706,
+    11707,
+    4905,
+    11689,
+    11717,
+    635,
+    1789,
+    11704,
+    12637
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 93647,
+  "query": "Danh sách thí sinh đủ điều kiện tham dự kỳ kiểm tra kết quả tập sự hành nghề Thừa phát lại sẽ được đăng tải ở đâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5848,
+    5853,
+    8935,
+    6578,
+    4215,
+    5837,
+    5841,
+    5838,
+    5842,
+    4227
+  ]
+}

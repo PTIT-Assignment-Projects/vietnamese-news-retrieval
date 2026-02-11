@@ -1,0 +1,29 @@
+{
+  "qid": 26418,
+  "query": "Để được bổ nhiệm chức danh Chủ tịch Hội đồng quản lý đơn vị sự nghiệp công lập thuộc Ngân hàng Nhà nước thì cần đáp ứng những điều kiện gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5545,
+    3151,
+    14254,
+    3156,
+    5533,
+    5543,
+    3154,
+    3153,
+    5537,
+    3149
+  ]
+}

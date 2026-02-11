@@ -1,0 +1,29 @@
+{
+  "qid": 72300,
+  "query": "Cơ quan nào có trách nhiệm tổ chức thực hiện các quy định về cơ sở vật chất và trang thiết bị khi tổ chức thi đấu và biểu diễn môn Lân Sư Rồng trong nhà?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4412,
+    7746,
+    7747,
+    4411,
+    8780,
+    3406,
+    6616,
+    12983,
+    9259,
+    9261
+  ]
+}

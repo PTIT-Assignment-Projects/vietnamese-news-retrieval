@@ -1,0 +1,29 @@
+{
+  "qid": 157044,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt tổ chức pha chế xăng dầu khi không phải là thương nhân đầu mối không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11993,
+    11986,
+    11988,
+    678,
+    679,
+    8481,
+    11997,
+    8472,
+    8471,
+    11987
+  ]
+}

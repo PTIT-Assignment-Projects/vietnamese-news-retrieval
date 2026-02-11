@@ -1,0 +1,29 @@
+{
+  "qid": 68186,
+  "query": "Chủ tịch Ủy ban nhân dân huyện khi làm việc tại cơ quan có bắt buộc phải đeo thẻ công chức không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8481,
+    2130,
+    8472,
+    8471,
+    679,
+    12302,
+    4896,
+    5142,
+    1717,
+    8473
+  ]
+}

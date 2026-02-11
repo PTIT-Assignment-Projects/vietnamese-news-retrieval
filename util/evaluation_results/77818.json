@@ -1,0 +1,29 @@
+{
+  "qid": 77818,
+  "query": "Để bảo đảm an toàn hệ thống thông tin trong hoạt động ngân hàng thì các tổ chức gửi báo cáo về Ngân hàng Nhà nước những nội dung nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10159,
+    7885,
+    10156,
+    3399,
+    7877,
+    10150,
+    10455,
+    10130,
+    10195,
+    10457
+  ]
+}

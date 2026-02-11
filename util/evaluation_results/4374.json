@@ -1,0 +1,29 @@
+{
+  "qid": 4374,
+  "query": "Cơ quan Quản lý thi hành án hình sự tiếp nhận, áp giải người đang chấp hành án phạt tù về Việt Nam để tiếp tục chấp hành phần hình phạt tù còn lại như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    285,
+    294,
+    295,
+    275,
+    6992,
+    1901,
+    291,
+    296,
+    277,
+    4438
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 46855,
+  "query": "Chủ tịch Hội đồng quản lý trong đơn vị sự nghiệp công lập thuộc ngành tài nguyên và môi trường có những quyền hạn và trách nhiệm như thế nào?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    3156,
+    5545,
+    8184,
+    3151,
+    3154,
+    5533,
+    3153,
+    5537,
+    12015,
+    5540
+  ]
+}

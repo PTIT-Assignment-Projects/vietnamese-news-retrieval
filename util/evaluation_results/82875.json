@@ -1,0 +1,29 @@
+{
+  "qid": 82875,
+  "query": "Tổ chức nước ngoài có phải chịu thuế nhà thầu nước ngoài khi cung cấp dịch vụ cho thuê đường truyền viễn thông quốc tế với công ty Việt Nam không?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    11472,
+    11480,
+    11470,
+    11481,
+    11476,
+    11473,
+    2700,
+    2715,
+    11479,
+    11944
+  ]
+}

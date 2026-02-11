@@ -1,0 +1,29 @@
+{
+  "qid": 35433,
+  "query": "Khách du lịch có được quyền kiến nghị với cá nhân quản lý khu du lịch về các vấn đề liên quan đến hoạt động du lịch hay không?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    9772,
+    6622,
+    9757,
+    9818,
+    9768,
+    9744,
+    9746,
+    9816,
+    9770,
+    9754
+  ]
+}

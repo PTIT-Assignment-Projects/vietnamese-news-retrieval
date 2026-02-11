@@ -1,0 +1,29 @@
+{
+  "qid": 101178,
+  "query": "Thẩm quyền của Chủ tịch Ủy ban nhân dân xã trong việc xử phạt vi phạm hành chính được quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11129,
+    14850,
+    12063,
+    1717,
+    8481,
+    10936,
+    8472,
+    11131,
+    8471,
+    11467
+  ]
+}

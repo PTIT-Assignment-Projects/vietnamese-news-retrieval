@@ -1,0 +1,29 @@
+{
+  "qid": 67553,
+  "query": "Trình tự, thủ tục tháo dỡ, cưỡng chế xây dựng trái phép trên đất nông nghiệp như thế nào? Nếu phát hiện quả tang vi phạm thì có tháo dỡ được luôn không ạ?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3533,
+    5394,
+    5390,
+    5393,
+    5391,
+    11101,
+    1557,
+    11105,
+    5392,
+    1590
+  ]
+}

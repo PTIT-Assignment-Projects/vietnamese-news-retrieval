@@ -1,0 +1,29 @@
+{
+  "qid": 2899,
+  "query": "Không tháo dỡ công trình trên biển trong khu vực biên giới biển khi hết hạn sử dụng thì tổ chức sẽ bị xử phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3533,
+    13700,
+    11467,
+    13714,
+    13718,
+    13707,
+    9675,
+    453,
+    3534,
+    6902
+  ]
+}

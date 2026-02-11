@@ -1,0 +1,29 @@
+{
+  "qid": 146662,
+  "query": "Giáo viên trung học cơ sở hạng III có trách nhiệm tham gia xây dựng kế hoạch giáo dục cho học sinh tại trường mình hay không?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    1533,
+    3847,
+    3852,
+    1531,
+    2817,
+    7319,
+    12978,
+    1538,
+    1534,
+    1972
+  ]
+}

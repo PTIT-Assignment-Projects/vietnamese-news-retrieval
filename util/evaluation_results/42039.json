@@ -1,0 +1,29 @@
+{
+  "qid": 42039,
+  "query": "Văn bản đề nghị cải tạo nâng cấp quy mô cảng thủy nội địa gửi cho Sở Giao thông vận tải cần đảm bảo những nội dung nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9066,
+    9059,
+    9067,
+    9062,
+    9105,
+    9109,
+    9064,
+    9112,
+    9108,
+    9107
+  ]
+}

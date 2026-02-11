@@ -1,0 +1,29 @@
+{
+  "qid": 41511,
+  "query": "Công tác tổ chức thi thăng hạng chức danh nghề nghiệp viên chức chuyên ngành tài nguyên và môi trường được thực hiện theo nguyên tắc nào?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    14244,
+    3872,
+    8733,
+    14238,
+    14247,
+    14241,
+    6923,
+    6926,
+    6924,
+    6925
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 136731,
+  "query": "Quyền và trách nhiệm của người đứng đầu cơ quan hành chính nhà nước trong việc phát ngôn và cung cấp thông tin cho báo chí được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9739,
+    9735,
+    9740,
+    9736,
+    9738,
+    9733,
+    4893,
+    9737,
+    3646,
+    11710
+  ]
+}

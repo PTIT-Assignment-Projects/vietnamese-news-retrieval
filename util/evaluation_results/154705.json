@@ -1,0 +1,29 @@
+{
+  "qid": 154705,
+  "query": "Cơ quan tiến hành tố tụng có được phép tách thành nhiều nội dung trưng cầu giám định đối với nội dung phức tạp hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1008,
+    10682,
+    1010,
+    1006,
+    1009,
+    7927,
+    1005,
+    1011,
+    6160,
+    4009
+  ]
+}

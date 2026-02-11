@@ -1,0 +1,29 @@
+{
+  "qid": 87818,
+  "query": "Người được mời thỉnh giảng tham gia công tác đào tạo nghiệp vụ kiểm sát cần đáp ứng những tiêu chuẩn nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13859,
+    11010,
+    13857,
+    13651,
+    88,
+    10981,
+    2167,
+    1048,
+    4111,
+    9824
+  ]
+}

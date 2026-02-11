@@ -1,0 +1,29 @@
+{
+  "qid": 136736,
+  "query": "Hướng dẫn viên hạng 4 chuyên ngành thể dục thể thao muốn xét thăng hạng chức danh nghề nghiệp lên huấn luyện viên hạng 3 cần đáp ứng những yêu cầu gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14239,
+    6924,
+    14236,
+    6925,
+    13119,
+    3878,
+    14240,
+    14248,
+    13125,
+    14244
+  ]
+}

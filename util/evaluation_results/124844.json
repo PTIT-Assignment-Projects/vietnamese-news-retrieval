@@ -1,0 +1,29 @@
+{
+  "qid": 124844,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Khoa học và Công nghệ có quyền xử phạt nhà máy điện hạt nhân không khai báo chất thải phóng xạ do hoạt động của nhà máy sinh ra không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9358,
+    9359,
+    12023,
+    9355,
+    9356,
+    9366,
+    6933,
+    6934,
+    6937,
+    7307
+  ]
+}

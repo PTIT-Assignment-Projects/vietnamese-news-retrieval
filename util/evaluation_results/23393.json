@@ -1,0 +1,29 @@
+{
+  "qid": 23393,
+  "query": "Nghiệp vụ chiết khấu giấy tờ có giá của Ngân hàng Nhà nước đối với các tổ chức tín dụng được thực hiện theo phương thức nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    159,
+    176,
+    163,
+    165,
+    171,
+    160,
+    175,
+    173,
+    4015,
+    174
+  ]
+}

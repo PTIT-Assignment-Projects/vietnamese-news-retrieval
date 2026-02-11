@@ -1,0 +1,29 @@
+{
+  "qid": 149259,
+  "query": "Tiêu chuẩn chung về phẩm chất chính trị, đạo đức, lối sống của Kiểm soát viên trung cấp thị trường là gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9982,
+    5974,
+    5975,
+    5969,
+    9999,
+    5970,
+    4125,
+    9988,
+    5972,
+    11011
+  ]
+}

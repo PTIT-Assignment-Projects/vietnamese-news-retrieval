@@ -1,0 +1,29 @@
+{
+  "qid": 9998,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt trường mầm non sử dụng giáo viên không đáp ứng điều kiện quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1529,
+    8481,
+    8472,
+    1532,
+    8471,
+    1530,
+    11935,
+    1678,
+    1535,
+    12302
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 29321,
+  "query": "Cơ quan nào chịu trách nhiệm tổ chức nghiên cứu, khảo sát, lựa chọn địa điểm có tiềm năng phát triển du lịch cộng đồng?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9762,
+    9814,
+    9748,
+    9744,
+    9816,
+    9764,
+    9818,
+    9746,
+    9745,
+    4752
+  ]
+}

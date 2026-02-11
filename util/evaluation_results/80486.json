@@ -1,0 +1,29 @@
+{
+  "qid": 80486,
+  "query": "Đã ra quyết định khởi tố bị can nhưng người đó không có tội thì cơ quan nào có trách nhiệm bồi thường cho người bị thiệt hại?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10656,
+    10901,
+    12693,
+    12724,
+    10537,
+    11675,
+    8880,
+    12707,
+    3115,
+    8891
+  ]
+}

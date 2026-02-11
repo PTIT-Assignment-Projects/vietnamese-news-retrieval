@@ -1,0 +1,29 @@
+{
+  "qid": 54177,
+  "query": "Thời hạn chuyển hồ sơ vụ án hình sự để xem xét lại theo thủ tục giám đốc thẩm đối với quyết định của Tòa án được thực hiện trong thời hạn bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10853,
+    10873,
+    10862,
+    10843,
+    10857,
+    10872,
+    10721,
+    10932,
+    3978,
+    10871
+  ]
+}

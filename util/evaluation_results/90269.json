@@ -1,0 +1,29 @@
+{
+  "qid": 90269,
+  "query": "Người chịu trách nhiệm chuyên môn của cơ sở bán lẻ thuốc không có mặt trong thời gian hoạt động của cơ sở đó thì sẽ bị xử phạt như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2501,
+    2506,
+    11140,
+    7767,
+    2500,
+    2507,
+    9962,
+    9957,
+    9958,
+    7768
+  ]
+}

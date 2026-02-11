@@ -1,0 +1,29 @@
+{
+  "qid": 47107,
+  "query": "Lễ kỷ niệm ngày hưởng ứng tổ chức ngoài trời của cơ quan nhà nước cấp tỉnh nghi thức tổ chức được tiến hành theo trình tự nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13652,
+    13655,
+    13648,
+    13653,
+    13643,
+    13640,
+    13649,
+    13651,
+    11780,
+    11752
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 128540,
+  "query": "Sinh viên sư phạm Toán học phải thực hiện nghĩa vụ hoàn trả tiền hỗ trợ đóng học phí và chi phí sinh hoạt trong thời hạn bao lâu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14383,
+    14384,
+    215,
+    7454,
+    14387,
+    14386,
+    14139,
+    14391,
+    216,
+    14385
+  ]
+}

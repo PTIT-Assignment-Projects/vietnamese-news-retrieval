@@ -1,0 +1,29 @@
+{
+  "qid": 88366,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt tổ chức sản xuất sản phẩm xử lý chất thải chăn nuôi trong thời gian bị đình chỉ sản xuất không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    679,
+    8481,
+    8472,
+    678,
+    8471,
+    685,
+    14690,
+    4898,
+    8473,
+    3512
+  ]
+}

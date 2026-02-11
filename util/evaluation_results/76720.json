@@ -1,0 +1,29 @@
+{
+  "qid": 76720,
+  "query": "Viên chức dự thi hoặc xét thăng hạng chức danh nghề nghiệp di sản viên hạng 2 cần đáp ứng những yêu cầu gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6924,
+    14242,
+    14244,
+    13118,
+    14243,
+    14241,
+    3872,
+    8733,
+    3876,
+    13119
+  ]
+}

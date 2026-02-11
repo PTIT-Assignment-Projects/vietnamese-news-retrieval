@@ -1,0 +1,29 @@
+{
+  "qid": 4927,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt nhà xuất bản phát hành xuất bản phẩm điện tử không đúng nội dung bản thảo hoàn chỉnh đã được duyệt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14932,
+    14924,
+    1456,
+    1475,
+    1474,
+    1463,
+    1459,
+    7737,
+    1460,
+    14928
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 142952,
+  "query": "Thủ tục kiểm tra và công nhận sử dụng thành thạo ngôn ngữ khác trong khám bệnh, chữa bệnh được pháp luật quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 0.5,
+    "ndcg@1": 1.0,
+    "p@5": 0.4,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.2,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12367,
+    12369,
+    11090,
+    11078,
+    14579,
+    11089,
+    7285,
+    12354,
+    2965,
+    14580
+  ]
+}

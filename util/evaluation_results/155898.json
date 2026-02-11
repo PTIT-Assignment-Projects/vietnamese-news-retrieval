@@ -1,0 +1,29 @@
+{
+  "qid": 155898,
+  "query": "Giám đốc Công an cấp tỉnh có quyền xử phạt vi phạm hành chính đối với cơ sở khám bệnh, chữa bệnh không hủy phôi thụ tinh trong ống nghiệm của người gửi theo yêu cầu không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14583,
+    11078,
+    12390,
+    14588,
+    12360,
+    11089,
+    7285,
+    2965,
+    12350,
+    14580
+  ]
+}

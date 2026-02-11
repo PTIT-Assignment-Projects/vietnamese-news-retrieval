@@ -1,0 +1,29 @@
+{
+  "qid": 96689,
+  "query": "Đối tượng hưởng chính sách hỗ trợ nhưng sinh thêm con trái chính sách dân số thì có bị thu hồi kinh phí đã hỗ trợ hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7475,
+    7479,
+    7473,
+    7470,
+    11585,
+    11558,
+    11587,
+    11559,
+    11584,
+    11555
+  ]
+}

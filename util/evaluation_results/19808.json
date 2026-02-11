@@ -1,0 +1,29 @@
+{
+  "qid": 19808,
+  "query": "Cử nhân kinh tế chuyên ngành kế toán tổng hợp có đủ điều kiện trở thành người làm công tác kiểm toán nội bộ hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5676,
+    5670,
+    5671,
+    5684,
+    5690,
+    6864,
+    5672,
+    6849,
+    6865,
+    5692
+  ]
+}

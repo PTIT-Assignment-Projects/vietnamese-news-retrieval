@@ -1,0 +1,29 @@
+{
+  "qid": 75457,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người cung cấp thông tin không chính xác về dịch bệnh động vật cho cơ quan quản lý chuyên ngành thú y không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9665,
+    9633,
+    9632,
+    11715,
+    8481,
+    9663,
+    8472,
+    11063,
+    11694,
+    8471
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 155627,
+  "query": "Cục Quản lý Dược tiến hành đánh giá đột xuất việc duy trì đáp ứng Thực hành tốt phòng thí nghiệm tại cơ sở thử nghiệm khi nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4427,
+    2510,
+    4424,
+    4423,
+    4418,
+    2515,
+    9532,
+    2505,
+    13625,
+    13620
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 59058,
+  "query": "Mức xử phạt hành chính đối với đăng kiểm viên của Trung tâm đăng kiểm làm sai lệch kết quả đăng kiểm như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10336,
+    11467,
+    13611,
+    11129,
+    12063,
+    10936,
+    14850,
+    13612,
+    6512,
+    11132
+  ]
+}

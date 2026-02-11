@@ -1,0 +1,29 @@
+{
+  "qid": 54034,
+  "query": "Doanh nghiệp bố trí Điểm kinh doanh casino không đáp ứng đầy đủ các điều kiện quy định sẽ bị xử phạt vi phạm hành chính thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3289,
+    3267,
+    3260,
+    3307,
+    3290,
+    3258,
+    3277,
+    3251,
+    3283,
+    11313
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 165083,
+  "query": "Người đang tham gia hoạt động chữ thập đỏ nhưng bị tai nạn thì có được hỗ trợ chi phí y tế cho việc cứu chữa theo bảo hiểm y tế hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1905,
+    2958,
+    1904,
+    2956,
+    2960,
+    4184,
+    1903,
+    2967,
+    2957,
+    11821
+  ]
+}

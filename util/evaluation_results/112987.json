@@ -1,0 +1,29 @@
+{
+  "qid": 112987,
+  "query": "Điều tra viên khi được phân công tiến hành điều tra vụ án hình sự thì phải chịu trách nhiệm về các quyết định, hành vi của mình đối với những ai?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10515,
+    10646,
+    10633,
+    10513,
+    10631,
+    10641,
+    10523,
+    10713,
+    10643,
+    10638
+  ]
+}

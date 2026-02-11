@@ -1,0 +1,29 @@
+{
+  "qid": 151276,
+  "query": "Ai có quyền quyết định việc xét tặng danh hiệu Chiến sĩ thi đua cấp Bộ cho các cá nhân thuộc hệ thống cơ quan công tác dân tộc?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    8844,
+    8748,
+    8845,
+    7688,
+    7852,
+    1144,
+    1145,
+    2100,
+    8841,
+    6300
+  ]
+}

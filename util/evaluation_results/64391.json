@@ -1,0 +1,29 @@
+{
+  "qid": 64391,
+  "query": "Doanh nghiệp kinh doanh vận tải đường sắt không thực hiện đúng quy định về vận tải hàng siêu trọng thì bị phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    10368,
+    10369,
+    10347,
+    13135,
+    13161,
+    13143,
+    10346,
+    13160,
+    10348,
+    9788
+  ]
+}

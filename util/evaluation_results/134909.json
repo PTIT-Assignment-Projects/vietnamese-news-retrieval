@@ -1,0 +1,29 @@
+{
+  "qid": 134909,
+  "query": "Hồ sơ, trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9775,
+    9777,
+    9779,
+    9778,
+    9774,
+    9773,
+    6612,
+    9781,
+    9783,
+    9787
+  ]
+}

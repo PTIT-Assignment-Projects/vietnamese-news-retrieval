@@ -1,0 +1,29 @@
+{
+  "qid": 24721,
+  "query": "Giám đốc Cảng hàng không phải thông báo đã bắt giữ tàu bay cho Tòa án biết trong thời hạn bao lâu kể từ khi hoàn thành việc bắt giữ?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    1793,
+    1794,
+    1797,
+    1796,
+    1791,
+    1790,
+    1798,
+    1792,
+    1799,
+    8371
+  ]
+}

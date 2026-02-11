@@ -1,0 +1,29 @@
+{
+  "qid": 179295,
+  "query": "Giám đốc Công an cấp tỉnh được quyền xử phạt cơ sở trợ giúp xã hội thu tiền dịch vụ đối với đối tượng bảo trợ xã hội trái với quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2687,
+    2686,
+    2692,
+    2964,
+    2693,
+    7131,
+    2698,
+    2691,
+    11467,
+    2688
+  ]
+}

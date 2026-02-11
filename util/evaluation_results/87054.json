@@ -1,0 +1,29 @@
+{
+  "qid": 87054,
+  "query": "Thủ tục thành lập văn phòng đại diện tại Việt Nam của tổ chức du lịch nước ngoài được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9812,
+    10068,
+    6027,
+    9753,
+    9787,
+    8250,
+    141,
+    5329,
+    9745,
+    6608
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 82851,
+  "query": "Cá nhân đạt danh hiệu vinh dự nhà nước công tác trong ngành Kế hoạch và Đầu tư thì có cần tính thâm niên công tác khi xét tặng Kỷ niệm chương hay không?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    7699,
+    6667,
+    7700,
+    1346,
+    986,
+    977,
+    6663,
+    6662,
+    983,
+    5600
+  ]
+}

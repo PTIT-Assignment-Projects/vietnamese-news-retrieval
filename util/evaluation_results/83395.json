@@ -1,0 +1,29 @@
+{
+  "qid": 83395,
+  "query": "Trưởng đoàn thanh tra của Cục Báo chí có quyền xử phạt tổ chức thực hiện không đúng nội dung tại giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14917,
+    6394,
+    6395,
+    6393,
+    6367,
+    6366,
+    6383,
+    4955,
+    6386,
+    3454
+  ]
+}

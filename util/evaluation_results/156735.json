@@ -1,0 +1,29 @@
+{
+  "qid": 156735,
+  "query": "Có bị xử phạt về an toàn thực phẩm khi chủ cơ sở sản xuất, kinh doanh thực phẩm không có giấy xác nhận kiến thức không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14187,
+    14170,
+    14178,
+    14182,
+    14183,
+    14171,
+    14207,
+    8089,
+    14186,
+    11891
+  ]
+}

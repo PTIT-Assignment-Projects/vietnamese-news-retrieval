@@ -1,0 +1,29 @@
+{
+  "qid": 163183,
+  "query": "Vào mỗi cuối kỳ kế toán năm công ty trách nhiệm hữu hạn 2 thành viên phải kiểm kê tài sản đúng không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2882,
+    7410,
+    901,
+    2054,
+    428,
+    940,
+    7360,
+    3908,
+    9146,
+    7389
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 141517,
+  "query": "Chuyển giao quy trình công nghệ, bản vẽ liên quan đến sản phẩm có xem là một hình thức chuyển giao công nghệ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7519,
+    7546,
+    7514,
+    7503,
+    7496,
+    7492,
+    7536,
+    7522,
+    7545,
+    7523
+  ]
+}

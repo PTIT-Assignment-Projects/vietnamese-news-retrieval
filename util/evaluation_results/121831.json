@@ -1,0 +1,29 @@
+{
+  "qid": 121831,
+  "query": "Thẩm quyền thẩm định, phê duyệt đề cương và dự toán chi tiết của các đơn vị sử dụng nguồn vốn ngân sách nhà nước được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3799,
+    3800,
+    3801,
+    3795,
+    3797,
+    3796,
+    14894,
+    3802,
+    5740,
+    6427
+  ]
+}

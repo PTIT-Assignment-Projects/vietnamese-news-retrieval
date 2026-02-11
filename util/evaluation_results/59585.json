@@ -1,0 +1,29 @@
+{
+  "qid": 59585,
+  "query": "Trình tự thông báo kết quả xét nghiệm HIV dương tính cho nhân viên y tế trực tiếp tham gia chăm sóc, điều trị cho người bệnh tại bệnh viện được quy định thế nào?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    2753,
+    37,
+    40,
+    44,
+    597,
+    2758,
+    38,
+    42,
+    2763,
+    2760
+  ]
+}

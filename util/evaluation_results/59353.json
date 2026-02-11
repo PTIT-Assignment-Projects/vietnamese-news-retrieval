@@ -1,0 +1,29 @@
+{
+  "qid": 59353,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt người khám bệnh cung cấp kết quả khám bệnh nghề nghiệp mà không thực hiện khám theo quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14558,
+    2426,
+    12071,
+    11078,
+    11089,
+    14580,
+    12067,
+    14579,
+    14588,
+    2965
+  ]
+}

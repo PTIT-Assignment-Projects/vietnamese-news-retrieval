@@ -1,0 +1,29 @@
+{
+  "qid": 166263,
+  "query": "Việc đăng ký hoạt động hỗ trợ nghiên cứu thử nghiệm lâm sàng tại Việt Nam được thực hiện tại cơ quan nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8297,
+    8288,
+    8290,
+    8304,
+    8289,
+    8292,
+    8303,
+    8291,
+    8305,
+    8298
+  ]
+}

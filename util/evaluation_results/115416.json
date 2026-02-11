@@ -1,0 +1,29 @@
+{
+  "qid": 115416,
+  "query": "Việc thi kết thúc môn học đối với chương trình đào tạo cao đẳng, trung cấp theo quy định cũ như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9847,
+    9848,
+    4548,
+    3341,
+    3336,
+    9836,
+    9853,
+    9845,
+    3339,
+    3337
+  ]
+}

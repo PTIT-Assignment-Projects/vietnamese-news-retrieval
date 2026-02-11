@@ -1,0 +1,29 @@
+{
+  "qid": 51200,
+  "query": "Giá mua một xe ô tô phục vụ công tác chung trong doanh nghiệp Nhà nước được quy định ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4464,
+    4462,
+    4449,
+    4471,
+    4451,
+    4456,
+    4458,
+    4457,
+    4463,
+    4468
+  ]
+}

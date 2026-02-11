@@ -1,0 +1,29 @@
+{
+  "qid": 73292,
+  "query": "Có được phép áp dụng hình thức chỉ định thầu khi lựa chọn nhà thầu cung cấp tàu bay không? Nếu được thì cần đáp ứng điều kiện gì không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13296,
+    13297,
+    13290,
+    13291,
+    13301,
+    13305,
+    13314,
+    13293,
+    13288,
+    13311
+  ]
+}

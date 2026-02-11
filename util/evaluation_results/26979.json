@@ -1,0 +1,29 @@
+{
+  "qid": 26979,
+  "query": "Người sử dụng tài liệu lưu trữ tại Lưu trữ lịch sử có phải có Giấy chứng minh nhân dân hay hộ chiếu gì không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    87,
+    86,
+    234,
+    4945,
+    233,
+    5027,
+    72,
+    224,
+    4046,
+    58
+  ]
+}

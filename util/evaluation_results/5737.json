@@ -1,0 +1,29 @@
+{
+  "qid": 5737,
+  "query": "Chế độ đối với công chức Tòa án nhân dân tối cao đang giữ ngạch chuyên viên được chuyển sang ngạch Thẩm tra viên?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2363,
+    2379,
+    10881,
+    10887,
+    1167,
+    10883,
+    10882,
+    2380,
+    10889,
+    10888
+  ]
+}

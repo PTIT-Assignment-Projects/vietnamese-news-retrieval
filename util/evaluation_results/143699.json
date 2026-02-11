@@ -1,0 +1,29 @@
+{
+  "qid": 143699,
+  "query": "Trưởng đoàn thanh tra chuyên ngành cấp sở có quyền xử phạt vận động viên thể thao thành tích cao thực hiện không đúng giáo án tập luyện của huấn luyện viên không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    588,
+    586,
+    585,
+    3133,
+    3136,
+    3135,
+    7307,
+    3134,
+    255,
+    257
+  ]
+}

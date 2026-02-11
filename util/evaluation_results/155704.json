@@ -1,0 +1,29 @@
+{
+  "qid": 155704,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt tổ chức nhập khẩu nguyên liệu thuốc lá khi không có giấy phép nhập khẩu không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8472,
+    8481,
+    8471,
+    14567,
+    4940,
+    4939,
+    14568,
+    4943,
+    8473,
+    14566
+  ]
+}

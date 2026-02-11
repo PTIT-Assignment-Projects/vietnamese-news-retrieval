@@ -1,0 +1,29 @@
+{
+  "qid": 39016,
+  "query": "Viên chức được bổ nhiệm vào chức danh họa sĩ hạng 4 cần đáp ứng tiêu chuẩn về năng lực chuyên môn, nghiệp vụ ra sao?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7465,
+    7458,
+    13124,
+    14209,
+    14235,
+    14239,
+    7467,
+    7462,
+    6924,
+    13059
+  ]
+}

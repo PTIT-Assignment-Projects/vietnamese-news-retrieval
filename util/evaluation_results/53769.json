@@ -1,0 +1,29 @@
+{
+  "qid": 53769,
+  "query": "Vào kho tiền trong ngành Ngân hàng khi thực hiện nhiệm vụ bao gồm những đối tượng nào theo quy định pháp luật?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    407,
+    413,
+    414,
+    409,
+    391,
+    416,
+    392,
+    410,
+    408,
+    3826
+  ]
+}

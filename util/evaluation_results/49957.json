@@ -1,0 +1,29 @@
+{
+  "qid": 49957,
+  "query": "Sau 5 năm từ ngày ban hành quyết định hủy công bố cơ sở giáo dục kiểm tra ngôn ngữ trong hành nghề dược, Bộ Y tế có nhiệm vụ gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7759,
+    7758,
+    7757,
+    7754,
+    7761,
+    7756,
+    7760,
+    14593,
+    7753,
+    7762
+  ]
+}

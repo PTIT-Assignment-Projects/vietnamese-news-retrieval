@@ -1,0 +1,29 @@
+{
+  "qid": 30919,
+  "query": "Trưởng đoàn thanh tra của Cục Báo chí có quyền xử phạt cơ quan báo chí thực hiện liên kết đối với chương trình phát thanh, truyền hình thời sự chính trị không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6391,
+    6368,
+    6370,
+    6381,
+    14920,
+    6371,
+    9924,
+    6386,
+    6376,
+    6373
+  ]
+}

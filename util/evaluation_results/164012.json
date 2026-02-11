@@ -1,0 +1,29 @@
+{
+  "qid": 164012,
+  "query": "Việc kiểm tra, giám sát việc tổ chức thẩm định chương trình đào tạo trình độ trung cấp là trách nhiệm của cơ quan nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3350,
+    3341,
+    3334,
+    9832,
+    3351,
+    3340,
+    9828,
+    9827,
+    3344,
+    3336
+  ]
+}

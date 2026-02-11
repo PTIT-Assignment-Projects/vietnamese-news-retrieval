@@ -1,0 +1,29 @@
+{
+  "qid": 17515,
+  "query": "Đối với phòng thủ thuật châm cứu có nhiều chi nhánh thì cấp 1 giấy phép hoạt động cho toàn bộ chi nhánh thôi được không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    716,
+    8250,
+    10064,
+    169,
+    8248,
+    5053,
+    141,
+    437,
+    9911,
+    10447
+  ]
+}

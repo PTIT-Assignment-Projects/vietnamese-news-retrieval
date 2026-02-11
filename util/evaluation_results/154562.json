@@ -1,0 +1,29 @@
+{
+  "qid": 154562,
+  "query": "Khi được chủ đầu tư bàn giao nhà thì chủ sở hữu nhà chung cư cần phải kiểm tra những gì để chứng minh đủ điều kiện bàn giao nhà?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6810,
+    6811,
+    6896,
+    5785,
+    13256,
+    13824,
+    9604,
+    8546,
+    11736,
+    13257
+  ]
+}

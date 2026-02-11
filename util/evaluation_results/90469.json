@@ -1,0 +1,29 @@
+{
+  "qid": 90469,
+  "query": "Lực lượng chuyên trách trong Công an nhân dân có phải lực lượng nồng cốt trong việc phòng thủ dân sự không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2553,
+    1220,
+    2549,
+    9134,
+    11485,
+    4991,
+    1205,
+    12543,
+    11487,
+    5650
+  ]
+}

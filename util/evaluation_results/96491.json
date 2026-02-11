@@ -1,0 +1,29 @@
+{
+  "qid": 96491,
+  "query": "Có thay đổi người quản lý địa điểm kinh doanh dịch vụ trò chơi điện tử có thưởng mà không thông báo bị xử phạt thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7945,
+    3256,
+    3248,
+    7949,
+    3255,
+    7944,
+    7953,
+    3262,
+    7950,
+    3263
+  ]
+}

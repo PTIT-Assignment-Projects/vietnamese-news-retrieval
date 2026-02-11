@@ -1,0 +1,29 @@
+{
+  "qid": 81442,
+  "query": "Tài khoản lưu ký chứng khoán có sai sót thì Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam có được phép điều chỉnh không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14960,
+    14963,
+    14959,
+    14953,
+    14958,
+    5064,
+    5066,
+    14966,
+    5072,
+    14977
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 14967,
+  "query": "Thông tư 18/2021/TT-BYT Quy định tiêu chuẩn chẩn đoán và quy trình chuyên môn để xác định tình trạng nghiện ma túy?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4686,
+    14513,
+    14520,
+    14518,
+    14516,
+    14521,
+    5496,
+    13216,
+    14519,
+    9542
+  ]
+}

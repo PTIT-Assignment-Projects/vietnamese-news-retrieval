@@ -1,0 +1,29 @@
+{
+  "qid": 93592,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện quyền xử phạt khi xây dựng công trình nhưng không rào chắn đảm bảo an toàn không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8481,
+    8472,
+    8471,
+    7300,
+    12302,
+    6921,
+    4896,
+    679,
+    6871,
+    6907
+  ]
+}

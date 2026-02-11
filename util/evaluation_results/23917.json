@@ -1,0 +1,29 @@
+{
+  "qid": 23917,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt người giám định tư pháp đánh tráo đối tượng giám định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2665,
+    2663,
+    2666,
+    2664,
+    7307,
+    7919,
+    2667,
+    4002,
+    1012,
+    2670
+  ]
+}

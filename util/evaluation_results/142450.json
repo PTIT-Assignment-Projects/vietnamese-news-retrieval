@@ -1,0 +1,29 @@
+{
+  "qid": 142450,
+  "query": "Việc bổ nhiệm chức vụ quản lý trong đơn vị sự nghiệp công lập được thực hiện theo trình tự, thủ nào nào theo quy định pháp luật?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14254,
+    14250,
+    2335,
+    2334,
+    3153,
+    14251,
+    3156,
+    5545,
+    12006,
+    3147
+  ]
+}

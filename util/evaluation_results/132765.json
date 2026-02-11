@@ -1,0 +1,29 @@
+{
+  "qid": 132765,
+  "query": "Viên chức dự thi hoặc xét thăng hạng lên quay phim hạng 2 chuyên ngành thông tin và truyền thông phải đáp ứng những điều kiện gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3872,
+    14242,
+    3878,
+    14243,
+    3870,
+    3876,
+    14238,
+    6923,
+    6924,
+    3873
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 3470,
+  "query": "Kết quả sơ tuyển ngạch Chấp hành viên sơ cấp phải được thông báo cho người đăng ký trong thời hạn bao nhiêu ngày?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2374,
+    2375,
+    2373,
+    2364,
+    2362,
+    2368,
+    2372,
+    2377,
+    2376,
+    6413
+  ]
+}

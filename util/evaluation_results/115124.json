@@ -1,0 +1,29 @@
+{
+  "qid": 115124,
+  "query": "Cá nhân được tặng danh hiệu thi đua khen thưởng trong ngành Văn hóa Thể thao và Du lịch có những quyền lợi và nghĩa vụ gì?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    7842,
+    594,
+    7845,
+    4003,
+    10011,
+    9382,
+    9399,
+    3469,
+    1130,
+    7846
+  ]
+}

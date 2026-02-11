@@ -1,0 +1,29 @@
+{
+  "qid": 25855,
+  "query": "Trách nhiệm của Ủy ban nhân dân cấp tỉnh trong việc thực hiện quản lý nhà nước về an toàn đập, hồ chứa thủy điện được quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13994,
+    14008,
+    13985,
+    14006,
+    13987,
+    13995,
+    14001,
+    13999,
+    13979,
+    13993
+  ]
+}

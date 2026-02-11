@@ -1,0 +1,29 @@
+{
+  "qid": 41135,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp viễn thông không bảo đảm truy nhập đến dịch vụ báo hỏng số thuê bao điện thoại cố định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2706,
+    12469,
+    3952,
+    12470,
+    2702,
+    12471,
+    8567,
+    3956,
+    3947,
+    3953
+  ]
+}

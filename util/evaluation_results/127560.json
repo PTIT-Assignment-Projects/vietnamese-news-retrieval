@@ -1,0 +1,29 @@
+{
+  "qid": 127560,
+  "query": "Giáo viên chuyên trách dạy người khuyết tật trong cơ sở giáo dục nghề nghiệp công lập dành riêng cho người khuyết tật được hưởng mức phụ cấp là bao nhiêu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13841,
+    13835,
+    13836,
+    3445,
+    3437,
+    13847,
+    3439,
+    3428,
+    3435,
+    3427
+  ]
+}

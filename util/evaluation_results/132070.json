@@ -1,0 +1,29 @@
+{
+  "qid": 132070,
+  "query": "Thời gian để cơ quan phải thi hành án thanh toán tiền thi hành án sau khi được bảo đảm tài chính để thi hành án là trong bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7451,
+    7448,
+    7450,
+    8985,
+    7456,
+    8981,
+    820,
+    824,
+    8984,
+    12713
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 123222,
+  "query": "Những tài liệu nào được dùng làm chứng cứ để chứng minh quan hệ cha con trong trường hợp trẻ chưa xác định được cha?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4567,
+    6358,
+    10761,
+    10585,
+    10830,
+    14590,
+    10730,
+    200,
+    10492,
+    69
+  ]
+}

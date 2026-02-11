@@ -1,0 +1,29 @@
+{
+  "qid": 13574,
+  "query": "Tôi thấy nhiều người lao động nghỉ việc chọn nhận bảo hiểm xã hội (BHXH) 01 lần thay vì chờ đủ tuổi để nhận lương hưu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14093,
+    11857,
+    796,
+    11338,
+    11855,
+    794,
+    13959,
+    795,
+    11856,
+    11861
+  ]
+}

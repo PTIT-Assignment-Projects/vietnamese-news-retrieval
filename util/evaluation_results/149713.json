@@ -1,0 +1,29 @@
+{
+  "qid": 149713,
+  "query": "Uống rượu bia trong khu vực nhà văn hóa thiếu nhi thì có thể bị xử phạt vi phạm hành chính bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14571,
+    11467,
+    12063,
+    11129,
+    14809,
+    10936,
+    11132,
+    6512,
+    11131,
+    14850
+  ]
+}

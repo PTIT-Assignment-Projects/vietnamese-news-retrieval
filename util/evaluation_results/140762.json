@@ -1,0 +1,29 @@
+{
+  "qid": 140762,
+  "query": "Đại diện của nhà trường khi được yêu cầu tham gia tố tụng để giải quyết vụ án có người bị buộc tội là người dưới 18 tuổi thì có cần có văn bản hồi đáp không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6700,
+    6695,
+    6702,
+    10891,
+    6696,
+    6693,
+    10892,
+    10890,
+    6698,
+    6692
+  ]
+}

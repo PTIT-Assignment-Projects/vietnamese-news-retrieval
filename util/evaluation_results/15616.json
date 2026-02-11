@@ -1,0 +1,29 @@
+{
+  "qid": 15616,
+  "query": "Kinh doanh vận tải khách du lịch đường bộ có thuộc các hình thức kinh doanh vận tải khách du lịch theo quy định của pháp luật không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9788,
+    9790,
+    9789,
+    13161,
+    13160,
+    9752,
+    9744,
+    9799,
+    9754,
+    13143
+  ]
+}

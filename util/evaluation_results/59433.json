@@ -1,0 +1,29 @@
+{
+  "qid": 59433,
+  "query": "Giáo viên tiểu học xét thăng hạng lên chức danh nghề nghiệp hạng II thì phải có tiêu chuẩn về năng lực chuyên môn, nghiệp vụ như thế nào?",
+  "metrics": {
+    "mrr": 0.16666666666666666,
+    "map": 0.16666666666666666,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.3562071871080222
+  },
+  "retrieved": [
+    1538,
+    2820,
+    2815,
+    6924,
+    14239,
+    2817,
+    6925,
+    14236,
+    14235,
+    1537
+  ]
+}

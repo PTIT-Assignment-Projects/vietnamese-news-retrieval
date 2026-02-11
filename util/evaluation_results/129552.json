@@ -1,0 +1,29 @@
+{
+  "qid": 129552,
+  "query": "Trưởng phòng Phòng Nghiệp vụ và tổ chức thi hành án dân sự có thể tham mưu cho Cục trưởng Cục thi hành án dân sự những vấn đề nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2322,
+    2324,
+    2319,
+    2323,
+    9476,
+    2318,
+    9477,
+    2315,
+    9474,
+    6805
+  ]
+}

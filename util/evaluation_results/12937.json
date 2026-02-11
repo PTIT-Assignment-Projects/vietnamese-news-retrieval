@@ -1,0 +1,29 @@
+{
+  "qid": 12937,
+  "query": "Cộng tác viên phiên dịch của Văn phòng công chứng gây ra lỗi trong quá trình công chứng thì ai có trách nhiệm bồi thường?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1628,
+    1626,
+    1627,
+    1607,
+    1625,
+    1616,
+    1633,
+    1631,
+    1618,
+    1629
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 19492,
+  "query": "Cơ quan nào có quyền thanh tra về các điều kiện của sân tập luyện và thi đấu môn Patin trong nhà?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12982,
+    4412,
+    7746,
+    4411,
+    1293,
+    1289,
+    7748,
+    12983,
+    6616,
+    7745
+  ]
+}

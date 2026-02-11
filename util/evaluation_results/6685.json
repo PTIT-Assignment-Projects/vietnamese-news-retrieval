@@ -1,0 +1,29 @@
+{
+  "qid": 6685,
+  "query": "Thông báo về việc đã được cơ quan có thẩm quyền của nước ngoài cấp giấy chứng nhận mở chi nhánh của liên hiệp hợp tác xã được thực hiện theo mẫu nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3064,
+    3066,
+    3065,
+    3074,
+    3072,
+    12078,
+    3063,
+    3068,
+    3057,
+    3076
+  ]
+}

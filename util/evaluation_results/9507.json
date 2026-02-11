@@ -1,0 +1,29 @@
+{
+  "qid": 9507,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt Nhà xuất bản không gửi thông báo đến Bộ Thông tin và Truyền thông khi thay đổi trụ sở làm việc không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1460,
+    1459,
+    4056,
+    4955,
+    7307,
+    7037,
+    5172,
+    7022,
+    7021,
+    5129
+  ]
+}

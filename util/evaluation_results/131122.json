@@ -1,0 +1,29 @@
+{
+  "qid": 131122,
+  "query": "Thành viên trong công ty trách nhiệm hữu hạn hai thành viên chuyển nhượng vốn với nhau có phải thanh toán vào tài khoản công ty không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13056,
+    7360,
+    901,
+    7389,
+    7401,
+    13054,
+    7357,
+    11605,
+    2054,
+    7355
+  ]
+}

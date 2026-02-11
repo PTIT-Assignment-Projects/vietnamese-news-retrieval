@@ -1,0 +1,29 @@
+{
+  "qid": 143095,
+  "query": "Trong hoạt động ngân hàng khi chọn bên thứ ba cung cấp dịch vụ điện toán đám mây thì cần áp dụng những tiêu chí nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10224,
+    10223,
+    10226,
+    10225,
+    1389,
+    14998,
+    14884,
+    15000,
+    9876,
+    4808
+  ]
+}

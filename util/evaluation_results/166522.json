@@ -1,0 +1,29 @@
+{
+  "qid": 166522,
+  "query": "Người nhập cảnh vào Việt Nam có hành lý gửi trước hoặc sau chuyến đi có phải khai hải quan không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8367,
+    8366,
+    8365,
+    8353,
+    8333,
+    8370,
+    8332,
+    8384,
+    8361,
+    8310
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 60326,
+  "query": "Viên chức xét thăng hạng chức danh nghề nghiệp thư viện viên hạng 3 cần có thời gian công tác giữ chức danh nghề nghiệp thư viện viên hạng 4 trong bao lâu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14239,
+    6924,
+    14236,
+    13119,
+    6925,
+    6926,
+    14235,
+    14244,
+    14248,
+    3878
+  ]
+}

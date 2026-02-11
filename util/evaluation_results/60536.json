@@ -1,0 +1,29 @@
+{
+  "qid": 60536,
+  "query": "Để giúp Chính phủ thực hiện quản lý nhà nước về công tác bồi thường nhà nước thì Bộ Tư pháp có những nhiệm vụ, quyền hạn gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12765,
+    12766,
+    8878,
+    8880,
+    8886,
+    8879,
+    8893,
+    572,
+    574,
+    8891
+  ]
+}

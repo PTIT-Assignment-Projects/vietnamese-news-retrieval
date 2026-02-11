@@ -1,0 +1,29 @@
+{
+  "qid": 152339,
+  "query": "Đoàn đánh giá việc đáp ứng thực hành tốt bảo quản thuốc, nguyên liệu làm thuốc có những trách nhiệm và quyền hạn như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3536,
+    14602,
+    1124,
+    1097,
+    14598,
+    1096,
+    3537,
+    14601,
+    1127,
+    14597
+  ]
+}

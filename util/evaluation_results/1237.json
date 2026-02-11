@@ -1,0 +1,29 @@
+{
+  "qid": 1237,
+  "query": "Thương nhân kinh doanh phà cao tốc với sức chứa 50 khách hoạt động vận tải khách du lịch gắn biển hiệu vận tải khách du lịch ở đâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9790,
+    9789,
+    9788,
+    9744,
+    9800,
+    9818,
+    9746,
+    9816,
+    6607,
+    9752
+  ]
+}

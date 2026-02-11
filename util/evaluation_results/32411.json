@@ -1,0 +1,29 @@
+{
+  "qid": 32411,
+  "query": "Giấy xác nhận nội dung quảng cáo hết hiệu lực sử dụng do thuốc có số đăng ký hết hiệu lực thì có được cấp lại không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9539,
+    9544,
+    9538,
+    9541,
+    9523,
+    9521,
+    9531,
+    9526,
+    9530,
+    14608
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 152665,
+  "query": "Có tổ chức giảng dạy pháp luật và giáo dục công dân cho người nước ngoài đang chấp hành án phạt tù vào thứ bảy hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    295,
+    294,
+    296,
+    1842,
+    275,
+    292,
+    3009,
+    1901,
+    3048,
+    3053
+  ]
+}

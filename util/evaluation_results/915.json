@@ -1,0 +1,29 @@
+{
+  "qid": 915,
+  "query": "Lấn chiếm đất công là đất phi nông nghiệp để xây dựng công trình thì sẽ bị xử phạt vi phạm hành chính như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11105,
+    11101,
+    1557,
+    3534,
+    11106,
+    1590,
+    1591,
+    1580,
+    11119,
+    11129
+  ]
+}

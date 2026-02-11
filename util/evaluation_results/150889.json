@@ -1,0 +1,29 @@
+{
+  "qid": 150889,
+  "query": "Khi có quyết định khởi tố vụ án hình sự thì cơ quan điều tra cần gửi quyết định đến Viện kiểm sát trong thời hạn bao nhiêu ngày?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10631,
+    10633,
+    10630,
+    10635,
+    10638,
+    3569,
+    10646,
+    10642,
+    3570,
+    10641
+  ]
+}

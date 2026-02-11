@@ -1,0 +1,29 @@
+{
+  "qid": 56609,
+  "query": "Ngày thành lập đối với cơ quan nhà nước cấp tỉnh muốn tổ chức hoạt động kỷ niệm phải đảm bảo những nguyên tắc nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13643,
+    13648,
+    13655,
+    13640,
+    6662,
+    6663,
+    986,
+    985,
+    3147,
+    976
+  ]
+}

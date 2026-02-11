@@ -1,0 +1,29 @@
+{
+  "qid": 115048,
+  "query": "Có được xét tặng danh hiệu Tập thể lao động tiên tiến trong ngành Kế hoạch và Đầu tư đối với đơn vị mới thành lập có thời gian hoạt động dưới 12 tháng hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1359,
+    1335,
+    8749,
+    6299,
+    1330,
+    7704,
+    8846,
+    5588,
+    6298,
+    1142
+  ]
+}

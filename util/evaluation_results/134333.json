@@ -1,0 +1,29 @@
+{
+  "qid": 134333,
+  "query": "Khi có yêu cầu làm việc với người bị tạm giữ tại cơ sở giam giữ thì người có thẩm quyền tiến hành tố tụng được phân công giải quyết vụ án phải xuất trình giấy tờ gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1180,
+    1191,
+    1179,
+    1194,
+    1183,
+    1178,
+    1182,
+    1187,
+    1188,
+    1189
+  ]
+}

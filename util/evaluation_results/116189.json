@@ -1,0 +1,29 @@
+{
+  "qid": 116189,
+  "query": "Trong đơn kháng cáo của bị cáo quên xin giảm nhẹ mức bồi thường thiệt hại thì có thể yêu cầu Tòa án cấp phúc thẩm xem xét lại hay không?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 0.5,
+    "ndcg@5": 0.23719771276929622,
+    "p@10": 0.1,
+    "r@10": 0.5,
+    "ndcg@10": 0.23719771276929622
+  },
+  "retrieved": [
+    10809,
+    10811,
+    10812,
+    10810,
+    10822,
+    10821,
+    201,
+    10834,
+    10825,
+    10737
+  ]
+}

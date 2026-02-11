@@ -1,0 +1,29 @@
+{
+  "qid": 87400,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt người hút thuốc ở nơi cấm hút thuốc trên tàu thuyền không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9135,
+    14566,
+    9178,
+    1102,
+    6964,
+    13079,
+    7768,
+    9200,
+    9196,
+    13088
+  ]
+}

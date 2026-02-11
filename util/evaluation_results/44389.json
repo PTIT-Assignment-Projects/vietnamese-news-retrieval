@@ -1,0 +1,29 @@
+{
+  "qid": 44389,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt Thừa phát lại lập vi bằng ghi nhận sự kiện mà mình không trực tiếp chứng kiến không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7307,
+    8966,
+    8965,
+    8987,
+    7017,
+    7304,
+    4955,
+    8964,
+    8963,
+    7002
+  ]
+}

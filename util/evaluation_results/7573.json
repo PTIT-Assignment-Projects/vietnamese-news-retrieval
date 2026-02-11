@@ -1,0 +1,29 @@
+{
+  "qid": 7573,
+  "query": "Người điều khiển xe máy không mang theo bằng lái xe khi tham gia giao thông thì mức phạt thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10320,
+    5997,
+    5999,
+    5996,
+    6002,
+    5995,
+    6008,
+    10319,
+    6170,
+    6006
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 102533,
+  "query": "Phó hiệu trưởng làm công tác công đoàn không chuyên trách thì có được giảm định mức tiết dạy, giờ dạy học không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8502,
+    8500,
+    8501,
+    7148,
+    499,
+    8499,
+    513,
+    7147,
+    13061,
+    4312
+  ]
+}

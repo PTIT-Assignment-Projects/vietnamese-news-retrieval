@@ -1,0 +1,29 @@
+{
+  "qid": 28781,
+  "query": "Hoạt động tái hòa nhập cộng đồng đối với trại viên cơ sở giáo dục bắt buộc có được hỗ trợ kinh phí thực việc không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1968,
+    1947,
+    1954,
+    1964,
+    1960,
+    1935,
+    1973,
+    1930,
+    1970,
+    1961
+  ]
+}

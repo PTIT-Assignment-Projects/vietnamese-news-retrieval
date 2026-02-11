@@ -1,0 +1,29 @@
+{
+  "qid": 157544,
+  "query": "Giấy chứng nhận đã chấp hành xong biện pháp đưa vào trường giáo dưỡng phải được gửi cho những cơ quan nào khi học sinh đã chấp hành xong quyết định?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1966,
+    1945,
+    1969,
+    1938,
+    1946,
+    1943,
+    1949,
+    10898,
+    1935,
+    3991
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 166463,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp viễn thông không trình phương án giá cước dịch vụ viễn thông do Nhà nước quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2719,
+    7246,
+    2699,
+    2718,
+    7241,
+    8481,
+    8472,
+    7240,
+    8471,
+    2703
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 84094,
+  "query": "Việc truy đuổi phương tiện vận tải, hàng hóa buôn lậu, vận chuyển trái phép qua biên giới được thực hiện trong trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8411,
+    476,
+    474,
+    8408,
+    479,
+    477,
+    8410,
+    464,
+    465,
+    8388
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 32090,
+  "query": "Thời gian định kỳ đánh giá việc duy trình đáp ứng Thực hành tốt phòng thí nghiệm tại cơ sở thử nghiệm là bao nhiêu năm?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4424,
+    2510,
+    4427,
+    13620,
+    13625,
+    13627,
+    13631,
+    2612,
+    13623,
+    13621
+  ]
+}

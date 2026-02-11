@@ -1,0 +1,29 @@
+{
+  "qid": 131220,
+  "query": "Chủ tịch Ủy ban nhân dân cấp nào có thể xử phạt người chủ đánh đập chó vì không chịu chụp hình với khách du lịch?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8481,
+    8472,
+    8471,
+    679,
+    4709,
+    9767,
+    678,
+    9818,
+    8473,
+    4710
+  ]
+}

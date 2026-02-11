@@ -1,0 +1,29 @@
+{
+  "qid": 119156,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt tổ chức vận tải khách du lịch bằng đường thủy nội địa nhưng không có hợp đồng vận tải khách du lịch không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9790,
+    9788,
+    9059,
+    9106,
+    13174,
+    9108,
+    9109,
+    9107,
+    9081,
+    9084
+  ]
+}

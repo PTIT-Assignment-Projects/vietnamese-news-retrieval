@@ -1,0 +1,29 @@
+{
+  "qid": 6953,
+  "query": "Cơ quan nào có quyền thanh tra về việc đáp ứng các yêu cầu đối với điều kiện tập luyện môn Lân Sư Rồng trong nhà?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4412,
+    12982,
+    1289,
+    7748,
+    7745,
+    8781,
+    10053,
+    13402,
+    4897,
+    7027
+  ]
+}

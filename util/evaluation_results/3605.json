@@ -1,0 +1,29 @@
+{
+  "qid": 3605,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt doanh nghiệp sử dụng vật liệu bao gói thực phẩm có chứa chất độc hại để sản xuất thực phẩm không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14177,
+    14179,
+    14178,
+    14171,
+    14188,
+    14183,
+    14173,
+    8472,
+    8481,
+    8471
+  ]
+}

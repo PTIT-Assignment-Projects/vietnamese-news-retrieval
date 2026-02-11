@@ -1,0 +1,29 @@
+{
+  "qid": 132546,
+  "query": "Khi khiếu nại tại trụ sở Viện kiểm sát nhân dân cấp huyện, người khiếu nại có thể ủy quyền cho trợ giúp viên pháp lý khiếu nại không?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    1716,
+    6220,
+    1712,
+    8611,
+    1491,
+    1708,
+    1495,
+    1749,
+    1745,
+    1490
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 109094,
+  "query": "Trong hoạt động ngân hàng thì hệ thống thông tin cung cấp dịch vụ trực tuyến cho khách hàng phải đáp ứng tiêu chuẩn nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14537,
+    7578,
+    14525,
+    14535,
+    14529,
+    14532,
+    7570,
+    7583,
+    14528,
+    7584
+  ]
+}

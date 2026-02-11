@@ -1,0 +1,29 @@
+{
+  "qid": 666,
+  "query": "Việc xếp lương cho viên chức được bổ nhiệm vào chức danh nghề nghiệp nhân viên thiết bị tại trường trung học cần tuân thủ theo nguyên tắc gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7785,
+    8813,
+    8457,
+    8809,
+    6458,
+    14209,
+    3467,
+    7561,
+    14249,
+    14269
+  ]
+}

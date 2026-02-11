@@ -1,0 +1,29 @@
+{
+  "qid": 74157,
+  "query": "Ngân hàng được phép có trách nhiệm gì trong việc thanh toán và chuyển tiền trong giao dịch kinh doanh chuyển khẩu hàng hóa của thương nhân?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    2771,
+    2770,
+    2773,
+    2772,
+    2769,
+    5266,
+    2774,
+    5271,
+    5092,
+    5263
+  ]
+}

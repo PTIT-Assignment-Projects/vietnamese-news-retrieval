@@ -1,0 +1,29 @@
+{
+  "qid": 80937,
+  "query": "Cá nhân công tác trong ngành giao thông vận tải cần đạt những tiêu chuẩn nào để được công nhận là chiến sĩ thi đua toàn quốc?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7688,
+    10027,
+    1145,
+    8845,
+    6300,
+    8748,
+    8109,
+    7932,
+    3894,
+    5589
+  ]
+}

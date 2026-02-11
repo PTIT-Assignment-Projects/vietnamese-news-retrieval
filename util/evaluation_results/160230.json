@@ -1,0 +1,29 @@
+{
+  "qid": 160230,
+  "query": "Phiếu chi áp dụng đối với doanh nghiệp vừa và nhỏ được lập nhiều liên thì nội dung mỗi liên này phải như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11816,
+    13319,
+    5802,
+    12820,
+    12080,
+    11546,
+    14990,
+    13734,
+    11530,
+    11549
+  ]
+}

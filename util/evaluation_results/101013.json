@@ -1,0 +1,29 @@
+{
+  "qid": 101013,
+  "query": "Việc cấp kinh phí chi ngân sách nhà nước đối với Cơ quan Việt Nam ở nước ngoài được thực hiện bằng đơn vị tiền tệ nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14504,
+    7903,
+    14509,
+    14501,
+    8801,
+    14505,
+    7892,
+    7893,
+    2575,
+    14498
+  ]
+}

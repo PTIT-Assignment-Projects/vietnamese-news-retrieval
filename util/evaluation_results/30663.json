@@ -1,0 +1,29 @@
+{
+  "qid": 30663,
+  "query": "Đề án thành lập Hội đồng quản lý trong đơn vị sự nghiệp công lập thuộc lĩnh vực văn hóa, gia đình, thể thao và du lịch gồm những nội dung gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3150,
+    3156,
+    5532,
+    5545,
+    3149,
+    4003,
+    5533,
+    3151,
+    1872,
+    7292
+  ]
+}

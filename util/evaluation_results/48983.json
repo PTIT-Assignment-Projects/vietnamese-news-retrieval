@@ -1,0 +1,29 @@
+{
+  "qid": 48983,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt thuyền trưởng điều động tàu thuyền chạy thử mà chưa được phép của Cảng vụ hàng hải không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13074,
+    13088,
+    13071,
+    13087,
+    7679,
+    13079,
+    13084,
+    9135,
+    11746,
+    3771
+  ]
+}

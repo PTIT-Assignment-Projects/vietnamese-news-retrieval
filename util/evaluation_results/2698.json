@@ -1,0 +1,29 @@
+{
+  "qid": 2698,
+  "query": "Việc lựa chọn người tham gia Đoàn thanh tra chuyên ngành hải quan được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5110,
+    4986,
+    7003,
+    4950,
+    7017,
+    7002,
+    4981,
+    5117,
+    7016,
+    4955
+  ]
+}

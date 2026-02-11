@@ -1,0 +1,29 @@
+{
+  "qid": 14957,
+  "query": "Để xác nhận việc thực hiện nghĩa vụ tham gia bồi dưỡng chuyên môn nghiệp vụ của luật sư thì cần những giấy tờ nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2651,
+    2647,
+    1621,
+    2646,
+    2650,
+    2652,
+    2642,
+    2657,
+    2644,
+    2645
+  ]
+}

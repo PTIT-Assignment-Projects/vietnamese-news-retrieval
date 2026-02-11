@@ -1,0 +1,29 @@
+{
+  "qid": 138941,
+  "query": "Chi nhánh hợp tác xã khi tạm ngừng hoạt động thì có cần phải thông báo cho cơ quan nhà nước hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3071,
+    5640,
+    5236,
+    3072,
+    10064,
+    11953,
+    9974,
+    7794,
+    1383,
+    3064
+  ]
+}

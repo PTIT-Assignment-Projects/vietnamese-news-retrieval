@@ -1,0 +1,29 @@
+{
+  "qid": 45213,
+  "query": "Trong trường hợp dính bẫy của các app cho vay tiền online thì người vay cần phải làm gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5088,
+    9120,
+    5752,
+    14984,
+    2458,
+    13728,
+    9472,
+    5082,
+    9121,
+    9343
+  ]
+}

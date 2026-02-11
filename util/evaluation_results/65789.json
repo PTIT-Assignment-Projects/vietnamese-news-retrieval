@@ -1,0 +1,29 @@
+{
+  "qid": 65789,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt cá nhân cản trở hoạt động lưu thông hợp pháp tại khu vực cửa khẩu không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8472,
+    8481,
+    8471,
+    9681,
+    13705,
+    13704,
+    8473,
+    679,
+    13703,
+    678
+  ]
+}

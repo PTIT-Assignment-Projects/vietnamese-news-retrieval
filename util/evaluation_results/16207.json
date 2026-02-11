@@ -1,0 +1,29 @@
+{
+  "qid": 16207,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt cơ sở tiêm chủng không lưu giữ hồ sơ về tiêm chủng theo quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11681,
+    11683,
+    11661,
+    11659,
+    14550,
+    11682,
+    11662,
+    11685,
+    11669,
+    11667
+  ]
+}

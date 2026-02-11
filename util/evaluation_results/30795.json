@@ -1,0 +1,29 @@
+{
+  "qid": 30795,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt nhà xuất bản không ghi đầy đủ thông tin trong quyết định xuất bản theo mẫu quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1460,
+    1459,
+    1475,
+    7307,
+    5172,
+    4955,
+    7037,
+    4960,
+    7017,
+    7022
+  ]
+}

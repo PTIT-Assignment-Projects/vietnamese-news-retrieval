@@ -1,0 +1,29 @@
+{
+  "qid": 44719,
+  "query": "Khi tiếp công dân đến kiến nghị thì người tiếp công dân trong ngành Kiểm sát nhân dân cần yêu cầu công dân cung cấp những giấy tờ gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6240,
+    3164,
+    4901,
+    3165,
+    1759,
+    6213,
+    635,
+    3167,
+    3170,
+    6216
+  ]
+}

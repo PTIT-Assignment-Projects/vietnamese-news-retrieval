@@ -1,0 +1,29 @@
+{
+  "qid": 33026,
+  "query": "Đối tượng được cộng điểm ưu tiên trong tuyển dụng công chức ngạch Kiểm tra viên hải quan tại Cục Hải quan tỉnh gồm những ai?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9154,
+    8404,
+    9156,
+    8413,
+    8334,
+    8321,
+    9155,
+    8310,
+    8405,
+    7007
+  ]
+}

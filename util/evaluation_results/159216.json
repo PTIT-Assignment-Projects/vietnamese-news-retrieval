@@ -1,0 +1,29 @@
+{
+  "qid": 159216,
+  "query": "Người quản lý doanh nghiệp nhà nước đang trong thời gian nghỉ chế độ thai sản thì có được bổ nhiệm lại không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13880,
+    11850,
+    13051,
+    11852,
+    2334,
+    14089,
+    13743,
+    2069,
+    11606,
+    898
+  ]
+}

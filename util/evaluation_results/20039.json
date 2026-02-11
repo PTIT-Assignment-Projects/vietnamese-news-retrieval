@@ -1,0 +1,29 @@
+{
+  "qid": 20039,
+  "query": "Thanh tra viên có quyền xử phạt cư dân hút thuốc lá tại nơi có quy định cấm của tòa nhà chung cư không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14566,
+    6810,
+    6811,
+    14567,
+    9135,
+    14570,
+    4939,
+    4940,
+    14568,
+    4941
+  ]
+}

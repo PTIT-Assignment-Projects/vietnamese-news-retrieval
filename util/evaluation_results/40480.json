@@ -1,0 +1,29 @@
+{
+  "qid": 40480,
+  "query": "Việc kháng cáo, kháng nghị bản án hình sự sơ thẩm có được thay đổi, bổ sung trước khi bắt đầu phiên tòa phúc thẩm không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10819,
+    10831,
+    10833,
+    10825,
+    10820,
+    10504,
+    10822,
+    10832,
+    10839,
+    10816
+  ]
+}

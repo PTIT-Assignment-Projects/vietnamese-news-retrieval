@@ -1,0 +1,29 @@
+{
+  "qid": 176738,
+  "query": "Hội đồng tư vấn tuyển chọn, giao trực tiếp thực hiện nhiệm vụ khoa học và công nghệ thuộc chương trình hỗ trợ doanh nghiệp có bao nhiêu thành viên?",
+  "metrics": {
+    "mrr": 0.14285714285714285,
+    "map": 0.14285714285714285,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.3333333333333333
+  },
+  "retrieved": [
+    8260,
+    8261,
+    8656,
+    8259,
+    8657,
+    8673,
+    8661,
+    8668,
+    8670,
+    8229
+  ]
+}

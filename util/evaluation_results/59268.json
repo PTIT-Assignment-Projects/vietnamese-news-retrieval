@@ -1,0 +1,29 @@
+{
+  "qid": 59268,
+  "query": "Hướng dẫn viên du lịch có phải cung cấp thông tin cho khách du lịch về các quyền, lợi ích hợp pháp của khách du lịch không?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    9801,
+    9808,
+    9807,
+    9805,
+    9804,
+    6623,
+    9803,
+    9754,
+    9806,
+    9746
+  ]
+}

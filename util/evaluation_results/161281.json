@@ -1,0 +1,29 @@
+{
+  "qid": 161281,
+  "query": "Hồ sơ trúng tuyển viên chức bao gồm những gì? Thời hạn hoàn thiện hồ sơ viên chức trong bao lâu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7805,
+    7809,
+    7811,
+    7807,
+    7804,
+    7814,
+    4188,
+    7815,
+    7816,
+    7799
+  ]
+}

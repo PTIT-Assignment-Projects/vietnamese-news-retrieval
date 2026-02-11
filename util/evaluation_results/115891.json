@@ -1,0 +1,29 @@
+{
+  "qid": 115891,
+  "query": "Thời hạn phải thực hiện nghĩa vụ bồi hoàn kinh phí hỗ trợ cho sinh viên sư phạm tối đa là bao nhiêu năm?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14388,
+    14387,
+    14385,
+    14392,
+    11677,
+    4245,
+    14391,
+    14384,
+    14390,
+    14386
+  ]
+}

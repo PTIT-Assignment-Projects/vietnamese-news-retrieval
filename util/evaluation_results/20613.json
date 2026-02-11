@@ -1,0 +1,29 @@
+{
+  "qid": 20613,
+  "query": "Khi thực hiện bồi thường Nhà nước, việc khôi phục quyền, lợi ích hợp pháp khác của người bị thiệt hại quy định ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12721,
+    12705,
+    12747,
+    12693,
+    12697,
+    12746,
+    12733,
+    12707,
+    12696,
+    8880
+  ]
+}

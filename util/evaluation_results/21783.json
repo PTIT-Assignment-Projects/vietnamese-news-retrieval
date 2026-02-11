@@ -1,0 +1,29 @@
+{
+  "qid": 21783,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt người tổ chức bơi lội trong vùng nước cảng khi chưa được chấp thuận của Cảng vụ hàng hải không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7671,
+    13087,
+    7679,
+    13088,
+    7660,
+    8375,
+    13084,
+    7678,
+    9135,
+    3771
+  ]
+}

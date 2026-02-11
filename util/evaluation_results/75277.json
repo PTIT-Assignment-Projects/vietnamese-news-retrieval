@@ -1,0 +1,29 @@
+{
+  "qid": 75277,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có được quyền xử phạt Ban tổ chức lễ hội bán vé thu tiền của người tham dự lễ hội không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13411,
+    13418,
+    13424,
+    13413,
+    2143,
+    13414,
+    2144,
+    13419,
+    13412,
+    13420
+  ]
+}

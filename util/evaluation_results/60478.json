@@ -1,0 +1,29 @@
+{
+  "qid": 60478,
+  "query": "Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát giao thông có quyền xử phạt đối với người dừng xe ô tô ở điểm đón khách của xe bus không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4465,
+    4458,
+    4449,
+    4471,
+    4457,
+    4451,
+    4459,
+    5374,
+    3971,
+    4464
+  ]
+}

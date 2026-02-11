@@ -1,0 +1,29 @@
+{
+  "qid": 3961,
+  "query": "Cơ sở hỗ trợ nạn nhân bạo lực gia đình bị thu hồi Giấy chứng nhận đăng ký hoạt động trong trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8044,
+    8042,
+    1694,
+    8043,
+    1689,
+    8046,
+    8039,
+    1691,
+    8035,
+    1692
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 60830,
+  "query": "Cá nhân được xét tặng danh hiệu thi đua khen thưởng trong ngành Kế hoạch và Đầu tư có được xem xét nâng lương trước hạn hay không?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    1320,
+    7842,
+    7721,
+    7718,
+    3469,
+    1159,
+    1372,
+    7680,
+    10011,
+    5603
+  ]
+}

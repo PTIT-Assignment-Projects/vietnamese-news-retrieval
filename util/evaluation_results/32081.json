@@ -1,0 +1,29 @@
+{
+  "qid": 32081,
+  "query": "Vật liệu xây dựng thân thiện với môi trường có phải là những vật liệu xây dựng sản xuất từ những nguyên liệu hữu cơ không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10249,
+    10253,
+    10258,
+    2681,
+    10247,
+    2493,
+    10260,
+    12431,
+    10251,
+    12430
+  ]
+}

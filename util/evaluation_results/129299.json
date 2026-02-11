@@ -1,0 +1,29 @@
+{
+  "qid": 129299,
+  "query": "Khi xác minh nội dung tố cáo trong thi hành án dân sự, làm việc trực tiếp với người bị tố cáo như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2215,
+    6155,
+    2200,
+    1513,
+    4904,
+    2198,
+    1510,
+    2226,
+    1512,
+    819
+  ]
+}

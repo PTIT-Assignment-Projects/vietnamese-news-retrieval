@@ -1,0 +1,29 @@
+{
+  "qid": 115050,
+  "query": "Bộ trưởng Bộ Kế hoạch và Đầu tư có được ủy quyền cho Thủ trưởng các đơn vị quyết định tặng danh hiệu Tập thể lao động tiên tiến hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7704,
+    8862,
+    8749,
+    1335,
+    6286,
+    10036,
+    5604,
+    6299,
+    8846,
+    7859
+  ]
+}

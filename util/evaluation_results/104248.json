@@ -1,0 +1,29 @@
+{
+  "qid": 104248,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt Thừa phát lại lập vi bằng ghi nhận sự kiện nhằm thực hiện các giao dịch trái pháp luật không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7307,
+    8966,
+    8963,
+    8987,
+    8931,
+    7017,
+    7304,
+    8965,
+    8992,
+    4955
+  ]
+}

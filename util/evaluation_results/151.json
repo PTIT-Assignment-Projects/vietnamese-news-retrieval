@@ -1,0 +1,29 @@
+{
+  "qid": 151,
+  "query": "Bộ trưởng Bộ Công Thương quyết định chấm dứt điều tra vụ việc phòng vệ thương mại trong các trường hợp nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5296,
+    12850,
+    5290,
+    12848,
+    12929,
+    12856,
+    12928,
+    5291,
+    12919,
+    5293
+  ]
+}

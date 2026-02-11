@@ -1,0 +1,29 @@
+{
+  "qid": 94441,
+  "query": "Chánh Thanh tra Sở Y tế có quyền xử phạt bệnh viện không ưu tiên khám chữa bệnh đối với phụ nữ mang thai dưới 5 tháng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9401,
+    7015,
+    3100,
+    7141,
+    7014,
+    7033,
+    7031,
+    7004,
+    7030,
+    3105
+  ]
+}

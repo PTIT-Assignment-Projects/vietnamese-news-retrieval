@@ -1,0 +1,29 @@
+{
+  "qid": 76816,
+  "query": "Hậu quả pháp lý khi viên chức thực hiện quyền đơn phương chấm dứt hợp đồng không đúng quy định pháp luật là gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14264,
+    13022,
+    10438,
+    14232,
+    7799,
+    9722,
+    14268,
+    7816,
+    9723,
+    13025
+  ]
+}

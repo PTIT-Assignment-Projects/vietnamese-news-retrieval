@@ -1,0 +1,29 @@
+{
+  "qid": 70183,
+  "query": "Viên chức trong thời gian bị tạm giam được hưởng 50% mức lương hiện hưởng thì có phải trả lại sau khi bị kết án hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13781,
+    10824,
+    10597,
+    1177,
+    1192,
+    10946,
+    1189,
+    1185,
+    1190,
+    1179
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 73058,
+  "query": "Trong công tác quản lý chất lượng xét nghiệm ai có trách nhiệm tổ chức thực hiện chương trình nội kiểm?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    271,
+    264,
+    267,
+    269,
+    270,
+    263,
+    265,
+    2762,
+    268,
+    2761
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 62159,
+  "query": "Đối với hệ thống thông tin trong hoạt động ngân hàng thì nơi lắp đặt trang thiết bị công nghệ thông tin phải đáp ứng những yêu cầu nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7880,
+    10195,
+    3386,
+    10197,
+    3388,
+    10072,
+    10242,
+    10211,
+    10206,
+    3400
+  ]
+}

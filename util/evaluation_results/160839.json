@@ -1,0 +1,29 @@
+{
+  "qid": 160839,
+  "query": "Cảng hàng không nội địa có cần đáp ứng về thời gian hoạt động để chuyển thành cảng hàng không quốc tế hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5911,
+    5872,
+    5912,
+    5910,
+    5923,
+    5881,
+    5933,
+    5879,
+    5915,
+    5924
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 145488,
+  "query": "Người đã trả giá cao nhất tại buổi đấu giá tài sản nhà nước trong Bộ Quốc phòng có được quyền rút lại giá đã trả trước khi Người điều hành đấu giá công bố người trúng đấu giá không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    737,
+    738,
+    728,
+    692,
+    739,
+    729,
+    730,
+    736,
+    746,
+    733
+  ]
+}

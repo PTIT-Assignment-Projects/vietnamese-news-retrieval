@@ -1,0 +1,29 @@
+{
+  "qid": 143000,
+  "query": "Chủ tịch Ủy ban nhân dân huyện có đủ thẩm quyền xử phạt đối với hành vi quảng cáo sản phẩm nhưng trong nội dung gây hiểu lầm về anh hùng dân tộc hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12516,
+    8481,
+    8472,
+    8471,
+    12522,
+    12302,
+    1303,
+    12523,
+    9539,
+    1717
+  ]
+}

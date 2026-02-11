@@ -1,0 +1,29 @@
+{
+  "qid": 111368,
+  "query": "Vấn đề nào khi hợp tác quốc tế trong lĩnh vực phòng chống ma tuý mà các cơ quan, tổ chức Việt Nam được thực hiện?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4688,
+    4689,
+    4701,
+    4693,
+    4684,
+    530,
+    4692,
+    4690,
+    529,
+    1673
+  ]
+}

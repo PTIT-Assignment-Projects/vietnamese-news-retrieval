@@ -1,0 +1,29 @@
+{
+  "qid": 51321,
+  "query": "Doanh nghiệp không tổ chức kết nối tín hiệu đường sắt, đường bộ tại khu vực cầu chung do mình quản lý thì bị phạt như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10337,
+    10355,
+    6766,
+    10347,
+    7244,
+    10368,
+    6768,
+    8114,
+    7250,
+    8115
+  ]
+}

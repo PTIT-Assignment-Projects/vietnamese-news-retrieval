@@ -1,0 +1,29 @@
+{
+  "qid": 29798,
+  "query": "Công chức được giao nhiệm vụ giám sát hoạt động của Đoàn thanh tra thuế có những nhiệm vụ và quyền hạn gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5121,
+    5118,
+    5122,
+    4963,
+    5115,
+    5124,
+    5110,
+    5119,
+    5114,
+    5112
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 164484,
+  "query": "Trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác có đủ điều kiện để được cấp thẻ hướng dẫn viên du lịch quốc tế không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9802,
+    9807,
+    9806,
+    9801,
+    9803,
+    9805,
+    9804,
+    9808,
+    6626,
+    6623
+  ]
+}

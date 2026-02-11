@@ -1,0 +1,29 @@
+{
+  "qid": 121798,
+  "query": "Xử lý kết quả kiểm tra sau thông quan trong trường hợp Cục trưởng Cục Hải quan tỉnh ban hành quyết định kiểm tra được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    8404,
+    8405,
+    8406,
+    8320,
+    8407,
+    13362,
+    8336,
+    11070,
+    8347,
+    8334
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 148974,
+  "query": "Doanh nghiệp muốn kinh doanh dịch vụ lữ hành quốc tế có cần ký quỹ kinh doanh tại ngân hàng hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9774,
+    9775,
+    9773,
+    6612,
+    9778,
+    9779,
+    9777,
+    9783,
+    9781,
+    9787
+  ]
+}

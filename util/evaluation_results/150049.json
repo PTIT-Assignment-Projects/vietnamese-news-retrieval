@@ -1,0 +1,29 @@
+{
+  "qid": 150049,
+  "query": "Có thể xin cấp Giấy chứng nhận Thực hành tốt bảo quản thuốc, nguyên liệu làm thuốc và Giấy chứng nhận đủ điều kiện kinh doanh dược cùng lúc hay không?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    14602,
+    3212,
+    14598,
+    2504,
+    14601,
+    3536,
+    1097,
+    14597,
+    1124,
+    14599
+  ]
+}

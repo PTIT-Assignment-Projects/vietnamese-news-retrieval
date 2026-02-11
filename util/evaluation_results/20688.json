@@ -1,0 +1,29 @@
+{
+  "qid": 20688,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Khoa học và Công nghệ có quyền xử phạt người để rơi vãi vật liệu phóng xạ trong quá trình vận chuyển không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7307,
+    12035,
+    7017,
+    7304,
+    4955,
+    12796,
+    8239,
+    7002,
+    8259,
+    7037
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 10087,
+  "query": "Thủ tục kéo dài thời gian giữ chức vụ đối với viên chức quản lý cấp phòng của Thanh tra Chính phủ như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14259,
+    14261,
+    7016,
+    2357,
+    4264,
+    5128,
+    4977,
+    14256,
+    3101,
+    3041
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 143096,
+  "query": "Yêu cầu khi sử dụng dịch vụ của bên thứ ba cho các hệ thống thông tin từ cấp độ 3 trở lên trong hoạt động ngân hàng được quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    10195,
+    3383,
+    3389,
+    3398,
+    10216,
+    3399,
+    10232,
+    3391,
+    5346,
+    10223
+  ]
+}

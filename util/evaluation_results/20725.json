@@ -1,0 +1,29 @@
+{
+  "qid": 20725,
+  "query": "Thủ trưởng các cơ sở y tế trong công tác thực hiện quy tắc ứng xử tại cơ sở y tế phải chịu trách nhiệm trước pháp luật về các vấn đề gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7175,
+    7172,
+    6763,
+    7171,
+    7179,
+    7174,
+    7164,
+    7177,
+    7176,
+    6762
+  ]
+}

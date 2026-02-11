@@ -1,0 +1,29 @@
+{
+  "qid": 106720,
+  "query": "Những trường hợp nào viên chức sẽ được giải quyết thôi việc và thủ tục thực hiện giải quyết thôi việc như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14264,
+    14268,
+    7816,
+    12548,
+    4137,
+    7805,
+    7799,
+    14233,
+    2013,
+    7187
+  ]
+}

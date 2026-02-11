@@ -1,0 +1,29 @@
+{
+  "qid": 94844,
+  "query": "Nội dung ghi trên mẫu bảng thanh toán tiền làm thêm giờ áp dụng cho doanh nghiệp nhỏ và vừa có được phép ghi tắt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6690,
+    2771,
+    832,
+    8538,
+    5083,
+    2773,
+    12119,
+    13581,
+    13678,
+    10432
+  ]
+}

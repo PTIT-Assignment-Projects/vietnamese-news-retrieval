@@ -1,0 +1,29 @@
+{
+  "qid": 128742,
+  "query": "Quan trắc phục vụ công tác bảo trì công trình xây dựng thì chủ sở hữu công trình có được tự thực hiện hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6903,
+    6902,
+    6901,
+    6900,
+    6899,
+    6904,
+    3418,
+    3419,
+    3413,
+    6871
+  ]
+}

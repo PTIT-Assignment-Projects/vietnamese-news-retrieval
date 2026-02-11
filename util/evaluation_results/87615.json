@@ -1,0 +1,29 @@
+{
+  "qid": 87615,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người không gửi báo cáo kết quả cuộc thi sáng tác tác phẩm mỹ thuật đến cơ quan nhà nước có thẩm quyền không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13805,
+    13804,
+    13803,
+    1075,
+    1074,
+    8472,
+    8481,
+    1070,
+    1072,
+    8471
+  ]
+}

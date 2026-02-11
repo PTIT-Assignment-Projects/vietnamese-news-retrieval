@@ -1,0 +1,29 @@
+{
+  "qid": 155294,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền phạt tiền doanh nghiệp được áp dụng chế độ ưu tiên vi phạm thời hạn thông báo cho cơ quan hải quan quyết định xử lý vi phạm về quản lý thuế không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8318,
+    8319,
+    8481,
+    8472,
+    8471,
+    11100,
+    4896,
+    3304,
+    679,
+    14905
+  ]
+}

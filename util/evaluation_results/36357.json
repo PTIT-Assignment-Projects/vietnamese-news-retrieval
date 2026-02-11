@@ -1,0 +1,29 @@
+{
+  "qid": 36357,
+  "query": "Phụ cấp trách nhiệm công việc kế toán trưởng tại các đơn vị kế toán trong lĩnh vực kế toán nhà nước được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4397,
+    4388,
+    2897,
+    4399,
+    2895,
+    2891,
+    2892,
+    2893,
+    4398,
+    2899
+  ]
+}

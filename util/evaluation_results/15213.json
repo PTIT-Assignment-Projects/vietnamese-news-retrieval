@@ -1,0 +1,29 @@
+{
+  "qid": 15213,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt tổ chức đưa tàu bay vào khai thác mà không có Giấy chứng nhận đăng ký quốc tịch không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7780,
+    11200,
+    1798,
+    13293,
+    7307,
+    13288,
+    1793,
+    8371,
+    1280,
+    1799
+  ]
+}

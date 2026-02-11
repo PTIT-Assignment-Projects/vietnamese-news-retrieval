@@ -1,0 +1,29 @@
+{
+  "qid": 66256,
+  "query": "Kinh phí thực hiện hỗ trợ đối với phụ nữ là người dân tộc thiểu số sinh con được đảm bảo từ nguồn kinh phí nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7470,
+    6209,
+    7475,
+    4745,
+    11013,
+    8801,
+    7480,
+    5779,
+    11568,
+    4748
+  ]
+}

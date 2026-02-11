@@ -1,0 +1,29 @@
+{
+  "qid": 134488,
+  "query": "Khi viết sai chứng từ kế toán thì kế toán của công ty TNHH một thành viên phải hủy bỏ bằng cách nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7410,
+    7391,
+    2853,
+    2844,
+    2902,
+    2847,
+    2857,
+    2869,
+    2893,
+    7401
+  ]
+}

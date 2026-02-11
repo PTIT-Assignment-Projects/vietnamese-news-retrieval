@@ -1,0 +1,29 @@
+{
+  "qid": 96268,
+  "query": "Thanh tra viên chuyên ngành hàng hải được xử phạt tổ chức kinh doanh khai thác cảng biển không trang bị thiết bị chiếu sáng tại cầu cảng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7660,
+    8375,
+    469,
+    9135,
+    7671,
+    11626,
+    7673,
+    7663,
+    13084,
+    13071
+  ]
+}

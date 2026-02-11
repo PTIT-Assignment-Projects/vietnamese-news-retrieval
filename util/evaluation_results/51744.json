@@ -1,0 +1,29 @@
+{
+  "qid": 51744,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt doanh nghiệp kinh doanh dịch vụ lữ hành nội địa không mua bảo hiểm cho khách du lịch theo quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9774,
+    9773,
+    9780,
+    9775,
+    9783,
+    9777,
+    6612,
+    9779,
+    6609,
+    9782
+  ]
+}

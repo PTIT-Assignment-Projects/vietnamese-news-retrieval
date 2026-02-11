@@ -1,0 +1,29 @@
+{
+  "qid": 162436,
+  "query": "Hồ sơ đề nghị công nhận tổ chức tôn giáo có cần phải có đủ sơ yếu lý lịch của các cá nhân sinh hoạt tôn giáo trong tổ chức hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2152,
+    2147,
+    2177,
+    2155,
+    2137,
+    2180,
+    2161,
+    2132,
+    2183,
+    2160
+  ]
+}

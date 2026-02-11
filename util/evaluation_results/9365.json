@@ -1,0 +1,29 @@
+{
+  "qid": 9365,
+  "query": "Trình tự đánh giá đột xuất việc đáp ứng Thực hành tốt phân phối (GDP) của cơ sở phân phối thuốc được quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2511,
+    2508,
+    3549,
+    3194,
+    3537,
+    3536,
+    11152,
+    2500,
+    3212,
+    11147
+  ]
+}

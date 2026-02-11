@@ -1,0 +1,29 @@
+{
+  "qid": 115315,
+  "query": "Các loại giấy tờ mà người làm thủ tục nhập cảnh phải nộp cho tàu quân sự nước ngoài đến Việt Nam thực hiện các chuyến thăm bao gồm những gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11651,
+    11652,
+    11654,
+    11618,
+    11627,
+    11649,
+    11655,
+    11636,
+    11635,
+    11650
+  ]
+}

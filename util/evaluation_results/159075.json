@@ -1,0 +1,29 @@
+{
+  "qid": 159075,
+  "query": "Facebook thông báo thu thuế GTGT 5% từ doanh nghiệp thì doanh nghiệp có cần nộp thuế nhà thầu thay Facebook nữa không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11480,
+    11482,
+    5765,
+    11473,
+    13350,
+    11945,
+    13328,
+    13329,
+    11951,
+    11959
+  ]
+}

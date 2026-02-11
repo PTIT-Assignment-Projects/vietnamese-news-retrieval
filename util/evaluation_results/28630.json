@@ -1,0 +1,29 @@
+{
+  "qid": 28630,
+  "query": "Tổ chức khoa học và công nghệ không thực hiện việc đăng ký hoạt động khoa học và công nghệ cho cơ quan có thẩm quyền bị xử lý thế nào?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    8237,
+    8239,
+    8236,
+    8238,
+    8240,
+    8230,
+    8244,
+    8232,
+    8242,
+    8231
+  ]
+}

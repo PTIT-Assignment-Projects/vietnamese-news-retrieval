@@ -1,0 +1,29 @@
+{
+  "qid": 90736,
+  "query": "Chánh Thanh tra Sở Tài chính có thẩm quyền xử phạt cơ sở kinh doanh xổ sổ ký hợp đồng in vé xổ số với cơ sở in không đủ điều kiện in vé xổ số không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    357,
+    350,
+    3288,
+    353,
+    366,
+    351,
+    13721,
+    363,
+    349,
+    362
+  ]
+}
