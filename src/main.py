@@ -11,6 +11,7 @@ def main():
     spark.load_computed_tf()
     # spark.compute_idf()
     spark.load_computed_idf()
-    # print(spark.idf_matrix['tài_khoản'])
+    # spark.compute_tfidf()
+    spark.load_computed_tf_idf()
 if __name__ == "__main__":
     main()
