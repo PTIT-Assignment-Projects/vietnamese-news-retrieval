@@ -1,0 +1,29 @@
+{
+  "qid": 153456,
+  "query": "Phát hiện số liệu trên sổ kế toán có sai sót khi đã nộp báo cáo tài chính năm cho cơ quan nhà nước thì phải xử lý như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2871,
+    12083,
+    5827,
+    2848,
+    5828,
+    12085,
+    2873,
+    2882,
+    5776,
+    11343
+  ]
+}

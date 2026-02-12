@@ -1,0 +1,29 @@
+{
+  "qid": 2361,
+  "query": "Trung tâm Hành động bom mìn quốc gia Việt Nam hoạt động dựa trên ngân sách nhà nước đúng không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3157,
+    3159,
+    3158,
+    8076,
+    169,
+    7892,
+    5687,
+    13584,
+    12931,
+    13389
+  ]
+}

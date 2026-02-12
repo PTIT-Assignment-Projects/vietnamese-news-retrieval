@@ -1,0 +1,29 @@
+{
+  "qid": 16062,
+  "query": "Ủy ban nhân dân xã có xử phạt được đối với trường hợp xây tường rào bê tông B40 bao quanh lối đi chung gây ảnh hưởng đến đi lại của những hộ gia đình khác không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11915,
+    1950,
+    9352,
+    2450,
+    2436,
+    8027,
+    2442,
+    11346,
+    11913,
+    2433
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 75522,
+  "query": "Người đứng đầu Văn phòng Hội đồng Giáo sư nhà nước khi hết thời hạn bổ nhiệm, tính đến tháng đủ tuổi nghỉ hưu còn 29 tháng được bổ nhiệm lại thì thời hạn bổ nhiệm được tính như thế nào?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    4394,
+    2334,
+    14256,
+    14260,
+    13051,
+    2396,
+    1637,
+    2164,
+    14258,
+    1055
+  ]
+}

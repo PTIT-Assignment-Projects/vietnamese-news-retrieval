@@ -1,0 +1,29 @@
+{
+  "qid": 3179,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người phổ biến thông tin thống kê sai sự thật không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8472,
+    8481,
+    8471,
+    8473,
+    679,
+    678,
+    3643,
+    1717,
+    14690,
+    2639
+  ]
+}

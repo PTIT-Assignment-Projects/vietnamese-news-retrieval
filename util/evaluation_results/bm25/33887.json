@@ -1,0 +1,29 @@
+{
+  "qid": 33887,
+  "query": "Con của thương binh loại B có thuộc đối tượng được cộng điểm ưu tiên trong thi tuyển viên chức không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14213,
+    6926,
+    4281,
+    2697,
+    4188,
+    14211,
+    14274,
+    3870,
+    2696,
+    2363
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 86623,
+  "query": "Thời kỳ điều tra đối với xác định thiệt hại nghiêm trọng hoặc đe dọa gây ra thiệt hại nghiêm trọng của ngành sản xuất trong nước kéo dài bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12898,
+    5292,
+    12899,
+    5316,
+    12897,
+    5317,
+    5315,
+    12916,
+    12896,
+    5314
+  ]
+}

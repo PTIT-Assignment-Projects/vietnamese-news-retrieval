@@ -1,0 +1,29 @@
+{
+  "qid": 40794,
+  "query": "Đồng tiền sử dụng trong hoạt động chiết khấu giấy tờ có giá khác của chi nhánh ngân hàng nước ngoài có được sử dụng ngoại tệ không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4019,
+    4016,
+    4020,
+    4025,
+    4022,
+    159,
+    4021,
+    171,
+    4023,
+    163
+  ]
+}

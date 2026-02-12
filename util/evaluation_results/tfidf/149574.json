@@ -1,0 +1,29 @@
+{
+  "qid": 149574,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt Thừa phát lại sửa lỗi kỹ thuật vi bằng không đúng quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8967,
+    8965,
+    7307,
+    5858,
+    5829,
+    8968,
+    9416,
+    5859,
+    7017,
+    7304
+  ]
+}

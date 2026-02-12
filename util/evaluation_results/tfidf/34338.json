@@ -1,0 +1,29 @@
+{
+  "qid": 34338,
+  "query": "Trong thời gian tạm giam nếu tài sản của bị can không có người bảo quản thì phải giải quyết như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10597,
+    10596,
+    1192,
+    1189,
+    1177,
+    10824,
+    10557,
+    1185,
+    1188,
+    6703
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 92958,
+  "query": "Chưa có giấy chứng nhận hợp quy và đăng ký hồ sơ chất lượng nhưng lưu thông hàng hóa bị phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14827,
+    2301,
+    6174,
+    14810,
+    14832,
+    14828,
+    14826,
+    6176,
+    14599,
+    12271
+  ]
+}

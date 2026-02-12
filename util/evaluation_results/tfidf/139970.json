@@ -1,0 +1,29 @@
+{
+  "qid": 139970,
+  "query": "Quy trình đánh giá định kỳ việc duy trì đáp ứng Thực hành tốt phân phối thuốc của cơ sở phân phối được quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2508,
+    3194,
+    2511,
+    3536,
+    3537,
+    2500,
+    3549,
+    11152,
+    3212,
+    11147
+  ]
+}

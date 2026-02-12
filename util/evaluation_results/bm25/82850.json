@@ -1,0 +1,29 @@
+{
+  "qid": 82850,
+  "query": "Để được xét tặng Kỷ niệm chương Vì sự nghiệp ngành Kế hoạch và Đầu tư Việt Nam cá nhân cần có thời gian tối thiểu bao nhiêu năm công tác trong Ngành?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7699,
+    7702,
+    986,
+    8856,
+    6664,
+    983,
+    1345,
+    2092,
+    6667,
+    8753
+  ]
+}

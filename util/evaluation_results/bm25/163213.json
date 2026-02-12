@@ -1,0 +1,29 @@
+{
+  "qid": 163213,
+  "query": "Ai là người có trách nhiệm đưa hoạt động thanh lọc tài nguyên thông tin của thư viện công lập vào kế hoạch công tác năm?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2737,
+    2721,
+    2743,
+    2735,
+    2725,
+    2748,
+    2736,
+    2742,
+    2745,
+    2744
+  ]
+}

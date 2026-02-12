@@ -1,0 +1,29 @@
+{
+  "qid": 142588,
+  "query": "Khi phát hiện thông tin do mình cung cấp theo yêu cầu không chính xác thì cơ quan nhà nước có trách nhiệm gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11715,
+    11710,
+    11717,
+    11072,
+    11709,
+    3329,
+    886,
+    3884,
+    11711,
+    11708
+  ]
+}

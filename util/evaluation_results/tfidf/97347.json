@@ -1,0 +1,29 @@
+{
+  "qid": 97347,
+  "query": "Công ty kinh doanh vận tải hành khách sử dụng hợp đồng điện tử có bắt buộc phải gửi hóa đơn điện tử của chuyến đi cho khách hàng không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13142,
+    13133,
+    14876,
+    14856,
+    13161,
+    13141,
+    14886,
+    13156,
+    13129,
+    14874
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 13638,
+  "query": "Để đưa vào Danh mục di sản văn hóa phi vật thể quốc gia thì di sản văn hóa phải đáp ứng những tiêu chí gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3910,
+    3901,
+    3912,
+    3911,
+    3905,
+    3903,
+    3902,
+    3907,
+    3908,
+    3906
+  ]
+}

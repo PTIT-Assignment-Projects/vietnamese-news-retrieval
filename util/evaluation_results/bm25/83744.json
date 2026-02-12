@@ -1,0 +1,29 @@
+{
+  "qid": 83744,
+  "query": "Cơ sở kinh doanh dịch vụ thể thao đạt tiêu chuẩn phục vụ khách du lịch có bắt buộc phải có phòng tắm cho khách không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6616,
+    9799,
+    11971,
+    9792,
+    6615,
+    6607,
+    9788,
+    6617,
+    6614,
+    9793
+  ]
+}

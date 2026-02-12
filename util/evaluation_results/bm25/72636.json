@@ -1,0 +1,29 @@
+{
+  "qid": 72636,
+  "query": "Cơ sở giáo dục tổ chức giảng dạy chương trình liên kết giáo dục với nước ngoài không đúng nội dung đã được phê duyệt thì bị xử phạt thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4620,
+    4625,
+    3921,
+    4553,
+    4603,
+    4547,
+    13625,
+    4548,
+    13633,
+    523
+  ]
+}

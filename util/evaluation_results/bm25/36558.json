@@ -1,0 +1,29 @@
+{
+  "qid": 36558,
+  "query": "Phương tiện được cấp phép rời cảng, bến thủy nội địa vẫn neo tại vùng nước cảng, bến thủy nội địa quá 24 giờ thì xử lý như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9098,
+    9047,
+    9094,
+    9104,
+    9110,
+    9113,
+    9062,
+    9111,
+    9109,
+    9064
+  ]
+}

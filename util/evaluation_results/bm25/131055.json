@@ -1,0 +1,29 @@
+{
+  "qid": 131055,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt người uống rượu khi đang thực hiện khám sức khỏe cho nhân viên hàng không không?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    14575,
+    9131,
+    12971,
+    4637,
+    12974,
+    10377,
+    13154,
+    14198,
+    11127,
+    6544
+  ]
+}

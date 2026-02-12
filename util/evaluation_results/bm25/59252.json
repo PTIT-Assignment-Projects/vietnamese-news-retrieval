@@ -1,0 +1,29 @@
+{
+  "qid": 59252,
+  "query": "Công chức cấp Trung ương giữ chức vụ lãnh đạo được cử biệt phái có còn thuộc biên chế của cơ quan cử biệt phái không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14234,
+    13764,
+    13766,
+    2026,
+    14256,
+    8203,
+    7560,
+    11095,
+    11004,
+    2334
+  ]
+}

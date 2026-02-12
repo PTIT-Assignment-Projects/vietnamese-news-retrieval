@@ -1,0 +1,29 @@
+{
+  "qid": 44375,
+  "query": "Đầu tư xây dựng và kinh doanh kết cấu hạ tầng khu công nghiệp, khu chế xuất, khu công nghệ cao và khu kinh tế được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14717,
+    14725,
+    14745,
+    14716,
+    14729,
+    4329,
+    14733,
+    6364,
+    10163,
+    7295
+  ]
+}

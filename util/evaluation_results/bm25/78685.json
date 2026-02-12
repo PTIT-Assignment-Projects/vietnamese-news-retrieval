@@ -1,0 +1,29 @@
+{
+  "qid": 78685,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt tổ chức bán chương trình du lịch không đúng nội dung trong hợp đồng đại lý lữ hành không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9784,
+    9786,
+    9783,
+    9785,
+    9780,
+    9782,
+    6609,
+    7292,
+    9808,
+    3104
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 15764,
+  "query": "Trình tự lập và phê duyệt danh sách hỗ trợ sửa chữa nhà ở cho người có công với cách mạng được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9351,
+    9353,
+    11054,
+    9349,
+    11057,
+    9350,
+    11048,
+    3787,
+    13388,
+    6904
+  ]
+}

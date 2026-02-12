@@ -1,0 +1,29 @@
+{
+  "qid": 52928,
+  "query": "Toàn bộ hoặc một phần kết cấu hạ tầng cảng hàng không sân bay bị đóng tạm thời trong các trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5913,
+    5914,
+    5922,
+    5916,
+    5915,
+    5923,
+    5875,
+    5912,
+    5925,
+    5877
+  ]
+}

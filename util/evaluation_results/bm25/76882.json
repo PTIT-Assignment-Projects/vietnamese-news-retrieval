@@ -1,0 +1,29 @@
+{
+  "qid": 76882,
+  "query": "Các biện pháp nghiệp vụ của Cảnh sát môi trường trong tổ chức phòng ngừa, đấu tranh phòng chống tội phạm là gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11828,
+    11827,
+    11824,
+    11830,
+    11825,
+    11836,
+    11842,
+    11837,
+    10482,
+    10479
+  ]
+}

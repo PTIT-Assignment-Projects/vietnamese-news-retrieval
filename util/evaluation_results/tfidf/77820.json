@@ -1,0 +1,29 @@
+{
+  "qid": 77820,
+  "query": "Các đơn vị nào thuộc Ngân hàng Nhà nước có trách nhiệm đối với việc bảo đảm an toàn hệ thống thông tin trong hoạt động ngân hàng?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7885,
+    10159,
+    7877,
+    10457,
+    10455,
+    10195,
+    3390,
+    10203,
+    3383,
+    3400
+  ]
+}

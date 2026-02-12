@@ -1,0 +1,29 @@
+{
+  "qid": 14455,
+  "query": "Việc xem xét miễn trừ áp dụng biện pháp phòng vệ thương mại đối với hàng hóa tương tự được thực hiện theo trình tự nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12854,
+    12848,
+    5290,
+    12919,
+    12920,
+    12921,
+    12852,
+    12926,
+    12918,
+    12928
+  ]
+}

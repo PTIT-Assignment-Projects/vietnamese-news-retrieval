@@ -1,0 +1,29 @@
+{
+  "qid": 146467,
+  "query": "Thanh tra viên tiến hành thanh tra độc lập đối với trường trung cấp chuyên nghiệp trong thời hạn bao lâu?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    7029,
+    186,
+    7031,
+    4835,
+    7030,
+    7032,
+    187,
+    179,
+    7017,
+    14275
+  ]
+}

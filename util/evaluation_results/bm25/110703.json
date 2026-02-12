@@ -1,0 +1,29 @@
+{
+  "qid": 110703,
+  "query": "Xử lý kỷ luật đối với cán bộ cấp huyện có hành vi vi phạm quy định về bảo vệ bí mật nhà nước gây hậu quả nghiêm trọng theo trình tự thủ tục như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13749,
+    13746,
+    13748,
+    13178,
+    13753,
+    13741,
+    14925,
+    2195,
+    1044,
+    8937
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 161922,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt tổ chức không đề nghị cơ quan có thẩm quyền công bố hạn chế giao thông đường thủy nội không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9084,
+    9053,
+    9055,
+    9108,
+    9054,
+    9062,
+    9085,
+    9064,
+    9109,
+    9106
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 127208,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt nhà xuất bản sử dụng văn bản chấp thuận của tác giả nhưng không có đầy đủ thông tin theo mẫu quy định không?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    14924,
+    1458,
+    5172,
+    1475,
+    14928,
+    1463,
+    14198,
+    1467,
+    1460,
+    4637
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 11036,
+  "query": "Tàu biển nước ngoài trong những trường hợp nào thì sẽ được kiểm tra theo quy định khi vào cảng Việt Nam?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7661,
+    7666,
+    7662,
+    7670,
+    7663,
+    7671,
+    7678,
+    7672,
+    7669,
+    7677
+  ]
+}

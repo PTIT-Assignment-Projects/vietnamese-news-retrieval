@@ -1,0 +1,29 @@
+{
+  "qid": 51892,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp cung cấp dịch vụ thư điện tử không báo cáo cơ quan có thẩm quyền về hệ thống lọc phần mềm độc hại không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2672,
+    8481,
+    1306,
+    11694,
+    4898,
+    1308,
+    10430,
+    13193,
+    3104,
+    11035
+  ]
+}

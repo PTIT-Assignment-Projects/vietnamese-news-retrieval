@@ -1,0 +1,29 @@
+{
+  "qid": 18213,
+  "query": "Người nước ngoài làm việc tại Việt Nam có được tham dự Giải thưởng Bông lúa vàng Việt Nam hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6198,
+    8738,
+    6206,
+    6201,
+    4280,
+    8489,
+    1074,
+    5984,
+    5372,
+    4277
+  ]
+}

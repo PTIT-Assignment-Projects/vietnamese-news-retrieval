@@ -1,0 +1,29 @@
+{
+  "qid": 124616,
+  "query": "Người giải quyết khiếu nại lần đầu có được giao cho cơ quan khác xác minh nội dung khiếu nại hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1729,
+    2243,
+    1493,
+    647,
+    1495,
+    1754,
+    1497,
+    1756,
+    1488,
+    1738
+  ]
+}

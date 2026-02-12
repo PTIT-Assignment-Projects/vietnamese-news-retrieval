@@ -1,0 +1,29 @@
+{
+  "qid": 53874,
+  "query": "Dịch vụ vui chơi giải trí được công nhận là cơ sở đạt tiêu chuẩn phục vụ khách du lịch khi đáp ứng điều kiện gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9799,
+    3269,
+    9797,
+    3248,
+    9766,
+    9746,
+    6624,
+    9796,
+    1847,
+    9795
+  ]
+}

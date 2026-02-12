@@ -1,0 +1,29 @@
+{
+  "qid": 134309,
+  "query": "Để triển khai thực hiện kế hoạch giáo dục hòa nhập thì Phòng giáo dục và đào tạo phải phối hợp ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3444,
+    3443,
+    3442,
+    3432,
+    3446,
+    3430,
+    3433,
+    3438,
+    3431,
+    3427
+  ]
+}

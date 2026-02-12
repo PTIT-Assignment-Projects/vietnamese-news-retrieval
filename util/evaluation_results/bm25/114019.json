@@ -1,0 +1,29 @@
+{
+  "qid": 114019,
+  "query": "Quyết định sửa chữa, bổ sung quyết định giải quyết bồi thường của Thủ trưởng cơ quan Thuế giải quyết bồi thường phải được gửi ngay cho ai?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12740,
+    12739,
+    12741,
+    12742,
+    12743,
+    12736,
+    572,
+    12734,
+    571,
+    574
+  ]
+}

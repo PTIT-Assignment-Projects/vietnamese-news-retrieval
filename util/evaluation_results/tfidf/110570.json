@@ -1,0 +1,29 @@
+{
+  "qid": 110570,
+  "query": "Giáo viên sửa điểm thi sẽ bị xử phạt vi phạm hành chính bao nhiêu tiền theo quy định của pháp luật?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11467,
+    11129,
+    10936,
+    6512,
+    12063,
+    11131,
+    11132,
+    2194,
+    14850,
+    5098
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 17725,
+  "query": "Kỳ kế toán đối với công ty mới thành lập trong trường hợp nào thì được phép cộng dồn với năm tiếp theo?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2856,
+    5771,
+    5827,
+    2849,
+    2900,
+    2870,
+    5828,
+    2873,
+    5750,
+    2848
+  ]
+}

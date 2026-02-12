@@ -1,0 +1,29 @@
+{
+  "qid": 99334,
+  "query": "Người tham gia đấu giá đe dọa, cưỡng ép người tham gia đấu giá khác nhằm làm sai lệch kết quả đấu giá tài sản thì có bị xem là hành vi bị nghiêm cấm không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    696,
+    720,
+    759,
+    725,
+    732,
+    734,
+    721,
+    752,
+    726,
+    740
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 12427,
+  "query": "Trong xét xử sơ thẩm vụ án hình sự, trước khi xét hỏi thì ai phải trình bày tóm tắt nội dung vụ án, quyết định của bản án sơ thẩm, nội dung kháng cáo, kháng nghị?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10831,
+    10839,
+    10807,
+    10737,
+    10743,
+    10504,
+    10832,
+    10825,
+    10732,
+    6090
+  ]
+}

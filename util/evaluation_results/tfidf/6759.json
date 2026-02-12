@@ -1,0 +1,29 @@
+{
+  "qid": 6759,
+  "query": "Hồ sơ đề nghị kéo dài thời gian giữ chức vụ Phó Tổng biên tập Tạp chí Giáo dục thuộc Bộ GDĐT có cần bản tự đánh giá việc thực hiện chức trách trong thời hạn giữ chức vụ không?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    14259,
+    14260,
+    14256,
+    670,
+    14257,
+    14251,
+    14250,
+    7337,
+    14261,
+    2357
+  ]
+}

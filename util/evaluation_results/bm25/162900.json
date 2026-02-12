@@ -1,0 +1,29 @@
+{
+  "qid": 162900,
+  "query": "Người đi đăng ký khai sinh cho trẻ em khuyết tật là ông, bà, người thân thích khác không phải cha mẹ thì có cần văn bản ủy quyền của cha, mẹ không?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    4577,
+    4555,
+    2262,
+    3130,
+    2265,
+    5136,
+    4560,
+    14443,
+    4569,
+    4572
+  ]
+}

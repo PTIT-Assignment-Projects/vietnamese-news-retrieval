@@ -1,0 +1,29 @@
+{
+  "qid": 59649,
+  "query": "Giải pháp kỹ thuật kiểm soát bản quyền số trong hoạt động xuất bản, phát hành xuất bản phẩm điện tử bao gồm những gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1474,
+    14932,
+    1475,
+    1476,
+    1452,
+    14924,
+    1463,
+    1464,
+    1468,
+    14928
+  ]
+}

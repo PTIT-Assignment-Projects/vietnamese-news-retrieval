@@ -1,0 +1,29 @@
+{
+  "qid": 84067,
+  "query": "Có các kỹ thuật mới, phương pháp mới nào trong khám bệnh chữa bệnh được nghiên cứu tại Việt Nam và lần đầu tiên áp dụng tại Việt Nam?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    7265,
+    7263,
+    7269,
+    7268,
+    14776,
+    7264,
+    7270,
+    7272,
+    12350,
+    11078
+  ]
+}

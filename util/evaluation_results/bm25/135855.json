@@ -1,0 +1,29 @@
+{
+  "qid": 135855,
+  "query": "Hồ sơ đề nghị đăng ký hoạt động đấu giá tài sản cần bản chính hay hay bản sao Chứng chỉ hành nghề đấu giá của thành viên hợp danh?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    712,
+    715,
+    701,
+    716,
+    710,
+    6588,
+    704,
+    765,
+    703,
+    696
+  ]
+}

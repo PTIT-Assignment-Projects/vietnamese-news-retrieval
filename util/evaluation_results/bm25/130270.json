@@ -1,0 +1,29 @@
+{
+  "qid": 130270,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt tổ chức phát hành xuất bản phẩm nước ngoài tại Việt Nam nhưng giấy phép đã hết hạn không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1463,
+    1471,
+    1466,
+    1464,
+    14904,
+    14924,
+    14929,
+    14930,
+    14923,
+    14932
+  ]
+}

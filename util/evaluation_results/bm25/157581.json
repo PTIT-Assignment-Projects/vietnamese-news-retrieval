@@ -1,0 +1,29 @@
+{
+  "qid": 157581,
+  "query": "Trình tự cấp Giấy xác nhận khuyết tật cho trẻ em dưới 6 tuổi bị tim bẩm sinh phức tạp (đảo gốc động mạch), mổ hở sửa toàn bộ được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1243,
+    1235,
+    1242,
+    11932,
+    1238,
+    1241,
+    1239,
+    1246,
+    2428,
+    1237
+  ]
+}

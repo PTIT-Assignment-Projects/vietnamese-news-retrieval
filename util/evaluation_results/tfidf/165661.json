@@ -1,0 +1,29 @@
+{
+  "qid": 165661,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt nhà xuất bản thực hiện xuất bản điện tử không có tên miền Internet Việt Nam không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1460,
+    1459,
+    1475,
+    5172,
+    1463,
+    4955,
+    7307,
+    7037,
+    1461,
+    7017
+  ]
+}

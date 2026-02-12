@@ -1,0 +1,29 @@
+{
+  "qid": 77534,
+  "query": "Công chức giữ chức danh Thư ký viên cao cấp trong Tòa án nhân dân tối cao cần đáp ứng yêu cầu gì trình độ đào tạo, bồi dưỡng?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1049,
+    10980,
+    10981,
+    10881,
+    11019,
+    10887,
+    1167,
+    11015,
+    11017,
+    11020
+  ]
+}

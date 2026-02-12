@@ -1,0 +1,29 @@
+{
+  "qid": 138176,
+  "query": "Viên chức xét thăng hạng chức danh nghề nghiệp họa sĩ hạng 3 cần có thời gian giữ chức danh nghề nghiệp họa sĩ hạng 4 trong bao lâu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13119,
+    7465,
+    7458,
+    13123,
+    14239,
+    6924,
+    14236,
+    14249,
+    14248,
+    14240
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 103593,
+  "query": "Khi có nhiều cá nhân cùng đủ điều kiện xét khen thưởng trong ngành Kế hoạch và Đầu tư thì theo quy định phải lựa chọn người nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7699,
+    7849,
+    7718,
+    7706,
+    1337,
+    7693,
+    6310,
+    7707,
+    4281,
+    1336
+  ]
+}

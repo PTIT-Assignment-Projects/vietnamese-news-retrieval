@@ -1,0 +1,29 @@
+{
+  "qid": 74694,
+  "query": "Phục chế tài nguyên thông tin là tài liệu in, tài liệu viết tay trên giấy của thư viện công lập được xử lý như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2730,
+    2721,
+    2722,
+    2725,
+    2751,
+    2726,
+    2738,
+    2720,
+    2723,
+    2748
+  ]
+}

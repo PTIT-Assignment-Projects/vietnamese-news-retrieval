@@ -1,0 +1,29 @@
+{
+  "qid": 119795,
+  "query": "Những ai có quyền thông báo cho cơ quan có thẩm quyền khi phát hiện vi phạm pháp luật trong bản án, quyết định về vụ án hình sự đã có hiệu lực của Tòa án?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10849,
+    10851,
+    10865,
+    10879,
+    8905,
+    10505,
+    8977,
+    10504,
+    10744,
+    10847
+  ]
+}

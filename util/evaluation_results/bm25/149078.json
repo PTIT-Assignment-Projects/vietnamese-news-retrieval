@@ -1,0 +1,29 @@
+{
+  "qid": 149078,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có thẩm quyền xử phạt người điều khiển xe máy bật đèn chiếu xa trong khu đô thị khi đi buổi tối hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10345,
+    10304,
+    10306,
+    12671,
+    8473,
+    10320,
+    7299,
+    7295,
+    12302,
+    6177
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 18803,
+  "query": "Thời hạn xét thăng cấp bậc quân hàm đối với hạ sĩ quan Quân đội nhân dân Việt Nam đang phục vụ tại đơn vị là bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7334,
+    7335,
+    7331,
+    14491,
+    7332,
+    7330,
+    7340,
+    7341,
+    7328,
+    11499
+  ]
+}

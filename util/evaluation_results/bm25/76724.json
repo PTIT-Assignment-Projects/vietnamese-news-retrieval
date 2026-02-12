@@ -1,0 +1,29 @@
+{
+  "qid": 76724,
+  "query": "Quy định về truy thu, truy lĩnh đối với trường hợp hưởng sai chế độ chính sách ưu đãi người có công với cách mạng?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11059,
+    13388,
+    1216,
+    6075,
+    3787,
+    11501,
+    2574,
+    11057,
+    14394,
+    11047
+  ]
+}

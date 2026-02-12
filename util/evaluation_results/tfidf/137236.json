@@ -1,0 +1,29 @@
+{
+  "qid": 137236,
+  "query": "Giáo viên công tác tại trường dạy nghề cho trẻ em khuyết tật có được hưởng phụ cấp ưu đãi và phụ cấp trách nhiệm công việc không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13835,
+    13842,
+    1685,
+    8464,
+    13840,
+    3914,
+    13847,
+    8501,
+    8461,
+    1684
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 89050,
+  "query": "Tổng cục Thủy sản ngoài việc quản lý tài khoản truy cập cơ sở dữ liệu quốc gia về thủy sản thì còn trách nhiệm gì khác?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10001,
+    2997,
+    3003,
+    12801,
+    6107,
+    6116,
+    7006,
+    11224,
+    4379,
+    12799
+  ]
+}

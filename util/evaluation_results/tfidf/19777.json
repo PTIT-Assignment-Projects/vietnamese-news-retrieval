@@ -1,0 +1,29 @@
+{
+  "qid": 19777,
+  "query": "Phụ cấp trách nhiệm đối với Trưởng kho Khu Di tích Hồ Chí Minh tại Phủ Chủ tịch được chi trả khi nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1685,
+    9207,
+    9203,
+    1686,
+    9202,
+    3819,
+    431,
+    14401,
+    11053,
+    1683
+  ]
+}

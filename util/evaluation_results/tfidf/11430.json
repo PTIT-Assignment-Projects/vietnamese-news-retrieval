@@ -1,0 +1,29 @@
+{
+  "qid": 11430,
+  "query": "Khi nào bắt buộc trưng cầu giám định với việc xem xét dấu vết trên thân thể trong tố tụng hình sự?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10680,
+    10682,
+    1010,
+    1009,
+    7928,
+    1008,
+    7927,
+    1006,
+    7931,
+    4009
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 267,
+  "query": "Tiêu chuẩn chung về đạo đức nghề nghiệp của thư viện viên hạng 4 làm việc trong các đơn vị sự nghiệp công lập như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14235,
+    13119,
+    8734,
+    14248,
+    3852,
+    14231,
+    2820,
+    1535,
+    3870,
+    14270
+  ]
+}

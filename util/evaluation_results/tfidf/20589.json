@@ -1,0 +1,29 @@
+{
+  "qid": 20589,
+  "query": "Cơ quan nào có trách nhiệm bố trí việc chăm sóc, nuôi dưỡng trẻ em Việt Nam được cho làm con nuôi nước ngoài phải quay trở lại Việt Nam?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3240,
+    3239,
+    3245,
+    3244,
+    3227,
+    3226,
+    3237,
+    13970,
+    3232,
+    3242
+  ]
+}

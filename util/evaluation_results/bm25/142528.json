@@ -1,0 +1,29 @@
+{
+  "qid": 142528,
+  "query": "Bãi bỏ các quy định liên quan tới hình thức xử phạt tước quyền sử dụng Giấy phép kinh doanh vận tải bằng xe ô tô từ ngày 01/9/2022?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13145,
+    13148,
+    10325,
+    10379,
+    10326,
+    13143,
+    13162,
+    10331,
+    13135,
+    13139
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 24307,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt tổ chức nộp hồ sơ xin giấy phép nhập khẩu trang thiết bị y tế nhưng tài liệu không bảo đảm tính hợp pháp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14617,
+    14614,
+    14615,
+    14616,
+    14618,
+    14544,
+    8471,
+    12302,
+    14613,
+    1883
+  ]
+}

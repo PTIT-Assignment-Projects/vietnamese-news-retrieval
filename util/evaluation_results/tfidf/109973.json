@@ -1,0 +1,29 @@
+{
+  "qid": 109973,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt chủ nguồn thải chất thải nguy hại không bố trí khu vực lưu giữ chất thải nguy hại theo quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8705,
+    8481,
+    8472,
+    8471,
+    9092,
+    8706,
+    4896,
+    12302,
+    9091,
+    679
+  ]
+}

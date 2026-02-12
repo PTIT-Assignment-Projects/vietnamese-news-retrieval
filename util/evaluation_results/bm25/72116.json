@@ -1,0 +1,29 @@
+{
+  "qid": 72116,
+  "query": "Mỗi cuộc điều tra thống kê trong Ngành Tư pháp bắt buộc phải có phương án điều tra thống kê hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3640,
+    3641,
+    3629,
+    3637,
+    3639,
+    12401,
+    12825,
+    12403,
+    12404,
+    3638
+  ]
+}

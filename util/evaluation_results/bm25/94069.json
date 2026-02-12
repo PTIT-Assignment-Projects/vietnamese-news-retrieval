@@ -1,0 +1,29 @@
+{
+  "qid": 94069,
+  "query": "Việc đánh giá mức độ tuân thủ Thực hành tốt phân phối nguyên liệu làm thuốc của cơ sở phân phối gồm bao nhiêu mức độ?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3537,
+    2511,
+    14599,
+    3549,
+    3538,
+    3536,
+    2504,
+    14601,
+    2508,
+    14598
+  ]
+}

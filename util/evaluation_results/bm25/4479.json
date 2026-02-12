@@ -1,0 +1,29 @@
+{
+  "qid": 4479,
+  "query": "Chủ tịch Ủy ban nhân dân xã có quyền xử phạt vi phạm hành chính đối với hành vi hủy hoại thẻ Căn cước công dân không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4640,
+    12639,
+    11615,
+    3104,
+    12633,
+    1717,
+    834,
+    8481,
+    12637,
+    10379
+  ]
+}

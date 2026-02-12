@@ -1,0 +1,29 @@
+{
+  "qid": 168364,
+  "query": "Doanh nghiệp lưu thông thức ăn thủy sản trên thị trường khi chưa gửi thông tin đến Bộ Nông nghiệp và Phát triển nông thôn bị xử phạt thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14324,
+    4637,
+    14322,
+    8507,
+    8529,
+    8504,
+    4379,
+    7008,
+    12445,
+    14326
+  ]
+}

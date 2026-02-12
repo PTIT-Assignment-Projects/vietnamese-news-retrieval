@@ -1,0 +1,29 @@
+{
+  "qid": 17649,
+  "query": "Cá nhân tham gia phòng chống bạo lực gia đình mà bị thiệt hại về tài sản thì có được bồi thường hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8031,
+    8035,
+    1692,
+    7606,
+    1689,
+    1699,
+    8033,
+    12737,
+    8028,
+    1694
+  ]
+}

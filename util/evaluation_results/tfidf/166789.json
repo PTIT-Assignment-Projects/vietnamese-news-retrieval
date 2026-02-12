@@ -1,0 +1,29 @@
+{
+  "qid": 166789,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt Văn phòng Thừa phát lại không bảo đảm trang phục cho Thừa phát lại không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9427,
+    8943,
+    8942,
+    5854,
+    8944,
+    5830,
+    7307,
+    8955,
+    8956,
+    8987
+  ]
+}

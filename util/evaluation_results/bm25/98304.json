@@ -1,0 +1,29 @@
+{
+  "qid": 98304,
+  "query": "Hội đồng xét xử tái thẩm hủy bản án hình sự để điều tra lại thì Kiểm sát viên có phải kiểm sát việc Tòa án chuyển hồ sơ vụ án cho Viện kiểm sát để điều tra không?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    12728,
+    10835,
+    10638,
+    10873,
+    10519,
+    10803,
+    10837,
+    10737,
+    10716,
+    10503
+  ]
+}

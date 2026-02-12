@@ -1,0 +1,29 @@
+{
+  "qid": 32477,
+  "query": "Khi đang triển khai tiêm chủng mà xảy ra tai biến nặng sau tiêm chủng thì người đứng đầu cơ sở tiêm chủng có trách nhiệm gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11662,
+    14550,
+    11672,
+    11660,
+    11663,
+    11679,
+    11668,
+    11680,
+    11674,
+    11664
+  ]
+}

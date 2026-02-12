@@ -1,0 +1,29 @@
+{
+  "qid": 149814,
+  "query": "Chủ tịch Uỷ ban nhân dân huyện có thể ủy quyền cho Phó Chủ tịch Uỷ ban nhân dân huyện ký quyết định giải quyết khiếu nại không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3099,
+    8472,
+    8481,
+    3104,
+    8471,
+    8478,
+    1717,
+    9233,
+    3105,
+    12302
+  ]
+}

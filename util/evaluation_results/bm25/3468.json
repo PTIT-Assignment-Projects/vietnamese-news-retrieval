@@ -1,0 +1,29 @@
+{
+  "qid": 3468,
+  "query": "Nhu cầu về Chấp hành viên sơ cấp của địa phương phải được Cục Thi hành án dân sự báo cáo về Tổng cục Thi hành án dân sự chậm nhất vào khoảng thời gian nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2364,
+    2372,
+    2369,
+    2374,
+    6802,
+    2366,
+    9475,
+    2373,
+    2314,
+    2380
+  ]
+}

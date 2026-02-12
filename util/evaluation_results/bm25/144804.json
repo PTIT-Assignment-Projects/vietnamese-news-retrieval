@@ -1,0 +1,29 @@
+{
+  "qid": 144804,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt cơ sở in xuất bản phẩm lưu giữ không đầy đủ hồ sơ nhận in xuất bản phẩm không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14929,
+    1467,
+    1463,
+    1466,
+    14924,
+    1464,
+    1470,
+    1471,
+    1468,
+    1455
+  ]
+}

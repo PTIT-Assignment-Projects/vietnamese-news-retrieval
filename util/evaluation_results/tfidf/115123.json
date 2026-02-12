@@ -1,0 +1,29 @@
+{
+  "qid": 115123,
+  "query": "Cá nhân không đăng ký thi đua thì có được bình xét các danh hiệu thi đua ngành Văn hóa Thể thao và Du lịch hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4003,
+    9382,
+    5584,
+    9399,
+    7842,
+    594,
+    1133,
+    7843,
+    9381,
+    142
+  ]
+}

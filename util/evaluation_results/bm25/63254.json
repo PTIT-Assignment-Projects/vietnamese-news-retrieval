@@ -1,0 +1,29 @@
+{
+  "qid": 63254,
+  "query": "Thanh tra viên thuộc Thanh tra Bộ Khoa học và Công nghệ có quyền xử phạt tổ chức đại diện sở hữu công nghiệp cố ý tư vấn sai quy định pháp luật về sở hữu công nghiệp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11415,
+    11390,
+    11416,
+    12789,
+    11417,
+    3944,
+    11414,
+    11418,
+    11401,
+    11398
+  ]
+}

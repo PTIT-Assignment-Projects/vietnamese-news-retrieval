@@ -1,0 +1,29 @@
+{
+  "qid": 62410,
+  "query": "Tổ chức hành chính Tổng cục Tiêu chuẩn Đo lường Chất lượng giúp Tổng cục trưởng thực hiện chức năng quản lý nhà nước gồm những tổ chức nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8806,
+    8804,
+    553,
+    12790,
+    2610,
+    7082,
+    549,
+    8805,
+    552,
+    573
+  ]
+}

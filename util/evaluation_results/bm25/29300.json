@@ -1,0 +1,29 @@
+{
+  "qid": 29300,
+  "query": "Thành phần hồ sơ đề nghị hỗ trợ khi hòa giải viên gặp tai nạn hoặc rủi ro ảnh hưởng đến sức khỏe, tính mạng trong khi thực hiện hoạt động hòa giải bao gồm những gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1907,
+    10270,
+    10268,
+    8164,
+    8168,
+    8166,
+    10269,
+    6665,
+    10266,
+    2489
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 5095,
+  "query": "Nguyên tắc đấu giá tài sản ngoài việc phải bảo vệ quyền, lợi ích hợp pháp của người trúng đấu giá thì cần đảm bảo những yếu tố nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 0.5,
+    "ndcg@1": 1.0,
+    "p@5": 0.4,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.2,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    693,
+    694,
+    762,
+    759,
+    735,
+    733,
+    692,
+    738,
+    731,
+    726
+  ]
+}

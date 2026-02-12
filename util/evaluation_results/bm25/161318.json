@@ -1,0 +1,29 @@
+{
+  "qid": 161318,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt hoa tiêu hàng hải dẫn tàu di chuyển trong vùng nước cảng khi chưa có lệnh điều động của Cảng vụ hàng hải không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11626,
+    13074,
+    9104,
+    8375,
+    13076,
+    11630,
+    11621,
+    13071,
+    11628,
+    7663
+  ]
+}

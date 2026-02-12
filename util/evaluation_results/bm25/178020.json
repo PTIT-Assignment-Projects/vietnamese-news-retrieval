@@ -1,0 +1,29 @@
+{
+  "qid": 178020,
+  "query": "Quyết định miễn nhiệm Chủ tịch Hội đồng quản lý đơn vị sự nghiệp công lập thuộc ngành Nông nghiệp và Phát triển nông thôn do ai ban hành?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    3156,
+    8756,
+    8740,
+    5545,
+    3153,
+    5544,
+    8753,
+    1221,
+    3154,
+    3151
+  ]
+}

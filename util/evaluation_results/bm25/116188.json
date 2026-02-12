@@ -1,0 +1,29 @@
+{
+  "qid": 116188,
+  "query": "Khi thụ lý vụ án có đơn kháng cáo thì tòa án cấp phúc thẩm cần phân công thẩm phán làm chủ tọa phiên tòa trong thời hạn bao nhiêu ngày?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10817,
+    10823,
+    10825,
+    10831,
+    10754,
+    10932,
+    10765,
+    10732,
+    10755,
+    10824
+  ]
+}

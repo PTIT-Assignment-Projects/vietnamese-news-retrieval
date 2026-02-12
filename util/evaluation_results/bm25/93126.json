@@ -1,0 +1,29 @@
+{
+  "qid": 93126,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt hãng hàng không không tổ chức diễn tập phòng cháy và chữa cháy hàng không không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7436,
+    7437,
+    4369,
+    5928,
+    5877,
+    2933,
+    2931,
+    2935,
+    12971,
+    14566
+  ]
+}

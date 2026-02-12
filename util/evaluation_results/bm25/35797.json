@@ -1,0 +1,29 @@
+{
+  "qid": 35797,
+  "query": "Kinh phí hỗ trợ tiền đóng học phí và chi phí sinh hoạt của sinh viên sư phạm được bồi hoàn theo phương thức nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14387,
+    14391,
+    14384,
+    14385,
+    14383,
+    14386,
+    14390,
+    14388,
+    14380,
+    9730
+  ]
+}

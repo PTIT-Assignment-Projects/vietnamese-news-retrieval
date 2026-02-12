@@ -1,0 +1,29 @@
+{
+  "qid": 164368,
+  "query": "Việc ủy quyền cho người khác thực hiện đăng ký hộ tịch có phải công chứng hay chứng thực không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4555,
+    1607,
+    4574,
+    4570,
+    2258,
+    4581,
+    1633,
+    4578,
+    4588,
+    4556
+  ]
+}

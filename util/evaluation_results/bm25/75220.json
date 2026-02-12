@@ -1,0 +1,29 @@
+{
+  "qid": 75220,
+  "query": "Có phải sinh hoạt phí của sĩ quan quân đội thuộc cơ quan Việt Nam ở nước ngoài được xác định dựa trên hệ số lương của sĩ quan?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8792,
+    9465,
+    7561,
+    8793,
+    14491,
+    11503,
+    8075,
+    14230,
+    11498,
+    9464
+  ]
+}

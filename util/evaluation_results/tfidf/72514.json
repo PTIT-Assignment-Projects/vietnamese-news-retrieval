@@ -1,0 +1,29 @@
+{
+  "qid": 72514,
+  "query": "Tiêu chuẩn chung về đạo đức nghề nghiệp của giáo viên giáo dục nghề nghiệp hạng 2 dạy lý thuyết như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12978,
+    12977,
+    1532,
+    2817,
+    1538,
+    14235,
+    1533,
+    3852,
+    1534,
+    3455
+  ]
+}

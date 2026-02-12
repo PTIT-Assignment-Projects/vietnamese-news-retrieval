@@ -1,0 +1,29 @@
+{
+  "qid": 157845,
+  "query": "Quyết định giải quyết bồi thường khi sử dụng vắc xin trong chương trình tiêm chủng mở rộng gây ảnh hưởng đến sức khỏe của người được tiêm chủng có hiệu lực khi nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11672,
+    11671,
+    11676,
+    14550,
+    11669,
+    11670,
+    11659,
+    11664,
+    11662,
+    11667
+  ]
+}

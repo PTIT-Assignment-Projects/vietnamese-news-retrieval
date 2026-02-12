@@ -1,0 +1,29 @@
+{
+  "qid": 152165,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt cơ sở tiêm chủng không bảo đảm an toàn trong khi tiêm chủng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11664,
+    14550,
+    11659,
+    11681,
+    11661,
+    11662,
+    11667,
+    11669,
+    11670,
+    11680
+  ]
+}

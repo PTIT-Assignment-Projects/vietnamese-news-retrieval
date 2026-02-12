@@ -1,0 +1,29 @@
+{
+  "qid": 88873,
+  "query": "Tổ chức chịu trách nhiệm ghi nhãn thuốc, nguyên liệu làm thuốc kể cả nhãn phụ, tờ hướng dẫn sử dụng thuốc phải bảo đảm các yêu cầu gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1096,
+    1095,
+    1121,
+    1094,
+    1127,
+    14605,
+    1125,
+    1093,
+    1124,
+    1097
+  ]
+}

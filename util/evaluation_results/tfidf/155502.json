@@ -1,0 +1,29 @@
+{
+  "qid": 155502,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt Văn phòng Thừa phát lại không niêm yết chi phí thực hiện công việc không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8987,
+    7307,
+    8944,
+    8990,
+    8943,
+    8942,
+    9427,
+    8931,
+    9409,
+    8956
+  ]
+}

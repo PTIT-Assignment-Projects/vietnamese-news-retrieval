@@ -1,0 +1,29 @@
+{
+  "qid": 117837,
+  "query": "Bị cáo là đồng phạm trong vụ án hình sự có yêu cầu bồi thường thiệt hại nhưng chết trước khi xét xử thì Tòa án xử lý sao?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10919,
+    10503,
+    12699,
+    10749,
+    10737,
+    10745,
+    6686,
+    12728,
+    12724,
+    10750
+  ]
+}

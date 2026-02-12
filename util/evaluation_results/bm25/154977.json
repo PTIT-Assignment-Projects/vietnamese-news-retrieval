@@ -1,0 +1,29 @@
+{
+  "qid": 154977,
+  "query": "Tổ chức, cá nhân có quyền và trách nhiệm như thế nào trong việc tặng Kỷ niệm chương Vì sự nghiệp Văn thư Lưu trữ của Bộ Nội vụ?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6663,
+    986,
+    3483,
+    6676,
+    983,
+    5600,
+    7702,
+    977,
+    976,
+    2109
+  ]
+}

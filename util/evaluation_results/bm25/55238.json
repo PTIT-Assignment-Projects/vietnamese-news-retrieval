@@ -1,0 +1,29 @@
+{
+  "qid": 55238,
+  "query": "Việc trao tặng bằng khen của Chánh án Tòa án nhân dân tối cao trong ngành Tòa án trao cho những cá nhân nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1156,
+    1527,
+    1167,
+    1165,
+    871,
+    1504,
+    1526,
+    1488,
+    10844,
+    1152
+  ]
+}

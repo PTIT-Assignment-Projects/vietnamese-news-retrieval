@@ -1,0 +1,29 @@
+{
+  "qid": 149263,
+  "query": "Cải chính hộ tịch liên quan đến việc đăng ký lại kết hôn theo quy định có được ủy quyền cho người khác hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4555,
+    4570,
+    2266,
+    4573,
+    4579,
+    4564,
+    4554,
+    3131,
+    4585,
+    4581
+  ]
+}

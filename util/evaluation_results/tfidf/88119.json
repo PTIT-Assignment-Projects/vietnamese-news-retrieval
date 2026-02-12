@@ -1,0 +1,29 @@
+{
+  "qid": 88119,
+  "query": "Người dân tộc thiểu số trúng tuyển trong kỳ thi tuyển công chức ngạch Kiểm tra viên hải quan cần đạt bao nhiêu điểm ở vòng 2?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9156,
+    2372,
+    9154,
+    2362,
+    9155,
+    2375,
+    8413,
+    8334,
+    8321,
+    14249
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 53455,
+  "query": "Chi phí thực hiện tương trợ tư pháp về hình sự giữa Việt Nam và nước ngoài sẽ do bên phía nào chi trả?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7986,
+    7965,
+    7968,
+    7956,
+    8017,
+    8019,
+    7971,
+    8024,
+    7961,
+    8016
+  ]
+}

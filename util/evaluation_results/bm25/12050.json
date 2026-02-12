@@ -1,0 +1,29 @@
+{
+  "qid": 12050,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt người sửa chữa làm sai lệch nội dung của Giấy phép nhập khẩu giống vật nuôi không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11127,
+    9328,
+    13145,
+    8472,
+    8481,
+    8471,
+    9337,
+    1077,
+    9324,
+    14490
+  ]
+}

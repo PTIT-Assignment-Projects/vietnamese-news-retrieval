@@ -1,0 +1,29 @@
+{
+  "qid": 55959,
+  "query": "Ngoài nơi đón tiếp khách cơ sở kinh doanh dịch vụ thể thao đạt tiêu chuẩn phục vụ khách du lịch cần đáp ứng điều kiện gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6616,
+    9799,
+    6617,
+    9788,
+    11971,
+    9792,
+    6607,
+    11048,
+    11972,
+    6614
+  ]
+}

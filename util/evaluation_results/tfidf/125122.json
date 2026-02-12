@@ -1,0 +1,29 @@
+{
+  "qid": 125122,
+  "query": "Doanh nghiệp lựa chọn Trọng tài đua ngựa không tuân theo quy định pháp luật thì bị phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6491,
+    6487,
+    6488,
+    6490,
+    6489,
+    11029,
+    6493,
+    6537,
+    6492,
+    11026
+  ]
+}

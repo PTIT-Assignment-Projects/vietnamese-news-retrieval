@@ -1,0 +1,29 @@
+{
+  "qid": 49597,
+  "query": "Chánh Thanh tra sở Văn hóa, Thể thao và Du lịch có quyền xử phạt hướng dẫn viên du lịch cho người khác mượn thẻ hướng dẫn viên du lịch của mình không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9805,
+    9807,
+    9801,
+    9806,
+    9804,
+    9803,
+    6623,
+    4003,
+    9808,
+    9802
+  ]
+}

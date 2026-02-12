@@ -1,0 +1,29 @@
+{
+  "qid": 94075,
+  "query": "Đối với hệ thống thông tin trong hoạt động ngân hàng thì việc quản lý quá trình phát triển phần mềm được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10230,
+    10200,
+    10231,
+    10195,
+    3386,
+    7881,
+    10455,
+    7117,
+    7880,
+    10197
+  ]
+}

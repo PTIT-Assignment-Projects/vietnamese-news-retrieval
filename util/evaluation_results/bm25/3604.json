@@ -1,0 +1,29 @@
+{
+  "qid": 3604,
+  "query": "Sử dụng vật liệu bao gói thực phẩm có chứa chất độc hại để sản xuất thực phẩm thì doanh nghiệp có bị đình chỉ hoạt động không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14177,
+    14178,
+    14179,
+    14171,
+    14173,
+    14188,
+    14191,
+    5284,
+    14555,
+    14183
+  ]
+}

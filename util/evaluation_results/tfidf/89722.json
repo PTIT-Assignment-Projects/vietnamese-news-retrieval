@@ -1,0 +1,29 @@
+{
+  "qid": 89722,
+  "query": "Chủ tịch Ủy ban nhân dân tỉnh có quyền xử phạt doanh nghiệp công nghiệp sử dụng sản phẩm động viên công nghiệp vào mục đích kinh doanh không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13538,
+    13531,
+    8481,
+    679,
+    8472,
+    8471,
+    678,
+    13537,
+    13533,
+    14690
+  ]
+}

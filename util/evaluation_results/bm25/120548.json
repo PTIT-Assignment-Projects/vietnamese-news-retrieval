@@ -1,0 +1,29 @@
+{
+  "qid": 120548,
+  "query": "Vụ việc đang do Văn phòng Thừa phát lại tổ chức thi hành án thì có thể yêu cầu cơ quan thi hành án dân sự tiếp tục thực hiện không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8982,
+    8984,
+    8981,
+    9417,
+    9425,
+    8969,
+    8979,
+    8991,
+    9000,
+    8986
+  ]
+}

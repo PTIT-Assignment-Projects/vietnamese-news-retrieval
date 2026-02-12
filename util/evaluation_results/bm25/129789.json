@@ -1,0 +1,29 @@
+{
+  "qid": 129789,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt hãng hàng không không thực hiện báo cáo công tác bảo vệ môi trường trong khai thác tàu bay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2931,
+    5929,
+    5938,
+    1797,
+    5874,
+    7438,
+    5935,
+    7436,
+    1793,
+    4367
+  ]
+}

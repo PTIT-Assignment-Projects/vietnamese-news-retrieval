@@ -1,0 +1,29 @@
+{
+  "qid": 140213,
+  "query": "Lập giấy ủy quyền để xin cấp Giấy xác nhận tình trạng hôn nhân thì có cần phải công chứng, chứng thực hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2275,
+    4565,
+    1633,
+    1607,
+    1627,
+    1431,
+    1626,
+    1631,
+    1441,
+    1616
+  ]
+}

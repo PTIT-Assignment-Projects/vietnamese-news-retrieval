@@ -1,0 +1,29 @@
+{
+  "qid": 92986,
+  "query": "Công ty có mua bảo hiểm tai nạn con người 24/24 thì có cần trả trợ cấp/bồi thường khi người lao động bị tai nạn lao động không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4180,
+    4183,
+    4176,
+    4182,
+    4187,
+    4179,
+    4185,
+    1903,
+    4186,
+    11438
+  ]
+}

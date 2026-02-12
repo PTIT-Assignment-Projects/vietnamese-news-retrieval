@@ -1,0 +1,29 @@
+{
+  "qid": 40793,
+  "query": "Giấy tờ có giá dùng trong hoạt động chiết khấu giấy tờ có giá khác của chi nhánh ngân hàng nước ngoài phải đáp ứng được những điều kiện nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4025,
+    159,
+    163,
+    4021,
+    4014,
+    4016,
+    171,
+    4022,
+    4026,
+    173
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 142561,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã nơi có biên giới có quyền xử phạt vi phạm hành chính đối với cá nhân qua biên giới để làm ruộng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3128,
+    13709,
+    9683,
+    4640,
+    9687,
+    13712,
+    3130,
+    5277,
+    11615,
+    2130
+  ]
+}

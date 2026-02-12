@@ -1,0 +1,29 @@
+{
+  "qid": 125662,
+  "query": "Luồng đường thủy nội địa địa phương có thể xin chuyển đổi thành luồng đường thủy nội địa quốc gia hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 0.5,
+    "ndcg@1": 1.0,
+    "p@5": 0.4,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.2,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9054,
+    9051,
+    9083,
+    9053,
+    9052,
+    9055,
+    9081,
+    9073,
+    9072,
+    9084
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 92035,
+  "query": "Giáo viên trung học cơ sở hạng II có cần phải được công nhận danh hiệu chiến sĩ thi đua hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1533,
+    3852,
+    3847,
+    3875,
+    1537,
+    2817,
+    1532,
+    1538,
+    1534,
+    2820
+  ]
+}

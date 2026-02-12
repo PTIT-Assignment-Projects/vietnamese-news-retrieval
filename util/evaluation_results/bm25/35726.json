@@ -1,0 +1,29 @@
+{
+  "qid": 35726,
+  "query": "Người tổ chức sự kiện giới thiệu mỹ phẩm nhưng không thông báo tới cơ quan có thẩm quyền thì bị xử phạt thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14610,
+    9530,
+    14612,
+    14609,
+    14608,
+    14611,
+    9533,
+    14542,
+    151,
+    8360
+  ]
+}

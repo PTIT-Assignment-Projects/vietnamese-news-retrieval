@@ -1,0 +1,29 @@
+{
+  "qid": 152815,
+  "query": "Đơn vị dự toán cấp huyện ký quyết định phân công phụ trách kế toán cho Cán bộ kiêm nhiệm hay phải chủ tịch huyện ký phân công phụ trách kế toán?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4393,
+    4394,
+    9365,
+    4395,
+    9147,
+    1543,
+    9146,
+    2862,
+    6654,
+    2903
+  ]
+}

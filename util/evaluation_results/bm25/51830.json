@@ -1,0 +1,29 @@
+{
+  "qid": 51830,
+  "query": "Người khiếu nại thông báo không kháng nghị theo thủ tục giám đốc thẩm đối với quyết định của Tòa án trong vụ án hình sự có những quyền và nghĩa vụ gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10857,
+    10521,
+    10872,
+    10853,
+    10856,
+    10848,
+    10863,
+    10844,
+    10871,
+    10504
+  ]
+}

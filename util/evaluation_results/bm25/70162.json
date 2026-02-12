@@ -1,0 +1,29 @@
+{
+  "qid": 70162,
+  "query": "Trong trường hợp quyết định không khởi tố vụ án hình sự thì biện pháp ngăn chặn đang áp dụng có bị hủy bỏ không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10602,
+    10642,
+    10713,
+    10635,
+    10513,
+    10760,
+    10928,
+    10638,
+    12724,
+    10518
+  ]
+}

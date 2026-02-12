@@ -1,0 +1,29 @@
+{
+  "qid": 159966,
+  "query": "Những đối tượng nào được ưu tiên cộng điểm trong tuyển dụng công chức vị trí chuyên viên Quản lý Tài chính?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14213,
+    14217,
+    14224,
+    2363,
+    2379,
+    7561,
+    3788,
+    2025,
+    8171,
+    7563
+  ]
+}

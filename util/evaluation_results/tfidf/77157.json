@@ -1,0 +1,29 @@
+{
+  "qid": 77157,
+  "query": "Ai có quyền quyết định việc xét tặng danh hiệu Chiến sỹ thi đua cơ sở ngành Kiểm sát nhân dân?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1360,
+    1331,
+    1333,
+    1370,
+    3476,
+    6295,
+    1332,
+    1320,
+    5584,
+    1369
+  ]
+}

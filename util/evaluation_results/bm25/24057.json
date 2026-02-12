@@ -1,0 +1,29 @@
+{
+  "qid": 24057,
+  "query": "Có thể cung cấp các thông tin về kiểm toán nội bộ ra ngoài trong một số trường hợp nhất định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6863,
+    5693,
+    5672,
+    6851,
+    5688,
+    5681,
+    5687,
+    6860,
+    5675,
+    5671
+  ]
+}

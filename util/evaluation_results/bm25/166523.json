@@ -1,0 +1,29 @@
+{
+  "qid": 166523,
+  "query": "Thủ tục hải quan đối với hành lý của người nhập cảnh vào Việt Nam gửi trước, gửi sau chuyến đi được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8367,
+    8366,
+    8312,
+    2803,
+    8365,
+    8379,
+    11632,
+    8353,
+    467,
+    8313
+  ]
+}

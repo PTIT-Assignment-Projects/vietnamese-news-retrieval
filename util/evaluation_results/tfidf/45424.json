@@ -1,0 +1,29 @@
+{
+  "qid": 45424,
+  "query": "Bảo quản dự phòng đối với tài liệu đặc biệt cho người khuyết tật trong thư viện công lập được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2725,
+    2721,
+    13841,
+    1246,
+    3445,
+    1235,
+    1242,
+    1237,
+    2751,
+    1239
+  ]
+}

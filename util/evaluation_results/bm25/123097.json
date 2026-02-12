@@ -1,0 +1,29 @@
+{
+  "qid": 123097,
+  "query": "Có được tặng quà và tổ chức chiêu đãi trong các hoạt động kỷ niệm ngày truyền thống ngành Tuyên giáo của Đảng không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13643,
+    986,
+    6663,
+    13640,
+    6662,
+    13648,
+    1344,
+    985,
+    8856,
+    8754
+  ]
+}

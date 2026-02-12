@@ -1,0 +1,29 @@
+{
+  "qid": 160451,
+  "query": "Khi phát hiện công chức được giao nhiệm vụ giám sát có vi phạm pháp luật người ra quyết định thanh tra thuế xử lý như thế nào?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    5121,
+    5119,
+    5123,
+    5114,
+    5115,
+    5118,
+    5122,
+    5126,
+    5112,
+    5110
+  ]
+}

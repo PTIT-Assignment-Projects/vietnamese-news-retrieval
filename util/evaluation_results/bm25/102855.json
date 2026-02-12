@@ -1,0 +1,29 @@
+{
+  "qid": 102855,
+  "query": "Việc bàn giao người nước ngoài đang chấp hành án phạt tù trên lãnh thổ Việt Nam cho nước tiếp nhận thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    291,
+    277,
+    278,
+    292,
+    280,
+    296,
+    275,
+    10964,
+    288,
+    285
+  ]
+}

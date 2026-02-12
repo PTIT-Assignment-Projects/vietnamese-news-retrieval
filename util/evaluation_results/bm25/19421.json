@@ -1,0 +1,29 @@
+{
+  "qid": 19421,
+  "query": "Thực hiện dân chủ trong hoạt động của cơ sở khám chữa bệnh công lập thông qua những nội dung nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5946,
+    5961,
+    3153,
+    9253,
+    805,
+    4753,
+    3142,
+    4124,
+    9530,
+    5139
+  ]
+}

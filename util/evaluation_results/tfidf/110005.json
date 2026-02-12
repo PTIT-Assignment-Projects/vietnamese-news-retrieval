@@ -1,0 +1,29 @@
+{
+  "qid": 110005,
+  "query": "Hội đồng tư vấn chuyên môn đánh giá nguyên nhân tai biến nặng trong quá trình sử dụng vắc xin cấp tỉnh có nhiệm vụ gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11663,
+    11664,
+    11665,
+    11674,
+    501,
+    7776,
+    11084,
+    8260,
+    8261,
+    11679
+  ]
+}

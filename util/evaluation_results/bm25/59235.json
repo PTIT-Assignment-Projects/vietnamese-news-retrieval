@@ -1,0 +1,29 @@
+{
+  "qid": 59235,
+  "query": "Cán bộ là Bí thư Thành ủy Thành phố Hồ Chí Minh được sử dụng thường xuyên một xe ô tô với mức giá bao nhiêu trong thời gian công tác?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    4453,
+    4454,
+    4455,
+    4461,
+    4466,
+    4469,
+    4460,
+    4464,
+    978,
+    145
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 16358,
+  "query": "Chấp hành viên sơ cấp có thể được bổ nhiệm Phó Trưởng phòng Phòng Nghiệp vụ và tổ chức thi hành án dân sự khi đáp ứng được các tiêu chuẩn hay không?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    2374,
+    2323,
+    2322,
+    13063,
+    2324,
+    2396,
+    2325,
+    2314,
+    9475,
+    6806
+  ]
+}

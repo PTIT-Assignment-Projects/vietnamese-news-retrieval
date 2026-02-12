@@ -1,0 +1,29 @@
+{
+  "qid": 38966,
+  "query": "Hồ sơ đề nghị thanh lọc tài nguyên thông tin của thư viện công lập sẽ gồm những gì? Và được gửi đến cơ quan nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2743,
+    2721,
+    2749,
+    2745,
+    2742,
+    2748,
+    2744,
+    2736,
+    2737,
+    2746
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 81695,
+  "query": "Người mắc bệnh truyền nhiễm thuộc nhóm A từ chối cách ly y tế theo quyết định của cơ quan có thẩm quyền bị phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14552,
+    14551,
+    10415,
+    14548,
+    10413,
+    10425,
+    14553,
+    14554,
+    14557,
+    10426
+  ]
+}

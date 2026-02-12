@@ -1,0 +1,29 @@
+{
+  "qid": 26556,
+  "query": "Kinh phí cho giáo viên trường công lập đi học lớp trung cấp lý luận chính trị được lấy từ nguồn nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9846,
+    3335,
+    6751,
+    3846,
+    6360,
+    8499,
+    8809,
+    9862,
+    2814,
+    2817
+  ]
+}

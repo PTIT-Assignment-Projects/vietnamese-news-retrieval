@@ -1,0 +1,29 @@
+{
+  "qid": 89341,
+  "query": "Thời hạn lưu trữ đối với chứng từ kế toán sử dụng và không sử dụng trực tiếp ghi sổ kế toán là bao nhiêu năm?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2883,
+    2870,
+    5827,
+    9147,
+    2868,
+    12083,
+    2865,
+    2871,
+    2885,
+    2862
+  ]
+}

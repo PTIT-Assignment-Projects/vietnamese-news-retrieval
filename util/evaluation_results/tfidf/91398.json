@@ -1,0 +1,29 @@
+{
+  "qid": 91398,
+  "query": "Các cơ sở giáo dục nào đủ điều kiện để kiểm tra để công nhận bác sĩ người nước ngoài biết tiếng Việt thành thạo hoặc sử dụng thành thạo ngôn ngữ khác trong khám bệnh, chữa bệnh?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12367,
+    12369,
+    12368,
+    7756,
+    12354,
+    7760,
+    14579,
+    12351,
+    7285,
+    11078
+  ]
+}

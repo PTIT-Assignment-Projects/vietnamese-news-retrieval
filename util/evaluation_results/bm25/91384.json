@@ -1,0 +1,29 @@
+{
+  "qid": 91384,
+  "query": "Trường hợp để công nhận người đủ trình độ phiên dịch trong khám bệnh, chữa bệnh mà không phải qua kiểm tra gồm trường hợp nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12369,
+    12367,
+    12368,
+    12354,
+    14579,
+    12371,
+    11815,
+    7753,
+    7282,
+    11083
+  ]
+}

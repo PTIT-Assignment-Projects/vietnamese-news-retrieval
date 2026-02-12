@@ -1,0 +1,29 @@
+{
+  "qid": 28818,
+  "query": "Khi lập vi bằng Thừa phát lại có bắt buộc phải giải thích giá trị pháp lý của vi bằng hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8965,
+    8964,
+    8966,
+    5859,
+    5868,
+    5858,
+    5829,
+    8962,
+    8968,
+    5860
+  ]
+}

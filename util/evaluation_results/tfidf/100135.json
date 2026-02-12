@@ -1,0 +1,29 @@
+{
+  "qid": 100135,
+  "query": "Người giảng dạy thực hành điều dưỡng viên đối với học viên trình độ Đại học phải có tối thiểu bao nhiêu năm kinh nghiệm?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13626,
+    13627,
+    1046,
+    13625,
+    13620,
+    13633,
+    13635,
+    13632,
+    6975,
+    13634
+  ]
+}

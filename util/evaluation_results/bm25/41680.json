@@ -1,0 +1,29 @@
+{
+  "qid": 41680,
+  "query": "Thuyết minh hồ sơ nhiệm vụ quy hoạch chi tiết xây dựng điểm dân cư nông thôn tại xã về những vấn đề gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2411,
+    2401,
+    2418,
+    2413,
+    2409,
+    2412,
+    2414,
+    2404,
+    2402,
+    2406
+  ]
+}

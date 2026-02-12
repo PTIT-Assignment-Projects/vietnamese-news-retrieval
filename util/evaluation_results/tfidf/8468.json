@@ -1,0 +1,29 @@
+{
+  "qid": 8468,
+  "query": "Trường hợp người được giao quyền trưởng, giao phụ trách đơn vị sự nghiệp công lập hoặc tổ chức cấu thành đơn vị sự nghiệp công lập ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8081,
+    8077,
+    14254,
+    3153,
+    7798,
+    12006,
+    14214,
+    12004,
+    12007,
+    3147
+  ]
+}

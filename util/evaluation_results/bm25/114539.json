@@ -1,0 +1,29 @@
+{
+  "qid": 114539,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt người kê khai không trung thực hồ sơ đăng ký công nhận hạng cơ sở lưu trú du lịch không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9793,
+    9796,
+    9795,
+    8283,
+    1883,
+    9770,
+    9752,
+    6624,
+    8280,
+    8471
+  ]
+}

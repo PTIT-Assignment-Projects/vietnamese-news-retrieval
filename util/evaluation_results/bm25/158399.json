@@ -1,0 +1,29 @@
+{
+  "qid": 158399,
+  "query": "Công dân khiếu nại Chánh văn phòng Ủy ban nhân dân tỉnh với hành chậm xử lý đơn quá thời hạn thì ai sẽ có thẩm quyền giải quyết?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3099,
+    1761,
+    634,
+    3182,
+    3101,
+    635,
+    683,
+    680,
+    658,
+    2129
+  ]
+}

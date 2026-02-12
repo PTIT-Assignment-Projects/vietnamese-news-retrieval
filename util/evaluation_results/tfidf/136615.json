@@ -1,0 +1,29 @@
+{
+  "qid": 136615,
+  "query": "Nhiệm vụ, quyền hạn của công chức thanh tra chuyên ngành tiến hành thanh tra độc lập được quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7029,
+    7012,
+    7017,
+    13396,
+    7032,
+    7003,
+    7013,
+    7001,
+    13379,
+    7016
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 119616,
+  "query": "Khi thực hiện nhiệm vụ thanh tra chuyên ngành tôn giáo tại Ban Tôn giáo Chính phủ, công chức thanh tra được cấp thẻ không?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    4271,
+    4268,
+    4267,
+    4262,
+    4270,
+    4269,
+    4266,
+    4272,
+    4261,
+    4263
+  ]
+}

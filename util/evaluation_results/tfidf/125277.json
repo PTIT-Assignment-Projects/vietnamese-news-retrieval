@@ -1,0 +1,29 @@
+{
+  "qid": 125277,
+  "query": "Cơ sở kinh doanh dịch vụ chăm sóc sức khỏe đạt tiêu chuẩn phục vụ khách du lịch có bắt buộc phải có nội quy, quy trình làm việc không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6617,
+    9799,
+    9797,
+    11573,
+    11569,
+    9131,
+    9800,
+    6607,
+    9752,
+    9768
+  ]
+}

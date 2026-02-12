@@ -1,0 +1,29 @@
+{
+  "qid": 1752,
+  "query": "Ai có quyền tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực tư pháp của Tòa án nhân dân?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1520,
+    1521,
+    1522,
+    1485,
+    1516,
+    1523,
+    1525,
+    3177,
+    2660,
+    1503
+  ]
+}

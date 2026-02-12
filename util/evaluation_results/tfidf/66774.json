@@ -1,0 +1,29 @@
+{
+  "qid": 66774,
+  "query": "Việc thực hiện nghị quyết Hội nghị cán bộ công chức được kiểm tra định kỳ bao nhiêu tháng một lần?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    812,
+    806,
+    2336,
+    4128,
+    813,
+    807,
+    2911,
+    2024,
+    808,
+    4135
+  ]
+}

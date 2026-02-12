@@ -1,0 +1,29 @@
+{
+  "qid": 24956,
+  "query": "Tổ chức tín dụng mua bán nợ từ một công ty khác thì có được phép tiếp tục thu lãi từ hợp đồng vay nợ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5809,
+    5793,
+    9545,
+    9549,
+    9472,
+    9930,
+    3354,
+    9547,
+    9557,
+    274
+  ]
+}

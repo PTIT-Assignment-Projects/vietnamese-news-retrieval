@@ -1,0 +1,29 @@
+{
+  "qid": 117200,
+  "query": "Quy định về trình tự, thủ tục giao đất, cho thuê đất đối với trường hợp đấu giá quyền sử dụng đất không thành được áp dụng khi nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    746,
+    14719,
+    14724,
+    14727,
+    11099,
+    1591,
+    11124,
+    14673,
+    4324,
+    11121
+  ]
+}

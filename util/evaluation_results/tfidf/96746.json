@@ -1,0 +1,29 @@
+{
+  "qid": 96746,
+  "query": "Luồng đường thủy nội địa đi qua hai tỉnh, thành phố trực thuộc trung ương được xếp vào loại luồng đường thủy nội địa nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9051,
+    9083,
+    9053,
+    9108,
+    9081,
+    9055,
+    9084,
+    9106,
+    9052,
+    11165
+  ]
+}

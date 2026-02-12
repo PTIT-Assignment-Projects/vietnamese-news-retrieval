@@ -1,0 +1,29 @@
+{
+  "qid": 40726,
+  "query": "Bộ trưởng Bộ Xây dựng có được ủy quyền cho người khác thực hiện phát ngôn và cung cấp thông tin cho báo chí thay mình không?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    9735,
+    9740,
+    9739,
+    9736,
+    9738,
+    9737,
+    3647,
+    3646,
+    11708,
+    14910
+  ]
+}

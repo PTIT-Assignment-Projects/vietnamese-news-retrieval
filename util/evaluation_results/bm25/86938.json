@@ -1,0 +1,29 @@
+{
+  "qid": 86938,
+  "query": "Trình tự đánh giá đột xuất mức độ tuân thủ Thực hành tốt bảo quản thuốc, nguyên liệu làm thuốc được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14602,
+    3537,
+    14599,
+    14598,
+    1095,
+    14601,
+    7763,
+    2511,
+    1121,
+    1097
+  ]
+}

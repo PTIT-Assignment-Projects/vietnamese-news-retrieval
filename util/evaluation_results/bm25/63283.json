@@ -1,0 +1,29 @@
+{
+  "qid": 63283,
+  "query": "Chánh Thanh tra sở Thông tin và Truyền thông có quyền ra quyết định xử phạt đối với sinh viên nói xấu giáo viên trong group kín Facebook không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14198,
+    7031,
+    11615,
+    11127,
+    7015,
+    3304,
+    7033,
+    7014,
+    7041,
+    3658
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 123553,
+  "query": "Trưởng đoàn thanh tra của Cục Báo chí có quyền xử phạt cơ quan báo chí tẩy xóa giấy phép trong hoạt động báo chí không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14907,
+    14906,
+    4053,
+    14935,
+    14198,
+    4052,
+    14904,
+    9912,
+    14903,
+    9914
+  ]
+}

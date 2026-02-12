@@ -1,0 +1,29 @@
+{
+  "qid": 178394,
+  "query": "Nhân viên cơ sở kinh doanh dịch vụ mua sắm đạt tiêu chuẩn phục vụ khách du lịch cần đáp ứng những tiêu chuẩn nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6614,
+    9799,
+    6617,
+    6616,
+    6615,
+    9788,
+    6607,
+    6626,
+    9792,
+    6624
+  ]
+}

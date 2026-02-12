@@ -1,0 +1,29 @@
+{
+  "qid": 117658,
+  "query": "Khai báo không đầy đủ thông tin của thiết bị hạt nhân theo quy định thì tổ chức bị xử phạt vi phạm hành chính thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12019,
+    12023,
+    11129,
+    6408,
+    11467,
+    12063,
+    10936,
+    6934,
+    12053,
+    3290
+  ]
+}

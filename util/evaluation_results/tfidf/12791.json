@@ -1,0 +1,29 @@
+{
+  "qid": 12791,
+  "query": "Giáo viên trung học phổ thông hạng 2 phải có thời gian giữ chức danh giáo viên trung học phổ thông hạng 3 trong bao lâu thì mới được dự thi xét thăng hạng?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4644,
+    1539,
+    14242,
+    14241,
+    6924,
+    14245,
+    14243,
+    13118,
+    14244,
+    14240
+  ]
+}

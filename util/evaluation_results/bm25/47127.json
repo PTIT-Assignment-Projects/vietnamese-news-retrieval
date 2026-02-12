@@ -1,0 +1,29 @@
+{
+  "qid": 47127,
+  "query": "Bộ Kế hoạch và Đầu tư có được tổ chức kỳ thi sát hạch cấp chứng chỉ hành nghề đấu thầu từ nguồn ngân sách nhà nước hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4506,
+    4515,
+    4505,
+    4514,
+    4503,
+    4502,
+    4512,
+    4504,
+    4513,
+    4516
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 59457,
+  "query": "Quán ăn dùng ly nhựa, hộp nhựa sử dụng một lần bị nhiễm chì và Cd không đảm bảo chất lượng an toàn để đựng thức ăn, nước uống thì sẽ bị xử phạt như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14128,
+    14444,
+    3219,
+    8494,
+    8493,
+    1832,
+    5855,
+    4315,
+    9249,
+    2074
+  ]
+}

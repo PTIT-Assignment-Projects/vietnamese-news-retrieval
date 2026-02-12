@@ -1,0 +1,29 @@
+{
+  "qid": 47936,
+  "query": "Người khai hải quan đối với doanh nghiệp FDI thanh lý máy móc thiết bị, xuất bán kho ngoại quan/nước ngoài là ai?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8395,
+    8391,
+    8357,
+    8347,
+    11995,
+    11994,
+    8393,
+    8389,
+    8392,
+    11998
+  ]
+}

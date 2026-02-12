@@ -1,0 +1,29 @@
+{
+  "qid": 160416,
+  "query": "Đơn vị sự nghiệp (Trung tâm y tế) tuyển dụng viên chức vào ngành Hệ thống thông tin quản lý thì xếp chức danh nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6463,
+    1536,
+    8457,
+    14249,
+    14270,
+    14228,
+    14231,
+    7787,
+    14220,
+    14265
+  ]
+}

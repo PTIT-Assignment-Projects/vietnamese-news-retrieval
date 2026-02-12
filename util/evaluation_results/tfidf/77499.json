@@ -1,0 +1,29 @@
+{
+  "qid": 77499,
+  "query": "Việc thực hiện ủy thác tư pháp của nước ngoài về điều tra đối với công dân nước ngoài tại Việt Nam được quy định thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7985,
+    7971,
+    10648,
+    7969,
+    7961,
+    8022,
+    7966,
+    7974,
+    7982,
+    7976
+  ]
+}

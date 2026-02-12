@@ -1,0 +1,29 @@
+{
+  "qid": 71922,
+  "query": "Xét tặng danh hiệu \"Lao động tiên tiến\" cho công chức viên chức cần đáp ứng những tiêu chuẩn gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7852,
+    981,
+    6299,
+    1330,
+    7853,
+    5588,
+    6286,
+    1142,
+    8847,
+    8862
+  ]
+}

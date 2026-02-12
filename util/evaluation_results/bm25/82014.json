@@ -1,0 +1,29 @@
+{
+  "qid": 82014,
+  "query": "Đối với trường hợp không cảnh báo nguy cơ xảy ra sự cố thì Chủ tịch ủy ban nhân dân tỉnh có quyền xử phạt vi phạm hành chính hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6913,
+    4640,
+    11615,
+    10169,
+    14170,
+    3304,
+    8481,
+    1707,
+    10184,
+    8473
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 153790,
+  "query": "Viên chức quản lý được chuyển đổi chức vụ theo vị trí việc làm mới thì có cần bổ nhiệm, bổ nhiệm lại hay là ra quyết định kéo dài thời gian?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2334,
+    2357,
+    14256,
+    2335,
+    14251,
+    14250,
+    14260,
+    14259,
+    14257,
+    14258
+  ]
+}

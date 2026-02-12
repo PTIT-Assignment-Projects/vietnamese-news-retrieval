@@ -1,0 +1,29 @@
+{
+  "qid": 116436,
+  "query": "Cá nhân trong Quân đội nhân dân gian dối trong việc kê khai thành tích để được khen thưởng thì bị xử lý như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3504,
+    1150,
+    1376,
+    10015,
+    5585,
+    7682,
+    1358,
+    1134,
+    2904,
+    10032
+  ]
+}

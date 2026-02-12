@@ -1,0 +1,29 @@
+{
+  "qid": 69891,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt doanh nghiệp yêu cầu người lao động dự tuyển xuất trình kết quả xét nghiệm HIV không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14564,
+    2764,
+    41,
+    14561,
+    8472,
+    8471,
+    13180,
+    8283,
+    2765,
+    4898
+  ]
+}

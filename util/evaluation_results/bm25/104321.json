@@ -1,0 +1,29 @@
+{
+  "qid": 104321,
+  "query": "Giao nhận tiền mặt trong ngành Ngân hàng theo bao, hộp, thùng nguyên niêm phong theo quy định pháp luật",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    379,
+    432,
+    2235,
+    371,
+    381,
+    369,
+    382,
+    373,
+    3828,
+    428
+  ]
+}

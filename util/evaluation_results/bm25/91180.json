@@ -1,0 +1,29 @@
+{
+  "qid": 91180,
+  "query": "Việc phối hợp bảo vệ cưỡng chế trong thi hành án dân sự theo quy định phải bảo đảm các nguyên tắc nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3029,
+    3024,
+    3019,
+    3022,
+    3025,
+    3023,
+    3020,
+    3028,
+    3027,
+    3030
+  ]
+}

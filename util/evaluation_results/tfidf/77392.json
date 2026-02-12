@@ -1,0 +1,29 @@
+{
+  "qid": 77392,
+  "query": "Đề nghị giảm thời hạn chấp hành án phạt tù đối với phạm nhân phạm tội xâm phạm an ninh quốc gia thì cần cơ quan nào tham gia thẩm định?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1886,
+    1901,
+    1890,
+    1891,
+    4438,
+    1892,
+    3047,
+    295,
+    3048,
+    3052
+  ]
+}

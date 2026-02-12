@@ -1,0 +1,29 @@
+{
+  "qid": 149670,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt hành chính doanh nghiệp bán hàng đa cấp không công bố giá bán các hàng hóa được kinh doanh theo phương thức đa cấp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12947,
+    12950,
+    12949,
+    12944,
+    12945,
+    12943,
+    14828,
+    6179,
+    12946,
+    12099
+  ]
+}

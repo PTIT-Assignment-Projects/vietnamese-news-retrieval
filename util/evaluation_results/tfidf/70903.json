@@ -1,0 +1,29 @@
+{
+  "qid": 70903,
+  "query": "Tổ giám sát thực hiện việc giám sát hoạt động của Đoàn thanh tra thuế gồm những ai? Quyết định giám sát được ban hành và công bố như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5119,
+    5121,
+    5122,
+    5112,
+    5124,
+    5115,
+    5114,
+    4963,
+    5110,
+    5125
+  ]
+}

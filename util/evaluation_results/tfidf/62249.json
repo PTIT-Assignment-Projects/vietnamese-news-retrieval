@@ -1,0 +1,29 @@
+{
+  "qid": 62249,
+  "query": "Trong công tác thực hiện quy tắc ứng xử tại cơ sở y tế việc ban hành quy chế, tiêu chí về thi đua khen thưởng là trách nhiệm của cơ quan nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7175,
+    7172,
+    7179,
+    6763,
+    7178,
+    7171,
+    6316,
+    10017,
+    1325,
+    7722
+  ]
+}

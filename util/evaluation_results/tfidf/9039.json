@@ -1,0 +1,29 @@
+{
+  "qid": 9039,
+  "query": "Ngân hàng thương mại có những nghĩa vụ gì trong hoạt động chiết khấu công cụ chuyển nhượng đối với khách hàng?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4027,
+    4016,
+    4025,
+    2432,
+    4014,
+    4026,
+    4021,
+    4022,
+    4015,
+    4023
+  ]
+}

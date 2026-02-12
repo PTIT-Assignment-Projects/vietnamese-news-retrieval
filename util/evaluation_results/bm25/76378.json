@@ -1,0 +1,29 @@
+{
+  "qid": 76378,
+  "query": "Sau khi thụ lý vụ án thì Tòa án phải tiến hành xét xử phúc thẩm vụ án hình sự trong thời hạn bao nhiêu ngày?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10932,
+    10823,
+    10839,
+    10818,
+    3978,
+    10817,
+    10837,
+    10737,
+    10835,
+    10930
+  ]
+}

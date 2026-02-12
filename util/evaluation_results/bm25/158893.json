@@ -1,0 +1,29 @@
+{
+  "qid": 158893,
+  "query": "Đoàn đánh giá có quyền hạn gì khi thực hiện công tác đánh giá mức độ tuân thủ mức độ Thực hành tốt bảo quản thuốc, nguyên liệu làm thuốc tại các cơ sở bảo quản?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    14602,
+    3549,
+    3537,
+    2513,
+    14599,
+    7763,
+    1095,
+    14601,
+    1121,
+    14598
+  ]
+}

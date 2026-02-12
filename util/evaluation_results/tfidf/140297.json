@@ -1,0 +1,29 @@
+{
+  "qid": 140297,
+  "query": "Hiệu trưởng trường phổ thông công lập không hoàn thành nhiệm vụ có bị cho thôi việc không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8809,
+    7782,
+    499,
+    491,
+    512,
+    3846,
+    7786,
+    6751,
+    498,
+    496
+  ]
+}

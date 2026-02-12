@@ -1,0 +1,29 @@
+{
+  "qid": 64626,
+  "query": "Khi thi tuyển công chức cấp huyện thì con đẻ của người hoạt động kháng chiến bị nhiễm chất độc màu da cam được cộng bao nhiêu điểm?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14213,
+    13723,
+    14394,
+    2372,
+    14217,
+    11327,
+    6680,
+    2364,
+    2368,
+    11329
+  ]
+}

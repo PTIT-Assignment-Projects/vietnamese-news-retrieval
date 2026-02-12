@@ -1,0 +1,29 @@
+{
+  "qid": 42436,
+  "query": "Cơ quan nào có thẩm quyền quyết định tặng danh hiệu thi đua hình thức khen thưởng trong ngành xây dựng?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6286,
+    5605,
+    10011,
+    1372,
+    7706,
+    2083,
+    8862,
+    5612,
+    7845,
+    5604
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 70635,
+  "query": "Không có chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ mà điều khiển xe lu tĩnh bánh thép thì sẽ bị phạt như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10320,
+    6002,
+    10331,
+    6006,
+    5997,
+    6008,
+    5999,
+    6007,
+    6001,
+    10345
+  ]
+}

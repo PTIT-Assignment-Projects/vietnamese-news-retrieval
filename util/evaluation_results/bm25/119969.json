@@ -1,0 +1,29 @@
+{
+  "qid": 119969,
+  "query": "Cục trưởng Cục Quản lý thị trường cấp tỉnh có quyền xử phạt doanh nghiệp không ghi thời hạn bảo hành của hàng hóa có bảo hành bán trong Trung tâm thương mại không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14350,
+    14341,
+    14357,
+    8389,
+    14348,
+    14332,
+    14940,
+    8405,
+    14349,
+    14615
+  ]
+}

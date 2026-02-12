@@ -1,0 +1,29 @@
+{
+  "qid": 138963,
+  "query": "Khi miễn trách nhiệm hình sự cho người dưới 18 tuổi phạm tội mà xét thấy có đủ điều kiện áp dụng biện pháp khiển trách thì ai có thẩm quyền ra quyết định áp dụng biện pháp này?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    6706,
+    10894,
+    10562,
+    10898,
+    10895,
+    6707,
+    10919,
+    10956,
+    9008,
+    1921
+  ]
+}

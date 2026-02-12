@@ -1,0 +1,29 @@
+{
+  "qid": 59727,
+  "query": "Để được xét thăng hạng cảng vụ viên đường thủy nội địa hạng 2, viên chức phải có thời gian giữ chức danh nghề nghiệp cảng vụ viên đường thủy nội địa bao lâu?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    9109,
+    3874,
+    9105,
+    5196,
+    9059,
+    5200,
+    9098,
+    9062,
+    9087,
+    9104
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 30686,
+  "query": "Không trang bị thiết bị thông tin liên lạc thì chủ tàu cá hoạt động khai thác thủy sản ngoài vùng biển Việt Nam bị phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14484,
+    14480,
+    10359,
+    14485,
+    3708,
+    5876,
+    2780,
+    14479,
+    14180,
+    14478
+  ]
+}

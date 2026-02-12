@@ -1,0 +1,29 @@
+{
+  "qid": 143782,
+  "query": "Khi kinh doanh trò chơi điện tử có thưởng cho người nước ngoài thì doanh nghiệp cần tuân thủ những nguyên tắc nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3256,
+    7945,
+    3255,
+    3248,
+    3259,
+    3262,
+    3263,
+    7944,
+    7949,
+    11319
+  ]
+}

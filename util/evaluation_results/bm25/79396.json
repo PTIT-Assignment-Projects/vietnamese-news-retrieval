@@ -1,0 +1,29 @@
+{
+  "qid": 79396,
+  "query": "Công chức bị truy cứu trách nhiệm hình sự, đã có quyết định của Toà án nhưng được hưởng án treo thì có phải thôi việc không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8152,
+    8151,
+    8153,
+    10840,
+    13765,
+    10602,
+    7999,
+    10967,
+    10966,
+    10834
+  ]
+}

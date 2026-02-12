@@ -1,0 +1,29 @@
+{
+  "qid": 100715,
+  "query": "Trường hợp bị can trong vụ án hình sự phạm nhiều tội thì Viện kiểm sát có tiến hành nhập vụ án trong giai đoạn truy tố không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10719,
+    10647,
+    10716,
+    10724,
+    10929,
+    10751,
+    10726,
+    10713,
+    6686,
+    10717
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 29505,
+  "query": "Cục Hộ tịch, quốc tịch, chứng thực đề xuất kế hoạch thanh tra gửi Thanh tra Bộ Tư pháp để tổng hợp chậm nhất vào ngày nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7039,
+    3642,
+    13390,
+    2278,
+    7010,
+    4263,
+    6328,
+    13391,
+    3636,
+    3640
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 61852,
+  "query": "Phòng xét nghiệm tham chiếu của các cơ sở khám chữa bệnh được Bộ Y tế đánh giá định kỳ bao nhiêu năm một lần?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    265,
+    270,
+    263,
+    266,
+    269,
+    264,
+    271,
+    12376,
+    2762,
+    11506
+  ]
+}

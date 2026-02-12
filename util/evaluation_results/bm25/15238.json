@@ -1,0 +1,29 @@
+{
+  "qid": 15238,
+  "query": "Hình thức kiểm tra kết quả tập sự hành nghề công chứng có kiểm tra viết hay kiểm tra vấn đáp không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4214,
+    6577,
+    6579,
+    4224,
+    4200,
+    4215,
+    4227,
+    4228,
+    4207,
+    4209
+  ]
+}

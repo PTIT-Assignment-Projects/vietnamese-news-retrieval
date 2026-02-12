@@ -1,0 +1,29 @@
+{
+  "qid": 135738,
+  "query": "Văn phòng Thừa phát lại sẽ có những quyền hạn gì khi được Đoàn kiểm tra tiến hành kiểm tra hoạt động?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8943,
+    9431,
+    8955,
+    8956,
+    5864,
+    5866,
+    5845,
+    8957,
+    9426,
+    6345
+  ]
+}

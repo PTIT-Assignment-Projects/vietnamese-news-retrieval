@@ -1,0 +1,29 @@
+{
+  "qid": 177253,
+  "query": "Điều chỉnh đề cương và dự toán chi tiết hoạt động ứng dụng công nghệ thông tin sử dụng kinh phí thuộc nguồn vốn ngân sách nhà nước được quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    3795,
+    3794,
+    3797,
+    3796,
+    3801,
+    3802,
+    4592,
+    6010,
+    3798,
+    3799
+  ]
+}

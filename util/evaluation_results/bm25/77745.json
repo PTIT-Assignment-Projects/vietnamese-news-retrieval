@@ -1,0 +1,29 @@
+{
+  "qid": 77745,
+  "query": "Cá nhân sử dụng Giấy đăng ký xe máy không đúng số khung của xe khi tham gia giao thông thì có bị tịch thu xe hay không?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    10328,
+    10314,
+    10320,
+    6002,
+    10332,
+    6171,
+    10306,
+    10319,
+    10309,
+    11427
+  ]
+}

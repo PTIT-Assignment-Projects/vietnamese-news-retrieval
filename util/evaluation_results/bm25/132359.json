@@ -1,0 +1,29 @@
+{
+  "qid": 132359,
+  "query": "Hồ sơ đề nghị kéo dài thời gian giữ chức vụ Phó Tổng biên tập Báo Giáo dục và Thời đại có cần kết luận của cấp ủy về tiêu chuẩn chính trị không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14260,
+    13111,
+    8194,
+    997,
+    14259,
+    6666,
+    13061,
+    14279,
+    14252,
+    2396
+  ]
+}

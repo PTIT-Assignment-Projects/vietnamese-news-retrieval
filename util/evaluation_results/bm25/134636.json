@@ -1,0 +1,29 @@
+{
+  "qid": 134636,
+  "query": "Cơ quan nhà nước thực hiện giải thi đấu thể thao cho công chức cấp huyện thì cần báo cáo đến đến đơn vị nào? Thời gian báo cáo ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9265,
+    9264,
+    9266,
+    9260,
+    254,
+    9262,
+    9261,
+    9258,
+    9259,
+    3406
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 154164,
+  "query": "Trong hồ sơ chứng từ kế toán mà doanh nghiệp sử dụng con dấu chữ ký khắc sẵn thì có trái quy định không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2863,
+    2862,
+    2860,
+    12081,
+    2865,
+    11339,
+    9147,
+    149,
+    2847,
+    9146
+  ]
+}

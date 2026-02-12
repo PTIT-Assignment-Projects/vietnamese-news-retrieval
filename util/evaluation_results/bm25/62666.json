@@ -1,0 +1,29 @@
+{
+  "qid": 62666,
+  "query": "Cá nhân đạt danh hiệu hai danh hiệu “Chiến sĩ thi đua cơ sở” và “Chiến sĩ thi đua cấp Bộ” thì mức tiền thưởng được xác định theo danh hiệu nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6290,
+    7687,
+    8748,
+    8845,
+    6300,
+    8844,
+    8841,
+    7852,
+    7851,
+    8862
+  ]
+}

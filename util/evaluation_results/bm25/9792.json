@@ -1,0 +1,29 @@
+{
+  "qid": 9792,
+  "query": "Đã khởi tố 55 bị can trong cùng một vụ án hình sự mà trong quá trình điều tra phát hiện còn người có hành vi phạm tội chưa bị khởi tố thì sẽ giải quyết như thế nào?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    10642,
+    10641,
+    10656,
+    10516,
+    10713,
+    10633,
+    12727,
+    12726,
+    10513,
+    10630
+  ]
+}

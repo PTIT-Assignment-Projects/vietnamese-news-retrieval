@@ -1,0 +1,29 @@
+{
+  "qid": 91885,
+  "query": "Để vật nuôi trâu bò thả rông gây ảnh hưởng đến an toàn cho người tham gia giao thông và gây mất vệ sinh bị xử lý ra sao?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3404,
+    4709,
+    1062,
+    1057,
+    14547,
+    3203,
+    8109,
+    6884,
+    1113,
+    3406
+  ]
+}

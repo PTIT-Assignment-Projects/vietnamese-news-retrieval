@@ -1,0 +1,29 @@
+{
+  "qid": 76883,
+  "query": "Ai có thẩm quyền yêu cầu cung cấp thông tin, tài liệu, đồ vật; yêu cầu giải trình về những hành vi có dấu hiệu tội phạm, vi phạm hành chính?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11829,
+    10621,
+    2016,
+    2020,
+    2012,
+    10730,
+    10962,
+    11072,
+    10675,
+    11700
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 114392,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt tổ chức không đăng ký kinh doanh đại lý lữ hành tại cơ quan nhà nước có thẩm quyền không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9783,
+    13193,
+    9786,
+    4898,
+    9784,
+    8481,
+    6609,
+    1761,
+    9778,
+    9780
+  ]
+}

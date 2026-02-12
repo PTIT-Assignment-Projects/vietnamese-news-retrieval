@@ -1,0 +1,29 @@
+{
+  "qid": 134208,
+  "query": "Theo quy định thì kết quả xét nghiệm HIV có được gửi đến cho người chuẩn bị kết hôn biết kết quả đó không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2764,
+    2758,
+    2755,
+    48,
+    49,
+    40,
+    42,
+    39,
+    599,
+    2763
+  ]
+}

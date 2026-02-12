@@ -1,0 +1,29 @@
+{
+  "qid": 91824,
+  "query": "Người tố giác tội phạm vắng mặt trong phiên xét xử vụ án hình sự có bị xem là hành vi cản trở hoạt động tố tụng hình sự không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10754,
+    10523,
+    10630,
+    10930,
+    10770,
+    10803,
+    989,
+    10621,
+    10773,
+    10573
+  ]
+}

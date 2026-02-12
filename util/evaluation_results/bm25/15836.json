@@ -1,0 +1,29 @@
+{
+  "qid": 15836,
+  "query": "Trưởng đoàn thanh tra của Cục Báo chí có quyền xử phạt doanh nghiệp được cấp phép thiết lập trang thông tin điện tử tổng hợp thay đổi chủ sở hữu nhưng không thông báo cho cơ quan có thẩm quyền không?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    14922,
+    14921,
+    2057,
+    14904,
+    6599,
+    2068,
+    14198,
+    7914,
+    9735,
+    4637
+  ]
+}

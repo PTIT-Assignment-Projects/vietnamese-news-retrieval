@@ -1,0 +1,29 @@
+{
+  "qid": 98618,
+  "query": "Doanh nghiệp kinh doanh kết cấu hạ tầng đường sắt quốc gia không lưu trữ hồ sơ tai nạn giao thông đường sắt thì bị xử phạt như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10346,
+    10368,
+    8115,
+    10353,
+    8114,
+    8111,
+    8113,
+    10347,
+    6764,
+    6767
+  ]
+}

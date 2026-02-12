@@ -1,0 +1,29 @@
+{
+  "qid": 40026,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Khoa học và Công nghệ có quyền xử phạt tổ chức khai báo không đầy đủ thông tin của nguồn phóng xạ không?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    1224,
+    12023,
+    6933,
+    1226,
+    4637,
+    14198,
+    6934,
+    11127,
+    12019,
+    8670
+  ]
+}

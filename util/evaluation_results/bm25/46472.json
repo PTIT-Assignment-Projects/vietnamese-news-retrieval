@@ -1,0 +1,29 @@
+{
+  "qid": 46472,
+  "query": "Ngoài Danh mục hàng hóa xuất nhập khẩu Việt Nam Bộ Tài chính còn có trách nhiệm ban hành nội dung liên quan nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8326,
+    8324,
+    9938,
+    8325,
+    14377,
+    11469,
+    9684,
+    12861,
+    5271,
+    8350
+  ]
+}

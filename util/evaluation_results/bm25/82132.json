@@ -1,0 +1,29 @@
+{
+  "qid": 82132,
+  "query": "Đăng ký hỗ trợ tiền đóng học phí và chi phí sinh hoạt đối với sinh viên sư phạm được thực hiện theo trình tự như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14386,
+    14384,
+    14383,
+    14387,
+    14385,
+    14391,
+    14390,
+    14380,
+    9725,
+    14388
+  ]
+}

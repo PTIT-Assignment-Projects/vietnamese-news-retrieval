@@ -1,0 +1,29 @@
+{
+  "qid": 135937,
+  "query": "Thẩm quyền lập biên bản vi phạm hành chính đối với hành vi bán hàng rong lấn chiếm vỉa hè đường bộ quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10377,
+    12063,
+    14850,
+    788,
+    13364,
+    14851,
+    14204,
+    4602,
+    2194,
+    10310
+  ]
+}

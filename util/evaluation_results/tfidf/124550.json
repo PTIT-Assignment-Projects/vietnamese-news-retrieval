@@ -1,0 +1,29 @@
+{
+  "qid": 124550,
+  "query": "Giáo viên dạy lớp 2 có trẻ khuyết tật trong trường phổ thông dân tộc bán trú có thuộc đối tượng được phụ cấp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14310,
+    6360,
+    8809,
+    4747,
+    6751,
+    6358,
+    12324,
+    14308,
+    7782,
+    14309
+  ]
+}

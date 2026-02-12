@@ -1,0 +1,29 @@
+{
+  "qid": 53564,
+  "query": "Giáo viên của cơ sở giáo dục thuộc Bộ Giáo dục và Đào tạo có được dạy văn hóa cho phạm nhân là người đang chấp hành án phạt tù tại các trại giam không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1841,
+    1844,
+    1850,
+    1842,
+    1845,
+    1838,
+    1837,
+    6654,
+    1894,
+    1848
+  ]
+}

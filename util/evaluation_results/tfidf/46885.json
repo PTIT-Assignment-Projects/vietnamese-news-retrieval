@@ -1,0 +1,29 @@
+{
+  "qid": 46885,
+  "query": "Phụ cấp trách nhiệm đối với huấn luyện viên trưởng đội tuyển thể thao Quốc gia có dùng để tính đóng bảo hiểm xã hội?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    585,
+    14094,
+    797,
+    255,
+    11858,
+    586,
+    14095,
+    802,
+    11859,
+    800
+  ]
+}

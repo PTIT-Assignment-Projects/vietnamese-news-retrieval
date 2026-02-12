@@ -1,0 +1,29 @@
+{
+  "qid": 34300,
+  "query": "Chủ tịch Ủy ban nhân dân xã có quyền xử phạt tài xế xe cứu thương sử dụng tín hiệu ưu tiên không đúng quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12322,
+    3972,
+    12306,
+    3971,
+    3970,
+    12319,
+    3969,
+    12318,
+    12320,
+    12305
+  ]
+}

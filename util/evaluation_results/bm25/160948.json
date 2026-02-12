@@ -1,0 +1,29 @@
+{
+  "qid": 160948,
+  "query": "Tuyển dụng và phân công nhiệm vụ để bảo đảm an toàn hệ thống thông tin trong hoạt động ngân hàng được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10204,
+    6837,
+    10241,
+    10238,
+    10159,
+    10191,
+    6842,
+    3395,
+    10203,
+    10195
+  ]
+}

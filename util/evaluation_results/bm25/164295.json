@@ -1,0 +1,29 @@
+{
+  "qid": 164295,
+  "query": "Hồ sơ khai báo nhập khẩu hàng hóa áp dụng biện pháp phòng vệ thương mại được giải quyết theo trình tự thủ tục nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12855,
+    5290,
+    12926,
+    5296,
+    12920,
+    12861,
+    12921,
+    12848,
+    5295,
+    12923
+  ]
+}

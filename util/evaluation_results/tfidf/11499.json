@@ -1,0 +1,29 @@
+{
+  "qid": 11499,
+  "query": "Có bao nhiêu loại hình khen thưởng trong công tác thi đua khen thưởng của Tòa án nhân dân?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1164,
+    1130,
+    1325,
+    7680,
+    10017,
+    3469,
+    10016,
+    1169,
+    6316,
+    6319
+  ]
+}

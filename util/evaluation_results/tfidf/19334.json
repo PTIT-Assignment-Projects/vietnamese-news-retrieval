@@ -1,0 +1,29 @@
+{
+  "qid": 19334,
+  "query": "Trường hợp Văn phòng Thừa phát lại tự chấm dứt hoạt động thì cơ quan nào sẽ cung cấp hồ sơ vi bằng theo yêu cầu của cơ quan có thẩm quyền?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    8956,
+    5860,
+    8955,
+    8943,
+    5830,
+    8950,
+    9428,
+    8948,
+    9431,
+    8966
+  ]
+}

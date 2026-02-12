@@ -1,0 +1,29 @@
+{
+  "qid": 42454,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt Thừa phát lại không ký vào từng trang của vi bằng không?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    8965,
+    8966,
+    9416,
+    8968,
+    4637,
+    5860,
+    5858,
+    11127,
+    4970,
+    8944
+  ]
+}

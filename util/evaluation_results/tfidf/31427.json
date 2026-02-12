@@ -1,0 +1,29 @@
+{
+  "qid": 31427,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt tổ chức khảo nghiệm thuốc thú y sử dụng người phụ trách kỹ thuật không Chứng chỉ hành nghề thú y không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11063,
+    9664,
+    12286,
+    8472,
+    8481,
+    12352,
+    8471,
+    3812,
+    12257,
+    679
+  ]
+}

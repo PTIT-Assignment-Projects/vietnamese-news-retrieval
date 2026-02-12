@@ -1,0 +1,29 @@
+{
+  "qid": 152864,
+  "query": "Thành phần của Hội đồng thẩm định tài nguyên thông tin đề nghị thanh lọc của thư viện công lập gồm những ai?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2745,
+    2749,
+    2746,
+    2744,
+    2721,
+    2742,
+    2743,
+    2748,
+    2737,
+    2735
+  ]
+}

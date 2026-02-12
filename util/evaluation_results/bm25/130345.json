@@ -1,0 +1,29 @@
+{
+  "qid": 130345,
+  "query": "Sở Công thương có trách nhiệm gì trong việc công bố danh sách người giám định tư pháp theo vụ việc trong lĩnh vực công thương?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    487,
+    4008,
+    7926,
+    1013,
+    4002,
+    2664,
+    4005,
+    7934,
+    7919,
+    7927
+  ]
+}

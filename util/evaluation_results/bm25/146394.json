@@ -1,0 +1,29 @@
+{
+  "qid": 146394,
+  "query": "Để được xét thăng hạng chức danh Phương pháp viên hạng 3, Phương pháp viên hạng 4 phải có thời gian giữ chức vụ tối thiểu bao nhiêu năm?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6460,
+    13119,
+    6452,
+    6453,
+    6459,
+    1536,
+    14239,
+    8737,
+    6924,
+    14236
+  ]
+}

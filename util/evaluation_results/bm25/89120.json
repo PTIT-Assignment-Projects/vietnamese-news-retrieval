@@ -1,0 +1,29 @@
+{
+  "qid": 89120,
+  "query": "Trưởng Công an nhân dân cấp huyện có thẩm quyền xử phạt tổ chức vi phạm quy định về nền giấy và màu mực thể hiện nội dung điều kiện giao dịch chung không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14940,
+    373,
+    777,
+    3885,
+    1488,
+    1933,
+    1504,
+    1523,
+    2863,
+    11832
+  ]
+}

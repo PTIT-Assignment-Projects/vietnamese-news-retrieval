@@ -1,0 +1,29 @@
+{
+  "qid": 70048,
+  "query": "Trung tâm đăng kiểm xe cơ giới sử dụng thiết bị kiểm định đã bị hư hỏng khi kiểm định sẽ bị xử phạt bao nhiêu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10336,
+    11447,
+    7907,
+    14819,
+    7917,
+    7911,
+    7910,
+    7912,
+    7915,
+    2610
+  ]
+}

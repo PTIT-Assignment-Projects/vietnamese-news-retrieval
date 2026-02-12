@@ -1,0 +1,29 @@
+{
+  "qid": 146547,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt tổ chức sử dụng kho bảo quản sản phẩm động vật không bảo đảm yêu cầu vệ sinh thú y không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9632,
+    9633,
+    9623,
+    9624,
+    9656,
+    9658,
+    9663,
+    8472,
+    8481,
+    9665
+  ]
+}

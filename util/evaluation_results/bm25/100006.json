@@ -1,0 +1,29 @@
+{
+  "qid": 100006,
+  "query": "Lãnh sự danh dự nước Việt Nam do Bộ trưởng Bộ Ngoại giao bổ nhiệm với nhiệm kỳ bao nhiêu năm?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1398,
+    1413,
+    1414,
+    1412,
+    1410,
+    1403,
+    1401,
+    1417,
+    1419,
+    1415
+  ]
+}

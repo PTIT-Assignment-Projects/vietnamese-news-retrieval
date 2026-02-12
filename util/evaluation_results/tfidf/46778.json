@@ -1,0 +1,29 @@
+{
+  "qid": 46778,
+  "query": "Chế độ, chính sách đối với viên chức miễn nhiệm và việc giải quyết khiếu nại, tố cáo liên quan đến miễn nhiệm quy định thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14263,
+    13514,
+    2224,
+    4839,
+    10950,
+    120,
+    4680,
+    12548,
+    14262,
+    10509
+  ]
+}

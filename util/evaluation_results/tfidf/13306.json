@@ -1,0 +1,29 @@
+{
+  "qid": 13306,
+  "query": "Doanh nghiệp sản xuất gây ồn thì chủ tịch Ủy ban nhân dân tỉnh có thẩm quyền xử phạt hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    679,
+    8481,
+    678,
+    8472,
+    8471,
+    685,
+    8473,
+    3512,
+    8468,
+    14082
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 29398,
+  "query": "Cục trưởng Cục Quản lý chất lượng sản phẩm, hàng hóa có quyền xử phạt tổ chức kinh doanh hàng hóa không rõ nguồn gốc, xuất xứ trên không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6179,
+    14828,
+    11995,
+    10405,
+    14809,
+    2301,
+    2787,
+    14810,
+    14851,
+    2777
+  ]
+}

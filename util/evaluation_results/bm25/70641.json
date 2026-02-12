@@ -1,0 +1,29 @@
+{
+  "qid": 70641,
+  "query": "Khi thi đấu môn Khiêu vũ thể thao, cơ sở vật chất và trang thiết bị thi đấu được chuẩn bị gồm những gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7746,
+    4411,
+    257,
+    6616,
+    12983,
+    7747,
+    9261,
+    9262,
+    254,
+    586
+  ]
+}

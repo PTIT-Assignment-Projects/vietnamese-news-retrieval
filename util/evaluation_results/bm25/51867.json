@@ -1,0 +1,29 @@
+{
+  "qid": 51867,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có được quyền xử phạt người lưu hành bản ghi âm, ghi hình có nội dung nghệ thuật biểu diễn xâm phạm chủ quyền và toàn vẹn lãnh thổ đất nước không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3556,
+    7289,
+    14921,
+    2750,
+    3555,
+    3654,
+    9917,
+    8472,
+    5990,
+    8471
+  ]
+}

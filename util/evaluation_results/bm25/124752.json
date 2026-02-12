@@ -1,0 +1,29 @@
+{
+  "qid": 124752,
+  "query": "Văn bản thông báo kết quả về việc nhất trí tại phiên họp xem xét kiến nghị của Hội đồng Thẩm phán Tòa án nhân dân tối cao trong vụ án hình sự thì có cần nêu rõ lý do không?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    10884,
+    10885,
+    10881,
+    10883,
+    10887,
+    10882,
+    10888,
+    10859,
+    3570,
+    7995
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 9037,
+  "query": "Khi thực hiện chiết khấu công cụ chuyển nhượng có tính rủi ro thì ngân hàng thương mại cần xử lý ra sao?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4016,
+    4027,
+    4014,
+    4025,
+    4026,
+    4015,
+    4022,
+    4021,
+    2432,
+    4023
+  ]
+}

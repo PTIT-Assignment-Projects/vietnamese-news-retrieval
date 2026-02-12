@@ -1,0 +1,29 @@
+{
+  "qid": 70575,
+  "query": "Bộ Công an chịu trách nhiệm trước Chính phủ trong quản lý nhà nước về hợp tác quốc tế trong lĩnh vực phòng chống ma tuý với những hoạt động nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4688,
+    4689,
+    4701,
+    4691,
+    4690,
+    4684,
+    4700,
+    13718,
+    2556,
+    4693
+  ]
+}

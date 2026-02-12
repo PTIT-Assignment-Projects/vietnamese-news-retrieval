@@ -1,0 +1,29 @@
+{
+  "qid": 110188,
+  "query": "Thời hạn để Viện kiểm sát cấp trên kháng nghị theo thủ tục phúc thẩm đối với bản án hình sự sơ thẩm chưa có hiệu lực pháp luật của Tòa án là bao lâu?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    10504,
+    10814,
+    10820,
+    10832,
+    10833,
+    10813,
+    1900,
+    10835,
+    10838,
+    10865
+  ]
+}

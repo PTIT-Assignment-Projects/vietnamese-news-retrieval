@@ -1,0 +1,29 @@
+{
+  "qid": 52555,
+  "query": "Chủ tịch Ủy ban nhân dân huyện có quyền xử phạt Trung tâm giáo dục nghề nghiệp không ký hợp đồng với giáo viên thỉnh giảng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14282,
+    14279,
+    11935,
+    3455,
+    3442,
+    3846,
+    5968,
+    8472,
+    8501,
+    8481
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 74693,
+  "query": "Trong bảo quản phục chế tài nguyên thông tin của thư viện công lập phải đảm bảo những nguyên tắc cơ bản nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2725,
+    2721,
+    2722,
+    2720,
+    2723,
+    2751,
+    2736,
+    2735,
+    2748,
+    2738
+  ]
+}

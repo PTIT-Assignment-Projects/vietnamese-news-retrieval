@@ -1,0 +1,29 @@
+{
+  "qid": 29127,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt tổ chức đấu giá tài sản khai không trung thực trong hồ sơ đề nghị đăng ký hoạt động doanh nghiệp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    712,
+    766,
+    713,
+    716,
+    722,
+    6588,
+    8471,
+    12344,
+    749,
+    719
+  ]
+}

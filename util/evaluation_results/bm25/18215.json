@@ -1,0 +1,29 @@
+{
+  "qid": 18215,
+  "query": "Người nước ngoài làm việc tại Việt Nam được trao tặng Giải thưởng Bông lúa vàng Việt Nam sẽ nhận được những quyền lợi gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6198,
+    6201,
+    8738,
+    6206,
+    6287,
+    975,
+    6208,
+    6202,
+    3491,
+    7864
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 46722,
+  "query": "Diễn biến của cuộc đấu giá tài sản nhà nước trong Bộ Quốc phòng có bắt buộc phải ghi vào biên bản đấu giá không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    731,
+    732,
+    734,
+    720,
+    740,
+    743,
+    724,
+    759,
+    721,
+    689
+  ]
+}

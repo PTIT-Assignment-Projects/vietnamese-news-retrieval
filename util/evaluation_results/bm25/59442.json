@@ -1,0 +1,29 @@
+{
+  "qid": 59442,
+  "query": "Mỗi người hướng dẫn tập luyện môn Taekwondo được hướng dẫn tối đa bao nhiêu võ sinh trong một buổi tập?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8781,
+    7748,
+    4414,
+    10053,
+    6616,
+    8779,
+    4415,
+    12982,
+    5628,
+    4411
+  ]
+}

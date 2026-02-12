@@ -1,0 +1,29 @@
+{
+  "qid": 83689,
+  "query": "Thanh tra viên thuộc Thanh tra Bộ Khoa học và Công nghệ có quyền xử phạt giám định viên sở hữu công nghiệp không lập hồ sơ giám định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3944,
+    11390,
+    11417,
+    12789,
+    11415,
+    11414,
+    11401,
+    11418,
+    4002,
+    11392
+  ]
+}

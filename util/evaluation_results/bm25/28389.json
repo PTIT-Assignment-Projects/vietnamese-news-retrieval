@@ -1,0 +1,29 @@
+{
+  "qid": 28389,
+  "query": "Bổ nhiệm theo chức danh nghề nghiệp đối với giáo viên trung học cơ sở được thực hiện theo nguyên tắc nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1534,
+    3852,
+    3847,
+    1537,
+    1535,
+    2820,
+    1533,
+    1539,
+    7724,
+    7726
+  ]
+}

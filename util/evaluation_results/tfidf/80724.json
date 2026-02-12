@@ -1,0 +1,29 @@
+{
+  "qid": 80724,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt đại lý bán lẻ thuốc lá phải không có biển thông báo không bán thuốc lá cho người chưa đủ 18 tuổi không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14567,
+    4939,
+    14566,
+    4940,
+    14570,
+    8481,
+    14568,
+    8472,
+    4941,
+    8471
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 134018,
+  "query": "Công chức dự thi nâng ngạch lên ngạch văn thư viên chính phải có thời gian giữ ngạch văn thư viên bao lâu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9988,
+    9983,
+    2363,
+    9156,
+    13115,
+    9985,
+    11003,
+    9984,
+    9986,
+    6926
+  ]
+}

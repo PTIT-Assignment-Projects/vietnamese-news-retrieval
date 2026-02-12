@@ -1,0 +1,29 @@
+{
+  "qid": 31903,
+  "query": "Thời hạn kháng cáo bản án hình sự sơ thẩm được tính kể từ khi nào? Nếu bị cáo vắng mặt tại phiên tòa sơ thẩm thì có được kháng cáo không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10810,
+    10831,
+    10840,
+    10737,
+    10739,
+    10828,
+    10825,
+    10839,
+    10732,
+    10834
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 98477,
+  "query": "Ban quản lý cơ sở tín ngưỡng thông báo đến cơ quan nhà nước các khoản thu từ việc tổ chức lễ hội tín ngưỡng trong bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2145,
+    2143,
+    2144,
+    13405,
+    2141,
+    2140,
+    2142,
+    2139,
+    2136,
+    2169
+  ]
+}

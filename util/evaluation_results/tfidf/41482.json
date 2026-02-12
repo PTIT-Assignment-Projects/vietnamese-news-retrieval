@@ -1,0 +1,29 @@
+{
+  "qid": 41482,
+  "query": "Khi nào phải gửi danh sách tiến bộ kỹ thuật đã được công nhận về Vụ Khoa học Công nghệ và Môi trường để tổng hợp, trình Bộ trưởng ban hành Danh mục tiến bộ kỹ thuật?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4385,
+    4384,
+    4387,
+    4380,
+    4383,
+    4386,
+    6650,
+    4381,
+    8258,
+    8743
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 131833,
+  "query": "Không đăng ký kết hôn nên thực hiện thủ tục nhận cha con để có tên cha trong giấy khai sinh của con thì có bắt buộc phải tiến hành xét nghiệm ADN không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4569,
+    4575,
+    4577,
+    2269,
+    3124,
+    4554,
+    2262,
+    4555,
+    4579,
+    4581
+  ]
+}

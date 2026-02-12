@@ -1,0 +1,29 @@
+{
+  "qid": 81388,
+  "query": "Người nhận nuôi con nuôi có được quyền thay đổi thông tin về cha mẹ khi Giấy khai sinh của trẻ có đủ thông tin về cha và mẹ không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4572,
+    2262,
+    3234,
+    13966,
+    3229,
+    14590,
+    3232,
+    4582,
+    3230,
+    3130
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 159072,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt nhân viên hàng không có nồng độ cồn trong hơi thở khi thực hiện nhiệm vụ không?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    10361,
+    10364,
+    10306,
+    10304,
+    4637,
+    10303,
+    8113,
+    11127,
+    7017,
+    10377
+  ]
+}

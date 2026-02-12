@@ -1,0 +1,29 @@
+{
+  "qid": 10715,
+  "query": "Mỗi người hướng dẫn tập luyện môn Lặn biển thể thao giải trí được hướng dẫn tối đa bao nhiêu người lặn biển trong một lần lặn?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5628,
+    4414,
+    4167,
+    1289,
+    11969,
+    11971,
+    8781,
+    12982,
+    4415,
+    7748
+  ]
+}

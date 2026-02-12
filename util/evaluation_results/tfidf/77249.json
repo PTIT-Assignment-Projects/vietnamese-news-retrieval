@@ -1,0 +1,29 @@
+{
+  "qid": 77249,
+  "query": "Người thi hành công vụ gây thiệt hại có phải hoàn trả cho ngân sách nhà nước số tiền mà Nhà nước đã bồi thường cho người bị thiệt hại không?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    12756,
+    12757,
+    12761,
+    12762,
+    8885,
+    12758,
+    8893,
+    12706,
+    12695,
+    12763
+  ]
+}

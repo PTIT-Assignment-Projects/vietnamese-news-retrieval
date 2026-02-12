@@ -1,0 +1,29 @@
+{
+  "qid": 111100,
+  "query": "Lãnh sự danh dự nước Việt Nam được thực hiện các hoạt động nghề nghiệp hoặc thương mại của cá nhân không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1400,
+    1417,
+    1410,
+    1405,
+    1414,
+    1406,
+    1418,
+    1413,
+    1415,
+    1401
+  ]
+}

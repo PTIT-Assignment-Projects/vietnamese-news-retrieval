@@ -1,0 +1,29 @@
+{
+  "qid": 3461,
+  "query": "Xây dựng trái phép công trình trên sông biên giới thì tổ chức bị xử phạt vi phạm hành chính thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3534,
+    10349,
+    10312,
+    3535,
+    10351,
+    10327,
+    3530,
+    10310,
+    476,
+    3533
+  ]
+}

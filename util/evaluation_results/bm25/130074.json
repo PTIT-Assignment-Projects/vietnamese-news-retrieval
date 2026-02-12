@@ -1,0 +1,29 @@
+{
+  "qid": 130074,
+  "query": "Giáo viên có thể xét thăng hạng giáo viên trung học cơ sở hạng II nếu có thời gian giữ chức danh nghề nghiệp giáo viên trung học cơ sở hạng III là 7 năm hay không?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    3852,
+    3847,
+    1537,
+    1533,
+    1534,
+    1538,
+    2820,
+    1535,
+    1532,
+    12978
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 109553,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp viễn thông không có phương thức để người tiếp nhận thông tin từ chối việc tiếp nhận thông tin không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3952,
+    11187,
+    14315,
+    3706,
+    3104,
+    9488,
+    11694,
+    12344,
+    8645,
+    4898
+  ]
+}

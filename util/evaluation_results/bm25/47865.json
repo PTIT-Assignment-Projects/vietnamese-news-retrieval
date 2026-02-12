@@ -1,0 +1,29 @@
+{
+  "qid": 47865,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt khách sạn nghỉ dưỡng không có nơi để xe cho khách không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8472,
+    8481,
+    8471,
+    4896,
+    4461,
+    4898,
+    3104,
+    5364,
+    4455,
+    13193
+  ]
+}

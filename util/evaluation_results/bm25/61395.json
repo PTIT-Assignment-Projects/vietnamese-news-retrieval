@@ -1,0 +1,29 @@
+{
+  "qid": 61395,
+  "query": "Những tổ chức nào thực hiện bảo lãnh tín dụng cho các doanh nghiệp nhỏ và vừa đầu tư Dự án sản xuất sản phẩm công nghiệp hỗ trợ ưu tiên phát triển?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    875,
+    13540,
+    874,
+    13539,
+    873,
+    13533,
+    13531,
+    876,
+    13532,
+    13534
+  ]
+}

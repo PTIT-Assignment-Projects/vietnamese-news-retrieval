@@ -1,0 +1,29 @@
+{
+  "qid": 12820,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người tạm nhập tái xuất động vật không đúng cửa khẩu không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5285,
+    5264,
+    8472,
+    8481,
+    8471,
+    13693,
+    5262,
+    8473,
+    679,
+    3128
+  ]
+}

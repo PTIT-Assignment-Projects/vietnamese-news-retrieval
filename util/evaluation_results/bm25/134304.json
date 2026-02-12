@@ -1,0 +1,29 @@
+{
+  "qid": 134304,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người dẫn dắt phương tiện vào hoạt động trái phép trong khu vực biên giới đất liền không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9687,
+    13718,
+    9683,
+    9684,
+    13695,
+    9675,
+    13693,
+    9681,
+    5277,
+    465
+  ]
+}

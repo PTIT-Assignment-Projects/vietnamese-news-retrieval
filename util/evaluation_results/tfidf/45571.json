@@ -1,0 +1,29 @@
+{
+  "qid": 45571,
+  "query": "Trong thời gian người đang chấp hành án phạt tù tiếp tục chấp hành hình phạt tù tại Việt Nam được hưởng những chế độ gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    294,
+    295,
+    296,
+    292,
+    277,
+    8015,
+    1891,
+    10920,
+    6992,
+    12712
+  ]
+}

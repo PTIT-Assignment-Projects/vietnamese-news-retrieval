@@ -1,0 +1,29 @@
+{
+  "qid": 95874,
+  "query": "Chánh Thanh tra Sở Tài nguyên và Môi trường được quyền xử phạt cá nhân có hai hợp đồng làm Giám đốc điều hành mỏ khai thác khoáng sản còn hiệu lực tại cùng một thời điểm không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11127,
+    11615,
+    6266,
+    1805,
+    11826,
+    7031,
+    11837,
+    8677,
+    8679,
+    3304
+  ]
+}

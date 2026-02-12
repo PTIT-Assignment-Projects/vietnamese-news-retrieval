@@ -1,0 +1,29 @@
+{
+  "qid": 100429,
+  "query": "Trong lập kế hoạch sử dụng đất hàng năm cấp huyện thì có hoạt động điều tra, thu thập thông tin không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1598,
+    1586,
+    1562,
+    1572,
+    1573,
+    1591,
+    1579,
+    1576,
+    1604,
+    1596
+  ]
+}

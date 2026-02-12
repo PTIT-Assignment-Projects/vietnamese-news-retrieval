@@ -1,0 +1,29 @@
+{
+  "qid": 125405,
+  "query": "Khi xét tuyển công chức cấp tỉnh nếu có hai người bằng điểm nhau thì xử lý thế nào? Ai là người trúng tuyển?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14217,
+    14219,
+    6926,
+    4188,
+    14225,
+    2374,
+    2372,
+    14224,
+    14213,
+    2375
+  ]
+}

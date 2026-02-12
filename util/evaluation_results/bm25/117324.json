@@ -1,0 +1,29 @@
+{
+  "qid": 117324,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt tổ chức buôn bán thuốc thú y khi Giấy chứng nhận đủ điều kiện buôn bán hết hiệu lực không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4539,
+    9200,
+    12263,
+    12267,
+    14187,
+    12261,
+    9196,
+    4540,
+    12265,
+    12500
+  ]
+}

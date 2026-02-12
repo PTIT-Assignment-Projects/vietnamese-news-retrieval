@@ -1,0 +1,29 @@
+{
+  "qid": 103268,
+  "query": "Cơ quan lập hồ sơ không xác định được ngôn ngữ chính thức của nước được yêu cầu ủy thác hoặc ngôn ngữ mà nước đó chấp nhận thì làm thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7960,
+    1912,
+    7966,
+    146,
+    13498,
+    1415,
+    12368,
+    7754,
+    7757,
+    7758
+  ]
+}

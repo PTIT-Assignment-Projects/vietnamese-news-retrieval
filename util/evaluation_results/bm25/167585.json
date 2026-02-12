@@ -1,0 +1,29 @@
+{
+  "qid": 167585,
+  "query": "Thành viên cơ quan Việt Nam ở nước ngoài công tác nhiệm kỳ tại địa bàn đang xảy ra thảm họa do thiên tai được hưởng trợ cấp hàng tháng như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8795,
+    8799,
+    8797,
+    7898,
+    2963,
+    8794,
+    8791,
+    8792,
+    7900,
+    8793
+  ]
+}

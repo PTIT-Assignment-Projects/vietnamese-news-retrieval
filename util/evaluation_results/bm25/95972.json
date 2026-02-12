@@ -1,0 +1,29 @@
+{
+  "qid": 95972,
+  "query": "Thời hạn thuê kho ngoại quan của cá nhân Việt Nam được phép kinh doanh xuất nhập khẩu thuộc các thành phần kinh tế được quy định ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8391,
+    8392,
+    8393,
+    8395,
+    5286,
+    8389,
+    8390,
+    8394,
+    11987,
+    10389
+  ]
+}

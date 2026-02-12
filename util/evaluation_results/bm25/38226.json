@@ -1,0 +1,29 @@
+{
+  "qid": 38226,
+  "query": "Doanh nghiệp viễn thông có trách nhiệm thế nào về giá cước công ích khi cung cấp dịch vụ viễn thông công ích khẩn cấp?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2719,
+    2703,
+    2707,
+    2709,
+    2706,
+    2712,
+    2705,
+    2699,
+    2704,
+    8567
+  ]
+}

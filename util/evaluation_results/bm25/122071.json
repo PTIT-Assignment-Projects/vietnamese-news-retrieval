@@ -1,0 +1,29 @@
+{
+  "qid": 122071,
+  "query": "Các tài liệu có thật nhưng không được thu thập theo trình tự được quy định thì có được dùng làm căn cứ để giải quyết vụ án hình sự không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10564,
+    10704,
+    2537,
+    10803,
+    7968,
+    3569,
+    10563,
+    10635,
+    10517,
+    10516
+  ]
+}

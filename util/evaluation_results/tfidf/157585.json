@@ -1,0 +1,29 @@
+{
+  "qid": 157585,
+  "query": "Việc thực hiện bồi dưỡng kiến thức, kỹ năng chuyên ngành bắt buộc hàng năm đối với cán bộ, công chức, viên chức được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1035,
+    1033,
+    5502,
+    11020,
+    11017,
+    12816,
+    2911,
+    10992,
+    11016,
+    2031
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 10924,
+  "query": "Có phải kiểm tra, xác minh thông tin, tài liệu thu thập được trong quá trình thực hiện cuộc thanh tra không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4972,
+    2012,
+    6158,
+    4842,
+    2017,
+    1512,
+    11125,
+    4845,
+    1496,
+    4836
+  ]
+}

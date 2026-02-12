@@ -1,0 +1,29 @@
+{
+  "qid": 25931,
+  "query": "Quy trình xem xét cho thôi giữ chức vụ đối với viên chức quản lý của Bộ Giáo dục và Đào tạo thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14261,
+    14254,
+    2334,
+    14251,
+    13634,
+    14210,
+    498,
+    14258,
+    14276,
+    2357
+  ]
+}

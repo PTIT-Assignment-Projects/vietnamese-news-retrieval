@@ -1,0 +1,29 @@
+{
+  "qid": 143049,
+  "query": "Tiền chi trả tai nạn lao động cho công nhân thì nhà máy có cần phải chi trả ngay trong tháng công nhân gặp tai nạn không?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    4180,
+    11053,
+    4184,
+    4183,
+    8282,
+    4182,
+    4179,
+    2573,
+    4176,
+    1903
+  ]
+}

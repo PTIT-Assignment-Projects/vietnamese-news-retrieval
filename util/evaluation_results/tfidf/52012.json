@@ -1,0 +1,29 @@
+{
+  "qid": 52012,
+  "query": "Tổ chức được giao quản lý di sản thế giới có trách nhiệm hướng dẫn khách tham quan du lịch tại di sản thế giới hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12420,
+    12417,
+    12424,
+    12422,
+    12412,
+    12425,
+    12415,
+    12414,
+    12413,
+    12407
+  ]
+}

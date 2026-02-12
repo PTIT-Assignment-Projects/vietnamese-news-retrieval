@@ -1,0 +1,29 @@
+{
+  "qid": 8917,
+  "query": "Chủ tịch Ủy ban nhân dân huyện không đủ thẩm quyền xử phạt đối với doanh nghiệp thực hiện việc quảng cáo rượu có nồng độ cồn từ 15 độ trở lên thì giải quyết như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11879,
+    14574,
+    14573,
+    11875,
+    8481,
+    8472,
+    11876,
+    11887,
+    11889,
+    8471
+  ]
+}

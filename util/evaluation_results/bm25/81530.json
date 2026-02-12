@@ -1,0 +1,29 @@
+{
+  "qid": 81530,
+  "query": "Trong tố tụng hình sự cơ quan nào có thẩm quyền ra quyết định áp dụng biện pháp điều tra tố tụng đặc biệt?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10702,
+    10705,
+    1933,
+    10518,
+    10643,
+    10519,
+    10976,
+    1934,
+    10483,
+    10703
+  ]
+}

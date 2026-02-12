@@ -1,0 +1,29 @@
+{
+  "qid": 156580,
+  "query": "Người thôi giữ chức vụ lãnh đạo hoặc được bổ nhiệm vào chức vụ khác mà phụ cấp thấp hơn do tinh giản biên chế thì được hưởng chính sách gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    670,
+    9464,
+    14492,
+    9465,
+    7560,
+    9462,
+    7556,
+    664,
+    13781,
+    13842
+  ]
+}

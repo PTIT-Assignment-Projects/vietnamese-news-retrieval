@@ -1,0 +1,29 @@
+{
+  "qid": 70740,
+  "query": "Làm Căn cước công dân gắn chip nhưng không có ngày tháng sinh rõ ràng thì xác định ngày tháng năm sinh như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12637,
+    12633,
+    12630,
+    12642,
+    12644,
+    12638,
+    12636,
+    12639,
+    12632,
+    12645
+  ]
+}

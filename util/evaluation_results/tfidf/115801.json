@@ -1,0 +1,29 @@
+{
+  "qid": 115801,
+  "query": "Người sử dụng đất chuyển đổi mục đích sử dụng đất đối với đất nông nghiệp trồng lúa mà không xin phép thì bị xử phạt như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1590,
+    1579,
+    1580,
+    1564,
+    11106,
+    11119,
+    11117,
+    1589,
+    1591,
+    1557
+  ]
+}

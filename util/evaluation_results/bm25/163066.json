@@ -1,0 +1,29 @@
+{
+  "qid": 163066,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt Quản tài viên cho người khác mượn chứng chỉ hành nghề Quản tài viên để hành nghề không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3628,
+    8937,
+    699,
+    14593,
+    241,
+    10379,
+    1609,
+    240,
+    14021,
+    14579
+  ]
+}

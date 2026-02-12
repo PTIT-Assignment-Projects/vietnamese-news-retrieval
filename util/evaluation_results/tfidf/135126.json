@@ -1,0 +1,29 @@
+{
+  "qid": 135126,
+  "query": "Để khiếu nại được giải quyết thì người nhận bưu gửi bị hư hỏng phải thực hiện khiếu nại trong thời hạn bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4810,
+    1733,
+    1741,
+    1732,
+    11401,
+    1714,
+    1501,
+    1499,
+    2211,
+    1750
+  ]
+}

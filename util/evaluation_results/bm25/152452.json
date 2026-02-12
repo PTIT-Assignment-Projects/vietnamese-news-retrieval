@@ -1,0 +1,29 @@
+{
+  "qid": 152452,
+  "query": "Người đăng ký khai sinh cho trẻ có cha mẹ là công dân Việt Nam được sinh ra ở nước ngoài và chưa được đăng ký khai sinh về cư trú tại Việt Nam cần chuẩn bị những giấy tờ gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4560,
+    2262,
+    4561,
+    4584,
+    2270,
+    3130,
+    2265,
+    4575,
+    4562,
+    4568
+  ]
+}

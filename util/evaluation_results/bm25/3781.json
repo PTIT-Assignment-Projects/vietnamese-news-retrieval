@@ -1,0 +1,29 @@
+{
+  "qid": 3781,
+  "query": "Sửa đổi điều khoản trong hợp đồng chuyển giao công nghệ thông qua phụ lục hợp đồng thì có phải đăng ký lại với sở khoa học công nghệ không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7515,
+    7521,
+    7522,
+    11413,
+    7538,
+    7513,
+    7524,
+    7496,
+    7492,
+    7493
+  ]
+}

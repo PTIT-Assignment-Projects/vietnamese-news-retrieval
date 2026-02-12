@@ -1,0 +1,29 @@
+{
+  "qid": 89691,
+  "query": "Bộ Lao động Thương binh và Xã hội có trách nhiệm gì trong việc lựa chọn giáo trình đào tạo của trường cao đẳng nghề?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3350,
+    3351,
+    9871,
+    11532,
+    11534,
+    4747,
+    3348,
+    3336,
+    492,
+    3919
+  ]
+}

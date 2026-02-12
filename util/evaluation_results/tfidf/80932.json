@@ -1,0 +1,29 @@
+{
+  "qid": 80932,
+  "query": "Thành viên cơ quan Việt Nam ở nước ngoài có được hưởng nguyên sinh hoạt phí trong những ngày nghỉ hằng năm, nghỉ ngày lễ, Tết, nghỉ việc riêng không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8798,
+    13880,
+    13884,
+    8792,
+    7898,
+    8789,
+    8791,
+    8790,
+    11846,
+    8793
+  ]
+}

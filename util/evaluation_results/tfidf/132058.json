@@ -1,0 +1,29 @@
+{
+  "qid": 132058,
+  "query": "Quy định về tiêu chuẩn và điều kiện để có thể làm kế toán trưởng trong doanh nghiệp quốc phòng an ninh hiện nay ra sao?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    2477,
+    4390,
+    2483,
+    4996,
+    2896,
+    4397,
+    2486,
+    4992,
+    14288,
+    4994
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 134545,
+  "query": "Trường hợp được miễn chứng từ chứng nhận xuất xứ hàng hóa thì có được hưởng ưu đãi thuế quan theo UKVFTA không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2793,
+    2811,
+    2808,
+    2806,
+    2800,
+    5521,
+    5256,
+    2801,
+    2792,
+    2798
+  ]
+}

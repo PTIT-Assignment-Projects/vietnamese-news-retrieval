@@ -1,0 +1,29 @@
+{
+  "qid": 107169,
+  "query": "Cơ quan điều tra có thể trao đổi thông tin về tội phạm với Viện kiểm sát khi thực hiện công tác hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3566,
+    10640,
+    3563,
+    10651,
+    10482,
+    10637,
+    998,
+    10214,
+    887,
+    1001
+  ]
+}

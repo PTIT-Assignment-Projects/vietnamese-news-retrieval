@@ -1,0 +1,29 @@
+{
+  "qid": 122066,
+  "query": "Trường hợp nào Thủ trưởng cơ quan Thuế giải quyết bồi thường ra quyết định hoãn giải quyết yêu cầu bồi thường?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12741,
+    12739,
+    12742,
+    12740,
+    12743,
+    12736,
+    12734,
+    10769,
+    574,
+    572
+  ]
+}

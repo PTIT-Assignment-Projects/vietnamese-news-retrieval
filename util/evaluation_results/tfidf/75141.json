@@ -1,0 +1,29 @@
+{
+  "qid": 75141,
+  "query": "Doanh nghiệp Nhà nước có thể sở hữu tối đa bao nhiêu xe ô tô để phục vụ cho công việc của doanh nghiệp?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4462,
+    4449,
+    4471,
+    4458,
+    4457,
+    4451,
+    4465,
+    4456,
+    4468,
+    4464
+  ]
+}

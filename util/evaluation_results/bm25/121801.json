@@ -1,0 +1,29 @@
+{
+  "qid": 121801,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt doanh nghiệp kinh doanh dịch vụ đại lý tàu biển có tỷ lệ phần vốn góp của nhà đầu tư nước ngoài lớn hơn 49% vốn điều lệ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14743,
+    6814,
+    2306,
+    9781,
+    6824,
+    6815,
+    13944,
+    6816,
+    2308,
+    14742
+  ]
+}

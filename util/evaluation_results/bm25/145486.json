@@ -1,0 +1,29 @@
+{
+  "qid": 145486,
+  "query": "Đối với đấu giá tài sản nhà nước trong Bộ Quốc phòng thì những trường hợp nào được xem là đấu giá không thành?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    739,
+    740,
+    726,
+    738,
+    731,
+    766,
+    736,
+    720,
+    746,
+    759
+  ]
+}

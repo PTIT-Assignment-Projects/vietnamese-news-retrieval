@@ -1,0 +1,29 @@
+{
+  "qid": 148782,
+  "query": "Trách nhiệm tổ chức thu thập thông tin hải quan của cơ quan hải quan được thực hiện thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8413,
+    8415,
+    8370,
+    8321,
+    8310,
+    9154,
+    8337,
+    8334,
+    8308,
+    8333
+  ]
+}

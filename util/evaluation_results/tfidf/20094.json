@@ -1,0 +1,29 @@
+{
+  "qid": 20094,
+  "query": "Phân cấp công trình xây dựng theo quy định mới hiện nay được xác định theo những tiêu chí nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7876,
+    6871,
+    6921,
+    6870,
+    4285,
+    6922,
+    453,
+    6893,
+    1389,
+    6880
+  ]
+}

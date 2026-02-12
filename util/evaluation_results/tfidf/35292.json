@@ -1,0 +1,29 @@
+{
+  "qid": 35292,
+  "query": "Hội đồng Thi đua khen thưởng Bộ Văn hóa Thể thao và Du lịch theo quy định bao gồm những thành phần nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    594,
+    4003,
+    7842,
+    7845,
+    7843,
+    10017,
+    8834,
+    142,
+    7680,
+    7863
+  ]
+}

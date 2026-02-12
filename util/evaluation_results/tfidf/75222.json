@@ -1,0 +1,29 @@
+{
+  "qid": 75222,
+  "query": "Sinh hoạt phí cơ sở của sĩ quan quân đội thuộc cơ quan Việt Nam ở nước ngoài không giữ chức vụ ngoại giao có được điều chỉnh khi có sự thay đổi về chỉ số giá tiêu dùng không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8793,
+    8792,
+    6438,
+    13249,
+    6440,
+    6424,
+    8791,
+    8795,
+    7894,
+    6439
+  ]
+}

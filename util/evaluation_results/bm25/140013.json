@@ -1,0 +1,29 @@
+{
+  "qid": 140013,
+  "query": "Trong hồ sơ đề nghị cấp Chứng chỉ hành nghề lưu trữ có cần phải có giấy tờ liên quan đến kinh nghiệm làm việc không?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    6409,
+    239,
+    9374,
+    6401,
+    238,
+    704,
+    242,
+    237,
+    1610,
+    6410
+  ]
+}

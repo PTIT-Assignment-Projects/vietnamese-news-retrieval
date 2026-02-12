@@ -1,0 +1,29 @@
+{
+  "qid": 1754,
+  "query": "Giải quyết tố cáo hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực tư pháp của Tòa án theo trình tự, thủ tục như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1522,
+    1521,
+    1520,
+    1485,
+    12546,
+    1523,
+    1516,
+    1198,
+    1508,
+    1482
+  ]
+}

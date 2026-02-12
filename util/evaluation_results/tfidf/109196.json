@@ -1,0 +1,29 @@
+{
+  "qid": 109196,
+  "query": "Kiểm sát viên được phân công tham gia phiên họp liên quan đến các vụ án hình sự sẽ có những nhiệm vụ và quyền hạn gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10766,
+    2518,
+    8187,
+    10528,
+    10791,
+    10779,
+    13974,
+    10839,
+    10520,
+    10782
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 6992,
+  "query": "Ngoài kinh doanh tạm nhập tái xuất hàng hóa thì còn hình thức tạm nhập tái xuất nào khác không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5264,
+    5262,
+    5263,
+    11996,
+    5286,
+    8363,
+    8357,
+    8356,
+    5285,
+    8360
+  ]
+}

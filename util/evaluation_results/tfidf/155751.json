@@ -1,0 +1,29 @@
+{
+  "qid": 155751,
+  "query": "Việc xem xét giảm thời hạn chấp hành án phạt tù đối với phạm nhân được thực hiện bao nhiêu đợt trong năm?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1891,
+    1886,
+    1890,
+    1901,
+    295,
+    1892,
+    294,
+    296,
+    1842,
+    3048
+  ]
+}

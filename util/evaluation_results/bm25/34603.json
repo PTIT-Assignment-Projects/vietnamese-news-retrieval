@@ -1,0 +1,29 @@
+{
+  "qid": 34603,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền phạt tiền đối với người cho trẻ em sử dụng chất gây nghiện không phải là ma túy hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4700,
+    14519,
+    4686,
+    14521,
+    12993,
+    14563,
+    11153,
+    4691,
+    3886,
+    4689
+  ]
+}

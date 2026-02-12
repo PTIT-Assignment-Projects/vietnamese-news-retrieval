@@ -1,0 +1,29 @@
+{
+  "qid": 71551,
+  "query": "Doanh nghiệp được miễn giấy phép FLEGT khi xuất khẩu lô hàng gỗ vào thị trường EU trong trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11358,
+    11360,
+    11354,
+    11352,
+    11364,
+    11351,
+    11361,
+    11347,
+    11371,
+    11353
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 41978,
+  "query": "Cơ quan nào có thẩm quyền giám sát tối cao việc bảo đảm thực hiện quyền tiếp cận thông tin của công dân?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11698,
+    11718,
+    11686,
+    11688,
+    11716,
+    11693,
+    11717,
+    11699,
+    11703,
+    11690
+  ]
+}

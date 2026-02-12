@@ -1,0 +1,29 @@
+{
+  "qid": 74371,
+  "query": "Trưởng đoàn thanh tra của Cục Báo chí có quyền xử phạt tổ chức thiết lập trang thông tin điện tử tổng hợp cung cấp thông tin xâm phạm bí mật của cá nhân không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14921,
+    14904,
+    9735,
+    9737,
+    6599,
+    14198,
+    14909,
+    9736,
+    3657,
+    7914
+  ]
+}

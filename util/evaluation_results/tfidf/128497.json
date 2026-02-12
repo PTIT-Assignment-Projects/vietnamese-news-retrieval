@@ -1,0 +1,29 @@
+{
+  "qid": 128497,
+  "query": "Trưởng Đoàn thanh tra chuyên ngành Bộ Văn hóa Thể thao và Du lịch có quyền phạt khách sạn không bảo đảm nhà vệ sinh không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4003,
+    7307,
+    4415,
+    142,
+    2288,
+    2752,
+    7294,
+    9399,
+    6038,
+    9382
+  ]
+}

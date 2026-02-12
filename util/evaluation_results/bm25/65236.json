@@ -1,0 +1,29 @@
+{
+  "qid": 65236,
+  "query": "Quyết định hủy bỏ áp dụng biện pháp tạm giam trong giai đoạn điều tra phải được ra trong bao nhiêu ngày trước khi hết thời hạn tạm giam?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6686,
+    10649,
+    10824,
+    10755,
+    10835,
+    6685,
+    10927,
+    6703,
+    10642,
+    10892
+  ]
+}

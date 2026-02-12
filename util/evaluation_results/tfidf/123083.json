@@ -1,0 +1,29 @@
+{
+  "qid": 123083,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Khoa học và Công nghệ có quyền xử phạt người gây cản trở khi cơ quan, tổ chức tiến hành khắc phục sự cố hạt nhân không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12037,
+    7307,
+    7304,
+    7002,
+    7017,
+    6934,
+    8239,
+    8232,
+    6937,
+    12796
+  ]
+}

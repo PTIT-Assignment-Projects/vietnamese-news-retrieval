@@ -1,0 +1,29 @@
+{
+  "qid": 165776,
+  "query": "Khi thanh tra thuế doanh nghiệp thì ai là người có trách nhiệm chủ trì xây dựng kế hoạch tiến hành thanh tra?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7018,
+    4976,
+    7020,
+    4966,
+    13391,
+    4968,
+    13390,
+    4949,
+    7019,
+    7017
+  ]
+}

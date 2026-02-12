@@ -1,0 +1,29 @@
+{
+  "qid": 117220,
+  "query": "Trong tố tụng hình sự quyết định trưng cầu giám định phải gửi cho các đối tượng nào? Thời hạn gửi là bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10682,
+    1009,
+    1010,
+    1008,
+    7928,
+    7931,
+    7927,
+    6160,
+    10688,
+    4009
+  ]
+}

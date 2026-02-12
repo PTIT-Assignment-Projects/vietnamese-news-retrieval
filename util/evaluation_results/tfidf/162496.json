@@ -1,0 +1,29 @@
+{
+  "qid": 162496,
+  "query": "Chính sách mới về lương của viên chức biên tập viên, phóng viên, biên dịch viên, đạo diễn truyền hình thuộc chuyên ngành Thông tin và Truyền thông?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    6449,
+    6458,
+    8612,
+    3870,
+    3871,
+    3162,
+    3880,
+    8061,
+    6391,
+    14271
+  ]
+}

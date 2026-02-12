@@ -1,0 +1,29 @@
+{
+  "qid": 134628,
+  "query": "Biên bản bàn giao sổ kế toán khi có sự thay đổi về nhân viên giữ và ghi sổ tại doanh nghiệp siêu nhỏ thì có cần kế toán trưởng ký xác nhận không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5826,
+    5827,
+    12083,
+    2891,
+    2895,
+    2897,
+    2885,
+    4395,
+    9147,
+    2899
+  ]
+}

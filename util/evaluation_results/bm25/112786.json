@@ -1,0 +1,29 @@
+{
+  "qid": 112786,
+  "query": "Quy trình tổ chức kiểm tra kiến thức pháp luật bán hàng đa cấp, kiến thức cho đầu mối tại địa phương được thực hiện như thế nào trong Thông tư mới nhất?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12947,
+    12944,
+    12943,
+    12950,
+    12945,
+    12949,
+    12946,
+    12948,
+    6007,
+    6001
+  ]
+}

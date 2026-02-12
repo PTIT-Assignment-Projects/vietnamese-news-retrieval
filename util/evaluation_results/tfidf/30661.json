@@ -1,0 +1,29 @@
+{
+  "qid": 30661,
+  "query": "Những doanh nghiệp hoạt động kinh doanh, sản xuất các lĩnh vực truyền thông, giải trí có bắt buộc phải thực hiện công tác kiểm toán nội bộ không?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    5684,
+    5670,
+    5675,
+    5671,
+    6861,
+    6864,
+    5690,
+    5672,
+    6865,
+    6852
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 92077,
+  "query": "Thời hạn Vụ trưởng Vụ Pháp chế xem xét hồ sơ để trình Bộ trưởng Bộ Kế hoạch và Đầu tư quyết định bổ nhiệm giám định viên tư pháp trong lĩnh vực kế hoạch và đầu tư là bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4005,
+    4007,
+    7922,
+    7923,
+    2343,
+    2008,
+    7921,
+    7706,
+    4006,
+    2354
+  ]
+}

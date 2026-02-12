@@ -1,0 +1,29 @@
+{
+  "qid": 59882,
+  "query": "Chủ tịch Ủy ban nhân dân huyện có quyền xử phạt Trung tâm giáo dục nghề nghiệp vi phạm về chính sách đối với nhà giáo không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13387,
+    8481,
+    3455,
+    8472,
+    8471,
+    12302,
+    4896,
+    679,
+    7300,
+    13835
+  ]
+}

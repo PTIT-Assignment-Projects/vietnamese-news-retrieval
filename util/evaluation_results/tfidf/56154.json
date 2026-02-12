@@ -1,0 +1,29 @@
+{
+  "qid": 56154,
+  "query": "Người đã là Thẩm phán muốn trở thành đấu giá viên thì có phải tham gia đào tạo nghề đấu giá hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    698,
+    697,
+    6564,
+    693,
+    706,
+    764,
+    6566,
+    696,
+    729,
+    731
+  ]
+}

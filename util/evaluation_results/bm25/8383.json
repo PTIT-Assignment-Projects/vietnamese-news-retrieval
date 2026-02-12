@@ -1,0 +1,29 @@
+{
+  "qid": 8383,
+  "query": "Ủy ban nhân dân chậm lập danh sách tham gia cấp thẻ bảo hiểm y tế cho người dân thì có bị xử phạt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5140,
+    5143,
+    5142,
+    5139,
+    9576,
+    5144,
+    11821,
+    9577,
+    9574,
+    5131
+  ]
+}

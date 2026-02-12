@@ -1,0 +1,29 @@
+{
+  "qid": 30859,
+  "query": "Người tham gia phòng chống bạo lực gia đình mà bị thiệt hại về tài sản thì ai có trách nhiệm hoàn trả thiệt hại?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8031,
+    11377,
+    12758,
+    8035,
+    12706,
+    7445,
+    8885,
+    12762,
+    1692,
+    212
+  ]
+}

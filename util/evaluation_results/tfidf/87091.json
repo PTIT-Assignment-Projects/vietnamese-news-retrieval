@@ -1,0 +1,29 @@
+{
+  "qid": 87091,
+  "query": "Doanh nghiệp viễn thông khi nhận được quyết định mở Cổng Thông tin điện tử nhân đạo quốc gia phải có trách nhiệm gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9484,
+    7256,
+    11704,
+    2718,
+    2057,
+    7241,
+    8315,
+    9496,
+    9737,
+    883
+  ]
+}

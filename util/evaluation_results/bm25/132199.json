@@ -1,0 +1,29 @@
+{
+  "qid": 132199,
+  "query": "Trường hợp thực hiện không đầy đủ hoặc không đúng chế độ thông tin báo cáo, nội dung báo cáo không chính xác về tình hình thực hiện in phôi, quản lý phôi văn bằng, chứng chỉ thì bị xử phạt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4623,
+    525,
+    6006,
+    9871,
+    9370,
+    4624,
+    14583,
+    3328,
+    4622,
+    180
+  ]
+}

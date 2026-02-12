@@ -1,0 +1,29 @@
+{
+  "qid": 119448,
+  "query": "Cán bộ hỏi cung bị can thực hiện ghi âm trong buổi hỏi cung có cần phải đăng ký với cán bộ chuyên môn tại cơ sở giam giữ hoặc tại trụ sở Cơ quan điều tra không?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    10660,
+    10661,
+    3557,
+    3558,
+    3559,
+    1178,
+    3553,
+    3561,
+    6705,
+    10658
+  ]
+}

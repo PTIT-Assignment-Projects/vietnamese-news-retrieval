@@ -1,0 +1,29 @@
+{
+  "qid": 84058,
+  "query": "Những việc gì cán bộ, công chức, viên chức giám sát, kiểm tra để thực hiện dân chủ trong hoạt động của Bộ Lao động Thương binh và Xã hội?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4124,
+    5962,
+    2911,
+    2909,
+    1394,
+    9473,
+    8835,
+    805,
+    2924,
+    11020
+  ]
+}

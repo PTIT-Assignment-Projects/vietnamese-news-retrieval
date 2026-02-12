@@ -1,0 +1,29 @@
+{
+  "qid": 43377,
+  "query": "Để thư viện viên hạng IV thăng hạng lên chức danh thư viện viên hạng III cần đáp ứng những điều kiện gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13119,
+    3875,
+    6924,
+    13125,
+    14239,
+    14240,
+    2820,
+    1535,
+    1537,
+    6460
+  ]
+}

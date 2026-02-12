@@ -1,0 +1,29 @@
+{
+  "qid": 84961,
+  "query": "Kể từ ngày kết thúc kỳ kiểm tra kết quả tập sự hành nghề công chứng, người tham dự kiểm tra có quyền khiếu nại đối với hành vi của Hội đồng kiểm tra không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4231,
+    4215,
+    5848,
+    4200,
+    4207,
+    4227,
+    6578,
+    4233,
+    4208,
+    1634
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 211,
+  "query": "Viên chức cần giữ chức danh phát thanh viên hạng 4 trong thời gian bao lâu mới đủ điều kiện để thăng hạng phát thanh viên hạng 3?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3870,
+    3876,
+    13119,
+    14239,
+    6924,
+    3875,
+    8732,
+    14236,
+    8734,
+    14249
+  ]
+}

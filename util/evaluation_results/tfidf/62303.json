@@ -1,0 +1,29 @@
+{
+  "qid": 62303,
+  "query": "Yêu cầu đối với việc tổ chức tín dụng phát hành trái phiếu chuyển đổi, trái phiếu kèm theo chứng quyền như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1657,
+    13547,
+    13549,
+    13658,
+    13592,
+    13585,
+    13672,
+    13578,
+    13553,
+    13548
+  ]
+}

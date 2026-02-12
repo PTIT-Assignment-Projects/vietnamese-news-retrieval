@@ -1,0 +1,29 @@
+{
+  "qid": 152664,
+  "query": "Tổ chức giảng dạy pháp luật và giáo dục công dân cho phạm nhân là người nước ngoài theo những nội dung cơ bản nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1845,
+    1842,
+    1844,
+    1843,
+    1850,
+    14277,
+    14450,
+    1838,
+    4550,
+    4553
+  ]
+}

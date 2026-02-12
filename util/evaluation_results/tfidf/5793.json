@@ -1,0 +1,29 @@
+{
+  "qid": 5793,
+  "query": "Có cần bản chụp giấy Giấy chứng nhận đăng ký kinh doanh trong hồ sơ cấp GCN hành nghề xử lý vật thể thuộc diện kiểm dịch thực vật?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    5015,
+    5017,
+    5024,
+    5019,
+    5026,
+    5020,
+    5022,
+    5018,
+    5016,
+    14302
+  ]
+}

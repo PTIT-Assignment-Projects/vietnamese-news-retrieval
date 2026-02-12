@@ -1,0 +1,29 @@
+{
+  "qid": 67493,
+  "query": "Hình thức, nội dung và thời gian thi thăng hạng chức danh nghề nghiệp từ Lưu trữ viên trung cấp lên Lưu trữ viên đối với môn tin học như thế nào?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    14244,
+    13122,
+    14241,
+    14247,
+    14246,
+    14243,
+    13121,
+    14245,
+    8456,
+    3872
+  ]
+}

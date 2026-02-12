@@ -1,0 +1,29 @@
+{
+  "qid": 41480,
+  "query": "Mẫu quyết định về việc ban hành Danh mục tiến bộ kỹ thuật trong nông nghiệp mới nhất hiện nay?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4384,
+    4385,
+    4381,
+    7543,
+    4383,
+    4382,
+    12435,
+    4377,
+    12251,
+    12289
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 132082,
+  "query": "Chủ tịch Ủy ban nhân dân xã có thẩm quyền xử phạt hộ gia đình thường xuyên vứt rác xuống hệ thống thoát nước thải chung cư hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4234,
+    6810,
+    6811,
+    8481,
+    11915,
+    4237,
+    8472,
+    8471,
+    1717,
+    8473
+  ]
+}

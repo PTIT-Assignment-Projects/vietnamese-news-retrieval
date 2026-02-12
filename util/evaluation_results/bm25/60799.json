@@ -1,0 +1,29 @@
+{
+  "qid": 60799,
+  "query": "Kể từ khi tiếp nhận tin báo về tội phạm trong vòng 7 ngày ra quyết định khởi tố vụ án hình sự là đúng hay sai?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    995,
+    10635,
+    989,
+    10621,
+    10630,
+    10636,
+    10642,
+    1002,
+    996,
+    10516
+  ]
+}

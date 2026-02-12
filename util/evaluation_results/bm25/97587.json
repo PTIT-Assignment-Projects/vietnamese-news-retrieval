@@ -1,0 +1,29 @@
+{
+  "qid": 97587,
+  "query": "Doanh nghiệp kinh doanh casino không xây dựng và ban hành Quy chế quản lý nội bộ bị xử phạt vi phạm hành chính thế nào?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    3264,
+    3297,
+    3292,
+    3306,
+    3267,
+    3289,
+    3271,
+    3290,
+    3280,
+    3258
+  ]
+}

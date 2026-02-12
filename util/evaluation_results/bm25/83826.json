@@ -1,0 +1,29 @@
+{
+  "qid": 83826,
+  "query": "Người khuyết tật khi tham gia học giáo dục hòa nhập thì có nhiệm vụ phải báo cáo thông tin về sức khỏe của mình không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3440,
+    3431,
+    3437,
+    3432,
+    3441,
+    3435,
+    3428,
+    3434,
+    3427,
+    3444
+  ]
+}

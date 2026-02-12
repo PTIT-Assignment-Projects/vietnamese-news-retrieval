@@ -1,0 +1,29 @@
+{
+  "qid": 92388,
+  "query": "Quyền và trách nhiệm của doanh nghiệp hoạt động kinh doanh trò chơi điện tử có thưởng dành cho người nước ngoài được?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3248,
+    3268,
+    3259,
+    3255,
+    3262,
+    7945,
+    3267,
+    3256,
+    3263,
+    3266
+  ]
+}

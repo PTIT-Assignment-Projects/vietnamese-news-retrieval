@@ -1,0 +1,29 @@
+{
+  "qid": 12300,
+  "query": "Chủ tịch ủy ban nhân dân cấp xã có quyền xử phạt đấu giá viên công bố không đúng giá do người tham gia đấu giá trả không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    737,
+    729,
+    728,
+    706,
+    693,
+    730,
+    692,
+    8472,
+    8481,
+    696
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 163872,
+  "query": "Để công bằng trong tính lương hưu giữa khối tư nhân và nhà nước thì cần điều chỉnh lại lương bình quân của thời gian đóng bảo hiểm xã hội?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14095,
+    11860,
+    14097,
+    795,
+    14096,
+    3938,
+    11871,
+    11866,
+    11852,
+    11858
+  ]
+}

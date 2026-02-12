@@ -1,0 +1,29 @@
+{
+  "qid": 87865,
+  "query": "Thực phẩm thuộc diện phải đăng ký bản công bố sản phẩm nhưng doanh nghiệp lại tự công bố thì sẽ bị xử phạt như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14190,
+    14206,
+    14188,
+    14189,
+    14191,
+    14195,
+    11877,
+    14173,
+    9525,
+    14171
+  ]
+}

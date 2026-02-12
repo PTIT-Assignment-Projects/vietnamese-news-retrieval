@@ -1,0 +1,29 @@
+{
+  "qid": 65769,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Tổng cục Giáo dục nghề nghiệp có quyền xử phạt cơ sở gian lận hồ sơ để được cơ quan có thẩm quyền giao thực hiện bồi dưỡng nghiệp vụ sư phạm giáo dục nghề nghiệp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13379,
+    2817,
+    1532,
+    3457,
+    4603,
+    11532,
+    3467,
+    1531,
+    13387,
+    3455
+  ]
+}

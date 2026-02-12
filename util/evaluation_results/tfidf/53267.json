@@ -1,0 +1,29 @@
+{
+  "qid": 53267,
+  "query": "Có được đóng dấu chữ ký khắc sẵn lên mẫu bảng kiểm kê vàng bạc, kim khí quý, đá quý áp dụng cho doanh nghiệp vừa và nhỏ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    369,
+    3908,
+    374,
+    3907,
+    1446,
+    1804,
+    2235,
+    5428,
+    430,
+    428
+  ]
+}

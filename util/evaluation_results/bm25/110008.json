@@ -1,0 +1,29 @@
+{
+  "qid": 110008,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt cá nhân không giữ đúng trạng thái niêm phong đối với hồ sơ biên phòng khi tàu thuyền quá cảnh không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8471,
+    465,
+    8472,
+    3885,
+    8481,
+    8350,
+    12344,
+    4896,
+    3128,
+    1552
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 95787,
+  "query": "Quyết định thanh tra chuyên ngành phải bao gồm những nội dung gì và có phải thực hiện công bố quyết định này không?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    4970,
+    13391,
+    7035,
+    7016,
+    7027,
+    4969,
+    7029,
+    7022,
+    14298,
+    14299
+  ]
+}

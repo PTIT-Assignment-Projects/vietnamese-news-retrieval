@@ -1,0 +1,29 @@
+{
+  "qid": 8242,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt Văn phòng Thừa phát lại không niêm yết lịch làm việc không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8944,
+    7307,
+    8943,
+    9427,
+    7017,
+    8956,
+    5830,
+    8942,
+    8955,
+    7304
+  ]
+}

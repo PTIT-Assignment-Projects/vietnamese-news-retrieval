@@ -1,0 +1,29 @@
+{
+  "qid": 151762,
+  "query": "Đề án thành lập Hội đồng quản lý trong đơn vị sự nghiệp công lập thuộc ngành tài nguyên và môi trường sẽ có những nội dung nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3150,
+    3156,
+    5532,
+    5545,
+    12004,
+    3149,
+    3153,
+    3151,
+    3148,
+    3147
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 21087,
+  "query": "Giám đốc Công an cấp tỉnh được quyền xử phạt tổ chức dịch vụ chi trả chi trả trợ cấp không đủ mức cho đối tượng bảo trợ xã hội không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11053,
+    3941,
+    9460,
+    9339,
+    11052,
+    11059,
+    9338,
+    11932,
+    11334,
+    4408
+  ]
+}

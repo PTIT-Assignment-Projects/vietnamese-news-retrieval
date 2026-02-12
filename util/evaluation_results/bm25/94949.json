@@ -1,0 +1,29 @@
+{
+  "qid": 94949,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt tổ chức khai thác cảng hàng không mà không có bản đồ tiếng ồn theo quy định không?",
+  "metrics": {
+    "mrr": 0.14285714285714285,
+    "map": 0.14285714285714285,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.3333333333333333
+  },
+  "retrieved": [
+    5877,
+    5893,
+    5879,
+    5910,
+    6544,
+    5911,
+    4637,
+    5915,
+    5876,
+    5916
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 5062,
+  "query": "Thực hiện đăng ký các danh hiệu thi đua Tập thể lao động tiên tiến ngành lao động, thương binh và xã hội theo các hình thức nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8841,
+    7704,
+    5604,
+    8862,
+    6286,
+    5588,
+    3476,
+    6295,
+    10036,
+    1354
+  ]
+}

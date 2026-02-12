@@ -1,0 +1,29 @@
+{
+  "qid": 79656,
+  "query": "Trong thực hiện dân chủ trong hoạt động của cơ quan, đơn vị thuộc Ủy ban Dân tộc thì người đứng đầu có trách nhiệm gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    810,
+    4124,
+    815,
+    1316,
+    4128,
+    1312,
+    4126,
+    5948,
+    14279,
+    811
+  ]
+}

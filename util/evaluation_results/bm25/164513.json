@@ -1,0 +1,29 @@
+{
+  "qid": 164513,
+  "query": "Việc xác định dạng khuyết tật và mức độ khuyết tật đối với trẻ em dưới 6 tuổi có cần phỏng vấn người đại diện hợp pháp của trẻ em không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1237,
+    1239,
+    1235,
+    1246,
+    1236,
+    1243,
+    1240,
+    1242,
+    1245,
+    6358
+  ]
+}

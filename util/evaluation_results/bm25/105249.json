@@ -1,0 +1,29 @@
+{
+  "qid": 105249,
+  "query": "Trong nội dung quy hoạch cảng hàng không sân bay có quy định về vị trí và quy mô của các công trình cung cấp dịch vụ trong từng khu chức năng nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5893,
+    5874,
+    5890,
+    5918,
+    5881,
+    5922,
+    5929,
+    5941,
+    5942,
+    5938
+  ]
+}

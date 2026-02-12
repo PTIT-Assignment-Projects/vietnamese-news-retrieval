@@ -1,0 +1,29 @@
+{
+  "qid": 94233,
+  "query": "Nghệ nhân ưu tú có hoàn cảnh khó khăn chấp hành án phạt tù thì bị thôi hưởng trợ cấp hay tạm dừng hưởng trợ cấp sinh hoạt hàng tháng?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12343,
+    12336,
+    12344,
+    294,
+    295,
+    3048,
+    3053,
+    1901,
+    296,
+    3054
+  ]
+}

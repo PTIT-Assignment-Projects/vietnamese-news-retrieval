@@ -1,0 +1,29 @@
+{
+  "qid": 150386,
+  "query": "Giám đốc Công an cấp tỉnh được quyền xử phạt cơ sở trợ giúp xã hội lưu trữ không đầy đủ hồ sơ cơ bản của đối tượng bảo trợ xã hội không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2687,
+    2694,
+    2964,
+    7131,
+    447,
+    9338,
+    11932,
+    2689,
+    9339,
+    9340
+  ]
+}

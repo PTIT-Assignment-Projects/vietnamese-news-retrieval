@@ -1,0 +1,29 @@
+{
+  "qid": 58197,
+  "query": "Áp dụng biện pháp cưỡng chế cách ly y tế có được thực hiện trong trường hợp đối tượng thuộc diện phải áp dụng biện pháp cách ly y tế tại nhà không?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    10414,
+    10420,
+    10422,
+    10424,
+    14552,
+    10426,
+    10425,
+    10417,
+    10415,
+    10416
+  ]
+}

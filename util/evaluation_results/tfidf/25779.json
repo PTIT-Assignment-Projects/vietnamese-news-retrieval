@@ -1,0 +1,29 @@
+{
+  "qid": 25779,
+  "query": "Trong hoạt động mua, bán nợ của tổ chức tín dụng thì bên mua nợ trở thành người thế quyền, nghĩa vụ liên quan đến khoản nợ của bên bán nợ kể từ thời điểm nào?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    9549,
+    9564,
+    9547,
+    9558,
+    9557,
+    9561,
+    9560,
+    9555,
+    9548,
+    9553
+  ]
+}

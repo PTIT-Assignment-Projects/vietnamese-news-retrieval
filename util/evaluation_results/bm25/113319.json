@@ -1,0 +1,29 @@
+{
+  "qid": 113319,
+  "query": "Doanh nghiệp có trách nhiệm báo cáo số lượng máy trò chơi quy định tại Giấy chứng nhận đủ điều kiện kinh doanh casino với những cơ quan nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3253,
+    3254,
+    3308,
+    3255,
+    3263,
+    3267,
+    3262,
+    3273,
+    3271,
+    3305
+  ]
+}

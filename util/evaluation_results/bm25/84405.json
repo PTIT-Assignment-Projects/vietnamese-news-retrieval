@@ -1,0 +1,29 @@
+{
+  "qid": 84405,
+  "query": "Có phải xây dựng kế hoạch tuyển dụng, báo cáo cơ quan có thẩm quyền quản lý viên chức phê duyệt hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14211,
+    14274,
+    1539,
+    11016,
+    4847,
+    6463,
+    7799,
+    3153,
+    12014,
+    3467
+  ]
+}

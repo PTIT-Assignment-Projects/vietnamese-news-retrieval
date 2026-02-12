@@ -1,0 +1,29 @@
+{
+  "qid": 40218,
+  "query": "Cơ sở tư vấn về phòng chống bạo lực gia đình bị thu hồi Giấy chứng nhận đăng ký hoạt động trong trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8044,
+    1694,
+    8042,
+    8043,
+    8046,
+    1691,
+    1689,
+    1690,
+    1687,
+    1700
+  ]
+}

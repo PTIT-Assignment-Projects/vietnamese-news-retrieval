@@ -1,0 +1,29 @@
+{
+  "qid": 68635,
+  "query": "Hộ gia đình được hỗ trợ các công trình phục vụ nguồn nước sinh hoạt có phải thực hiện cam kết bảo dưỡng công trình không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2456,
+    6878,
+    1881,
+    6903,
+    6902,
+    11915,
+    5100,
+    3415,
+    7875,
+    13075
+  ]
+}

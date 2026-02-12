@@ -1,0 +1,29 @@
+{
+  "qid": 157595,
+  "query": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn điều tra vụ án hình sự ra sao?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10743,
+    10716,
+    10638,
+    10646,
+    10641,
+    10645,
+    1327,
+    7984,
+    10636,
+    10518
+  ]
+}

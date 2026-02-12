@@ -1,0 +1,29 @@
+{
+  "qid": 2886,
+  "query": "Cá nhân phải đáp ứng những tiêu chuẩn gì để được xét tặng danh hiệu Chiến sĩ thi đua cấp Bộ ngành Lao động Thương binh và Xã hội?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8748,
+    7688,
+    8841,
+    7852,
+    1145,
+    1394,
+    1144,
+    8845,
+    8843,
+    5588
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 99089,
+  "query": "Doanh nghiệp nội địa thực hiện mua bán hàng hóa với doanh nghiệp chế xuất thì có cần thực hiện thủ tục hải quan không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8342,
+    471,
+    5281,
+    10403,
+    8336,
+    13361,
+    9976,
+    5279,
+    8350,
+    13360
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 51154,
+  "query": "Trong trường hợp đặc biệt ai có thể thay thế chức năng của thuyền trưởng để tiếp tục vận hành chuyến đi?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3779,
+    11632,
+    3720,
+    8367,
+    13129,
+    10386,
+    2929,
+    7663,
+    7677,
+    13132
+  ]
+}

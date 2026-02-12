@@ -1,0 +1,29 @@
+{
+  "qid": 37764,
+  "query": "Người đi làm việc ở nước ngoài theo hợp đồng mà đóng bảo hiểm xã hội được 6 tháng muốn định cư ở nước ngoài thì có được hưởng bảo hiểm xã hội một lần hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14094,
+    14104,
+    11871,
+    14088,
+    14109,
+    11867,
+    14102,
+    8799,
+    14103,
+    797
+  ]
+}

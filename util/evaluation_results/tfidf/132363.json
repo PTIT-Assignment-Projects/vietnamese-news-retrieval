@@ -1,0 +1,29 @@
+{
+  "qid": 132363,
+  "query": "Cán bộ trong các cơ quan nhà nước được bồi dưỡng ở nước ngoài bằng nguồn ngân sách nhà nước phải đảm bảo những yêu cầu gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14509,
+    1033,
+    1040,
+    14504,
+    7892,
+    14503,
+    7893,
+    11016,
+    14501,
+    14502
+  ]
+}

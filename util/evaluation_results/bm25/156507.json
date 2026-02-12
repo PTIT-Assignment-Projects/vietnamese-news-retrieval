@@ -1,0 +1,29 @@
+{
+  "qid": 156507,
+  "query": "Cách xếp lương của phân hạng chức danh nghề nghiệp viên chức chuyên ngành quan trắc tài nguyên môi trường như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14271,
+    8457,
+    1065,
+    6460,
+    1536,
+    6463,
+    6458,
+    14249,
+    8458,
+    6449
+  ]
+}

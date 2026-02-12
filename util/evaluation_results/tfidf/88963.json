@@ -1,0 +1,29 @@
+{
+  "qid": 88963,
+  "query": "Quy định về hạng chức danh nghề nghiệp đối với viên chức giảng dạy trong các cơ sở giáo dục mầm non công lập như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8732,
+    1529,
+    3467,
+    1535,
+    14235,
+    8734,
+    8736,
+    14239,
+    6357,
+    3455
+  ]
+}

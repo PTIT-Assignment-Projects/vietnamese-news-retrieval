@@ -1,0 +1,29 @@
+{
+  "qid": 114111,
+  "query": "Người tập sự hành nghề Thừa phát lại thay đổi nơi tập sự trong cùng một tỉnh, thành phố trực thuộc Trung ương thì thủ tục thay đổi thực hiện ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5839,
+    8934,
+    4203,
+    6569,
+    5837,
+    5842,
+    5841,
+    5838,
+    8935,
+    5836
+  ]
+}

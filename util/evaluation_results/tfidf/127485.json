@@ -1,0 +1,29 @@
+{
+  "qid": 127485,
+  "query": "Viện kiểm sát quyết định truy tố bị can phải chuyển hồ sơ vụ án và bản cáo trạng đến Tòa án trong thời hạn bao nhiêu ngày từ ngày ra bản cáo trạng?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10721,
+    10753,
+    10716,
+    10710,
+    10757,
+    10929,
+    10717,
+    10751,
+    10713,
+    10853
+  ]
+}

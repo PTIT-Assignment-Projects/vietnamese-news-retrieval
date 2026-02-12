@@ -1,0 +1,29 @@
+{
+  "qid": 55331,
+  "query": "Mức xử phạt vi phạm hành chính đối với doanh nghiệp kinh doanh casino khi không thành lập Bộ phận kiểm soát nội bộ được quy định thế nào?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    3264,
+    3289,
+    3267,
+    3307,
+    3290,
+    6844,
+    3258,
+    3271,
+    3260,
+    3292
+  ]
+}

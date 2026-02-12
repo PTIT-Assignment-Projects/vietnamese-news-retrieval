@@ -1,0 +1,29 @@
+{
+  "qid": 86451,
+  "query": "Cơ sở kinh doanh dịch vụ mua sắm đã lập hồ sơ đăng ký công nhận đạt tiêu chuẩn phục vụ khách du lịch thì sẽ phải thực hiện theo trình tự nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9799,
+    9767,
+    9752,
+    9797,
+    6607,
+    9771,
+    9766,
+    9800,
+    9793,
+    9795
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 19050,
+  "query": "Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh đặt cược đua chó có bao gồm bản sao có chứng thực Giấy chứng nhận đăng ký đầu tư không?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    6542,
+    6498,
+    6499,
+    6494,
+    6496,
+    6500,
+    3272,
+    6493,
+    6478,
+    6502
+  ]
+}

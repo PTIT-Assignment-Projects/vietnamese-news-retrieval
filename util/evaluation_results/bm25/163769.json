@@ -1,0 +1,29 @@
+{
+  "qid": 163769,
+  "query": "Con thương binh khi thi tuyển viên chức làm trong trạm y tế xã sẽ được hưởng bao nhiêu điểm ưu tiên?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14213,
+    14475,
+    6926,
+    11812,
+    1236,
+    663,
+    10415,
+    14473,
+    12387,
+    2839
+  ]
+}

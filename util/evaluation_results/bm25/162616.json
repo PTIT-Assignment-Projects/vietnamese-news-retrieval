@@ -1,0 +1,29 @@
+{
+  "qid": 162616,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt người sử dụng điện thoại trên máy bay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    6555,
+    11127,
+    6544,
+    14198,
+    13141,
+    10377,
+    7017,
+    7307,
+    3304
+  ]
+}

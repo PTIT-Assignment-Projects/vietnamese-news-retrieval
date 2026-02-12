@@ -1,0 +1,29 @@
+{
+  "qid": 30339,
+  "query": "Cục trưởng Cục Cảnh sát giao thông có quyền xử phạt hành chính nếu cá nhân tham gia vào hoạt động của tổ chức kinh doanh đa cấp chưa được cấp giấy chứng nhận không?",
+  "metrics": {
+    "mrr": 0.16666666666666666,
+    "map": 0.16666666666666666,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.3562071871080222
+  },
+  "retrieved": [
+    14940,
+    10379,
+    785,
+    8053,
+    8115,
+    4637,
+    777,
+    787,
+    12949,
+    12947
+  ]
+}

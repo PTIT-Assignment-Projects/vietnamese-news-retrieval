@@ -1,0 +1,29 @@
+{
+  "qid": 105780,
+  "query": "Yêu cầu chung về việc ban hành chế độ báo cáo tình hình hoạt động kiểm định kỹ thuật an toàn lao động là gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6885,
+    2674,
+    11551,
+    4043,
+    6882,
+    7791,
+    1805,
+    4042,
+    7915,
+    2673
+  ]
+}

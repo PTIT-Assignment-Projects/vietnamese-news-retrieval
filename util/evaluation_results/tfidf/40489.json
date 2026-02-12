@@ -1,0 +1,29 @@
+{
+  "qid": 40489,
+  "query": "Việc quyết định cho viên chức thôi giữ chức vụ quản lý phải được tổng số thành viên tập thể lãnh đạo đồng ý trên bao nhiêu phần trăm?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14261,
+    14259,
+    9464,
+    2359,
+    670,
+    2360,
+    2357,
+    14256,
+    14257,
+    2356
+  ]
+}

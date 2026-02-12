@@ -1,0 +1,29 @@
+{
+  "qid": 134673,
+  "query": "Công dân đã có đơn xin rút khiếu nại và chủ tịch UBND đã có văn bản đình chỉ giải quyết đơn của công dân, sau đó công dân khiếu nại lại có được không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1710,
+    2207,
+    6222,
+    1501,
+    2205,
+    658,
+    1749,
+    648,
+    635,
+    1491
+  ]
+}

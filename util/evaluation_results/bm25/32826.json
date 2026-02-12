@@ -1,0 +1,29 @@
+{
+  "qid": 32826,
+  "query": "Nhân viên thử việc bị tai nạn và chết trong khi đang trên đường đi làm thì doanh nghiệp có phải bồi thường cho nhân viên đó không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2573,
+    11438,
+    4181,
+    4486,
+    10338,
+    4178,
+    4485,
+    10362,
+    4182,
+    4179
+  ]
+}

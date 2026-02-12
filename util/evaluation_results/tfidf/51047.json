@@ -1,0 +1,29 @@
+{
+  "qid": 51047,
+  "query": "Thời hạn thông báo kết quả xử lý của cơ quan, đơn vị có thẩm quyền ban hành văn bản quy phạm pháp luật là bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6347,
+    9617,
+    567,
+    4850,
+    14922,
+    570,
+    10132,
+    1129,
+    6341,
+    6332
+  ]
+}

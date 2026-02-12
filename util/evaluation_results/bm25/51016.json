@@ -1,0 +1,29 @@
+{
+  "qid": 51016,
+  "query": "Cơ sở giáo dục cấp Giấy chứng nhận biết tiếng Việt thành thạo cho người nước ngoài hành nghề khám chữa bệnh phải đáp ứng những điều kiện nào?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    7753,
+    7756,
+    12354,
+    7754,
+    12367,
+    12368,
+    7760,
+    12369,
+    7757,
+    14579
+  ]
+}

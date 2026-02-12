@@ -1,0 +1,29 @@
+{
+  "qid": 136589,
+  "query": "Sửa chữa sai sót sau khi nộp báo cáo cho cơ quan thẩm quyền sẽ được thực hiện vào số đầu kỳ hay số phát sinh trong năm phát hiện ra sai sót đó?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2871,
+    11190,
+    11197,
+    5828,
+    4588,
+    8319,
+    11222,
+    5800,
+    11218,
+    14870
+  ]
+}

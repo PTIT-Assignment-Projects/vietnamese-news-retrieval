@@ -1,0 +1,29 @@
+{
+  "qid": 141125,
+  "query": "Hội nghị cán bộ công chức bất thường được tổ chức trong vòng bao nhiêu ngày kể từ khi nhận được yêu cầu tổ chức?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    813,
+    807,
+    4128,
+    806,
+    808,
+    2358,
+    809,
+    812,
+    814,
+    2341
+  ]
+}

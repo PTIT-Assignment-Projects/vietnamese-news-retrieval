@@ -1,0 +1,29 @@
+{
+  "qid": 159381,
+  "query": "Cấu trúc chương trình đào tạo của trường trung cấp nghề theo từng ngành, nghề được thiết kế bao gồm những gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3337,
+    9838,
+    9842,
+    3339,
+    3343,
+    3347,
+    3338,
+    3336,
+    9871,
+    9837
+  ]
+}

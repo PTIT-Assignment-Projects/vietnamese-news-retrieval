@@ -1,0 +1,29 @@
+{
+  "qid": 107446,
+  "query": "Cơ quan tiến hành tố tụng hình sự yêu cầu tạm thời đưa học sinh ra khỏi trường giáo dưỡng có những trách nhiệm gì? Có thể gia hạn thời gian đưa học sinh ra khỏi trường không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1935,
+    1945,
+    1943,
+    1949,
+    1946,
+    1944,
+    14309,
+    14312,
+    1939,
+    1941
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 87424,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt doanh nghiệp nhập khẩu xăng dầu thấp hơn hạn mức tối thiểu được cơ quan nhà nước phân giao không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11995,
+    4898,
+    14084,
+    8481,
+    2438,
+    8472,
+    14065,
+    8471,
+    13045,
+    14085
+  ]
+}

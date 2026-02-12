@@ -1,0 +1,29 @@
+{
+  "qid": 117537,
+  "query": "Trong trường hợp nào người lao động là công dân Việt Nam thuộc đối tượng tham gia bảo hiểm xã hội bắt buộc mà có yêu cầu thì được hưởng bảo hiểm xã hội một lần?",
+  "metrics": {
+    "mrr": 0.1111111111111111,
+    "map": 0.1111111111111111,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.3010299956639812
+  },
+  "retrieved": [
+    14101,
+    793,
+    14087,
+    795,
+    11859,
+    11844,
+    797,
+    11858,
+    14094,
+    8438
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 165438,
+  "query": "Thanh tra viên giáo dục tiến hành thanh tra trong thời hạn bao lâu đối với mỗi đối tượng thanh tra?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    179,
+    7029,
+    187,
+    186,
+    13395,
+    7018,
+    9135,
+    7020,
+    177,
+    7027
+  ]
+}

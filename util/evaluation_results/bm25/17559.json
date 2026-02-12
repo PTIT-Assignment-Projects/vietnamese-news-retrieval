@@ -1,0 +1,29 @@
+{
+  "qid": 17559,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp viễn thông không hoàn trả kho số viễn thông đã được cấp theo quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2711,
+    2715,
+    8562,
+    2716,
+    2714,
+    8567,
+    4898,
+    7248,
+    7243,
+    8472
+  ]
+}

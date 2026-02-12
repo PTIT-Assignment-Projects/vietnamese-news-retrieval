@@ -1,0 +1,29 @@
+{
+  "qid": 123070,
+  "query": "Cơ quan nào có trách nhiệm hướng dẫn và kiểm tra về tiêu chuẩn trọng tài của doanh nghiệp tổ chức hoạt động đua chó để kinh doanh đặt cược?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6491,
+    6489,
+    6488,
+    11029,
+    6537,
+    6487,
+    6500,
+    6492,
+    3247,
+    6542
+  ]
+}

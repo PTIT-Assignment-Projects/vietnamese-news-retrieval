@@ -1,0 +1,29 @@
+{
+  "qid": 87131,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt tổ chức xây dựng trái phép công trình gây tổn hại đến sự an toàn của công trình biên giới không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6913,
+    6911,
+    10351,
+    13718,
+    6918,
+    6907,
+    6921,
+    9079,
+    8714,
+    3128
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 5608,
+  "query": "Thành viên cơ quan Việt Nam ở nước ngoài được hưởng nguyên sinh hoạt phí trong những ngày nghỉ hằng năm không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8798,
+    7898,
+    8792,
+    8789,
+    8799,
+    8791,
+    8797,
+    8793,
+    14088,
+    7894
+  ]
+}

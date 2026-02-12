@@ -1,0 +1,29 @@
+{
+  "qid": 131381,
+  "query": "Viên chức tập sự vị trí thẩm kế viên hạng IV có được hưởng lương bậc 2 khi bổ sung bằng thạc sĩ trong thời gian tập sự hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14230,
+    6460,
+    8455,
+    5836,
+    14231,
+    4207,
+    4203,
+    6572,
+    5839,
+    7559
+  ]
+}

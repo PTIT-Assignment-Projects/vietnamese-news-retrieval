@@ -1,0 +1,29 @@
+{
+  "qid": 135190,
+  "query": "Trường hợp khiếu nại quyết định hành chính thì quyết định bị khiếu nại có buộc phải tạm đình chỉ thi hành hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1735,
+    6227,
+    646,
+    2207,
+    1757,
+    1712,
+    1711,
+    8996,
+    10536,
+    1746
+  ]
+}

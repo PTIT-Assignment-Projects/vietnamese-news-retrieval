@@ -1,0 +1,29 @@
+{
+  "qid": 71914,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt tiếp viên hàng không sử dụng ma túy khi thực hiện nhiệm vụ không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    10377,
+    10372,
+    11127,
+    7017,
+    14198,
+    6544,
+    3304,
+    5879,
+    7002
+  ]
+}

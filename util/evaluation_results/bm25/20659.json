@@ -1,0 +1,29 @@
+{
+  "qid": 20659,
+  "query": "Giáo viên trung học cơ sở phải đáp ứng các tiêu chuẩn gì để thi thăng hạng chức danh nghề nghiệp hạng II?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1533,
+    3852,
+    6924,
+    1538,
+    1537,
+    1534,
+    1535,
+    2820,
+    13119,
+    1532
+  ]
+}

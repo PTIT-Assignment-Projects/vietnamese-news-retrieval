@@ -1,0 +1,29 @@
+{
+  "qid": 76462,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp viễn thông sử dụng thiết bị viễn thông đã được kiểm định nhưng Giấy chứng nhận kiểm định hết hiệu lực không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7910,
+    7911,
+    7906,
+    7915,
+    7912,
+    7913,
+    7905,
+    7917,
+    7914,
+    7916
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 119099,
+  "query": "Chánh Thanh tra sở Văn hóa, Thể thao và Du lịch có quyền xử phạt bên giao đại lý lữ hành không cung cấp cho bên nhận đại lý lữ hành thông tin liên quan đến chương trình du lịch không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9785,
+    9786,
+    9783,
+    9784,
+    9780,
+    6609,
+    9775,
+    9782,
+    9809,
+    9777
+  ]
+}

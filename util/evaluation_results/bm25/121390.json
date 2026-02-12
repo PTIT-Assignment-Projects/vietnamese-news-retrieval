@@ -1,0 +1,29 @@
+{
+  "qid": 121390,
+  "query": "Viên chức chuyển sang chuyên ngành quản lý dự án hàng hải có được kết hợp nâng bậc lương hoặc thăng hạng chức danh nghề nghiệp không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6458,
+    14270,
+    8457,
+    6460,
+    3876,
+    14237,
+    7785,
+    7562,
+    7561,
+    8458
+  ]
+}

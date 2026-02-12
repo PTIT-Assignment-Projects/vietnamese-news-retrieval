@@ -1,0 +1,29 @@
+{
+  "qid": 29921,
+  "query": "Việc thành lập ban quản lý nhà thờ dòng họ được thực hiện như thế nào? Cơ quan nào sẽ có thẩm quyền giải quyết?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2141,
+    2142,
+    2132,
+    14426,
+    14422,
+    14424,
+    6365,
+    7800,
+    14421,
+    3149
+  ]
+}

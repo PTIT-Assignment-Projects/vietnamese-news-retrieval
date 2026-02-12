@@ -1,0 +1,29 @@
+{
+  "qid": 15835,
+  "query": "Doanh nghiệp được cấp phép thiết lập trang thông tin điện tử tổng hợp thay đổi chủ sở hữu nhưng không thông báo cho cơ quan có thẩm quyền bị xử phạt thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14922,
+    14921,
+    2057,
+    2068,
+    14904,
+    2066,
+    6599,
+    11357,
+    11364,
+    6785
+  ]
+}

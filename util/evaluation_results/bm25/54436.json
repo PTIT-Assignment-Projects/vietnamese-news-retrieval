@@ -1,0 +1,29 @@
+{
+  "qid": 54436,
+  "query": "Thời hạn gửi báo cáo năm trong công tác dân tộc chậm nhất vào ngày nào và gửi báo cáo theo địa chỉ nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1308,
+    1309,
+    2672,
+    6354,
+    6802,
+    1306,
+    1316,
+    4760,
+    8770,
+    3613
+  ]
+}

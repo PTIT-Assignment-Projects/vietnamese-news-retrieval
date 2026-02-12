@@ -1,0 +1,29 @@
+{
+  "qid": 171778,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt điểm cung cấp dịch vụ trò chơi điện tử công cộng không thực hiện quy định về bảo đảm an toàn thông tin không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7945,
+    8481,
+    8472,
+    7953,
+    8471,
+    7944,
+    9737,
+    11694,
+    7949,
+    12302
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 126478,
+  "query": "Để được xét thăng hạng viên chức thông tin an ninh hàng hải hạng 2, viên chức phải có thời gian giữ CDNN thông tin an ninh hàng hải bao lâu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3870,
+    6924,
+    14239,
+    14249,
+    3878,
+    8737,
+    13119,
+    3876,
+    14248,
+    3875
+  ]
+}

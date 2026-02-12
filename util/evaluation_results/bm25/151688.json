@@ -1,0 +1,29 @@
+{
+  "qid": 151688,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt tổ chức sản xuất phân bón không có khu vực chứa nguyên liệu và khu vực thành phẩm riêng biệt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12260,
+    11153,
+    14178,
+    11155,
+    12246,
+    5190,
+    12269,
+    11406,
+    2513,
+    1097
+  ]
+}

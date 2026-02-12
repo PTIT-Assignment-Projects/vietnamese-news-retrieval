@@ -1,0 +1,29 @@
+{
+  "qid": 24031,
+  "query": "Hồ sơ về việc miễn nhiệm Kiểm tra viên chính của Viện kiểm sát nhân dân tối cao gồm các tài liệu nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1914,
+    7970,
+    10883,
+    1918,
+    10967,
+    279,
+    4925,
+    10844,
+    10944,
+    1917
+  ]
+}

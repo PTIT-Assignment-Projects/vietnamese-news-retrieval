@@ -1,0 +1,29 @@
+{
+  "qid": 160198,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Khoa học và Công nghệ có quyền xử phạt tổ chức nhập khẩu thiết bị hạt nhân không đúng số lượng ghi trong giấy phép không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7307,
+    6934,
+    6937,
+    6935,
+    7304,
+    8232,
+    7017,
+    8239,
+    12796,
+    4955
+  ]
+}

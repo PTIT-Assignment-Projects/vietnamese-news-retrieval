@@ -1,0 +1,29 @@
+{
+  "qid": 80126,
+  "query": "Trình độ Phó Chánh Thanh tra tỉnh, thành phố trực thuộc Trung ương có bắt buộc phải có bằng tốt nghiệp đại học trở lên hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9400,
+    4956,
+    11070,
+    9402,
+    9238,
+    3034,
+    9232,
+    3100,
+    14531,
+    2320
+  ]
+}

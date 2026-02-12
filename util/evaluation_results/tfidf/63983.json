@@ -1,0 +1,29 @@
+{
+  "qid": 63983,
+  "query": "Phó Giám đốc Sở Khoa học và Công nghệ phải có kinh nghiệm công tác quản lý về khoa học và công nghệ từ bao nhiêu năm trở lên?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 0.5,
+    "p@1": 1.0,
+    "r@1": 0.5,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 0.5,
+    "ndcg@5": 0.6131471927654584,
+    "p@10": 0.1,
+    "r@10": 0.5,
+    "ndcg@10": 0.6131471927654584
+  },
+  "retrieved": [
+    6256,
+    6246,
+    6254,
+    12802,
+    6248,
+    6249,
+    8232,
+    8239,
+    8231,
+    8253
+  ]
+}

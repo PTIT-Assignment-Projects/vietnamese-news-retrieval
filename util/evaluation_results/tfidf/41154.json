@@ -1,0 +1,29 @@
+{
+  "qid": 41154,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt tổ chức thi công công trình xây dựng cảng cạn khi chưa có giấy phép không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6883,
+    6880,
+    6888,
+    6870,
+    6879,
+    5104,
+    9135,
+    6882,
+    6873,
+    4537
+  ]
+}

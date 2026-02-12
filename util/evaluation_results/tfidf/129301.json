@@ -1,0 +1,29 @@
+{
+  "qid": 129301,
+  "query": "Thanh tra Sở Nội vụ phối hợp với Ban tôn giáo xây dựng chương trình, kế hoạch thanh tra chuyên ngành tôn giáo chậm nhất vào ngày nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4263,
+    4262,
+    4266,
+    4260,
+    4259,
+    4268,
+    4261,
+    4267,
+    4271,
+    4272
+  ]
+}

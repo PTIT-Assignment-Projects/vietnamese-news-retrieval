@@ -1,0 +1,29 @@
+{
+  "qid": 32770,
+  "query": "Phụ cấp trách nhiệm đối với lái xe phục vụ Viện trưởng Viện Kiểm sát nhân dân tối cao được chi trả khi nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1354,
+    1357,
+    1348,
+    10883,
+    1380,
+    10881,
+    1374,
+    10942,
+    1353,
+    1356
+  ]
+}

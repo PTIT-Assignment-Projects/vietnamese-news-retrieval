@@ -1,0 +1,29 @@
+{
+  "qid": 150918,
+  "query": "Trường hợp nhận con nuôi giữa cha dượng và con riêng của vợ có được miễn lệ phí đăng ký nuôi con nuôi hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13966,
+    13963,
+    13964,
+    13965,
+    13968,
+    13971,
+    13970,
+    3234,
+    13969,
+    3230
+  ]
+}

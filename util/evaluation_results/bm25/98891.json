@@ -1,0 +1,29 @@
+{
+  "qid": 98891,
+  "query": "Khiếu nại quyết định ban hành không đúng thẩm quyền theo Luật khiếu nại 2011 có được giải quyết lại từ đầu không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1733,
+    1718,
+    1757,
+    1751,
+    6226,
+    1714,
+    11401,
+    1702,
+    647,
+    2243
+  ]
+}

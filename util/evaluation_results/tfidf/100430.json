@@ -1,0 +1,29 @@
+{
+  "qid": 100430,
+  "query": "Thông tin về nhu cầu sử dụng đất trong lập kế hoạch sử dụng đất hàng năm cấp huyện do cơ quan nào xác định?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1598,
+    1591,
+    1586,
+    1595,
+    1579,
+    1604,
+    1580,
+    1596,
+    1564,
+    1572
+  ]
+}

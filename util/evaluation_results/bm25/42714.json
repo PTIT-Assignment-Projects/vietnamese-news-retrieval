@@ -1,0 +1,29 @@
+{
+  "qid": 42714,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt cá nhân kinh doanh bãi cắm trại du lịch không niêm yết công khai giá dịch vụ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9792,
+    9791,
+    9796,
+    3252,
+    6392,
+    7292,
+    5570,
+    12689,
+    8472,
+    12676
+  ]
+}

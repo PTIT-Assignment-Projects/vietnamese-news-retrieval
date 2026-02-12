@@ -1,0 +1,29 @@
+{
+  "qid": 70852,
+  "query": "Người tham gia lễ hội tham gia các hoạt động mê tín dị đoan thì Chủ tịch Uỷ ban nhân dân xã có thẩm quyền xử phạt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13410,
+    13413,
+    7131,
+    13424,
+    7047,
+    2143,
+    1236,
+    13418,
+    7594,
+    8477
+  ]
+}

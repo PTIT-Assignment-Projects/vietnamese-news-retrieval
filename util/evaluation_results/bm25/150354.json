@@ -1,0 +1,29 @@
+{
+  "qid": 150354,
+  "query": "Thời hạn kháng nghị theo thủ tục phúc thẩm đối với quyết định sơ thẩm vụ án hình sự chưa có hiệu lực pháp luật của Tòa án quân sự khu vực là bao lâu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10504,
+    10807,
+    12728,
+    10839,
+    6090,
+    10825,
+    10838,
+    10872,
+    10823,
+    10865
+  ]
+}

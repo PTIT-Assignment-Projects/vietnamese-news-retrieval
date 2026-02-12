@@ -1,0 +1,29 @@
+{
+  "qid": 94598,
+  "query": "Thừa phát lại có thể tổ chức thi hành án hay không? Ai có quyền yêu cầu Thừa phát lại tổ chức thi hành án?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8969,
+    8982,
+    8979,
+    8981,
+    8986,
+    8985,
+    8978,
+    9417,
+    8984,
+    8974
+  ]
+}

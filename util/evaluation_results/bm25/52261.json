@@ -1,0 +1,29 @@
+{
+  "qid": 52261,
+  "query": "Chức việc là người nước ngoài cư trú hợp pháp tại Việt Nam thì có được giảng đạo tại cơ sở tôn giáo ở Việt Nam không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2138,
+    2176,
+    2136,
+    2181,
+    2150,
+    2178,
+    2177,
+    2179,
+    2182,
+    2132
+  ]
+}

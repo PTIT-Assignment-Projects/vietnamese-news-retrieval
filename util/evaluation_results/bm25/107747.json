@@ -1,0 +1,29 @@
+{
+  "qid": 107747,
+  "query": "Cơ quan nào có thẩm quyền phê duyệt việc thông báo danh mục hoạt động tôn giáo của tổ chức tôn giáo?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2173,
+    2197,
+    2169,
+    2161,
+    2163,
+    2166,
+    2172,
+    2164,
+    2183,
+    4262
+  ]
+}

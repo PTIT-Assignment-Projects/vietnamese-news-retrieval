@@ -1,0 +1,29 @@
+{
+  "qid": 36853,
+  "query": "Tổ chức khoa học và công nghệ ngừng hoạt động trong thời hạn bao lâu thì Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ bị đình chỉ hiệu lực?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8240,
+    8236,
+    8276,
+    8238,
+    8244,
+    8237,
+    8248,
+    8242,
+    8241,
+    8249
+  ]
+}

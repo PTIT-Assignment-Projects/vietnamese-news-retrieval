@@ -1,0 +1,29 @@
+{
+  "qid": 132243,
+  "query": "Lãnh đạo của cơ sở khám chữa bệnh có phòng xét nghiệm có trách nhiệm thế nào trong việc quản lý chất lượng xét nghiệm?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    270,
+    271,
+    269,
+    263,
+    266,
+    264,
+    267,
+    265,
+    2762,
+    12376
+  ]
+}

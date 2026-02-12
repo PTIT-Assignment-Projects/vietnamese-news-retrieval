@@ -1,0 +1,29 @@
+{
+  "qid": 17191,
+  "query": "Xe cứu thương đã lắp đặt thiết bị phát tín hiệu ưu tiên được sử dụng thiết bị khi không thực hiện nhiệm vụ cấp cứu hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3972,
+    3969,
+    12306,
+    3967,
+    12320,
+    12305,
+    12317,
+    3968,
+    12318,
+    3970
+  ]
+}

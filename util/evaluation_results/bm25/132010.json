@@ -1,0 +1,29 @@
+{
+  "qid": 132010,
+  "query": "Thông báo về việc đã được cơ quan có thẩm quyền của nước ngoài cấp giấy chứng nhận mở địa điểm kinh doanh của liên hiệp hợp tác xã được thực hiện theo mẫu nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3064,
+    3072,
+    3066,
+    3068,
+    3074,
+    3071,
+    3065,
+    11954,
+    3059,
+    3058
+  ]
+}

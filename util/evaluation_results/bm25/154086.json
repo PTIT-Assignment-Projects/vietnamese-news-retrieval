@@ -1,0 +1,29 @@
+{
+  "qid": 154086,
+  "query": "Nguyên tắc sử dụng thông tin, tài liệu thu thập được bằng biện pháp điều tra tố tụng đặc biệt được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10704,
+    10550,
+    10700,
+    10565,
+    100,
+    10608,
+    5298,
+    5290,
+    10702,
+    12940
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 8238,
+  "query": "Tổ chức tín dụng nước ngoài có phải thỏa thuận việc thanh toán trái phiếu đối với người mua hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1652,
+    4021,
+    4016,
+    9547,
+    274,
+    9930,
+    1664,
+    1654,
+    1657,
+    13661
+  ]
+}

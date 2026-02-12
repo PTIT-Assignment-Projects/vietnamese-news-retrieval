@@ -1,0 +1,29 @@
+{
+  "qid": 83153,
+  "query": "Đối với hành vi trồng cây hằng năm trong hành lang bảo vệ đê thì Chủ tịch ủy ban nhân dân huyện có thẩm quyền xử phạt vi phạm hành chính hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11129,
+    14850,
+    12063,
+    8481,
+    1717,
+    10936,
+    8,
+    13791,
+    11132,
+    8472
+  ]
+}

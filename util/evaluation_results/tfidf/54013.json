@@ -1,0 +1,29 @@
+{
+  "qid": 54013,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt đại lý kinh doanh xăng dầu có hợp đồng đại lý xăng dầu đã hết hiệu lực không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9784,
+    11986,
+    8481,
+    679,
+    8472,
+    8471,
+    678,
+    9786,
+    11997,
+    11992
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 54167,
+  "query": "Ban Tôn giáo Chính phủ xây dựng chương trình, kế hoạch thanh tra chuyên ngành tôn giáo gửi Thanh tra Bộ Nội vụ chậm nhất vào ngày nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4263,
+    4262,
+    4266,
+    4268,
+    4261,
+    4267,
+    4271,
+    4260,
+    4270,
+    4265
+  ]
+}

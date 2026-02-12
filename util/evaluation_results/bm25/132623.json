@@ -1,0 +1,29 @@
+{
+  "qid": 132623,
+  "query": "Tổ chức nhập khẩu trang thiết bị y tế khi chưa có giấy phép nhập khẩu thì bị xử phạt vi phạm hành chính thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14617,
+    6179,
+    14544,
+    14614,
+    14904,
+    9536,
+    12063,
+    14620,
+    14615,
+    14542
+  ]
+}

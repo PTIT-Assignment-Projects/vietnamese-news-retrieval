@@ -1,0 +1,29 @@
+{
+  "qid": 63051,
+  "query": "Trường hợp có giấy phép lái xe quốc tế, khi tham gia giao thông trên lãnh thổ Việt Nam không mang theo giấy phép lái xe quốc gia bị xử phạt như thế nào?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    10379,
+    10319,
+    7114,
+    7122,
+    7115,
+    7124,
+    7126,
+    7127,
+    7118,
+    7119
+  ]
+}

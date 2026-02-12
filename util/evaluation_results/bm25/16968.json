@@ -1,0 +1,29 @@
+{
+  "qid": 16968,
+  "query": "Thẩm quyền của thanh tra chuyên ngành đất đai trong việc xử phạt vi phạm hành chính ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11127,
+    14850,
+    11466,
+    12063,
+    4637,
+    7032,
+    11131,
+    3304,
+    13396,
+    4640
+  ]
+}

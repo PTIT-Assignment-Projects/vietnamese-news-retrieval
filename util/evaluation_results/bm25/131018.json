@@ -1,0 +1,29 @@
+{
+  "qid": 131018,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt người thuê người khác làm hộ bài đánh giá trình độ tiếng Anh nhân viên hàng không không?",
+  "metrics": {
+    "mrr": 0.14285714285714285,
+    "map": 0.14285714285714285,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.3333333333333333
+  },
+  "retrieved": [
+    12974,
+    12960,
+    12955,
+    12971,
+    12972,
+    3754,
+    4637,
+    12970,
+    12967,
+    10377
+  ]
+}

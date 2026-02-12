@@ -1,0 +1,29 @@
+{
+  "qid": 91004,
+  "query": "Ai có quyền bổ nhiệm chức danh Chánh Tòa hình sự tại Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    870,
+    871,
+    869,
+    10640,
+    10481,
+    10745,
+    3975,
+    8938,
+    10752,
+    1131
+  ]
+}

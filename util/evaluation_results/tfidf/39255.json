@@ -1,0 +1,29 @@
+{
+  "qid": 39255,
+  "query": "Ai có trách nhiệm bồi thường trong trường hợp tài sản bị hư hỏng do áp dụng biện pháp khẩn cấp tạm thời?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12711,
+    5324,
+    5325,
+    12899,
+    3701,
+    12743,
+    8891,
+    8880,
+    12733,
+    5318
+  ]
+}

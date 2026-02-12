@@ -1,0 +1,29 @@
+{
+  "qid": 59866,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt tổ chức nhập khẩu xuất bản phẩm không kinh doanh nhưng không có giấy phép nhập khẩu không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1471,
+    14931,
+    1470,
+    14924,
+    1463,
+    1459,
+    4053,
+    14932,
+    1464,
+    1466
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 106419,
+  "query": "Người nước ngoài có được phép tham gia lớp bồi dưỡng về tôn giáo của tổ chức tôn giáo tại Việt Nam hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2138,
+    2171,
+    2136,
+    4261,
+    2180,
+    2177,
+    2178,
+    2181,
+    2183,
+    2150
+  ]
+}

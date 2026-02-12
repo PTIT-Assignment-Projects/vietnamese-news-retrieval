@@ -1,0 +1,29 @@
+{
+  "qid": 127863,
+  "query": "Chủ tịch Uỷ ban nhân dân tỉnh có thẩm quyền xử phạt việc làm phim điện ảnh sử dụng những hình ảnh đánh đập, tra tấn tàn bạo không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9815,
+    679,
+    8073,
+    8481,
+    678,
+    8472,
+    8471,
+    8069,
+    685,
+    8473
+  ]
+}

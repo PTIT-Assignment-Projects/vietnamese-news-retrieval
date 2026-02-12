@@ -1,0 +1,29 @@
+{
+  "qid": 22328,
+  "query": "Trong hợp tác quốc tế về tố tụng hình sự trách nhiệm của Viện kiểm sát nhân dân tối cao được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10961,
+    1917,
+    1357,
+    10959,
+    1348,
+    3988,
+    7970,
+    279,
+    1918,
+    1911
+  ]
+}

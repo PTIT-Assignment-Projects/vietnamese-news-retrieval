@@ -1,0 +1,29 @@
+{
+  "qid": 119046,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt đơn vị quản lý đường thủy nội không lập hồ sơ theo dõi vật chướng ngại trên đường thủy nội địa không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11165,
+    9049,
+    9106,
+    9084,
+    9045,
+    9108,
+    9050,
+    9079,
+    9081,
+    13174
+  ]
+}

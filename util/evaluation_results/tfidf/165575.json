@@ -1,0 +1,29 @@
+{
+  "qid": 165575,
+  "query": "Xây dựng nhà ở trên đất nông nghiệp không thực hiện chuyển mục đích sử dụng có thể bị xử phạt hành chính như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1591,
+    1557,
+    1590,
+    7229,
+    1580,
+    11467,
+    11105,
+    1564,
+    11101,
+    1589
+  ]
+}

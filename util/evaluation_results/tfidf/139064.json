@@ -1,0 +1,29 @@
+{
+  "qid": 139064,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt hành vi ép buộc người khác tẩy xóa làm sai lệch nội dung giấy tờ nhằm cản trở việc bổ nhiệm người vào vị trí lãnh đạo vì định kiến giới không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8481,
+    8472,
+    8471,
+    12302,
+    11127,
+    4896,
+    679,
+    1717,
+    678,
+    8473
+  ]
+}

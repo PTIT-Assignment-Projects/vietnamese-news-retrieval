@@ -1,0 +1,29 @@
+{
+  "qid": 105061,
+  "query": "Hồ sơ làm căn cứ để đánh giá đáp ứng Thực hành tốt phòng thí nghiệm đối với cơ sở thử nghiệm không vì mục đích thương mại gồm những gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14603,
+    4427,
+    4424,
+    2510,
+    4419,
+    7763,
+    4417,
+    13212,
+    4423,
+    2515
+  ]
+}

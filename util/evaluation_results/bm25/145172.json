@@ -1,0 +1,29 @@
+{
+  "qid": 145172,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt tổ chức không tái xuất máy móc chuyên ngành thuốc lá khi hết thời gian được phép tạm nhập không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8357,
+    3128,
+    5264,
+    5262,
+    8360,
+    8472,
+    5286,
+    14566,
+    8471,
+    14028
+  ]
+}

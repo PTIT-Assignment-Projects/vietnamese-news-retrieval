@@ -1,0 +1,29 @@
+{
+  "qid": 95741,
+  "query": "Thư ký Hội đồng Thi đua Khen thưởng Bộ Ngoại giao là ai và có được quyền biểu quyết tại hội đồng hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3492,
+    8864,
+    2096,
+    7867,
+    8755,
+    8865,
+    1351,
+    7714,
+    2097,
+    7868
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 146524,
+  "query": "Vụ Kiểm toán nội bộ Ngân hàng Nhà nước Việt Nam có móc nối với đơn vị được kiểm toán để làm sai lệch nội dung của các thông tin được kiểm toán không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6851,
+    6855,
+    6863,
+    6858,
+    6856,
+    6864,
+    6857,
+    6860,
+    6865,
+    6866
+  ]
+}

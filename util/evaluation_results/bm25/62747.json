@@ -1,0 +1,29 @@
+{
+  "qid": 62747,
+  "query": "Việc thành lập đơn vị hành chính mới được gán mã bưu chính quốc gia phải tuân thủ những nguyên tắc nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7602,
+    7600,
+    7597,
+    7601,
+    7599,
+    7603,
+    12160,
+    9333,
+    5506,
+    10119
+  ]
+}

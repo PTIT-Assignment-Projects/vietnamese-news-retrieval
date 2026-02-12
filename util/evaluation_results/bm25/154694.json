@@ -1,0 +1,29 @@
+{
+  "qid": 154694,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Khoa học và Công nghệ có quyền xử phạt tổ chức vận chuyển nhiên liệu hạt nhân đã qua sử dụng quá cảnh lãnh thổ Việt Nam mà không có giấy phép không?",
+  "metrics": {
+    "mrr": 0.16666666666666666,
+    "map": 0.16666666666666666,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.3562071871080222
+  },
+  "retrieved": [
+    6936,
+    12024,
+    1224,
+    12019,
+    7002,
+    4637,
+    11127,
+    12055,
+    6937,
+    14198
+  ]
+}

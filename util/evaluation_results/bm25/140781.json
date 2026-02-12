@@ -1,0 +1,29 @@
+{
+  "qid": 140781,
+  "query": "Cơ quan có thẩm quyền lập quy chế bảo vệ di sản thế giới có đồng thời được giao quản lý di sản thế giới hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12422,
+    12418,
+    12424,
+    12412,
+    12417,
+    12420,
+    12425,
+    12413,
+    12411,
+    12407
+  ]
+}

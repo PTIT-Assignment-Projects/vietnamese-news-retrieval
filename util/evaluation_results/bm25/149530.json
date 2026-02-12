@@ -1,0 +1,29 @@
+{
+  "qid": 149530,
+  "query": "Viên chức dự thi thăng hạng chức danh giáo viên trung học phổ thông hạng 1 phải có thời gian giữ chức danh nghề nghiệp bao lâu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13119,
+    6924,
+    3876,
+    3873,
+    14246,
+    13118,
+    8732,
+    13121,
+    1538,
+    14243
+  ]
+}

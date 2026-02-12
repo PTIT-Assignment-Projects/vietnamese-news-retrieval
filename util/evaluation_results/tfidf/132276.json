@@ -1,0 +1,29 @@
+{
+  "qid": 132276,
+  "query": "Ngoài việc phạt tiền khi tự lắp đèn trợ sáng cho xe máy tham gia giao thông thì có bị xử phạt bổ sung không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5997,
+    11822,
+    10320,
+    4604,
+    5996,
+    11467,
+    12022,
+    5995,
+    11100,
+    14545
+  ]
+}

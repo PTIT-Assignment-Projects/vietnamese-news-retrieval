@@ -1,0 +1,29 @@
+{
+  "qid": 81758,
+  "query": "Chủ đầu tư xây dựng đập, hồ chứa nước phải gửi bản kê khai đăng ký an toàn đập, hồ chứa nước đến cơ quan nhà nước trong thời hạn bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13987,
+    13982,
+    14008,
+    13979,
+    14007,
+    13995,
+    13981,
+    13993,
+    13985,
+    13986
+  ]
+}

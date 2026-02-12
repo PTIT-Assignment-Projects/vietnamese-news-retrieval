@@ -1,0 +1,29 @@
+{
+  "qid": 79535,
+  "query": "Biện pháp tạm giam trong tố tụng hình sự là gì? Có thể áp dụng tạm giam đối với tất cả các loại tội phạm không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10649,
+    10824,
+    6703,
+    10597,
+    10755,
+    1177,
+    1192,
+    10946,
+    1189,
+    1188
+  ]
+}

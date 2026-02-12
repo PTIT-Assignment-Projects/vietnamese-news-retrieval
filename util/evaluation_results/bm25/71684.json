@@ -1,0 +1,29 @@
+{
+  "qid": 71684,
+  "query": "Ai có quyền gia hạn tạm giam đối với người lợi dụng quyền tự do ngôn luận xâm phạm lợi ích của cá nhân gây ảnh hưởng xấu đến trật tự an toàn xã hội mà vụ án do Cơ quan điều tra cấp tỉnh thụ lý?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10649,
+    1191,
+    10651,
+    1181,
+    1189,
+    1180,
+    10595,
+    6189,
+    10518,
+    1188
+  ]
+}

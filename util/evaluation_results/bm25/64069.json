@@ -1,0 +1,29 @@
+{
+  "qid": 64069,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã hay cấp huyện có thẩm quyền xử phạt hành vi uy hiếp tinh thần người tham gia hoạt động giáo dục về chăm sóc sức khỏe và sử dụng các dịch vụ y tế vì định kiến giới?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14473,
+    7131,
+    2692,
+    7938,
+    12496,
+    4640,
+    2839,
+    1717,
+    7939,
+    1696
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 34969,
+  "query": "Doanh nghiệp viễn thông có trách nhiệm thế nào đối với giá cước công ích khi cung cấp dịch vụ viễn thông công ích thông tin di động mặt đất trả sau?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2719,
+    2707,
+    2699,
+    2702,
+    2703,
+    8567,
+    2700,
+    2718,
+    2717,
+    2709
+  ]
+}

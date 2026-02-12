@@ -1,0 +1,29 @@
+{
+  "qid": 104160,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt đối với cơ sở sản xuất tự ý nhập khẩu phôi giống vật nuôi là trâu đực lần đầu vào Việt Nam không?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    8481,
+    8472,
+    14321,
+    4637,
+    8471,
+    11910,
+    4896,
+    12433,
+    3104,
+    3128
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 71633,
+  "query": "Giấy chứng nhận đủ điều kiện kinh doanh đặt cược bóng đá quốc tế được cấp khi doanh nghiệp phải đáp ứng những điều kiện gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6502,
+    6505,
+    6501,
+    6504,
+    6476,
+    6507,
+    6465,
+    6469,
+    6467,
+    6537
+  ]
+}

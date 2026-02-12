@@ -1,0 +1,29 @@
+{
+  "qid": 68886,
+  "query": "Báo cáo cơ quan có thẩm quyền quản lý theo quy định kết quả bổ nhiệm và xếp lương với giáo viên mầm non là trách nhiệm của ai?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1535,
+    1529,
+    1530,
+    11935,
+    5969,
+    1678,
+    5976,
+    1532,
+    5970,
+    7726
+  ]
+}

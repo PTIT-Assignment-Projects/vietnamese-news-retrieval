@@ -1,0 +1,29 @@
+{
+  "qid": 135080,
+  "query": "Công bố nội dung đăng ký hoạt động của doanh nghiệp đấu giá tài sản có bao gồm nội dung về địa chỉ văn phòng đại diện?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    715,
+    717,
+    713,
+    714,
+    719,
+    10087,
+    710,
+    712,
+    743,
+    6588
+  ]
+}

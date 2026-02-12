@@ -1,0 +1,29 @@
+{
+  "qid": 109858,
+  "query": "Khi đăng ký chứng khoán thì công ty đại chúng có phải đăng ký thông tin danh sách người sở hữu chứng khoán hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14947,
+    5062,
+    5056,
+    14946,
+    14954,
+    5043,
+    14949,
+    14150,
+    14951,
+    5061
+  ]
+}

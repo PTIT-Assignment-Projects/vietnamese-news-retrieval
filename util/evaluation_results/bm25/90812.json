@@ -1,0 +1,29 @@
+{
+  "qid": 90812,
+  "query": "Cá nhân Việt Nam nuôi trồng thủy sản trên biển không được cơ quan nhà nước có thẩm quyền cấp phép thì bị xử phạt thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9875,
+    4541,
+    10001,
+    6735,
+    7541,
+    2780,
+    14180,
+    2995,
+    10327,
+    10333
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 82230,
+  "query": "Có được phép bổ nhiệm giữ chức danh viên chức quản lý đối với cá nhân đang thi hành án dân sự hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9476,
+    2314,
+    9475,
+    2333,
+    9479,
+    2358,
+    9480,
+    9474,
+    2318,
+    2394
+  ]
+}

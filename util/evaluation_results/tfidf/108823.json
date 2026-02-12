@@ -1,0 +1,29 @@
+{
+  "qid": 108823,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Tổng cục Giáo dục nghề nghiệp có quyền xử phạt cơ sở bồi dưỡng tiêu chuẩn chức danh nghề nghiệp viên chức chuyên ngành giáo dục nghề nghiệp khi chưa được giao nhiệm vụ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14271,
+    3467,
+    13387,
+    13124,
+    14235,
+    8733,
+    7012,
+    14269,
+    6925,
+    9582
+  ]
+}

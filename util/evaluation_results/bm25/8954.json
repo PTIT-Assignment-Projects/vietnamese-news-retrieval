@@ -1,0 +1,29 @@
+{
+  "qid": 8954,
+  "query": "Trình tự thực hiện thủ tục đề nghị chấp thuận thay đổi địa điểm đặt trụ sở chính của tổ chức tài chính vi mô gồm các bước nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13005,
+    13013,
+    13008,
+    13014,
+    13009,
+    13015,
+    2168,
+    13000,
+    5636,
+    13001
+  ]
+}

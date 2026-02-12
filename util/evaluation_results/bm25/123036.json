@@ -1,0 +1,29 @@
+{
+  "qid": 123036,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp viễn thông cung cấp không đầy đủ thông tin cho Bộ Thông tin và Truyền thông để tổ chức hiệp thương giữa các bên không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7261,
+    8562,
+    11694,
+    12478,
+    3952,
+    3958,
+    2711,
+    3947,
+    8568,
+    8578
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 135147,
+  "query": "Doanh nghiệp kinh doanh đường sắt đô thị không có bộ phận phụ trách công tác an toàn kết cấu hạ tầng đường sắt theo quy định thì bị phạt như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10368,
+    10348,
+    10355,
+    10346,
+    10347,
+    10337,
+    10353,
+    10343,
+    10367,
+    10338
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 44580,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt tổ chức cung cấp thông tin không đầy đủ về năng lực sản xuất cho cơ quan khảo sát không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11694,
+    9735,
+    7593,
+    8481,
+    4896,
+    3104,
+    13193,
+    8472,
+    4898,
+    8471
+  ]
+}

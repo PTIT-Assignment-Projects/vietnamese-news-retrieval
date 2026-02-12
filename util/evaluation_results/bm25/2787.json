@@ -1,0 +1,29 @@
+{
+  "qid": 2787,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt thuyền viên không sử dụng thành thạo các trang thiết bị cứu sinh của tàu không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13079,
+    3768,
+    3719,
+    3738,
+    7662,
+    3781,
+    3782,
+    3779,
+    3784,
+    3735
+  ]
+}

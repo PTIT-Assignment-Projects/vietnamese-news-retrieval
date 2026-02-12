@@ -1,0 +1,29 @@
+{
+  "qid": 31119,
+  "query": "Chủ tịch Ủy ban nhân dân huyện có quyền xử phạt Trung tâm giáo dục nghề nghiệp thu, giữ giấy tờ của người học không đúng quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9729,
+    14279,
+    9727,
+    3442,
+    9342,
+    8472,
+    9731,
+    8481,
+    8471,
+    1434
+  ]
+}

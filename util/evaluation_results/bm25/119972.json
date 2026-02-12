@@ -1,0 +1,29 @@
+{
+  "qid": 119972,
+  "query": "Trường hợp quy định về tạm nhập tái xuất tại khu phi thuế quan và Điều ước quốc tế có sự khác biệt thì áp dụng theo quy định nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11873,
+    8355,
+    5264,
+    5263,
+    8349,
+    5521,
+    8395,
+    5262,
+    10334,
+    13702
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 12170,
+  "query": "Công nghệ tiên tiến được khuyến khích chuyển giao từ nước ngoài vào Việt Nam khi đáp ứng được những điều kiện nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7500,
+    7494,
+    7492,
+    13535,
+    7502,
+    8274,
+    7530,
+    7501,
+    7522,
+    12247
+  ]
+}

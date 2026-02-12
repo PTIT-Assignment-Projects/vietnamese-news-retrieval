@@ -1,0 +1,29 @@
+{
+  "qid": 126262,
+  "query": "Công ty trách nhiệm hữu hạn chuyển đổi thành công ty cổ phần thì có cần tiến hành kiểm kê tài sản không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    901,
+    7357,
+    323,
+    7352,
+    925,
+    14683,
+    14757,
+    14678,
+    13056,
+    14687
+  ]
+}

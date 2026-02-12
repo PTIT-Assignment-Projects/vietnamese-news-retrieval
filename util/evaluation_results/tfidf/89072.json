@@ -1,0 +1,29 @@
+{
+  "qid": 89072,
+  "query": "Khi việc phong tỏa tài khoản thanh toán gây thiệt hại cho khách hàng, ngân hàng nhà nước có phải bồi thường thiệt hại?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    10906,
+    10606,
+    10443,
+    7309,
+    7303,
+    7310,
+    7311,
+    10445,
+    10439,
+    7305
+  ]
+}

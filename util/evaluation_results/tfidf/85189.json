@@ -1,0 +1,29 @@
+{
+  "qid": 85189,
+  "query": "Giáo viên tại trường phổ thông công lập chuyển trường theo nguyện vọng sang trường tiểu học công lập có được không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2814,
+    8809,
+    6751,
+    7782,
+    914,
+    2817,
+    2815,
+    3846,
+    7786,
+    2820
+  ]
+}

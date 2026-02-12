@@ -1,0 +1,29 @@
+{
+  "qid": 125264,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt tổ chức sử dụng giấy phép kinh doanh dịch vụ lữ hành giả để hoạt động kinh doanh không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9779,
+    9777,
+    9775,
+    9774,
+    9778,
+    6612,
+    9773,
+    9783,
+    8481,
+    8472
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 92249,
+  "query": "Bảng lương viên chức giáo vụ trường dành cho người khuyết tật công lập mới nhất hiện nay là bao nhiêu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7782,
+    8809,
+    7786,
+    13835,
+    13841,
+    3427,
+    13836,
+    3439,
+    2814,
+    3846
+  ]
+}

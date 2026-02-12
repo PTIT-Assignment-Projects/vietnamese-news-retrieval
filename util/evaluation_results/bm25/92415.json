@@ -1,0 +1,29 @@
+{
+  "qid": 92415,
+  "query": "Tư lệnh Cảnh sát biển có quyền phạt hành chính đối với tổ chức nước ngoài điều khiển phương tiện xâm phạm vành đai an toàn của công trình biển Việt Nam hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14936,
+    10333,
+    10328,
+    10314,
+    10351,
+    10354,
+    8409,
+    11622,
+    10327,
+    478
+  ]
+}

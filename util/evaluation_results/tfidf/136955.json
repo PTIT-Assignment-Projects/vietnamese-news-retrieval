@@ -1,0 +1,29 @@
+{
+  "qid": 136955,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người tự ý sửa chữa giấy phép chuyển khẩu hàng hóa không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5266,
+    8472,
+    8481,
+    8471,
+    2772,
+    8473,
+    679,
+    5263,
+    1717,
+    2771
+  ]
+}

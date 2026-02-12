@@ -1,0 +1,29 @@
+{
+  "qid": 34968,
+  "query": "Dịch vụ viễn thông công ích thông tin di động mặt đất trả sau thuộc loại dịch vụ phổ cập hay bắt buộc?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2702,
+    2707,
+    2703,
+    8567,
+    2701,
+    2709,
+    2704,
+    2706,
+    2711,
+    3947
+  ]
+}

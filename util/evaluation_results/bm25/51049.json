@@ -1,0 +1,29 @@
+{
+  "qid": 51049,
+  "query": "Chứng thực bản sao từ bản chính có bắt buộc phải có đầy đủ số trang hay không theo quy định của pháp luật?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1437,
+    3377,
+    1438,
+    11216,
+    11209,
+    1436,
+    6412,
+    12351,
+    12342,
+    11210
+  ]
+}

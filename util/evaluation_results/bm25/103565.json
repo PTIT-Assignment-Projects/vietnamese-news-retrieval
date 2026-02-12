@@ -1,0 +1,29 @@
+{
+  "qid": 103565,
+  "query": "Cán bộ công chức viên chức được miễn trách nhiệm kỷ luật trong trường hợp nào theo quy định hiện nay?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13744,
+    13749,
+    3868,
+    13784,
+    13741,
+    13746,
+    13778,
+    13781,
+    11009,
+    11796
+  ]
+}

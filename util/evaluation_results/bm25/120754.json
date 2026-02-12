@@ -1,0 +1,29 @@
+{
+  "qid": 120754,
+  "query": "Chủ tịch Ủy ban nhân dân phường có thẩm quyền xử phạt chủ dẫn chó đi dạo trong công viên mà không rọ mõm hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4710,
+    4708,
+    1717,
+    1883,
+    1882,
+    3104,
+    4712,
+    4715,
+    12500,
+    12499
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 28243,
+  "query": "Mức lương cao nhất của giáo viên mầm non công lập hạng 3 mới nhất năm 2023 là bao nhiêu theo quy định?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1530,
+    1535,
+    1532,
+    1529,
+    6357,
+    1678,
+    11935,
+    3852,
+    7726,
+    1538
+  ]
+}

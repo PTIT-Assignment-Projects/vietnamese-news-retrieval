@@ -1,0 +1,29 @@
+{
+  "qid": 117265,
+  "query": "Chủ tịch ủy ban nhân dân cấp xã có quyền xử phạt người tham gia đấu giá đe dọa, cưỡng ép đấu giá viên nhằm làm sai lệch kết quả đấu giá tài sản không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    696,
+    759,
+    752,
+    720,
+    750,
+    731,
+    700,
+    692,
+    734,
+    706
+  ]
+}

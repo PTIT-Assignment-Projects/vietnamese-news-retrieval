@@ -1,0 +1,29 @@
+{
+  "qid": 50169,
+  "query": "Chánh Thanh tra Sở Lao động - Thương binh và Xã hội có quyền xử phạt người gian lận hồ sơ tuyển sinh để được hưởng chính sách đối với người học trong giáo dục nghề nghiệp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3434,
+    13372,
+    9728,
+    13397,
+    13401,
+    13390,
+    9730,
+    13389,
+    8835,
+    13395
+  ]
+}

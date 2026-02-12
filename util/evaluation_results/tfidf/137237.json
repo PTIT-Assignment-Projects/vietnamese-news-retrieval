@@ -1,0 +1,29 @@
+{
+  "qid": 137237,
+  "query": "Mức hưởng phụ cấp ưu đãi và phụ cấp trách nhiệm công việc cho giáo viên công tác tại trường dạy nghề cho trẻ em khuyết tật là bao nhiêu?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    13835,
+    13842,
+    1685,
+    8464,
+    13840,
+    3914,
+    13847,
+    8501,
+    8461,
+    1684
+  ]
+}

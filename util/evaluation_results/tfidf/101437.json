@@ -1,0 +1,29 @@
+{
+  "qid": 101437,
+  "query": "Sau khi giữ người trong trường hợp khẩn cấp thì Cơ quan điều tra phải thông báo ngay cho những ai?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10587,
+    5293,
+    3701,
+    12859,
+    10643,
+    10651,
+    10640,
+    10709,
+    10712,
+    10722
+  ]
+}

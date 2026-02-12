@@ -1,0 +1,29 @@
+{
+  "qid": 112223,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt khách du lịch có hành vi gây phương hại đến hình ảnh quốc gia của Việt Nam không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9755,
+    8166,
+    4640,
+    8481,
+    8472,
+    3104,
+    8471,
+    9752,
+    3903,
+    7292
+  ]
+}

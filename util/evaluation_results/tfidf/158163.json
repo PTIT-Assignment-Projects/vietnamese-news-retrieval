@@ -1,0 +1,29 @@
+{
+  "qid": 158163,
+  "query": "Để công khai thông tin gồm những hình thức nào? Có bao gồm công khai trên phương tiện thông tin đại chúng không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11703,
+    4905,
+    11706,
+    11705,
+    11707,
+    8201,
+    11717,
+    1517,
+    4070,
+    11704
+  ]
+}

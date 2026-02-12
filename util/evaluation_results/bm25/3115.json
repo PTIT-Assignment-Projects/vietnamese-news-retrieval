@@ -1,0 +1,29 @@
+{
+  "qid": 3115,
+  "query": "Doanh nghiệp được cấp giấy chứng nhận đủ điều kiện kinh doanh xổ số trong thời hạn bao nhiêu ngày kể từ ngày gửi hồ sơ?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13721,
+    11977,
+    3272,
+    3278,
+    11617,
+    366,
+    365,
+    3274,
+    12293,
+    3308
+  ]
+}

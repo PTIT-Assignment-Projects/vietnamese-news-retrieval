@@ -1,0 +1,29 @@
+{
+  "qid": 165089,
+  "query": "Tiêu chuẩn đối với công chức được giao thực hiện nhiệm vụ thanh tra chuyên ngành được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7012,
+    4267,
+    13396,
+    4271,
+    4956,
+    7017,
+    4950,
+    7011,
+    7013,
+    4262
+  ]
+}

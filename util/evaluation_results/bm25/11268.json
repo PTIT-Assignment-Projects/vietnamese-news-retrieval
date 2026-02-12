@@ -1,0 +1,29 @@
+{
+  "qid": 11268,
+  "query": "Phải nộp hồ sơ đề nghị xét tặng danh hiệu Cờ thi đua của Chính phủ cho doanh nghiệp thuộc Bộ Thông tin và Truyền thông khi nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10042,
+    10039,
+    10041,
+    10031,
+    7853,
+    10036,
+    1141,
+    1160,
+    10011,
+    1162
+  ]
+}

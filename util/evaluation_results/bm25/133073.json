@@ -1,0 +1,29 @@
+{
+  "qid": 133073,
+  "query": "Việc khắc phục khiếm khuyết và cho phép tàu biển nước ngoài rời cảng biển Việt Nam được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7671,
+    7668,
+    7662,
+    7672,
+    7673,
+    7663,
+    7670,
+    7669,
+    9102,
+    9104
+  ]
+}

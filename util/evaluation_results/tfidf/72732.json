@@ -1,0 +1,29 @@
+{
+  "qid": 72732,
+  "query": "Văn bằng bảo hộ đối với kiểu dáng công nghiệp được cấp cho nhiều người thì xác định quyền sở hữu công nghiệp như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11402,
+    11403,
+    11400,
+    11420,
+    11393,
+    11388,
+    11405,
+    11415,
+    11419,
+    11396
+  ]
+}

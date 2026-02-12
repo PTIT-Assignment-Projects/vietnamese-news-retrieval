@@ -1,0 +1,29 @@
+{
+  "qid": 28878,
+  "query": "Doanh nghiệp kinh doanh casino phải công bố công khai Quy chế giải quyết tranh chấp thông qua hình thức nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3268,
+    3282,
+    3264,
+    3267,
+    3271,
+    3252,
+    3297,
+    3283,
+    3306,
+    3277
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 56185,
+  "query": "Công chức thanh tra chuyên ngành tiến hành thanh tra độc lập cần phải làm gì sau khi kết thúc cuộc thanh tra để quyết toán kinh phí?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    7029,
+    7032,
+    7031,
+    7030,
+    7016,
+    4268,
+    4272,
+    7005,
+    7017,
+    13391
+  ]
+}

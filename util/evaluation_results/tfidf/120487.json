@@ -1,0 +1,29 @@
+{
+  "qid": 120487,
+  "query": "Khi xếp lương chức danh nghề nghiệp đối với viên chức chuyên ngành di sản văn hóa cần tuân theo những nguyên tắc gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9582,
+    13116,
+    14271,
+    8453,
+    8605,
+    14249,
+    3466,
+    13124,
+    3467,
+    12425
+  ]
+}

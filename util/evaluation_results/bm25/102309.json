@@ -1,0 +1,29 @@
+{
+  "qid": 102309,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt tổ chức đấu giá tài sản không tổ chức để người tham gia đấu giá được xem các tài liệu liên quan đến tài sản đấu giá không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    722,
+    723,
+    759,
+    720,
+    692,
+    725,
+    721,
+    750,
+    696,
+    726
+  ]
+}

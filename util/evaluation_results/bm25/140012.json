@@ -1,0 +1,29 @@
+{
+  "qid": 140012,
+  "query": "Thủ tục cấp Chứng chỉ hành nghề lưu trữ được thực hiện như thế nào theo quy định mới nhất hiện nay?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    238,
+    90,
+    9368,
+    239,
+    240,
+    242,
+    241,
+    218,
+    9379,
+    235
+  ]
+}

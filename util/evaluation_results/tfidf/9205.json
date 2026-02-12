@@ -1,0 +1,29 @@
+{
+  "qid": 9205,
+  "query": "Tổng cục trưởng Tổng cục Thủy sản có thẩm quyền xử phạt chủ tàu cá có chiều dài lớn nhất là 20 mét nhưng không có thiết bị giám sát hành trình không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8807,
+    13138,
+    10359,
+    14478,
+    14479,
+    7082,
+    11634,
+    14484,
+    3003,
+    10001
+  ]
+}

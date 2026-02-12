@@ -1,0 +1,29 @@
+{
+  "qid": 161468,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người mượn Chứng chỉ hành nghề thú y của người khác không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14593,
+    241,
+    1966,
+    8472,
+    10379,
+    8471,
+    8481,
+    9664,
+    4712,
+    14279
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 97017,
+  "query": "Chánh Thanh tra Sở Tài nguyên và Môi trường được quyền xử phạt người xả nước thải vào vùng bảo hộ vệ sinh khu vực lấy nước sinh hoạt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11127,
+    4237,
+    11615,
+    14198,
+    7031,
+    11510,
+    3304,
+    4234,
+    3198,
+    10254
+  ]
+}

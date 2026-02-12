@@ -1,0 +1,29 @@
+{
+  "qid": 62787,
+  "query": "Khi thực hiện chế độ báo cáo định kỳ thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ cần đáp ứng những nguyên tắc như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3608,
+    3619,
+    3607,
+    3618,
+    8656,
+    8239,
+    10134,
+    8240,
+    8264,
+    12799
+  ]
+}

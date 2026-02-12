@@ -1,0 +1,29 @@
+{
+  "qid": 125553,
+  "query": "Việc công khai thông tin của người phải thi hành án dân sự chưa có điều kiện thi hành được thực hiện theo nguyên tắc nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    820,
+    853,
+    824,
+    825,
+    823,
+    821,
+    826,
+    6805,
+    822,
+    827
+  ]
+}

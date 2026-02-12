@@ -1,0 +1,29 @@
+{
+  "qid": 54404,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt tổ chức không chia sẻ lợi ích thu được từ việc sử dụng nguồn gen với các bên liên quan không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8472,
+    8481,
+    8471,
+    4896,
+    4898,
+    11694,
+    3104,
+    8166,
+    13193,
+    3105
+  ]
+}

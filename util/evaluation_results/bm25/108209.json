@@ -1,0 +1,29 @@
+{
+  "qid": 108209,
+  "query": "Liên thông giữa Tổ chức cung cấp dịch vụ chứng thực chữ ký số quốc gia và Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ theo mô hình gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4531,
+    4530,
+    4528,
+    4535,
+    4529,
+    4534,
+    4532,
+    3318,
+    13326,
+    1460
+  ]
+}

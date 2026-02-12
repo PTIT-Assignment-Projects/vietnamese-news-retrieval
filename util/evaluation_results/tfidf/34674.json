@@ -1,0 +1,29 @@
+{
+  "qid": 34674,
+  "query": "Muốn ra quyết định ban hành chương trình đào tạo của trường trung cấp nghề phải dựa vào căn cứ nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3341,
+    3335,
+    3339,
+    3342,
+    3337,
+    9842,
+    3351,
+    492,
+    4508,
+    9836
+  ]
+}

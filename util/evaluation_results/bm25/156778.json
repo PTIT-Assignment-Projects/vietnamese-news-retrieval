@@ -1,0 +1,29 @@
+{
+  "qid": 156778,
+  "query": "Có thể trở thành giáo viên trung học cơ sở hạng I khi có bằng đại học chuyên ngành sư phạm hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1533,
+    3852,
+    3847,
+    14380,
+    1534,
+    2817,
+    6562,
+    1537,
+    1532,
+    7726
+  ]
+}

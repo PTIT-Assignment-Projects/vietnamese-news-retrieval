@@ -1,0 +1,29 @@
+{
+  "qid": 90272,
+  "query": "Làm giả tài liệu trong hồ sơ đề nghị cấp giấy chứng nhận đủ điều kiện kinh doanh dược sẽ bị xử phạt như thế nào theo quy định mới nhất hiện nay?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14595,
+    2504,
+    7752,
+    11978,
+    11981,
+    2515,
+    12998,
+    7751,
+    12988,
+    11977
+  ]
+}

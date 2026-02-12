@@ -1,0 +1,29 @@
+{
+  "qid": 66183,
+  "query": "Khi cấp phương tiện bảo vệ cá nhân cho người lao động thì phái người sử dụng lao động có những trách nhiệm gì cần thực hiện?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4040,
+    4039,
+    4037,
+    4041,
+    1833,
+    4042,
+    4148,
+    9006,
+    9011,
+    13384
+  ]
+}

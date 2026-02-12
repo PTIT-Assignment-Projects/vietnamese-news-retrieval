@@ -1,0 +1,29 @@
+{
+  "qid": 435,
+  "query": "Doanh nghiệp kinh doanh casino có được quyền tự tạm ngừng hoạt động kinh doanh không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3252,
+    3250,
+    3307,
+    5640,
+    893,
+    14762,
+    899,
+    11313,
+    3249,
+    14868
+  ]
+}

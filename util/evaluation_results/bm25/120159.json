@@ -1,0 +1,29 @@
+{
+  "qid": 120159,
+  "query": "Để bảo đảm an toàn hệ thống thông tin trong hoạt động ngân hàng khi thực hiện trao đổi thông tin với khách hàng thì tổ chức có trách nhiệm gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10214,
+    10215,
+    14527,
+    10238,
+    10195,
+    10223,
+    10232,
+    10196,
+    10237,
+    14535
+  ]
+}

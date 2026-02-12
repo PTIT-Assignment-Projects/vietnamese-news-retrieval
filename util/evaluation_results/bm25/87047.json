@@ -1,0 +1,29 @@
+{
+  "qid": 87047,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người trốn tránh việc kiểm dịch động vật tại các trạm kiểm dịch đầu mối giao thông không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5285,
+    13706,
+    4713,
+    14298,
+    14299,
+    11628,
+    14296,
+    5226,
+    5283,
+    10417
+  ]
+}

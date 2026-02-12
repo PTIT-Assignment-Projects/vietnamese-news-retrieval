@@ -1,0 +1,29 @@
+{
+  "qid": 23745,
+  "query": "Doanh nghiệp cho tổ chức khác sử dụng giấy phép kinh doanh dịch vụ lữ hành của mình để hoạt động kinh doanh có bị thu hồi giấy phép không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9779,
+    6612,
+    9775,
+    9777,
+    6613,
+    9778,
+    9774,
+    9787,
+    9781,
+    9752
+  ]
+}

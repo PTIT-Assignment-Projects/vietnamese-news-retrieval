@@ -1,0 +1,29 @@
+{
+  "qid": 48817,
+  "query": "Để được xét thăng hạng Hướng dẫn viên văn hóa hạng 2, Hướng dẫn viên văn hóa hạng 3 phải có thời gian công tác tối thiểu bao nhiêu năm?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6455,
+    6456,
+    13125,
+    6460,
+    9805,
+    14240,
+    3875,
+    9807,
+    587,
+    14239
+  ]
+}

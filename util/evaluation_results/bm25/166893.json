@@ -1,0 +1,29 @@
+{
+  "qid": 166893,
+  "query": "Trung tâm hỗ trợ phát triển giáo dục hòa nhập có trách nhiệm hỗ trợ phát hiện khuyết tật hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3433,
+    3446,
+    3431,
+    3432,
+    3427,
+    3443,
+    3442,
+    3428,
+    3437,
+    3430
+  ]
+}

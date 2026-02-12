@@ -1,0 +1,29 @@
+{
+  "qid": 113883,
+  "query": "Chánh Thanh tra Sở Tài nguyên và Môi trường được quyền xử phạt cơ sở sản xuất khai báo không trung thực để được hưởng chính sách ưu đãi đối với hoạt động sử dụng nước tiết kiệm, hiệu quả không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13541,
+    9401,
+    7015,
+    10251,
+    3100,
+    7014,
+    7033,
+    1977,
+    7004,
+    7031
+  ]
+}

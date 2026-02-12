@@ -1,0 +1,29 @@
+{
+  "qid": 69087,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt hộ kinh doanh buôn bán thuốc bảo vệ thực vật chung với những loại thuốc thú y không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4539,
+    5191,
+    9200,
+    5189,
+    5192,
+    11137,
+    5190,
+    8472,
+    8481,
+    9196
+  ]
+}

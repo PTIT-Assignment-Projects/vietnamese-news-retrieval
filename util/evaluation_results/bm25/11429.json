@@ -1,0 +1,29 @@
+{
+  "qid": 11429,
+  "query": "Việc xem xét dấu vết trên thân thể trong tố tụng hình sự được trưng cầu giám định trong trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10680,
+    7931,
+    10679,
+    1006,
+    7928,
+    10729,
+    7930,
+    10684,
+    3664,
+    1008
+  ]
+}

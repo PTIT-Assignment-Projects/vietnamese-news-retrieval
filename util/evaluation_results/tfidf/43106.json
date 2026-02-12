@@ -1,0 +1,29 @@
+{
+  "qid": 43106,
+  "query": "Doanh nghiệp ủy quyền việc xuất khẩu cho bên gia công hàng hóa thì trách nhiệm khai hải quan do ai thực hiện?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8332,
+    8339,
+    8333,
+    8350,
+    8415,
+    471,
+    8342,
+    8355,
+    13361,
+    8310
+  ]
+}

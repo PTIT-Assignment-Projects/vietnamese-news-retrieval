@@ -1,0 +1,29 @@
+{
+  "qid": 127487,
+  "query": "Kết quả điều tra bổ sung của Tòa án làm thay đổi cơ bản nội dung bản cáo trạng trước đó thì Viện kiểm sát phải làm gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10723,
+    10757,
+    10722,
+    10721,
+    10710,
+    10761,
+    10651,
+    10818,
+    10951,
+    10716
+  ]
+}

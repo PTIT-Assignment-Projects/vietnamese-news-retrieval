@@ -1,0 +1,29 @@
+{
+  "qid": 157847,
+  "query": "Trong thời hạn bao nhiêu ngày làm việc kể từ ngày quyết định giải quyết bồi thường có hiệu lực pháp luật thì Sở Y tế phải có văn bản Chương trình tiêm chủng mở rộng quốc gia đề nghị cấp kinh phí để thực hiện bồi thường?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11676,
+    12754,
+    11671,
+    11675,
+    11662,
+    12736,
+    11677,
+    14550,
+    11672,
+    11663
+  ]
+}

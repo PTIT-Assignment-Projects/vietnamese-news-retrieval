@@ -1,0 +1,29 @@
+{
+  "qid": 35199,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt người chia sẻ đường link có nội dung đồi trụy trên mạng xã hội không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7947,
+    8472,
+    8481,
+    8471,
+    13802,
+    4896,
+    8164,
+    2130,
+    3104,
+    7593
+  ]
+}

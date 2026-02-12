@@ -1,0 +1,29 @@
+{
+  "qid": 65399,
+  "query": "Khoản tiền đặt trước khi đăng ký tham gia đấu giá tài sản có được hoàn lại nếu người tham gia trúng đấu giá hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    726,
+    759,
+    733,
+    720,
+    738,
+    746,
+    725,
+    689,
+    721,
+    731
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 131071,
+  "query": "Hội đồng kiểm tra, sát hạch để chuyển công chức vào ngạch Thẩm tra viên chính của Tổng cục Thi hành án dân sự phải có từ bao nhiêu thành viên?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2380,
+    2394,
+    9479,
+    2314,
+    9476,
+    3898,
+    9475,
+    13108,
+    3897,
+    9480
+  ]
+}

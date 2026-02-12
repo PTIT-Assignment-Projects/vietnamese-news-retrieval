@@ -1,0 +1,29 @@
+{
+  "qid": 163220,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt đối với cá nhân không đáp ứng đủ các điều kiện sau đây về mua bán tinh, phôi giống vật nuôi không?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    14321,
+    8472,
+    4637,
+    8471,
+    8481,
+    4896,
+    4712,
+    8473,
+    3104,
+    12344
+  ]
+}

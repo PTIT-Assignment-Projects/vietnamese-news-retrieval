@@ -1,0 +1,29 @@
+{
+  "qid": 100999,
+  "query": "Hồ sơ thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng trong trường hợp thay đổi Trưởng Văn phòng bao gồm những nội dung gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1625,
+    8950,
+    8954,
+    8948,
+    1627,
+    1626,
+    8953,
+    1636,
+    1634,
+    3068
+  ]
+}

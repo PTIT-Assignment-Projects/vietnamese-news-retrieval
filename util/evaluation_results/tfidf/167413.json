@@ -1,0 +1,29 @@
+{
+  "qid": 167413,
+  "query": "Khi tập luyện môn Fitness tại Việt Nam, cơ sở vật chất và trang thiết bị tập luyện như thế nào để đảm bảo yêu cầu hoạt động tập luyện?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    4411,
+    12982,
+    7745,
+    10053,
+    1289,
+    7748,
+    8781,
+    8779,
+    4412,
+    3134
+  ]
+}

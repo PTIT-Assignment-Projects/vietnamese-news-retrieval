@@ -1,0 +1,29 @@
+{
+  "qid": 19393,
+  "query": "Việc thành lập tổ chức khoa học và công nghệ trực thuộc ở nước ngoài phải được sự cho phép của cơ quan nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8246,
+    8235,
+    8249,
+    8233,
+    8234,
+    8251,
+    8237,
+    7263,
+    8231,
+    8250
+  ]
+}

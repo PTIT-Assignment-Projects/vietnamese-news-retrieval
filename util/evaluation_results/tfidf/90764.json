@@ -1,0 +1,29 @@
+{
+  "qid": 90764,
+  "query": "Khi kiểm sát trong giai đoạn truy tố, Viện kiểm sát có được kiến nghị cơ quan, tổ chức hữu quan áp dụng biện pháp phòng ngừa tội phạm không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10714,
+    10483,
+    10741,
+    10744,
+    10637,
+    10519,
+    999,
+    10716,
+    10918,
+    10482
+  ]
+}

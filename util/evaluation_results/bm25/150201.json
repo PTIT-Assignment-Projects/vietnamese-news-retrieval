@@ -1,0 +1,29 @@
+{
+  "qid": 150201,
+  "query": "Chủ tịch Ủy ban nhân dân xã có quyền xử phạt đối với cơ sở khám chữa bệnh mà không ưu tiên khám bệnh, chữa bệnh cho những nhóm người khuyết tật được ưu tiên không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14589,
+    14588,
+    11812,
+    2969,
+    14579,
+    12393,
+    4753,
+    14580,
+    2425,
+    11086
+  ]
+}

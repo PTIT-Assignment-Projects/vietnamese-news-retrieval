@@ -1,0 +1,29 @@
+{
+  "qid": 53475,
+  "query": "Ngoài người làm công tác kiểm toán nội bộ trong doanh nghiệp thì còn có ai có thể phụ trách các công việc đó?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5670,
+    6864,
+    5672,
+    5671,
+    5684,
+    5675,
+    5686,
+    5690,
+    5689,
+    6849
+  ]
+}

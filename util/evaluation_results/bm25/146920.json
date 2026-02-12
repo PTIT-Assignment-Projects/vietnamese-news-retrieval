@@ -1,0 +1,29 @@
+{
+  "qid": 146920,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt người lăng mạ nhân viên hàng không tại sân bay không?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    12958,
+    5916,
+    5879,
+    5915,
+    5914,
+    5930,
+    5929,
+    12971,
+    5918,
+    4637
+  ]
+}

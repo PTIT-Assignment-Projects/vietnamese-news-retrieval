@@ -1,0 +1,29 @@
+{
+  "qid": 163771,
+  "query": "Trường hợp thi viên chức làm việc trong trạm y tế xã có hai ứng viên cùng số điểm thì con thương binh có được ưu tiên hơn không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14475,
+    11542,
+    10415,
+    12387,
+    11812,
+    1236,
+    9291,
+    14473,
+    8737,
+    14213
+  ]
+}

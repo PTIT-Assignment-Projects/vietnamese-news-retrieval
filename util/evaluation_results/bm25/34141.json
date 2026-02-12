@@ -1,0 +1,29 @@
+{
+  "qid": 34141,
+  "query": "Thương nhân được cấp giấy chứng nhận đủ điều kiện kinh doanh xuất khẩu gạo nhưng không thực hiện kinh doanh trên thực tế có bị thu hồi giấy chứng nhận không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12094,
+    12091,
+    12089,
+    12090,
+    12092,
+    12111,
+    12110,
+    3277,
+    11980,
+    6500
+  ]
+}

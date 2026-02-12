@@ -1,0 +1,29 @@
+{
+  "qid": 12911,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có thẩm quyền xử phạt hành vi kiểm tra chất lượng sản phẩm đo đạc và bản đồ không đầy đủ nội dung không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3602,
+    11910,
+    7237,
+    5403,
+    5406,
+    4640,
+    1717,
+    3104,
+    5421,
+    7131
+  ]
+}

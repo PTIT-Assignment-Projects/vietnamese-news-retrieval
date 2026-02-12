@@ -1,0 +1,29 @@
+{
+  "qid": 71863,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt hãng hàng không không cung cấp Quy chế an ninh hàng không cho Cảng vụ hàng không không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7436,
+    5929,
+    7438,
+    7441,
+    7440,
+    5916,
+    7437,
+    5932,
+    2938,
+    5938
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 8914,
+  "query": "Đạt danh hiệu Tập thể lao động Xuất sắc thì có được xét tặng danh hiệu Cờ thi đua của Bộ Ngoại giao hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3478,
+    3476,
+    7851,
+    5588,
+    1359,
+    7687,
+    1335,
+    1141,
+    6295,
+    7853
+  ]
+}

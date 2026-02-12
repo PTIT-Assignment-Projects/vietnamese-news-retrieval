@@ -1,0 +1,29 @@
+{
+  "qid": 31060,
+  "query": "Bộ Nông nghiệp và Phát triển nông thôn có thẩm quyền kiểm tra chất lượng sản phẩm hữu cơ hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12441,
+    12445,
+    12440,
+    12439,
+    12435,
+    12443,
+    12442,
+    12428,
+    2997,
+    12434
+  ]
+}

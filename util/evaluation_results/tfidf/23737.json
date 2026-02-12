@@ -1,0 +1,29 @@
+{
+  "qid": 23737,
+  "query": "Quản lý tài sản phần mềm về bảo đảm an toàn hệ thống thông tin trong hoạt động ngân hàng được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10200,
+    10197,
+    10196,
+    3390,
+    10227,
+    10231,
+    10159,
+    3383,
+    7885,
+    10232
+  ]
+}

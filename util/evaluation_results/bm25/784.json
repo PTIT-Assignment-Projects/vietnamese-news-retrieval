@@ -1,0 +1,29 @@
+{
+  "qid": 784,
+  "query": "Giảng viên giáo dục nghề nghiệp lý thuyết phải đáp ứng tiêu chuẩn về trình độ nghiệp vụ sư phạm thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3457,
+    11011,
+    3455,
+    1045,
+    12977,
+    534,
+    1532,
+    8732,
+    2817,
+    6456
+  ]
+}

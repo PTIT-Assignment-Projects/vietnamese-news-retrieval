@@ -1,0 +1,29 @@
+{
+  "qid": 133074,
+  "query": "Khi thực hiện kiểm tra tàu biển nước ngoài thì Sỹ quan kiểm tra nhà nước cảng biển có bắt buộc phải xuất trình Thẻ Sỹ quan kiểm tra không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7663,
+    7662,
+    7666,
+    7672,
+    7669,
+    7674,
+    7670,
+    7677,
+    7667,
+    7668
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 36990,
+  "query": "Hành vi che giấu hiện trạng bệnh truyền nhiễm của người khác mắc bệnh truyền nhiễm thuộc nhóm A bị phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14548,
+    14551,
+    12330,
+    9248,
+    14557,
+    14545,
+    10413,
+    14589,
+    14558,
+    14905
+  ]
+}

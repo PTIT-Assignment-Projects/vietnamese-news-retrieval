@@ -1,0 +1,29 @@
+{
+  "qid": 71500,
+  "query": "Mức lương của viên chức chuyên ngành kỹ thuật đường bộ, chuyên ngành kỹ thuật bến phà hiện nay là bao nhiêu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9060,
+    9063,
+    6544,
+    14271,
+    8457,
+    8458,
+    7787,
+    4482,
+    8060,
+    7562
+  ]
+}

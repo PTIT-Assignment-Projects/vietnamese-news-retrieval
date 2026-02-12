@@ -1,0 +1,29 @@
+{
+  "qid": 143062,
+  "query": "Thực hiện việc trực cứu nạn cứu hộ đối với lực lượng Cảnh sát phòng cháy chữa cháy và cứu nạn cứu hộ như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8721,
+    8728,
+    8724,
+    3089,
+    8722,
+    3095,
+    3092,
+    3097,
+    8727,
+    3090
+  ]
+}

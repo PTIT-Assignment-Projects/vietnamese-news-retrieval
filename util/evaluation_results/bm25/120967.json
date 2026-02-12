@@ -1,0 +1,29 @@
+{
+  "qid": 120967,
+  "query": "Tổ chức giám sát các nhà thầu tuân thủ các quy định về bảo vệ môi trường trong thi công xây dựng công trình là trách nhiệm của ai?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2494,
+    9090,
+    9714,
+    6883,
+    2492,
+    8586,
+    6888,
+    4537,
+    14795,
+    2498
+  ]
+}

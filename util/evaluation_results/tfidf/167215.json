@@ -1,0 +1,29 @@
+{
+  "qid": 167215,
+  "query": "Việc giải quyết bồi thường của Nhà nước trong hoạt động tố tụng hình sự của Tòa án nhân dân tối cao được quy định thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    206,
+    196,
+    12747,
+    12696,
+    12701,
+    12765,
+    12740,
+    8886,
+    10881,
+    12766
+  ]
+}

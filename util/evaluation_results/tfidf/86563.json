@@ -1,0 +1,29 @@
+{
+  "qid": 86563,
+  "query": "Thời hạn triển khai thủ tục bổ nhiệm lại viên chức giữ chức danh lãnh đạo tại đơn vị trực thuộc Bộ Tài chính là bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2357,
+    2334,
+    2335,
+    2030,
+    2316,
+    2333,
+    14256,
+    14269,
+    2358,
+    14258
+  ]
+}

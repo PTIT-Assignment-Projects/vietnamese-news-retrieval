@@ -1,0 +1,29 @@
+{
+  "qid": 142549,
+  "query": "Doanh nghiệp đấu giá tài sản đề nghị đăng ký hoạt động của Chi nhánh doanh nghiệp đấu giá tài sản như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    716,
+    6588,
+    713,
+    715,
+    712,
+    766,
+    711,
+    710,
+    767,
+    765
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 28120,
+  "query": "Có phải đóng sổ kế toán thành quyển riêng cho từng kỳ kế toán năm để lưu trữ sau khi đã khóa sổ kế toán trên phương tiện điện tử không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2870,
+    5827,
+    12083,
+    2856,
+    2869,
+    2883,
+    5869,
+    9147,
+    2847,
+    2885
+  ]
+}

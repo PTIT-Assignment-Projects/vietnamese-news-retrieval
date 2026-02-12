@@ -1,0 +1,29 @@
+{
+  "qid": 31967,
+  "query": "Người lao động đang làm việc theo hợp đồng lao động xác định thời hạn (1 năm) tại đơn vị sự nghiệp công lập có được đăng ký và công nhận xét danh hiệu chiến sĩ thi đua cấp cơ sở hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2100,
+    5604,
+    10036,
+    7704,
+    6286,
+    1156,
+    8860,
+    7859,
+    14227,
+    8841
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 89361,
+  "query": "Hệ thống thông tin trong hoạt động ngân hàng từ cấp độ nào thì phải thành lập bộ phận chuyên trách quản lý vận hành Trung tâm Điều hành an ninh mạng?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    10195,
+    10237,
+    3389,
+    3383,
+    3398,
+    10203,
+    10213,
+    10159,
+    3399,
+    10232
+  ]
+}

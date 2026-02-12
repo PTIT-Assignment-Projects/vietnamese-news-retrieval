@@ -1,0 +1,29 @@
+{
+  "qid": 76919,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt cơ sở kinh doanh dịch vụ lưu trú du lịch thông báo không đầy đủ các nội dung tới cơ quan nhà nước trước khi đi vào hoạt động không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9796,
+    9793,
+    9752,
+    9795,
+    10430,
+    144,
+    12522,
+    9746,
+    7292,
+    9792
+  ]
+}

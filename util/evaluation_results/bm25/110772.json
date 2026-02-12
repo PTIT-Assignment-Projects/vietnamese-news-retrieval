@@ -1,0 +1,29 @@
+{
+  "qid": 110772,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt người trồng cây làm hạn chế tác dụng của báo hiệu đường thủy nội địa không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9072,
+    9053,
+    9049,
+    9073,
+    8818,
+    9055,
+    11165,
+    9084,
+    5200,
+    9108
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 138178,
+  "query": "Chánh Thanh tra sở Văn hóa Thể thao và Du lịch có quyền phạt cơ sở lưu trú du lịch không có tủ thuốc cấp cứu ban đầu đối với bãi cắm trại du lịch không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9791,
+    4003,
+    9792,
+    9796,
+    9793,
+    9794,
+    7294,
+    2752,
+    142,
+    6608
+  ]
+}

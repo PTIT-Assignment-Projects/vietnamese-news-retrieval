@@ -1,0 +1,29 @@
+{
+  "qid": 91374,
+  "query": "Khi cơ quan điều tra giao hồ sơ vụ án hình sự kèm theo bản kết luận điều tra đề nghị truy tố thì Viện kiểm sát phải xử lý ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10715,
+    10646,
+    10709,
+    10716,
+    10757,
+    10722,
+    10608,
+    7984,
+    10723,
+    10751
+  ]
+}

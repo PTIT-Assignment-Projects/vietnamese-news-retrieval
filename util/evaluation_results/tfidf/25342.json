@@ -1,0 +1,29 @@
+{
+  "qid": 25342,
+  "query": "Người đi xem phim chiếu rạp mang theo rượu bia vào uống thì Chủ tịch Uỷ ban nhân dân xã có thẩm quyền xử phạt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8481,
+    8472,
+    8471,
+    14571,
+    1717,
+    8473,
+    679,
+    678,
+    8071,
+    9815
+  ]
+}

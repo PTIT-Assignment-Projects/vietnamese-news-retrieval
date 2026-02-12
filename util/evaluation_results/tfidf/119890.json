@@ -1,0 +1,29 @@
+{
+  "qid": 119890,
+  "query": "Giám đốc Công an cấp tỉnh được quyền xử phạt người nổ bốc được biển số xe ngũ quý lên mạng xã hội Facebook không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11467,
+    3093,
+    6246,
+    13115,
+    5510,
+    4033,
+    6249,
+    4034,
+    13106,
+    394
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 174909,
+  "query": "Kiểm định viên kỹ thuật an toàn lao động làm việc trong các đơn vị sự nghiệp công lập được áp dụng hệ số lương viên chức loại nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6885,
+    14265,
+    1529,
+    2814,
+    3846,
+    14208,
+    10995,
+    12007,
+    14227,
+    1065
+  ]
+}

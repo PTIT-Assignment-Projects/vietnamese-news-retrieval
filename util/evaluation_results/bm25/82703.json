@@ -1,0 +1,29 @@
+{
+  "qid": 82703,
+  "query": "Hội đồng nghĩa vụ quân sự xã có thẩm quyền lập hồ sơ đề nghị khởi tố vụ án hình sự đối với tội trốn tránh nghĩa vụ quân sự không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10630,
+    3571,
+    10635,
+    1002,
+    193,
+    3569,
+    10638,
+    10803,
+    10517,
+    10641
+  ]
+}

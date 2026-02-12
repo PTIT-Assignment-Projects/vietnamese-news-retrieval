@@ -1,0 +1,29 @@
+{
+  "qid": 36714,
+  "query": "Doanh nghiệp nhập khẩu thủy sản sống chưa có tên trong Danh mục loài thủy sản được phép kinh doanh tại Việt Nam để làm thực phẩm nhưng chưa được cấp phép thì bị xử phạt thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14180,
+    2995,
+    8505,
+    2999,
+    10388,
+    11902,
+    6738,
+    8317,
+    4540,
+    6741
+  ]
+}

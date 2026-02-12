@@ -1,0 +1,29 @@
+{
+  "qid": 96735,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh được quyền xử phạt doanh nghiệp kinh doanh dịch vụ cho thuê cảng tiếp nhận xăng dầu không đáp ứng điều kiện về cầu cảng chuyên dụng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    679,
+    8481,
+    8472,
+    8471,
+    678,
+    469,
+    14685,
+    14690,
+    685,
+    11986
+  ]
+}

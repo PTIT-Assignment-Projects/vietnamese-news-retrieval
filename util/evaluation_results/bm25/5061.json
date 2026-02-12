@@ -1,0 +1,29 @@
+{
+  "qid": 5061,
+  "query": "Cơ quan nào có trách nhiệm tổ chức triển khai phong trào thi đua ngành lao động, thương binh và xã hội?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8837,
+    8834,
+    1324,
+    8745,
+    8836,
+    5586,
+    8770,
+    8876,
+    10020,
+    1322
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 66046,
+  "query": "Giấy chứng nhận khả năng chuyên môn sỹ quan máy tàu có tổng công suất máy chính từ 750 kW trở lên có được cấp lại khi sai thông tin hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3745,
+    3744,
+    3740,
+    8063,
+    8064,
+    8062,
+    3719,
+    3762,
+    3759,
+    14484
+  ]
+}

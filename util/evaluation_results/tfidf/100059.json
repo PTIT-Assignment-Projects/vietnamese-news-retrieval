@@ -1,0 +1,29 @@
+{
+  "qid": 100059,
+  "query": "Để bảo đảm an toàn hệ thống thông tin trong hoạt động ngân hàng thì chính sách quản lý truy cập mạng nội bộ cần đáp ứng những yêu cầu nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10219,
+    10213,
+    10220,
+    1265,
+    7880,
+    3390,
+    10196,
+    12150,
+    5347,
+    12146
+  ]
+}

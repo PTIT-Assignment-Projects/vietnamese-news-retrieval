@@ -1,0 +1,29 @@
+{
+  "qid": 3419,
+  "query": "Việc bổ nhiệm chức danh nghề nghiệp đối với viên chức chuyên ngành công tác xã hội thực hiện theo nguyên tắc nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14271,
+    3467,
+    14209,
+    14269,
+    9582,
+    7785,
+    14236,
+    14235,
+    6463,
+    14210
+  ]
+}

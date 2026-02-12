@@ -1,0 +1,29 @@
+{
+  "qid": 86446,
+  "query": "Bảo hiểm bắt buộc trách nhiệm dân sự cho bên thứ ba có thuộc trách nhiệm nhà thầu xây dựng phải mua?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14795,
+    14794,
+    14797,
+    11432,
+    11444,
+    11428,
+    11445,
+    11433,
+    11429,
+    11430
+  ]
+}

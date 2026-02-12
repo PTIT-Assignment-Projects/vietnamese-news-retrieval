@@ -1,0 +1,29 @@
+{
+  "qid": 133862,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt doanh nghiệp không báo cáo kết quả thu hồi hàng hóa có khuyết tật cho cơ quan quản lý nhà nước không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1243,
+    8472,
+    1236,
+    8481,
+    8471,
+    679,
+    1235,
+    3445,
+    14690,
+    1239
+  ]
+}

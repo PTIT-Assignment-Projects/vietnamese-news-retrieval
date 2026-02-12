@@ -1,0 +1,29 @@
+{
+  "qid": 62160,
+  "query": "Đối với hệ thống thông tin trong hoạt động ngân hàng thì trung tâm dữ liệu phải đáp ứng những yêu cầu nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10208,
+    3386,
+    5344,
+    13351,
+    10237,
+    10120,
+    10195,
+    10072,
+    7120,
+    13250
+  ]
+}

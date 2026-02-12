@@ -1,0 +1,29 @@
+{
+  "qid": 45901,
+  "query": "Công chứng viên làm việc tại các Văn phòng Công chứng được xét tặng Kỷ niệm chương Vì sự nghiệp Tư pháp khi nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5600,
+    977,
+    6662,
+    6660,
+    6676,
+    986,
+    6661,
+    1625,
+    3483,
+    6663
+  ]
+}

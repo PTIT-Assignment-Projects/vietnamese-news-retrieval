@@ -1,0 +1,29 @@
+{
+  "qid": 45612,
+  "query": "Biểu mẫu sử dụng trong việc lập hồ sơ đề nghị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc mới nhất?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5514,
+    5505,
+    5506,
+    14513,
+    5513,
+    5509,
+    5512,
+    5510,
+    14514,
+    1951
+  ]
+}

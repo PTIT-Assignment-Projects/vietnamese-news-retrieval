@@ -1,0 +1,29 @@
+{
+  "qid": 135378,
+  "query": "Chánh Thanh tra Sở Tài nguyên và Môi trường được quyền xử phạt tổ chức khai thác khoáng sản không thông báo về trình độ chuyên môn của Giám đốc điều hành mỏ cho cơ quan có thẩm quyền không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7015,
+    9401,
+    3100,
+    7014,
+    7004,
+    7033,
+    4301,
+    7002,
+    3105,
+    7031
+  ]
+}

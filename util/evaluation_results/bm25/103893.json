@@ -1,0 +1,29 @@
+{
+  "qid": 103893,
+  "query": "Chính sách đối với người thôi giữ chức vụ lãnh đạo hoặc được bổ nhiệm, bầu cử vào chức vụ khác có phụ cấp chức vụ lãnh đạo mới thấp hơn do sắp xếp tổ chức thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    670,
+    14492,
+    9464,
+    9462,
+    9465,
+    7556,
+    14256,
+    2334,
+    14263,
+    7560
+  ]
+}

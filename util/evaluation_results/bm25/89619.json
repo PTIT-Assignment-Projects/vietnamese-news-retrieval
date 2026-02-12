@@ -1,0 +1,29 @@
+{
+  "qid": 89619,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt nhà xuất bản ghi sai những thông tin phải ghi trên xuất bản phẩm không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1459,
+    1458,
+    1463,
+    1462,
+    1467,
+    14904,
+    1456,
+    14924,
+    1475,
+    1473
+  ]
+}

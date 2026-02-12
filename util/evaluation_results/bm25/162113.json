@@ -1,0 +1,29 @@
+{
+  "qid": 162113,
+  "query": "Việc kháng nghị theo thủ tục giám đốc thẩm bản án hình sự phúc thẩm theo hướng bất lợi cho người bị kết án thì được thực hiện trong bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10856,
+    9242,
+    10872,
+    10844,
+    10504,
+    4925,
+    10878,
+    6092,
+    6090,
+    10854
+  ]
+}

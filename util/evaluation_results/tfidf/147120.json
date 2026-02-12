@@ -1,0 +1,29 @@
+{
+  "qid": 147120,
+  "query": "Trong thời gian chờ quyết định giải quyết khiếu nại, tố cáo về việc miễn nhiệm công chức cấp tỉnh thì quyết định miễn nhiệm có được thi hành không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14263,
+    4839,
+    2224,
+    2211,
+    14262,
+    4841,
+    10950,
+    13514,
+    2204,
+    827
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 68078,
+  "query": "Giáo viên và học sinh trung học phổ thông hút thuốc lá tại khuôn viên trường học sẽ bị xử phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14566,
+    1531,
+    7319,
+    1668,
+    8502,
+    14570,
+    14567,
+    1949,
+    1539,
+    4644
+  ]
+}

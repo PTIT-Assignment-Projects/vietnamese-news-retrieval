@@ -1,0 +1,29 @@
+{
+  "qid": 114712,
+  "query": "Bổ sung thông tin trên giấy chứng nhận kết hôn như thế nào khi không xác định được ngày đăng ký kết hôn?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4585,
+    3131,
+    4564,
+    908,
+    2263,
+    4579,
+    907,
+    2271,
+    4565,
+    4586
+  ]
+}

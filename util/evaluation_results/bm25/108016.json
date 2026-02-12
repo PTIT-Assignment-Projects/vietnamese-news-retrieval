@@ -1,0 +1,29 @@
+{
+  "qid": 108016,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt tổ chức vận chuyển chất thải nguy hại ngoài địa bàn quy định trong giấy phép xử lý chất thải nguy hại không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5190,
+    8705,
+    8708,
+    9091,
+    5188,
+    5191,
+    5189,
+    9092,
+    10184,
+    10169
+  ]
+}

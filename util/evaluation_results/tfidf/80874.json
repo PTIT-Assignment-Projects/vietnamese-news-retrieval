@@ -1,0 +1,29 @@
+{
+  "qid": 80874,
+  "query": "Hồ sơ đề nghị bổ nhiệm lại Tổng biên tập Tạp chí Giáo dục thuộc Bộ GDĐT cần giấy chứng nhận sức khỏe của cơ sở y tế cấp trong thời hạn bao lâu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12265,
+    12368,
+    11978,
+    11977,
+    11981,
+    12990,
+    3207,
+    1691,
+    12093,
+    11976
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 80679,
+  "query": "Khi nào thủ tục giao đất, cho thuê đất trong trường hợp đấu giá quyền sử dụng đất mà chỉ có một người đăng ký tham gia sẽ được thực hiện?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    746,
+    11099,
+    4325,
+    14671,
+    14672,
+    7841,
+    4324,
+    1591,
+    11121,
+    14719
+  ]
+}

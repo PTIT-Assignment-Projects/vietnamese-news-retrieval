@@ -1,0 +1,29 @@
+{
+  "qid": 87941,
+  "query": "Việc xem xét miễn nhiệm đối với công chức lãnh đạo của Bộ Giáo dục và Đào tạo được thực hiện trong những trường hợp nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2360,
+    14263,
+    13058,
+    13634,
+    13063,
+    14276,
+    2361,
+    2030,
+    9465,
+    498
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 72836,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã được quyền xử phạt người sử dụng điện thoại để chửi bới, xúc phạm nạn nhân bạo lực gia đình không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8037,
+    8027,
+    8035,
+    8039,
+    1689,
+    1692,
+    8042,
+    8034,
+    8043,
+    8045
+  ]
+}

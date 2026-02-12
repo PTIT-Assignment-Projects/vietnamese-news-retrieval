@@ -1,0 +1,29 @@
+{
+  "qid": 62938,
+  "query": "Người bị thiệt hại từ việc Cảnh sát giao thông dẫn đường cho các đoàn trong nước và khách nước ngoài đến Việt Nam đập vỡ kính có quyền yêu cầu Nhà nước bồi thường dựa vào căn cứ nào?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    5381,
+    8113,
+    14002,
+    790,
+    4484,
+    8899,
+    8115,
+    424,
+    13979,
+    12699
+  ]
+}

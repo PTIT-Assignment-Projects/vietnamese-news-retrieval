@@ -1,0 +1,29 @@
+{
+  "qid": 39162,
+  "query": "Xây dựng biệt thự du lịch ngay biển cần đáp ứng điều kiện gì để được kinh doanh dịch vụ lưu trú du lịch?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9792,
+    9793,
+    9796,
+    9791,
+    9746,
+    6624,
+    9752,
+    9795,
+    9769,
+    9789
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 135838,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt Văn phòng Thừa phát lại không tạo điều kiện cho Thừa phát lại tham gia bồi dưỡng nghiệp vụ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8944,
+    8943,
+    8942,
+    5834,
+    8992,
+    9427,
+    5830,
+    7307,
+    5829,
+    8955
+  ]
+}

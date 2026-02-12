@@ -1,0 +1,29 @@
+{
+  "qid": 29920,
+  "query": "Đối với nhà thờ dòng họ thì có phải đăng ký hoạt động tín ngưỡng với cơ quan nhà nước theo quy định hiện nay hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2142,
+    2132,
+    2141,
+    2169,
+    2197,
+    2146,
+    2164,
+    2192,
+    2134,
+    2178
+  ]
+}

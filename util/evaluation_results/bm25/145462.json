@@ -1,0 +1,29 @@
+{
+  "qid": 145462,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người khai báo không đúng số lượng động vật mắc bệnh phải tiêu hủy không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4712,
+    4708,
+    4715,
+    14553,
+    4717,
+    4709,
+    4706,
+    14551,
+    8472,
+    14548
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 9503,
+  "query": "Ngân hàng Phát triển Việt Nam ban hành Quy định nội bộ về cấp tín dụng quản lý tiền vay để bảo đảm việc sử dụng vốn vay đúng mục đích phải có tối thiểu các nội dung nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7879,
+    2983,
+    2986,
+    2988,
+    9121,
+    2989,
+    2987,
+    274,
+    7884,
+    7882
+  ]
+}

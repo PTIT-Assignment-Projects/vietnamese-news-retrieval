@@ -1,0 +1,29 @@
+{
+  "qid": 129990,
+  "query": "Việc thanh toán giá trị chuyển nhượng vốn đầu tư giữa nhà đầu tư là người không cư trú và người cư trú phải chuyển vào tài khoản vốn đầu tư trực tiếp của người nước ngoài đúng không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6821,
+    6816,
+    6824,
+    6820,
+    6817,
+    6825,
+    6815,
+    6823,
+    6822,
+    6814
+  ]
+}

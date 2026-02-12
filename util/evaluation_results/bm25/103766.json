@@ -1,0 +1,29 @@
+{
+  "qid": 103766,
+  "query": "Sinh viên sư phạm nộp đơn đề nghị hưởng hỗ trợ tiền đóng học phí trong vòng bao nhiêu ngày từ khi trúng tuyển?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14386,
+    14385,
+    14384,
+    14383,
+    14387,
+    9729,
+    9725,
+    14391,
+    14390,
+    14388
+  ]
+}

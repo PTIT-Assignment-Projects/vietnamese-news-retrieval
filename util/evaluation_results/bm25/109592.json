@@ -1,0 +1,29 @@
+{
+  "qid": 109592,
+  "query": "Hồ sơ hưởng chế độ thai sản đối với người mẹ nhờ mang thai hộ khi lao động nữ mang thai hộ sinh con gồm những gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14091,
+    14090,
+    14089,
+    11849,
+    11850,
+    11852,
+    11853,
+    5136,
+    14584,
+    11871
+  ]
+}

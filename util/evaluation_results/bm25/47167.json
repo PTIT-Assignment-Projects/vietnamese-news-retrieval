@@ -1,0 +1,29 @@
+{
+  "qid": 47167,
+  "query": "Nhân viên không sử dụng găng tay khi tiếp xúc với thực phẩm chín trong kinh doanh thức ăn đường phố bị phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14185,
+    14184,
+    14177,
+    14183,
+    14178,
+    14179,
+    14188,
+    14555,
+    14182,
+    14181
+  ]
+}

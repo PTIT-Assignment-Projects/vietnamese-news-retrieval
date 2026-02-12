@@ -1,0 +1,29 @@
+{
+  "qid": 159451,
+  "query": "Bộ Khoa học và Công nghệ có thể lấy ý kiến tư vấn từ người khác ngoài Hội đồng tư vấn tuyển chọn nhiệm vụ Nghị định thư hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8260,
+    8261,
+    8656,
+    8259,
+    8673,
+    8668,
+    8229,
+    8654,
+    7511,
+    8262
+  ]
+}

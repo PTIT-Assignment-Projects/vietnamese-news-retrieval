@@ -1,0 +1,29 @@
+{
+  "qid": 35579,
+  "query": "Giám đốc Công an cấp tỉnh có quyền xử phạt vi phạm hành chính đối với cơ sở khám bệnh, chữa bệnh sử dụng phôi dư không có hợp đồng tặng cho để thực hiện thụ tinh trong ống nghiệm không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14583,
+    7262,
+    9579,
+    11086,
+    14579,
+    14588,
+    14589,
+    11085,
+    13629,
+    11083
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 3085,
+  "query": "Việc niêm phong bài kiểm tra kết quả tập sự hành nghề Thừa phát lại phải được tiến hành ngay sau khi kết thúc kiểm tra hay sau khi đã chấm điểm xong cho bài kiểm tra?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    5848,
+    8935,
+    5853,
+    5837,
+    5852,
+    5841,
+    5842,
+    5838,
+    4224,
+    8934
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 115861,
+  "query": "Ai sẽ được ưu tiên trong tuyển dụng công chức vào làm việc trong các đơn vị thuộc Thanh tra Chính phủ?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14223,
+    7013,
+    5128,
+    14225,
+    5110,
+    4979,
+    7017,
+    978,
+    13391,
+    1674
+  ]
+}

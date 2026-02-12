@@ -1,0 +1,29 @@
+{
+  "qid": 13593,
+  "query": "Những việc cán bộ, công chức tham gia ý kiến trong cơ quan hành chính gồm những việc nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4124,
+    4133,
+    1702,
+    12819,
+    10106,
+    6244,
+    805,
+    1701,
+    13741,
+    12818
+  ]
+}

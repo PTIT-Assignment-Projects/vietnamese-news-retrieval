@@ -1,0 +1,29 @@
+{
+  "qid": 59632,
+  "query": "Người lao động làm việc theo hợp đồng lao động xác định thời hạn được quyền yêu cầu hưởng bảo hiểm xã hội một lần không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14087,
+    793,
+    14088,
+    11844,
+    14226,
+    13177,
+    4180,
+    11859,
+    11869,
+    11604
+  ]
+}

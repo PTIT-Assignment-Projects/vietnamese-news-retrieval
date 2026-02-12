@@ -1,0 +1,29 @@
+{
+  "qid": 100149,
+  "query": "Hồ sơ đề nghị bổ nhiệm lại Phó Tổng biên tập Báo Giáo dục và Thời đại thuộc Bộ GDĐT có cần bản tự kiểm điểm 3 năm công tác gần nhất không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14255,
+    12497,
+    2339,
+    6653,
+    5944,
+    12495,
+    13766,
+    1609,
+    6206,
+    1895
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 152651,
+  "query": "Giám đốc Công an cấp tỉnh có quyền xử phạt vi phạm hành chính đối với người lưu giữ tinh trùng tại cơ sở khám bệnh, chữa bệnh không được cấp phép không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14583,
+    14580,
+    14588,
+    14589,
+    9579,
+    12393,
+    857,
+    14579,
+    14581,
+    12390
+  ]
+}

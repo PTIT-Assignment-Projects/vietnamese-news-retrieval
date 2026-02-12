@@ -1,0 +1,29 @@
+{
+  "qid": 144282,
+  "query": "Trước thời điểm xét giảm thời hạn chấp hành án phạt tù thì cơ quan có thẩm quyền cần xét họp trước bao nhiêu ngày?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    1899,
+    295,
+    1891,
+    296,
+    1889,
+    4438,
+    294,
+    292,
+    1901,
+    1896
+  ]
+}

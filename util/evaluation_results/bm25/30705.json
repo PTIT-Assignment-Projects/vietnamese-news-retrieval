@@ -1,0 +1,29 @@
+{
+  "qid": 30705,
+  "query": "Phó Thủ trưởng cơ quan điều tra có quyền quyết định thay đổi Cán bộ điều tra giải quyết nguồn tin về tội phạm không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10513,
+    995,
+    10515,
+    10517,
+    988,
+    10516,
+    10943,
+    996,
+    10518,
+    12541
+  ]
+}

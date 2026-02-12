@@ -1,0 +1,29 @@
+{
+  "qid": 140086,
+  "query": "Chữa bệnh với phương pháp mới thì những người thực hiện kỹ thuật mới phương pháp mới phải có điều kiện gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7265,
+    7270,
+    7262,
+    7269,
+    7263,
+    7268,
+    7271,
+    7272,
+    7264,
+    14776
+  ]
+}

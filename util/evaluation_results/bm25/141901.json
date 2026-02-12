@@ -1,0 +1,29 @@
+{
+  "qid": 141901,
+  "query": "Hội đồng quản lý trong đơn vị sự nghiệp công lập thuộc lĩnh vực văn hóa, gia đình, thể thao và du lịch xây dựng Quy chế hoạt động theo những nội dung nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7292,
+    7289,
+    3156,
+    2283,
+    7290,
+    1865,
+    2288,
+    3153,
+    7294,
+    5545
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 109095,
+  "query": "Ghi và lưu trữ nhật ký về hệ thống thông tin từ cấp độ 2 trở lên trong hoạt động ngân hàng gồm những nội dung nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10216,
+    10237,
+    10195,
+    10210,
+    10212,
+    10242,
+    10223,
+    3389,
+    4953,
+    10208
+  ]
+}

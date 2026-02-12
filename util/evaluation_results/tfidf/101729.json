@@ -1,0 +1,29 @@
+{
+  "qid": 101729,
+  "query": "Quản lý sử dụng vật mang tin bảo đảm an toàn hệ thống thông tin trong hoạt động ngân hàng được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10202,
+    3390,
+    10196,
+    10159,
+    3383,
+    7885,
+    10232,
+    10195,
+    10455,
+    10203
+  ]
+}

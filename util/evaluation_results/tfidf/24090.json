@@ -1,0 +1,29 @@
+{
+  "qid": 24090,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có thẩm quyền xử phạt cơ sở giáo dục nghề nghiệp đối với người khuyết tật vi phạm quy định về hoạt động giáo dục nghề nghiệp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13387,
+    13841,
+    3439,
+    1236,
+    1243,
+    3445,
+    3437,
+    12510,
+    3427,
+    3431
+  ]
+}

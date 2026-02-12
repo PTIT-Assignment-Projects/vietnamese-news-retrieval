@@ -1,0 +1,29 @@
+{
+  "qid": 86405,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt doanh nghiệp kinh doanh phân phối xăng dầu vẫn tiếp tục hoạt động trong thời gian bị đình chỉ hoạt động không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    679,
+    8481,
+    8472,
+    678,
+    8471,
+    11986,
+    14690,
+    685,
+    4898,
+    8473
+  ]
+}

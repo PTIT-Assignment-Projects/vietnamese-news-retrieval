@@ -1,0 +1,29 @@
+{
+  "qid": 69460,
+  "query": "Các cơ quan, đơn vị có trách nhiệm như thế nào trong việc bảo đảm an toàn, vệ sinh lao động đối với người lao động làm việc trong lĩnh vực thể dục thể thao?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    3401,
+    3402,
+    3406,
+    3404,
+    3410,
+    1287,
+    13384,
+    3408,
+    3403,
+    1291
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 98626,
+  "query": "Trách nhiệm xác nhận tiền trúng thưởng của doanh nghiệp kinh doanh đặt cược như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6486,
+    6483,
+    6525,
+    6465,
+    3301,
+    6506,
+    6466,
+    6470,
+    6472,
+    11033
+  ]
+}

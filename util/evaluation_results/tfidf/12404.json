@@ -1,0 +1,29 @@
+{
+  "qid": 12404,
+  "query": "Giám sát, nghiệm thu công tác bảo dưỡng thường xuyên công trình đường thủy nội địa theo chất lượng thực hiện phải đảm bảo các tiêu chí gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8819,
+    8816,
+    8817,
+    8821,
+    8820,
+    9083,
+    8818,
+    11165,
+    13172,
+    9081
+  ]
+}

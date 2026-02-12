@@ -1,0 +1,29 @@
+{
+  "qid": 97584,
+  "query": "Nhân viên phục vụ trên xe vận chuyển hành khách khách sang nhượng hành khách dọc đường cho xe khác vào dịp Lễ 30/4 và 1/5 bị phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10329,
+    10321,
+    13129,
+    10326,
+    13133,
+    13130,
+    13132,
+    10333,
+    13161,
+    13149
+  ]
+}

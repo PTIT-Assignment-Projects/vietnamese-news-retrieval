@@ -1,0 +1,29 @@
+{
+  "qid": 78945,
+  "query": "Viện kiểm sát nhân dân tối cao phát ngôn và cung cấp thông tin cho báo chí thông qua các hình thức nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9736,
+    11709,
+    9737,
+    3647,
+    11071,
+    9740,
+    11708,
+    9738,
+    3646,
+    9735
+  ]
+}

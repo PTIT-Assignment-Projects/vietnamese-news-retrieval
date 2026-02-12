@@ -1,0 +1,29 @@
+{
+  "qid": 153604,
+  "query": "Giám thị bắt nam sinh cởi quần áo để kiểm tra vi phạm, xúc phạm danh dự nhân phẩm học sinh thì bị phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4629,
+    4627,
+    14912,
+    14925,
+    14908,
+    14911,
+    6758,
+    6759,
+    6755,
+    4605
+  ]
+}

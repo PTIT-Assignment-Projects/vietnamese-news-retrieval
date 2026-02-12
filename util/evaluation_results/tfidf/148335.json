@@ -1,0 +1,29 @@
+{
+  "qid": 148335,
+  "query": "Làm sao để có thể thực hiện việc chứng thực bản sao y giấy tờ nước ngoài một cách đúng quy định của pháp luật?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1434,
+    1432,
+    1431,
+    1429,
+    1439,
+    1428,
+    1436,
+    1438,
+    1449,
+    6412
+  ]
+}

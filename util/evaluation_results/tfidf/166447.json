@@ -1,0 +1,29 @@
+{
+  "qid": 166447,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có thẩm quyền xử phạt đối với người vi phạm quy định về tiết lộ thông tin cá nhân của nạn nhân bạo lực gia đình không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8035,
+    8039,
+    1692,
+    1689,
+    8027,
+    1693,
+    8042,
+    1688,
+    8043,
+    8034
+  ]
+}

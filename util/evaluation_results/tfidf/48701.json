@@ -1,0 +1,29 @@
+{
+  "qid": 48701,
+  "query": "Dữ liệu về việc xây dựng cơ sở dữ liệu đất đai quốc gia phải được Sở Tài nguyên và Môi trường báo cáo về Tổng cục Quản lý đất đai trước ngày bao nhiêu hàng năm?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5399,
+    5397,
+    5400,
+    5401,
+    5479,
+    5396,
+    5475,
+    2496,
+    12791,
+    5476
+  ]
+}

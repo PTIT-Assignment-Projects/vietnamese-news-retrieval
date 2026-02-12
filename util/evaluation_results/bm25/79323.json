@@ -1,0 +1,29 @@
+{
+  "qid": 79323,
+  "query": "Viên chức được tuyển dụng trước ngày 01 tháng 7 năm 2020 đang thực hiện hợp đồng làm việc xác định thời hạn, được ký kết hợp đồng làm việc không xác định thời hạn khi nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14227,
+    14475,
+    14225,
+    4188,
+    14226,
+    14264,
+    14232,
+    14274,
+    14088,
+    7253
+  ]
+}

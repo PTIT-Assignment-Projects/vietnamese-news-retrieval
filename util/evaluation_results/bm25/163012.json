@@ -1,0 +1,29 @@
+{
+  "qid": 163012,
+  "query": "Nguyên tắc xét tặng Giải thưởng Bông lúa vàng Việt Nam cho các tác giả ngành Nông nghiệp và Phát triển nông thôn là gì?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    8738,
+    6201,
+    6206,
+    6202,
+    6200,
+    6198,
+    8753,
+    6209,
+    6205,
+    6208
+  ]
+}

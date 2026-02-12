@@ -1,0 +1,29 @@
+{
+  "qid": 69349,
+  "query": "Mối quan hệ của Trung tâm Hành động bom mìn quốc gia Việt Nam với Thủ tướng Chính phủ là quan hệ gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3159,
+    3157,
+    11740,
+    3423,
+    3158,
+    11741,
+    2182,
+    5363,
+    8028,
+    32
+  ]
+}

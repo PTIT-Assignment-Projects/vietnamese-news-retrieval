@@ -1,0 +1,29 @@
+{
+  "qid": 23518,
+  "query": "Hồ sơ đề nghị bổ nhiệm Chấp hành viên sơ cấp phải có giấy chứng nhận sức khỏe của bệnh viện cấp nào thì mới đúng với quy định?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2374,
+    2375,
+    2376,
+    2369,
+    2314,
+    2366,
+    14260,
+    12391,
+    2368,
+    2362
+  ]
+}

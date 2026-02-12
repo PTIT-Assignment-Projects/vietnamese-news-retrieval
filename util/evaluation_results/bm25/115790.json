@@ -1,0 +1,29 @@
+{
+  "qid": 115790,
+  "query": "Người được cấp Chứng chỉ hành nghề lưu trữ cần lập hồ sơ cấp lại Chứng chỉ theo những nội dung nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    239,
+    240,
+    238,
+    242,
+    9368,
+    237,
+    9374,
+    241,
+    90,
+    9378
+  ]
+}

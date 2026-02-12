@@ -1,0 +1,29 @@
+{
+  "qid": 116735,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt tổ chức buôn bán phân bón trong thời gian đang bị đình chỉ hoạt động buôn bán không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12263,
+    12261,
+    12284,
+    12285,
+    12287,
+    8472,
+    8481,
+    8471,
+    12269,
+    12243
+  ]
+}

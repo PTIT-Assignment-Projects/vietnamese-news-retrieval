@@ -1,0 +1,29 @@
+{
+  "qid": 27385,
+  "query": "Hội nghị tập thể lãnh đạo lần 2 và lần 3 trong quy trình bổ nhiệm cấp phó của người đứng đầu Tạp chí Giáo dục gồm những nội dung gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14253,
+    14258,
+    14254,
+    2342,
+    2352,
+    2339,
+    2346,
+    14255,
+    14252,
+    2341
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 94144,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt tổ chức phát hành SIM có nạp sẵn tiền trong tài khoản không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3947,
+    3963,
+    8472,
+    8481,
+    8471,
+    4896,
+    3103,
+    4898,
+    679,
+    3104
+  ]
+}

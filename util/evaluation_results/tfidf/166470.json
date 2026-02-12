@@ -1,0 +1,29 @@
+{
+  "qid": 166470,
+  "query": "Lực lượng cảnh sát nhân dân vũ trang canh gác bảo vệ mục tiêu có những nguyên tắc nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    97,
+    95,
+    99,
+    98,
+    102,
+    112,
+    110,
+    108,
+    105,
+    109
+  ]
+}

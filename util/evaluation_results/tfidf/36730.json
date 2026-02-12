@@ -1,0 +1,29 @@
+{
+  "qid": 36730,
+  "query": "Người không có nhiệm vụ thực hiện công tác tiêu hủy tiền không đủ tiêu chuẩn lưu thông được vào khu vực tiến hành công tác tiêu hủy tiền khi nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7640,
+    7643,
+    3833,
+    3842,
+    3820,
+    3841,
+    3817,
+    7629,
+    3814,
+    3837
+  ]
+}

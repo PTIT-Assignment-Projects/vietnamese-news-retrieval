@@ -1,0 +1,29 @@
+{
+  "qid": 4139,
+  "query": "Công ty Quản lý tài sản của các tổ chức tín dụng Việt Nam chỉ được sử dụng vốn để đầu tư ra ngoài dưới các hình thức nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    323,
+    10191,
+    4069,
+    6812,
+    7360,
+    4079,
+    322,
+    13052,
+    8531,
+    6823
+  ]
+}

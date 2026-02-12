@@ -1,0 +1,29 @@
+{
+  "qid": 31455,
+  "query": "Trưởng đoàn thanh tra chuyên ngành cấp sở có quyền xử phạt tổ chức kinh doanh hoạt động thể thao mà không có Giấy chứng nhận đủ điều kiện kinh doanh không?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    11975,
+    14198,
+    3304,
+    4637,
+    11127,
+    13900,
+    11974,
+    14595,
+    11967,
+    11980
+  ]
+}

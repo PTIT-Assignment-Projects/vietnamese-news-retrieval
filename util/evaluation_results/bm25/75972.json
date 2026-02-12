@@ -1,0 +1,29 @@
+{
+  "qid": 75972,
+  "query": "Hồ sơ thông báo cơ sở gia công, sản xuất hàng hóa xuất khẩu tại Chi cục Hải quan gồm những thành phần nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8344,
+    8343,
+    8357,
+    8345,
+    8354,
+    8356,
+    8313,
+    8339,
+    2777,
+    8347
+  ]
+}

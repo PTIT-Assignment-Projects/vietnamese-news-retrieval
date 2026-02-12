@@ -1,0 +1,29 @@
+{
+  "qid": 7501,
+  "query": "Cơ sở khảo nghiệm giống thủy sản công bố không đúng kết quả khảo nghiệm thì sẽ bị xử phạt vi phạm hành chính thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12286,
+    12255,
+    12257,
+    12279,
+    11129,
+    11467,
+    12063,
+    10936,
+    11132,
+    11131
+  ]
+}

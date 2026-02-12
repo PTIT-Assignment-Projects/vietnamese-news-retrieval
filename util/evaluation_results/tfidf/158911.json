@@ -1,0 +1,29 @@
+{
+  "qid": 158911,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt doanh nghiệp quản lý, thanh lý tài sản hoạt động không đúng theo nội dung đăng ký không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    679,
+    8481,
+    678,
+    8472,
+    8471,
+    713,
+    714,
+    685,
+    14082,
+    14690
+  ]
+}

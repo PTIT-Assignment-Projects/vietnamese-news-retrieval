@@ -1,0 +1,29 @@
+{
+  "qid": 53868,
+  "query": "Được bổ nhiệm là Chỉ huy trưởng Ban chỉ huy quân sự cấp xã đã có bằng trung cấp thì có phải tham gia đào tạo bồi dưỡng không?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    315,
+    312,
+    316,
+    311,
+    308,
+    318,
+    314,
+    310,
+    298,
+    305
+  ]
+}

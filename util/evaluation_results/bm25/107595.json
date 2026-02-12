@@ -1,0 +1,29 @@
+{
+  "qid": 107595,
+  "query": "Lượng Cadmi (Cd) có trong bột ngũ cốc dinh dưỡng dùng cho trẻ tập ăn quá cao thì sẽ bị xử phạt như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14590,
+    5173,
+    12245,
+    9519,
+    14592,
+    9528,
+    14447,
+    6358,
+    8092,
+    8093
+  ]
+}

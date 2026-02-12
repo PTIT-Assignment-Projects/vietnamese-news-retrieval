@@ -1,0 +1,29 @@
+{
+  "qid": 163123,
+  "query": "Thuyết minh về hồ sơ thiết kế kiến trúc bản vẽ thi công có phải thuyết minh về ý tưởng kiến trúc và giải pháp thiết kế kiến trúc không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3807,
+    3806,
+    3805,
+    3804,
+    3803,
+    3809,
+    3810,
+    3813,
+    456,
+    457
+  ]
+}

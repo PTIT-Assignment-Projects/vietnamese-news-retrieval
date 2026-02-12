@@ -1,0 +1,29 @@
+{
+  "qid": 95865,
+  "query": "Lập kế hoạch sử dụng đất năm đầu của quy hoạch sử dụng đất cấp huyện có phải là hoạt động trong lập quy hoạch sử dụng đất cấp huyện không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1586,
+    1572,
+    1604,
+    1591,
+    1596,
+    1559,
+    1603,
+    1605,
+    5441,
+    1589
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 20134,
+  "query": "Giám đốc Công an cấp tỉnh có quyền xử phạt vi phạm hành chính đối với cơ sở khám bệnh, chữa bệnh hủy phôi của người gửi trong trường hợp người gửi ly hôn nhưng đã có đơn đề nghị lưu giữ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11078,
+    12390,
+    7285,
+    12391,
+    12360,
+    14580,
+    14588,
+    11089,
+    2965,
+    12350
+  ]
+}

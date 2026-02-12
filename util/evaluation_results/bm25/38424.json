@@ -1,0 +1,29 @@
+{
+  "qid": 38424,
+  "query": "Chánh Thanh tra Sở Lao động - Thương binh và Xã hội có quyền xử phạt cơ sở giáo dục nghề nghiệp thu các khoản không thuộc giá dịch vụ trong lĩnh vực giáo dục nghề nghiệp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8835,
+    13372,
+    13390,
+    8856,
+    13401,
+    8807,
+    8857,
+    9730,
+    4603,
+    3467
+  ]
+}

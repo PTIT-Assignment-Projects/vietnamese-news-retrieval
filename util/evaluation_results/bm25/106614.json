@@ -1,0 +1,29 @@
+{
+  "qid": 106614,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt doanh nghiệp ghi nhãn sản phẩm thuốc thú y không đúng nội dung đã đăng ký không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1123,
+    1125,
+    1101,
+    4540,
+    9173,
+    11889,
+    1100,
+    14605,
+    1119,
+    1096
+  ]
+}

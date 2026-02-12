@@ -1,0 +1,29 @@
+{
+  "qid": 130366,
+  "query": "Có quyền đưa trẻ em được nhận làm con nuôi ở nước ngoài trở lại Việt Nam trong trường hợp trẻ không được bảo vệ an toàn?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3239,
+    3241,
+    3243,
+    3236,
+    3240,
+    3237,
+    3245,
+    13966,
+    3242,
+    3235
+  ]
+}

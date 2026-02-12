@@ -1,0 +1,29 @@
+{
+  "qid": 91209,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt cư dân biên giới sử dụng giấy tờ xuất nhập cảnh biên giới hết giá trị để qua lại biên giới không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9674,
+    13697,
+    13695,
+    9670,
+    5276,
+    13707,
+    3128,
+    9669,
+    13709,
+    13696
+  ]
+}

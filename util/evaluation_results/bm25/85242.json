@@ -1,0 +1,29 @@
+{
+  "qid": 85242,
+  "query": "Bổ nhiệm hai người làm phụ trách kế toán hay không, hoặc đã bổ nhiệm một người làm kế toán trưởng rồi mà bổ nhiệm thêm phụ trách kế toán không?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    4394,
+    4395,
+    4393,
+    4391,
+    4399,
+    4396,
+    4388,
+    9365,
+    4389,
+    4392
+  ]
+}

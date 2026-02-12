@@ -1,0 +1,29 @@
+{
+  "qid": 128316,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có thẩm quyền xử phạt người điều khiển xe máy trời mưa tối trời không bật đèn xe khi lưu thông trên đường hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10320,
+    10304,
+    10306,
+    10303,
+    10345,
+    8481,
+    10331,
+    8472,
+    10314,
+    8471
+  ]
+}

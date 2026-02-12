@@ -1,0 +1,29 @@
+{
+  "qid": 46631,
+  "query": "Không đạt kết quả trong bài kiểm tra kết quả tập sự hành nghề Thừa phát lại thì thí sinh có thể yêu cầu phúc khảo hay không?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    5848,
+    5853,
+    8935,
+    14465,
+    5851,
+    5841,
+    5836,
+    5829,
+    5842,
+    14222
+  ]
+}

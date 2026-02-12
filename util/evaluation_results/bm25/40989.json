@@ -1,0 +1,29 @@
+{
+  "qid": 40989,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt Thừa phát lại không bảo quản cẩn thận hồ sơ công việc không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    8944,
+    11127,
+    5864,
+    8942,
+    14198,
+    8933,
+    8995,
+    8939,
+    7017
+  ]
+}

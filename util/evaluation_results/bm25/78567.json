@@ -1,0 +1,29 @@
+{
+  "qid": 78567,
+  "query": "Cơ quan nào có thẩm quyền quyết định thành lập Hội đồng phối hợp liên ngành Trung ương về trợ giúp pháp lý?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13033,
+    13034,
+    13035,
+    13040,
+    13036,
+    13037,
+    13041,
+    13038,
+    8234,
+    10005
+  ]
+}

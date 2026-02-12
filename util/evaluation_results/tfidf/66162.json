@@ -1,0 +1,29 @@
+{
+  "qid": 66162,
+  "query": "Phó trưởng phòng giáo dục và đào tạo thuộc Ủy ban nhân dân huyện có phải đáp ứng tiêu chuẩn về năng lực tập hợp quần chúng không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13060,
+    13063,
+    7301,
+    12302,
+    7293,
+    13058,
+    504,
+    2325,
+    13061,
+    2327
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 114018,
+  "query": "Thủ trưởng cơ quan Thuế giải quyết bồi thường ra Quyết định sửa chữa, bổ sung quyết định giải quyết bồi thường trong trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12740,
+    12739,
+    12742,
+    12736,
+    12741,
+    12743,
+    12734,
+    571,
+    12735,
+    572
+  ]
+}

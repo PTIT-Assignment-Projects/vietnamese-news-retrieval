@@ -1,0 +1,29 @@
+{
+  "qid": 13195,
+  "query": "Khi nhận được thông báo quyết định của Tòa án trong vụ án hình sự cần xét lại theo thủ tục giám đốc thẩm thì ai phải ghi vào sổ nhận thông báo?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    10853,
+    10852,
+    3977,
+    10857,
+    10843,
+    10521,
+    10872,
+    10844,
+    3978,
+    10635
+  ]
+}

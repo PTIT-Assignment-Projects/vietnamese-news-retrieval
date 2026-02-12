@@ -1,0 +1,29 @@
+{
+  "qid": 87123,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt tổ chức chuyển nhượng Giấy phép cung cấp dịch vụ chứng thực chữ ký số công cộng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4529,
+    4528,
+    4535,
+    4531,
+    4534,
+    8481,
+    8472,
+    8471,
+    4530,
+    1431
+  ]
+}

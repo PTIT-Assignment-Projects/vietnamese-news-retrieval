@@ -1,0 +1,29 @@
+{
+  "qid": 144467,
+  "query": "Những trường hợp nào chưa xem xét xử lý kỷ luật đối với viên chức Bộ Tài chính vi phạm chính sách dân số, kế hoạch hóa gia đình?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8620,
+    8621,
+    8619,
+    7479,
+    11583,
+    7478,
+    11561,
+    11585,
+    7477,
+    11559
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 155715,
+  "query": "Có bị từ chối thế vị và loại bỏ thanh toán đối với giao dịch chứng khoán có sai sót thông tin về ngày giao dịch hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14981,
+    14976,
+    5086,
+    14972,
+    5081,
+    14975,
+    14167,
+    14977,
+    14979,
+    5073
+  ]
+}

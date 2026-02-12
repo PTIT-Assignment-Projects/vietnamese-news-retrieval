@@ -1,0 +1,29 @@
+{
+  "qid": 1558,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt nhà xuất bản sử dụng ảnh minh họa cho xuất bản phẩm gây phản cảm không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1463,
+    14926,
+    1459,
+    1475,
+    1462,
+    14928,
+    14903,
+    1458,
+    14929,
+    7737
+  ]
+}

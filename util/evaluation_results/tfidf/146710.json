@@ -1,0 +1,29 @@
+{
+  "qid": 146710,
+  "query": "Nguyên tắc xử lý trong trường hợp hàng hóa xuất khẩu của Việt Nam bị điều tra, áp dụng biện pháp phòng vệ thương mại là gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5296,
+    5290,
+    12920,
+    12848,
+    12923,
+    5295,
+    12919,
+    12921,
+    12926,
+    12930
+  ]
+}

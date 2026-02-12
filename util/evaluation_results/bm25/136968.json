@@ -1,0 +1,29 @@
+{
+  "qid": 136968,
+  "query": "Công tác rà soát, đối chiếu văn bản thỏa thuận quốc tế nhân danh Nhà nước được thực hiện trước hay sau khi tiến hành ký kết thỏa thuận?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12180,
+    12182,
+    12159,
+    12162,
+    12179,
+    12210,
+    12221,
+    12172,
+    4685,
+    13318
+  ]
+}

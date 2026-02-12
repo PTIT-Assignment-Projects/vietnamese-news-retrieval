@@ -1,0 +1,29 @@
+{
+  "qid": 128451,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có được quyền xử phạt tổ chức trưng bày ảnh có nội dung khiêu dâm tại cơ sở kinh doanh dịch vụ karaoke không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4058,
+    8481,
+    2693,
+    8472,
+    144,
+    10430,
+    8471,
+    4896,
+    7047,
+    2692
+  ]
+}

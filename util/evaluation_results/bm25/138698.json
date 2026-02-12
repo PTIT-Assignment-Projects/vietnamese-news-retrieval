@@ -1,0 +1,29 @@
+{
+  "qid": 138698,
+  "query": "Nhiệm vụ và quyền hạn của Ban Chỉ đạo thống kê hình sự liên ngành trong Quân đội nhân dân được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5663,
+    5664,
+    5662,
+    5665,
+    5658,
+    5651,
+    5659,
+    5652,
+    5653,
+    5657
+  ]
+}

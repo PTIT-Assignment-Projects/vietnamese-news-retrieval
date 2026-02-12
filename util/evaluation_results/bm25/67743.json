@@ -1,0 +1,29 @@
+{
+  "qid": 67743,
+  "query": "Cơ quan nào có thẩm quyền thực hành quyền công tố kiểm sát việc tiếp nhận và giải quyết tin báo về tội phạm?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    996,
+    1000,
+    998,
+    10636,
+    10519,
+    10627,
+    10518,
+    10637,
+    1327,
+    990
+  ]
+}

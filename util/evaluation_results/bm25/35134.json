@@ -1,0 +1,29 @@
+{
+  "qid": 35134,
+  "query": "Thẩm phán được phân công giải quyết vụ việc phá sản có quyền xử phạt người lao động tẩu tán tài sản của doanh nghiệp sau khi Tòa án ra quyết định mở thủ tục phá sản không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    868,
+    1482,
+    7417,
+    3984,
+    691,
+    6612,
+    1508,
+    10464,
+    866,
+    899
+  ]
+}

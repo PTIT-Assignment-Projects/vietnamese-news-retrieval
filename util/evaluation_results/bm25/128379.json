@@ -1,0 +1,29 @@
+{
+  "qid": 128379,
+  "query": "Trưởng đoàn thanh tra chuyên ngành cấp sở có quyền xử phạt người chơi thô bạo gây ảnh hưởng xấu đến sức khỏe của đối thủ trong thi đấu bóng đá không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    11127,
+    14198,
+    6469,
+    3304,
+    7002,
+    4956,
+    7027,
+    7017,
+    13391
+  ]
+}

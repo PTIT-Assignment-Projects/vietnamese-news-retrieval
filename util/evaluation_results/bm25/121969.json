@@ -1,0 +1,29 @@
+{
+  "qid": 121969,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có thẩm quyền xử phạt việc đối xử bất bình đẳng giữa các thành viên trong gia đình vì lý do giới tính không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7478,
+    7593,
+    9342,
+    8477,
+    7292,
+    11577,
+    12496,
+    8481,
+    1717,
+    8467
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 129104,
+  "query": "Chánh Thanh tra Sở Tài nguyên và Môi trường được quyền xử phạt người sử dụng nước mặn cho nuôi trồng thủy sản ở ngoài vùng quy hoạch gây xâm nhập mặn nguồn nước không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9401,
+    7015,
+    3100,
+    10001,
+    7014,
+    7033,
+    7031,
+    1422,
+    7004,
+    7030
+  ]
+}

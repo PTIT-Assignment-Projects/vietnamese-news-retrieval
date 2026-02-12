@@ -1,0 +1,29 @@
+{
+  "qid": 153240,
+  "query": "Cơ quan Công an khi tiếp nhận thông tin tố cáo hành vi vi phạm pháp luật của chiến sĩ Công an trong việc thực hiện nhiệm vụ phải làm gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12538,
+    12547,
+    1523,
+    12543,
+    12551,
+    12541,
+    6166,
+    12536,
+    3177,
+    12537
+  ]
+}

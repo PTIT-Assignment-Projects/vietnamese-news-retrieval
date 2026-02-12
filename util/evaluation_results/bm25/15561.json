@@ -1,0 +1,29 @@
+{
+  "qid": 15561,
+  "query": "Có được xét nâng lương trước hạn cho người làm việc trong đơn vị sự nghiệp công lập theo chế độ hợp đồng lao động khi có thành tích xuất sắc không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8171,
+    8172,
+    7559,
+    3868,
+    3869,
+    8853,
+    14267,
+    8118,
+    6306,
+    8856
+  ]
+}

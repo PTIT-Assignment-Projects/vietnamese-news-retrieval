@@ -1,0 +1,29 @@
+{
+  "qid": 7257,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện hay cấp tỉnh có thẩm quyền xử phạt hành vi không cho người khác tham gia hoạt động khoa học và công nghệ vì lý do giới tính?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8255,
+    8481,
+    679,
+    8472,
+    8239,
+    678,
+    8471,
+    1717,
+    6248,
+    8237
+  ]
+}

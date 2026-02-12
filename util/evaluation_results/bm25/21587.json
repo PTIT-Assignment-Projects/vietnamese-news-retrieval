@@ -1,0 +1,29 @@
+{
+  "qid": 21587,
+  "query": "Mức phạt tiền cho hành vi xây dựng và ban hành Thể lệ đặt cược trái với quy định pháp luật là bao nhiêu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6520,
+    14908,
+    4608,
+    6514,
+    11462,
+    6515,
+    4622,
+    6467,
+    10371,
+    6525
+  ]
+}

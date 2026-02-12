@@ -1,0 +1,29 @@
+{
+  "qid": 109948,
+  "query": "Chánh Thanh tra sở Văn hóa, Thể thao và Du lịch có quyền xử phạt doanh nghiệp kinh doanh xe ô tô vận tải khách du lịch 7 chỗ không trang bị dụng cụ y tế sơ cấp cứu không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13154,
+    4003,
+    13162,
+    13139,
+    13150,
+    13128,
+    4415,
+    142,
+    2752,
+    7294
+  ]
+}

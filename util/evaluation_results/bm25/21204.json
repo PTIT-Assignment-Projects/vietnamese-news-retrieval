@@ -1,0 +1,29 @@
+{
+  "qid": 21204,
+  "query": "Để được bổ nhiệm là viên chức quản lý của các đơn vị trực thuộc Sở Giáo dục và Đào tạo Thành phố Hồ Chí Minh cần đáp ứng những điều kiện gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12810,
+    7297,
+    14282,
+    13123,
+    13058,
+    11004,
+    3467,
+    7154,
+    9000,
+    12599
+  ]
+}

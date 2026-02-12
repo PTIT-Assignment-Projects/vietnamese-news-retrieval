@@ -1,0 +1,29 @@
+{
+  "qid": 30574,
+  "query": "Tổ chức cung cấp dịch vụ I-VAN khi tham gia giao dịch điện tử trong lĩnh vực bảo hiểm xã hội có những quyền hạn nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8426,
+    8420,
+    8429,
+    8419,
+    8427,
+    8428,
+    8441,
+    8424,
+    8440,
+    8439
+  ]
+}

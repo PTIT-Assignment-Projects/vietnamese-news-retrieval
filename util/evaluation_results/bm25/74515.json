@@ -1,0 +1,29 @@
+{
+  "qid": 74515,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã được quyền xử phạt cá nhân mở tài khoản thanh toán nặc danh không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8472,
+    8471,
+    8481,
+    10437,
+    4896,
+    834,
+    8473,
+    7047,
+    3104,
+    3532
+  ]
+}

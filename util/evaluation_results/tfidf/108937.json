@@ -1,0 +1,29 @@
+{
+  "qid": 108937,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt hành vi vận tải hàng hóa siêu trọng mà không có phương án bảo đảm an toàn hàng hải không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8481,
+    8472,
+    8471,
+    12302,
+    4896,
+    679,
+    3894,
+    14828,
+    13135,
+    1717
+  ]
+}

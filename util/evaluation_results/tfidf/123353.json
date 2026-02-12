@@ -1,0 +1,29 @@
+{
+  "qid": 123353,
+  "query": "Tiêu chuẩn về trình độ đào tạo, bồi dưỡng của huấn luyện viên chính (hạng II) trong thời gian sắp tới như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3765,
+    4851,
+    3761,
+    1538,
+    1049,
+    9834,
+    11019,
+    3875,
+    3312,
+    1537
+  ]
+}

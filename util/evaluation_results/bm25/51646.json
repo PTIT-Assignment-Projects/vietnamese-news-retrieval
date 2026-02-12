@@ -1,0 +1,29 @@
+{
+  "qid": 51646,
+  "query": "Hành vi tự ý chuyển mục đích sử dụng đất nuôi trồng thủy sản sang đất phi nông nghiệp sẽ bị xử phạt hành chính như thế nào?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    11105,
+    1590,
+    1589,
+    11119,
+    11106,
+    11116,
+    14670,
+    11101,
+    1579,
+    11102
+  ]
+}

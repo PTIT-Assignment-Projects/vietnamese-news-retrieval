@@ -1,0 +1,29 @@
+{
+  "qid": 68807,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có thẩm quyền xử phạt việc cha mẹ cản trở không cho con trai thực hiện hoạt động tạo thu nhập vì lý do giới tính không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3104,
+    8215,
+    8478,
+    3099,
+    3105,
+    8481,
+    1907,
+    11932,
+    1717,
+    7301
+  ]
+}

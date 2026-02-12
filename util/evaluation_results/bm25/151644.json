@@ -1,0 +1,29 @@
+{
+  "qid": 151644,
+  "query": "Nhà nước có chính sách phát triển hoạt động ngoại thương thông qua các biện pháp nào theo quy định hiện nay?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5326,
+    5328,
+    5229,
+    5327,
+    5330,
+    5224,
+    5324,
+    5250,
+    5227,
+    12934
+  ]
+}

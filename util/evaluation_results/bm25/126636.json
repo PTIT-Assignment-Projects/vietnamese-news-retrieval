@@ -1,0 +1,29 @@
+{
+  "qid": 126636,
+  "query": "Thiết lập điểm bán vé đặt cược cố định không nằm trong địa bàn kinh doanh đặt cược thì có thể bị phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6477,
+    6481,
+    6518,
+    6465,
+    11033,
+    6476,
+    6472,
+    6507,
+    6494,
+    6517
+  ]
+}

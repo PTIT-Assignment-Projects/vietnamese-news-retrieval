@@ -1,0 +1,29 @@
+{
+  "qid": 667,
+  "query": "Người đứng đầu các trường trung học công lập trực tiếp quản lý và sử dụng viên chức có trách nhiệm thế nào trong việc bổ nhiệm chức danh nghề nghiệp nhân viên thiết bị?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    8813,
+    1539,
+    7785,
+    14249,
+    3467,
+    14248,
+    14231,
+    6463,
+    7786,
+    14233
+  ]
+}

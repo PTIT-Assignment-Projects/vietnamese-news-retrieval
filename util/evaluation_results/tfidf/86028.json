@@ -1,0 +1,29 @@
+{
+  "qid": 86028,
+  "query": "Báo cáo thống kê hình sự liên ngành của Cơ quan điều tra trong Quân đội nhân dân được gửi bằng phương thức gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5659,
+    5658,
+    5651,
+    5653,
+    5663,
+    5649,
+    5650,
+    5665,
+    5652,
+    5660
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 6589,
+  "query": "Khi đưa học sinh trường giáo dưỡng tạm thời ra khỏi trường theo yêu cầu của cơ quan tiến hành tố tụng hình sự thì có cần gửi văn bản cho Hiệu trưởng trước không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1935,
+    1934,
+    1948,
+    1966,
+    1946,
+    1949,
+    1938,
+    1933,
+    1939,
+    1932
+  ]
+}

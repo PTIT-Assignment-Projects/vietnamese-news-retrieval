@@ -1,0 +1,29 @@
+{
+  "qid": 18030,
+  "query": "Tổ chức có thể cung cấp thông tin quảng cáo được cài đặt sẵn từ nước ngoài trong các kênh chương trình nước ngoài không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14919,
+    6382,
+    6384,
+    6378,
+    6383,
+    6381,
+    6380,
+    14918,
+    12524,
+    9910
+  ]
+}

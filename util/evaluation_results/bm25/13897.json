@@ -1,0 +1,29 @@
+{
+  "qid": 13897,
+  "query": "Ai có trách nhiệm tham gia bảo vệ công trình quan trọng liên quan đến an ninh quốc gia?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6186,
+    14000,
+    5875,
+    7434,
+    6194,
+    12054,
+    6195,
+    5878,
+    6190,
+    9081
+  ]
+}

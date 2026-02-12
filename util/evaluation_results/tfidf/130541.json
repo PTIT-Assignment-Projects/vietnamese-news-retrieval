@@ -1,0 +1,29 @@
+{
+  "qid": 130541,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt hoa tiêu chỉ dẫn cho thuyền trưởng điều động tàu thuyền tránh vượt nhau tại khu vực cấm tránh vượt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13074,
+    13071,
+    13079,
+    9135,
+    9089,
+    11746,
+    13088,
+    13076,
+    13073,
+    13084
+  ]
+}

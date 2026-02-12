@@ -1,0 +1,29 @@
+{
+  "qid": 118033,
+  "query": "Hướng dẫn viên du lịch tại điểm có được hành nghề khi không ký hợp đồng lao động với tổ chức đã thuê mình không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9801,
+    9808,
+    9809,
+    9807,
+    9802,
+    9780,
+    9804,
+    6623,
+    9805,
+    705
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 129689,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp viễn thông lưu bản sao của khóa bí mật của thuê bao khi không có yêu cầu bằng văn bản của chủ thuê bao không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3951,
+    3958,
+    3947,
+    3948,
+    3956,
+    3953,
+    3952,
+    3960,
+    3957,
+    3965
+  ]
+}

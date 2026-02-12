@@ -1,0 +1,29 @@
+{
+  "qid": 149919,
+  "query": "Điều khiển xe mô tô hai bánh tham gia giao thông nhưng không có giấy phép lái xe có bị xử phạt không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10319,
+    11427,
+    10304,
+    10306,
+    10332,
+    10345,
+    10331,
+    11453,
+    10333,
+    10328
+  ]
+}

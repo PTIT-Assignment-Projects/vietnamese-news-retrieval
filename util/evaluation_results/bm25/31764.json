@@ -1,0 +1,29 @@
+{
+  "qid": 31764,
+  "query": "Các khoản thu, chi ngân sách nhà nước trong hoạt động đối ngoại hiện nay được quy định gồm những khoản nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14497,
+    14494,
+    7894,
+    2875,
+    2852,
+    7893,
+    8775,
+    11066,
+    2575,
+    7892
+  ]
+}

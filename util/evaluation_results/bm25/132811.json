@@ -1,0 +1,29 @@
+{
+  "qid": 132811,
+  "query": "Có thể kéo dài thời hạn tạm nhập tái xuất, tạm xuất tái nhập để tiến hành bảo hành, sửa chửa sản phẩm lỗi của hợp đồng gia công được hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8357,
+    5285,
+    8360,
+    8356,
+    12087,
+    8361,
+    8387,
+    8363,
+    8385,
+    13693
+  ]
+}

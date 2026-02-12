@@ -1,0 +1,29 @@
+{
+  "qid": 124532,
+  "query": "Có được xem là tàu bay bị bỏ trong trường hợp sau khi đã thông báo về việc nhận lại tàu bay nhưng vẫn không có người tới nhận lại hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1798,
+    13288,
+    13282,
+    13293,
+    1799,
+    13287,
+    13286,
+    8371,
+    13291,
+    1793
+  ]
+}

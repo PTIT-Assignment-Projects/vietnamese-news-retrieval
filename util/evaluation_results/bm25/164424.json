@@ -1,0 +1,29 @@
+{
+  "qid": 164424,
+  "query": "Văn phòng đại diện tổ chức giáo dục nước ngoài tại Việt Nam vẫn tiếp tục hoạt động khi đã hết thời hạn cho phép hoạt động thì bị xử phạt thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4618,
+    8249,
+    8250,
+    14903,
+    4603,
+    8251,
+    6036,
+    5329,
+    6032,
+    6034
+  ]
+}

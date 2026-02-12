@@ -1,0 +1,29 @@
+{
+  "qid": 45494,
+  "query": "Giám đốc Công an cấp tỉnh được quyền xử phạt người cản trở trẻ em bày tỏ nguyện vọng và tham gia vào các vấn đề về trẻ em không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5134,
+    3239,
+    3227,
+    9908,
+    9912,
+    9914,
+    3236,
+    3232,
+    3241,
+    444
+  ]
+}

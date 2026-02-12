@@ -1,0 +1,29 @@
+{
+  "qid": 53607,
+  "query": "Có thể yêu cầu Ủy ban nhân dân xử lý vi phạm hành chính đối với người có hành vi ngược đãi thành viên gia đình hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3236,
+    8038,
+    4641,
+    11100,
+    10300,
+    11098,
+    4230,
+    8040,
+    4980,
+    5086
+  ]
+}

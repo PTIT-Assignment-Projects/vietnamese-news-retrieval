@@ -1,0 +1,29 @@
+{
+  "qid": 45340,
+  "query": "Tốt nghiệp đại học chuyên ngành tin thì có cần chứng chỉ tin học theo yêu cầu của giáo viên THPT hạng III không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1538,
+    14246,
+    13121,
+    1045,
+    6562,
+    8620,
+    2582,
+    7726,
+    6453,
+    9584
+  ]
+}

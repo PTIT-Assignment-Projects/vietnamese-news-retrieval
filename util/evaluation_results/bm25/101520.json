@@ -1,0 +1,29 @@
+{
+  "qid": 101520,
+  "query": "Để xây dựng báo cáo thống kê hình sự liên ngành, bộ phận thống kê hình sự của Viện kiểm sát quân sự phải lập báo cáo thống kê những nội dung gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5658,
+    5657,
+    5651,
+    5660,
+    5662,
+    5649,
+    5661,
+    5663,
+    5659,
+    5664
+  ]
+}

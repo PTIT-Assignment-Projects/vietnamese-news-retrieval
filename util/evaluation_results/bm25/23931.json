@@ -1,0 +1,29 @@
+{
+  "qid": 23931,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt tổ chức kinh doanh phương tiện vận tải khách du lịch bằng đường thủy nội địa từ 50 ghế ngồi trở lên nhưng không có mái che không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9788,
+    9108,
+    13518,
+    9106,
+    9053,
+    9062,
+    9059,
+    9107,
+    9049,
+    9055
+  ]
+}

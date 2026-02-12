@@ -1,0 +1,29 @@
+{
+  "qid": 122770,
+  "query": "Trưởng đoàn thanh tra chuyên ngành cấp sở có quyền xử phạt tổ chức kinh doanh hoạt động thể thao sau khi có Quyết định thu hồi Giấy chứng nhận đủ điều kiện kinh doanh không?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    11980,
+    11975,
+    6500,
+    14198,
+    3304,
+    13145,
+    3277,
+    9375,
+    14595,
+    4637
+  ]
+}

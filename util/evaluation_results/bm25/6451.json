@@ -1,0 +1,29 @@
+{
+  "qid": 6451,
+  "query": "Đối với Lễ Quốc tang việc chuẩn bị vòng hoa trong lễ viếng được quy định như thế nào? Các đoàn đến viếng có bắt buộc phải mang vòng hoa không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11762,
+    11764,
+    11763,
+    11776,
+    11789,
+    11758,
+    11779,
+    11753,
+    11803,
+    11806
+  ]
+}

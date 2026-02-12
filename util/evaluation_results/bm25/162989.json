@@ -1,0 +1,29 @@
+{
+  "qid": 162989,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt đấu giá viên khai không trung thực trong hồ sơ đề nghị cấp thẻ đấu giá viên không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    706,
+    699,
+    705,
+    722,
+    701,
+    749,
+    5140,
+    8471,
+    693,
+    750
+  ]
+}

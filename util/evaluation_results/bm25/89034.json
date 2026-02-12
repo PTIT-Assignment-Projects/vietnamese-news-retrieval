@@ -1,0 +1,29 @@
+{
+  "qid": 89034,
+  "query": "Quy trình vận chuyển tiền mặt, tài sản quý, giấy tờ có giá trong ngành Ngân hàng được pháp luật quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    418,
+    424,
+    369,
+    416,
+    440,
+    419,
+    423,
+    427,
+    2235,
+    371
+  ]
+}

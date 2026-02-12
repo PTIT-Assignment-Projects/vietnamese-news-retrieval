@@ -1,0 +1,29 @@
+{
+  "qid": 132521,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt thuyền viên không sử dụng thành thạo các trang thiết bị chữa cháy của tàu thuyền không?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    13079,
+    13071,
+    7662,
+    13088,
+    3738,
+    3735,
+    7678,
+    9237,
+    3775,
+    4637
+  ]
+}

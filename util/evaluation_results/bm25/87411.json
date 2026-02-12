@@ -1,0 +1,29 @@
+{
+  "qid": 87411,
+  "query": "Người giám sát trong kinh doanh đặt cược đua chó phải có bao nhiêu năm hoạt động trong lĩnh vực công tác?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11026,
+    11029,
+    11030,
+    3247,
+    6540,
+    6492,
+    6493,
+    6491,
+    6489,
+    6537
+  ]
+}

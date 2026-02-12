@@ -1,0 +1,29 @@
+{
+  "qid": 76061,
+  "query": "Trong thời gian quá cảnh hàng hóa, việc thay đổi tuyến đường được vận chuyển hàng hóa quá cảnh bằng đường hàng không phải thông qua ai?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5269,
+    8350,
+    8322,
+    8313,
+    5268,
+    8368,
+    471,
+    8312,
+    2791,
+    5270
+  ]
+}

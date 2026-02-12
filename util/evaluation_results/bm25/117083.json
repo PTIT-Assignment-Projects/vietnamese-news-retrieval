@@ -1,0 +1,29 @@
+{
+  "qid": 117083,
+  "query": "Kháng nghị theo thủ tục tái thẩm đối với bản án hình sự phúc thẩm theo hướng có lợi cho người bị kết án được thực hiện trong thời hạn bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10878,
+    10856,
+    9242,
+    10844,
+    10504,
+    4925,
+    10841,
+    6092,
+    6090,
+    3986
+  ]
+}

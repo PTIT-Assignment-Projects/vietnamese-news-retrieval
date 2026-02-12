@@ -1,0 +1,29 @@
+{
+  "qid": 120385,
+  "query": "Viết nội dung của mẫu bảng kê trích nộp các khoản theo lương áp dụng đối với doanh nghiệp vừa và nhỏ có chỗ trống thì sẽ để nguyên hay phải gạch chéo?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    835,
+    2794,
+    8060,
+    8169,
+    7787,
+    2069,
+    7554,
+    5032,
+    4527,
+    664
+  ]
+}

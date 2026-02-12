@@ -1,0 +1,29 @@
+{
+  "qid": 8237,
+  "query": "Thời hạn thanh toán trái phiếu trong nước của tổ chức tín dụng nước ngoài là bao lâu? Đồng tiền dùng để thanh toán trái phiếu là đồng tiền nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 0.5,
+    "p@1": 1.0,
+    "r@1": 0.5,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 0.5,
+    "ndcg@5": 0.6131471927654584,
+    "p@10": 0.1,
+    "r@10": 0.5,
+    "ndcg@10": 0.6131471927654584
+  },
+  "retrieved": [
+    1654,
+    13581,
+    13580,
+    13547,
+    13683,
+    13566,
+    9552,
+    1659,
+    324,
+    13585
+  ]
+}

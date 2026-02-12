@@ -1,0 +1,29 @@
+{
+  "qid": 117277,
+  "query": "Tổng cục trưởng Tổng cục Giáo dục nghề nghiệp có quyền xử phạt cơ sở giáo dục nghề nghiệp không lưu trữ hồ sơ về tổ chức bồi dưỡng nghiệp vụ sư phạm giáo dục nghề nghiệp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8807,
+    1532,
+    3457,
+    2817,
+    3455,
+    13387,
+    4603,
+    11532,
+    8732,
+    13379
+  ]
+}

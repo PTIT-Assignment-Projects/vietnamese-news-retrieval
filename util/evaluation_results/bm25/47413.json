@@ -1,0 +1,29 @@
+{
+  "qid": 47413,
+  "query": "Trình tự, thủ tục và thẩm quyền điều chỉnh quy hoạch cảng hàng không sân bay được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5908,
+    5918,
+    5882,
+    5883,
+    5904,
+    5885,
+    5892,
+    5889,
+    5886,
+    5872
+  ]
+}

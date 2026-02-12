@@ -1,0 +1,29 @@
+{
+  "qid": 155289,
+  "query": "Doanh nghiệp có quyền yêu cầu người lao động ký bản cam kết bảo vệ bí mật kinh doanh với nội dung không làm việc cho đối thủ cạnh tranh không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13178,
+    2058,
+    12950,
+    9396,
+    8282,
+    9940,
+    11419,
+    3365,
+    10218,
+    9605
+  ]
+}

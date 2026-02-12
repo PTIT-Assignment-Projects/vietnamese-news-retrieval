@@ -1,0 +1,29 @@
+{
+  "qid": 70901,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có thẩm quyền xử phạt hành vi xúc phạm danh dự người tham gia hoạt động giáo dục sức khỏe về sức khỏe sinh sản vì định kiến giới không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14473,
+    11569,
+    11583,
+    7938,
+    14587,
+    11572,
+    11578,
+    9131,
+    11562,
+    1642
+  ]
+}

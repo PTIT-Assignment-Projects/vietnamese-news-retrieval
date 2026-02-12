@@ -1,0 +1,29 @@
+{
+  "qid": 123124,
+  "query": "Chi phí về chuyển giao người đang chấp hành hình phạt tù ở nước ngoài về Việt Nam do bên nào chi trả?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8015,
+    8005,
+    8006,
+    291,
+    8004,
+    8020,
+    293,
+    8013,
+    280,
+    8008
+  ]
+}

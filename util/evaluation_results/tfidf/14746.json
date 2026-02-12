@@ -1,0 +1,29 @@
+{
+  "qid": 14746,
+  "query": "Viện kiểm sát có quyền hủy bỏ quyết định khởi tố vụ án hình sự khi thực hành quyền công tố trong việc khởi tố vụ án hình sự không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10638,
+    10635,
+    10631,
+    10633,
+    10630,
+    10716,
+    3569,
+    10636,
+    10518,
+    3570
+  ]
+}

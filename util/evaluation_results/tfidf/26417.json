@@ -1,0 +1,29 @@
+{
+  "qid": 26417,
+  "query": "Ủy ban nhân dân tỉnh có trách nhiệm gì trong việc áp dụng tiêu chuẩn chức danh nghề nghiệp đối với viên chức chuyên ngành công tác xã hội?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14271,
+    3467,
+    14235,
+    14269,
+    13124,
+    9582,
+    14209,
+    6924,
+    6925,
+    14237
+  ]
+}

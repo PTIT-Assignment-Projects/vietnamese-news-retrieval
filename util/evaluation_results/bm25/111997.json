@@ -1,0 +1,29 @@
+{
+  "qid": 111997,
+  "query": "Để được xét thăng hạng lên chức danh thông tin an ninh hàng hải hạng 1 cần đáp ứng những tiêu chuẩn nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14239,
+    6924,
+    14248,
+    3876,
+    3875,
+    13119,
+    3870,
+    3873,
+    3872,
+    13118
+  ]
+}

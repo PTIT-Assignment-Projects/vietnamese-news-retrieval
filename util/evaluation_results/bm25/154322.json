@@ -1,0 +1,29 @@
+{
+  "qid": 154322,
+  "query": "Thương nhân muốn kinh doanh xuất khẩu gạo có thể thuê cơ sở xay, xát của người khác để xét đáp ứng điều kiện kinh doanh xuất khẩu gạo hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12090,
+    12091,
+    12110,
+    12092,
+    12108,
+    12094,
+    12089,
+    12103,
+    12105,
+    12098
+  ]
+}

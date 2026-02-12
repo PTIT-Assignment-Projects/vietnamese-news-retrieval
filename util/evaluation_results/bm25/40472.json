@@ -1,0 +1,29 @@
+{
+  "qid": 40472,
+  "query": "Doanh nghiệp kinh doanh casino đã được Giấy chứng nhận đủ điều kiện kinh doanh casino mà không hoạt động thì có bị thu hồi Giấy chứng nhận không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3277,
+    3308,
+    3274,
+    3270,
+    3276,
+    3273,
+    3305,
+    3250,
+    12842,
+    3254
+  ]
+}

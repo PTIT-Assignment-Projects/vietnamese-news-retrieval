@@ -1,0 +1,29 @@
+{
+  "qid": 1037,
+  "query": "Chủ tịch Ủy ban nhân dân xã có thẩm quyền xử phạt trong trường hợp khai thác tận thu gỗ đã chết trong khu rừng đặc dụng mà không có phương án khai thác hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14418,
+    7047,
+    14410,
+    7046,
+    14415,
+    14431,
+    14422,
+    14405,
+    6717,
+    5570
+  ]
+}

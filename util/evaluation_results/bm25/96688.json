@@ -1,0 +1,29 @@
+{
+  "qid": 96688,
+  "query": "Hồ sơ xét hưởng hỗ trợ kinh phí sinh con đúng chính sách dân số đối với phụ nữ người Kinh có chồng là dân tộc thiểu số gồm những gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7473,
+    7470,
+    7480,
+    7479,
+    1642,
+    1640,
+    11568,
+    7475,
+    2453,
+    14309
+  ]
+}

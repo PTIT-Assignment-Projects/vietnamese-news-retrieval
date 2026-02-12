@@ -1,0 +1,29 @@
+{
+  "qid": 85414,
+  "query": "Hồ sơ mua bán phần vốn góp của chủ sở hữu của tổ chức tài chính vi mô là công ty trách nhiệm hữu hạn một thành viên cần những gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13009,
+    13008,
+    11605,
+    13013,
+    13014,
+    7357,
+    13054,
+    13056,
+    7360,
+    13052
+  ]
+}

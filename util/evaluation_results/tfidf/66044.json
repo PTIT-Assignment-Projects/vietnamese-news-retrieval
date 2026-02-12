@@ -1,0 +1,29 @@
+{
+  "qid": 66044,
+  "query": "Sỹ quan máy tàu biển Việt Nam có tổng công suất máy chính từ 750 kW trở lên phải đáp ứng những tiêu chuẩn nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3744,
+    3745,
+    3740,
+    8063,
+    8064,
+    8062,
+    11201,
+    3756,
+    7678,
+    7661
+  ]
+}

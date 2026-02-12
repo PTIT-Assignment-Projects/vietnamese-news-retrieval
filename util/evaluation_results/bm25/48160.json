@@ -1,0 +1,29 @@
+{
+  "qid": 48160,
+  "query": "Chánh Văn phòng có thể tham mưu cho Cục trưởng Cục thi hành án dân sự trong công tác phối hợp giữa các phòng ban khác không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2320,
+    9480,
+    2322,
+    2396,
+    2319,
+    1348,
+    2324,
+    2394,
+    9425,
+    5623
+  ]
+}

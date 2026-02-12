@@ -1,0 +1,29 @@
+{
+  "qid": 32034,
+  "query": "Viên chức tham gia ý kiến trong đơn vị sự nghiệp công lập thông qua mấy hình thức gồm những hình thức nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4133,
+    13771,
+    5952,
+    13116,
+    12004,
+    14211,
+    10978,
+    3153,
+    7801,
+    12819
+  ]
+}

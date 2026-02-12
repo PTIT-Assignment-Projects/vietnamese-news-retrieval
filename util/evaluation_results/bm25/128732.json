@@ -1,0 +1,29 @@
+{
+  "qid": 128732,
+  "query": "Thành phần, nhiệm vụ, quyền hạn của Hội đồng mua, bán nợ trong chi nhánh ngân hàng nước ngoài do ai quy định?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9555,
+    9550,
+    9568,
+    9553,
+    9564,
+    9549,
+    9547,
+    9566,
+    9545,
+    9551
+  ]
+}

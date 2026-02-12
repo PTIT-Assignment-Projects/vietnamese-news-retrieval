@@ -1,0 +1,29 @@
+{
+  "qid": 136332,
+  "query": "Xác định tỷ lệ phần trăm thu nhập chịu thuế TNDN của nhà thầu nước ngoài đối với gia công phần mềm xác định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11475,
+    11481,
+    6426,
+    13234,
+    11482,
+    11480,
+    5800,
+    6015,
+    6431,
+    11473
+  ]
+}

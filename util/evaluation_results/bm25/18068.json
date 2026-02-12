@@ -1,0 +1,29 @@
+{
+  "qid": 18068,
+  "query": "Thủ trưởng các đơn vị thuộc Bộ Ngoại giao có trách nhiệm gì trong việc triển khai tổ chức phong trào thi đua?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3475,
+    8837,
+    8745,
+    3503,
+    3505,
+    1324,
+    10016,
+    8838,
+    3474,
+    3502
+  ]
+}

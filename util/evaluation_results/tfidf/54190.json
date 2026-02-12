@@ -1,0 +1,29 @@
+{
+  "qid": 54190,
+  "query": "Thương nhân xuất khẩu gạo có cần phải có một lượng gạo dự trữ nhất định trong kho trữ gạo của mình hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12098,
+    12090,
+    12108,
+    12107,
+    12103,
+    12106,
+    14315,
+    12091,
+    12101,
+    12088
+  ]
+}

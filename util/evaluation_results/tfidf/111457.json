@@ -1,0 +1,29 @@
+{
+  "qid": 111457,
+  "query": "Trưởng Công an cấp huyện có quyền xử phạt hành chính đối với giáo viên dạy thực hành lái xe tải chở hàng trên xe tập lái trái quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10321,
+    10325,
+    12313,
+    10360,
+    13844,
+    7148,
+    8500,
+    11129,
+    11467,
+    10330
+  ]
+}

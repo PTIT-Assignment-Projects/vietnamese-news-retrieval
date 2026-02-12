@@ -1,0 +1,29 @@
+{
+  "qid": 40654,
+  "query": "Tài sản chìm đắm trên tuyến đường thủy nội địa, vùng nước cảng biển và vùng biển Việt Nam được phân loại thành mấy cấp độ?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5194,
+    5200,
+    5196,
+    5222,
+    5199,
+    5205,
+    9109,
+    9105,
+    9059,
+    9106
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 153134,
+  "query": "Người nước ngoài muốn dự học bồi dưỡng kiến thức pháp luật về giao thông đường bộ khi điều khiển xe máy chuyên dùng thì phải học ở đâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5999,
+    10320,
+    5997,
+    6007,
+    5996,
+    6002,
+    5995,
+    5998,
+    6006,
+    6008
+  ]
+}

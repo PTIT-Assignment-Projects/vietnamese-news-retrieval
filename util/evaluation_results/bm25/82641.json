@@ -1,0 +1,29 @@
+{
+  "qid": 82641,
+  "query": "Có bắt buộc phải in sổ kế toán ra giấy đối với sổ ghi bằng phương thức điện tử sau khi khóa sổ hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2870,
+    2868,
+    5869,
+    1631,
+    12083,
+    1632,
+    5827,
+    2491,
+    5868,
+    5858
+  ]
+}

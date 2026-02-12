@@ -1,0 +1,29 @@
+{
+  "qid": 63076,
+  "query": "Việc kiểm tra, bảo đảm các hội nghị hội thảo quốc tế tại Việt Nam được tổ chức theo nội dung, Đề án đã được phê duyệt thuộc trách nhiệm của ai?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    6829,
+    6832,
+    6831,
+    6828,
+    6826,
+    6827,
+    6833,
+    923,
+    6830,
+    1047
+  ]
+}

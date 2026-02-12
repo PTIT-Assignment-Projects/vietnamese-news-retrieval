@@ -1,0 +1,29 @@
+{
+  "qid": 156384,
+  "query": "Tổ chức tín dụng có được sử dụng ngoại tệ làm đồng tiền thanh toán trong giao dịch mua, bán nợ không? Nếu có thì được sử dụng trong trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9552,
+    9553,
+    9549,
+    9564,
+    9547,
+    324,
+    9557,
+    2438,
+    12837,
+    9561
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 74466,
+  "query": "Cựu chiến binh không thuộc đối tượng hưởng chế độ mai táng phí theo quy định của Pháp lệnh ưu đãi người có công với cách mạng có được hưởng chế độ mai táng phí không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3787,
+    11330,
+    3785,
+    11039,
+    11043,
+    11059,
+    1216,
+    2573,
+    11047,
+    6075
+  ]
+}
