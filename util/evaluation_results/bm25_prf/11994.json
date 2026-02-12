@@ -1,0 +1,29 @@
+{
+  "qid": 11994,
+  "query": "Tranh chấp về thỏa thuận hạn chế cạnh tranh (không được làm việc cho đối thủ sau khi nghỉ việc) có được yêu cầu trọng tài giải quyết hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8603,
+    9721,
+    7406,
+    9563,
+    8601,
+    8164,
+    3268,
+    761,
+    4819,
+    4816
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 164140,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt tổ chức lưu giữ phế liệu nhập khẩu tại khu vực không phải là kho lưu giữ đã được cấp giấy phép môi trường không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12046,
+    8341,
+    471,
+    468,
+    8335,
+    8389,
+    8343,
+    12024,
+    8392,
+    11990
+  ]
+}

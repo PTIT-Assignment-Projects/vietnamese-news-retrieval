@@ -1,0 +1,29 @@
+{
+  "qid": 35443,
+  "query": "Việc phục hồi danh dự cho người bị thiệt hại trong hoạt động tố tụng hình sự được thực hiện bằng các hình thức nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12748,
+    12723,
+    10508,
+    12747,
+    12749,
+    12719,
+    12695,
+    10518,
+    12701,
+    12693
+  ]
+}

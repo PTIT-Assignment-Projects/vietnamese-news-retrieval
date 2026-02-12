@@ -1,0 +1,29 @@
+{
+  "qid": 127462,
+  "query": "Trung tâm hỗ trợ định giá tài sản trí tuệ có phải là một loại hình của tổ chức trung gian trong thị trường khoa học và công nghệ không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8275,
+    12788,
+    7534,
+    12781,
+    7494,
+    7530,
+    8274,
+    7532,
+    8270,
+    1027
+  ]
+}

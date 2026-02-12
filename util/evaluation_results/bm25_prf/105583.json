@@ -1,0 +1,29 @@
+{
+  "qid": 105583,
+  "query": "Quy định chung về tài khoản bảo hiểm hưu trí và lãi suất đầu tư của tài khoản bảo hiểm hưu trí theo Nghị định 46/2023/NĐ-CP như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14045,
+    14051,
+    14047,
+    14048,
+    14040,
+    14035,
+    14034,
+    14050,
+    14053,
+    14038
+  ]
+}

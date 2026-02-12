@@ -1,0 +1,29 @@
+{
+  "qid": 93143,
+  "query": "Mức điểm cộng của những đối tượng được ưu tiên trong xét tuyển công chức Bộ Văn hóa, Thể thao và Du lịch năm 2022 là bao nhiêu điểm?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2582,
+    7843,
+    14217,
+    7858,
+    5990,
+    4003,
+    7294,
+    2283,
+    9399,
+    9260
+  ]
+}

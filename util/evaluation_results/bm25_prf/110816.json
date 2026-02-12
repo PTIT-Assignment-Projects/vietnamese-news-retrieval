@@ -1,0 +1,29 @@
+{
+  "qid": 110816,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt tổ chức tiếp cận nguồn gen khi giấy phép tiếp cận nguồn gen đã hết hạn không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7593,
+    7596,
+    11698,
+    8175,
+    11718,
+    7592,
+    7595,
+    14563,
+    7590,
+    4896
+  ]
+}

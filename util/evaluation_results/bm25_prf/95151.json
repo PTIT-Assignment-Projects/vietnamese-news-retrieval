@@ -1,0 +1,29 @@
+{
+  "qid": 95151,
+  "query": "Bị can sau khi được tại ngoại đã tự ý rời khỏi địa phương và bị phát hiện tiếp tục có hành vi phạm tội thì giải quyết như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3557,
+    3559,
+    3558,
+    3553,
+    3560,
+    10893,
+    6683,
+    2535,
+    10661,
+    6705
+  ]
+}

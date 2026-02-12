@@ -1,0 +1,29 @@
+{
+  "qid": 19700,
+  "query": "Chức danh Chủ tịch Hội đồng quản lý trong đơn vị sự nghiệp công lập thuộc lĩnh vực giao thông vận tải sẽ do ai có thẩm quyền bổ nhiệm?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5545,
+    5529,
+    3156,
+    5528,
+    3154,
+    3153,
+    12004,
+    3151,
+    5542,
+    5533
+  ]
+}

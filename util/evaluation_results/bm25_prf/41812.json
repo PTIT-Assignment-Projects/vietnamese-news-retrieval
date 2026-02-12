@@ -1,0 +1,29 @@
+{
+  "qid": 41812,
+  "query": "Viên chức giữ chức danh nghề nghiệp diễn viên hạng IV muốn xét thăng hạng chức danh nghề nghiệp diễn viên hạng III phải đảm bảo điều kiện gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13119,
+    12588,
+    12599,
+    13123,
+    12587,
+    6924,
+    2820,
+    3870,
+    1535,
+    8612
+  ]
+}

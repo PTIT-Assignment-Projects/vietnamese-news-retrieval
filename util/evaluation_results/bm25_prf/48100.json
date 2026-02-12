@@ -1,0 +1,29 @@
+{
+  "qid": 48100,
+  "query": "Tiêu chuẩn, điều kiện đăng ký dự thi hoặc xét thăng hạng chức danh nghề nghiệp giáo viên mầm non thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1532,
+    13118,
+    8733,
+    6924,
+    14243,
+    14242,
+    1538,
+    14241,
+    1535,
+    14238
+  ]
+}

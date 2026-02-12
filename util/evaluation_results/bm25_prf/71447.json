@@ -1,0 +1,29 @@
+{
+  "qid": 71447,
+  "query": "Ai có quyền quyết định việc thành lập Hội đồng quản lý trong đơn vị sự nghiệp công lập thuộc ngành nông nghiệp và phát triển nông thôn?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    8740,
+    3156,
+    3153,
+    3150,
+    8756,
+    8753,
+    12004,
+    5545,
+    3148,
+    3151
+  ]
+}

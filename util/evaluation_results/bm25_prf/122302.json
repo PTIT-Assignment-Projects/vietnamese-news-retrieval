@@ -1,0 +1,29 @@
+{
+  "qid": 122302,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt người bỏ trốn sau khi gây tai nạn hàng hải không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13950,
+    7789,
+    7674,
+    1279,
+    13952,
+    13949,
+    11179,
+    13947,
+    7678,
+    13953
+  ]
+}

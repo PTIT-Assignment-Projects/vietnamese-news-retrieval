@@ -1,0 +1,29 @@
+{
+  "qid": 133172,
+  "query": "Công chức có nộp bản kê khai tài sản, thu nhập khi làm hồ sơ đề nghị kéo dài thời gian giữ chức vụ lãnh đạo, quản lý không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14260,
+    14256,
+    14252,
+    14259,
+    14251,
+    2334,
+    8220,
+    2357,
+    8198,
+    2358
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 88432,
+  "query": "Đấu giá tài sản nhà nước trong Bộ Quốc phòng áp dụng hình thức đấu giá bằng bỏ phiếu trực tiếp tại cuộc đấu giá được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    729,
+    730,
+    737,
+    727,
+    692,
+    728,
+    736,
+    739,
+    746,
+    738
+  ]
+}

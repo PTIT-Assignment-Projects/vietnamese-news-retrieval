@@ -1,0 +1,29 @@
+{
+  "qid": 8913,
+  "query": "Để được xét tặng danh hiệu Tập thể lao động Xuất sắc trong ngành Ngoại giao thì phải đáp ứng những tiêu chuẩn nào theo quy định?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7853,
+    3477,
+    3478,
+    3490,
+    1331,
+    7857,
+    8749,
+    5588,
+    1336,
+    1335
+  ]
+}

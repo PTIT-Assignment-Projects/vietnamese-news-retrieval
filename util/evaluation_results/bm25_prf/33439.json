@@ -1,0 +1,29 @@
+{
+  "qid": 33439,
+  "query": "Trình tự thực hiện thủ tục chấp thuận thay đổi tên của tổ chức tín dụng phi ngân hàng gồm mấy bước?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1657,
+    13000,
+    1664,
+    158,
+    327,
+    9551,
+    328,
+    9545,
+    5639,
+    3281
+  ]
+}

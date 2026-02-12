@@ -1,0 +1,29 @@
+{
+  "qid": 64156,
+  "query": "Chánh thanh tra Sở Văn hóa, Thể thao và Du lịch có thẩm quyền xử phạt thương nhân kinh doanh khách sạn không bảo đảm tiêu chuẩn phòng hội nghị, hội thảo, phòng họp theo từng hạng sao không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7290,
+    7294,
+    9793,
+    7289,
+    9799,
+    7293,
+    7843,
+    12522,
+    2288,
+    13374
+  ]
+}

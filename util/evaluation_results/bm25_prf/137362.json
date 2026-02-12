@@ -1,0 +1,29 @@
+{
+  "qid": 137362,
+  "query": "Có thể dùng hối phiếu đòi nợ để thực hiện chiết khấu công cụ chuyển nhượng với ngân hàng thương mại không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4017,
+    4016,
+    4025,
+    4014,
+    4026,
+    4027,
+    4021,
+    4022,
+    4018,
+    4013
+  ]
+}

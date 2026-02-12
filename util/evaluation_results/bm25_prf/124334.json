@@ -1,0 +1,29 @@
+{
+  "qid": 124334,
+  "query": "Trường hợp cá nhân tổ chức có hành vi vi phạm về bảo quản thuốc gây nghiện, làm thất thoát thuốc ra thì sẽ bị xử phạt ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14606,
+    11154,
+    14602,
+    14596,
+    11155,
+    14599,
+    14600,
+    14563,
+    14603,
+    14601
+  ]
+}

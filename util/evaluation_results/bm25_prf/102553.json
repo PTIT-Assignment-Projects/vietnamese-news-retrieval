@@ -1,0 +1,29 @@
+{
+  "qid": 102553,
+  "query": "Quy định xử lý về việc cấp sự cố trong quá trình thi công xây dựng và khai thác, sử dụng công trình ra sao?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    459,
+    6874,
+    6892,
+    6871,
+    6882,
+    6883,
+    6888,
+    6893,
+    9704,
+    6891
+  ]
+}

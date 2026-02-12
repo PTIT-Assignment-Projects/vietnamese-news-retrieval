@@ -1,0 +1,29 @@
+{
+  "qid": 138845,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp kinh doanh dịch vụ an toàn thông tin mạng không báo cáo cho Bộ Thông tin và Truyền thông về tình hình kinh doanh không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12153,
+    12155,
+    12152,
+    12149,
+    12156,
+    6377,
+    12145,
+    13145,
+    12150,
+    7246
+  ]
+}

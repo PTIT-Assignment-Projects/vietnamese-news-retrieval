@@ -1,0 +1,29 @@
+{
+  "qid": 67773,
+  "query": "Việc điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh casino được thực hiện theo trình tự nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3274,
+    3254,
+    3308,
+    3273,
+    3271,
+    3270,
+    3277,
+    3305,
+    3276,
+    3253
+  ]
+}

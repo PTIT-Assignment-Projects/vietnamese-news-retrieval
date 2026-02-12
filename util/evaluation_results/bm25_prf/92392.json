@@ -1,0 +1,29 @@
+{
+  "qid": 92392,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã được quyền xử phạt tổ chức tín dụng phát hành giấy tờ có giá không đúng với nội dung đã niêm yết công khai không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    394,
+    3371,
+    427,
+    388,
+    430,
+    722,
+    418,
+    4021,
+    387,
+    371
+  ]
+}

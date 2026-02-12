@@ -1,0 +1,29 @@
+{
+  "qid": 37916,
+  "query": "Có được lưu cơ sở dữ liệu tài liệu lưu trữ có chứa thông tin thuộc phạm vi bí mật nhà nước trên các thiết bị kết nối với mạng Internet không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2594,
+    9383,
+    10213,
+    10192,
+    2589,
+    10201,
+    9387,
+    10232,
+    10214,
+    10221
+  ]
+}

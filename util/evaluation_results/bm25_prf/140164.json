@@ -1,0 +1,29 @@
+{
+  "qid": 140164,
+  "query": "Vào dịp Lễ Quốc khánh 02/9 năm nay phạm nhân tù chung thân được giảm thời hạn chấp hành án lần đầu bao nhiêu năm?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1891,
+    1889,
+    1892,
+    1890,
+    1887,
+    3009,
+    3047,
+    3007,
+    1896,
+    6653
+  ]
+}

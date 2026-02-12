@@ -1,0 +1,29 @@
+{
+  "qid": 159581,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Khoa học và Công nghệ có quyền xử phạt người không thực hiện đúng hướng dẫn khi cơ quan, tổ chức tiến hành khắc phục sự cố hạt nhân không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    12037,
+    14198,
+    3304,
+    11127,
+    6937,
+    6934,
+    6936,
+    12053,
+    12019
+  ]
+}

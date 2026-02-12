@@ -1,0 +1,29 @@
+{
+  "qid": 126334,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt tổ chức thi công xây dựng cảng cạn quá thời gian quy định ghi trong giấy phép thi công không?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    10354,
+    10311,
+    10352,
+    3531,
+    11127,
+    14198,
+    12025,
+    10379,
+    3534,
+    4637
+  ]
+}

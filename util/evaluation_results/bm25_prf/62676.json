@@ -1,0 +1,29 @@
+{
+  "qid": 62676,
+  "query": "Việc giám sát thực hiện cam kết loại trừ bán phá giá của nhà sản xuất có thể thực hiện theo định kỳ hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12907,
+    12885,
+    5300,
+    12890,
+    12886,
+    12888,
+    12906,
+    5302,
+    12912,
+    12882
+  ]
+}

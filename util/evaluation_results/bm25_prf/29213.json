@@ -1,0 +1,29 @@
+{
+  "qid": 29213,
+  "query": "Sau khi kết thúc phiên họp, Hội đồng Thẩm phán Tòa án nhân dân tối cao gửi văn bản thông báo kết quả phiên họp cho ai?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10885,
+    10883,
+    10884,
+    10882,
+    10887,
+    10881,
+    10888,
+    1159,
+    7995,
+    10859
+  ]
+}

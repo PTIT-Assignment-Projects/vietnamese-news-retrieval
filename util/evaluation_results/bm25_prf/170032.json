@@ -1,0 +1,29 @@
+{
+  "qid": 170032,
+  "query": "Doanh nghiệp kinh doanh vận tải đường sắt không thực hiện đúng quy định về vận tải hàng siêu trường thì bị phạt vi phạm hành chính như thế nào?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    10363,
+    10369,
+    10343,
+    10368,
+    10338,
+    10347,
+    10346,
+    10378,
+    10323,
+    10353
+  ]
+}

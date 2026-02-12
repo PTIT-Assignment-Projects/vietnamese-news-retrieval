@@ -1,0 +1,29 @@
+{
+  "qid": 160999,
+  "query": "Thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh nhưng không có giấy chứng nhận đăng ký thì tổ chức bị xử phạt thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14917,
+    6395,
+    6394,
+    6393,
+    14904,
+    2713,
+    6383,
+    6369,
+    6367,
+    14918
+  ]
+}

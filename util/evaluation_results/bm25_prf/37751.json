@@ -1,0 +1,29 @@
+{
+  "qid": 37751,
+  "query": "Muốn thay đổi nơi khám chữa bệnh ban đầu khi chuyển hộ khẩu từ dưới quê lên thành phố thì liên hệ cơ quan nào để thực hiện?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12069,
+    10145,
+    5139,
+    4654,
+    4659,
+    11814,
+    9579,
+    4655,
+    4665,
+    4656
+  ]
+}

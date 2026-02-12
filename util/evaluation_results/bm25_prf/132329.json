@@ -1,0 +1,29 @@
+{
+  "qid": 132329,
+  "query": "Quy trình bổ nhiệm chức danh người đứng đầu Tạp chí Giáo dục thuộc Bộ GDĐT đối với nguồn nhân sự tại chỗ thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14253,
+    14254,
+    14255,
+    14258,
+    10995,
+    2333,
+    14252,
+    14231,
+    3153,
+    2316
+  ]
+}

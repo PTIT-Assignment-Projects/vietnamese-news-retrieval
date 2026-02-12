@@ -1,0 +1,29 @@
+{
+  "qid": 98063,
+  "query": "Chủ tịch Ủy ban nhân dân huyện có quyền xử phạt Sở Giao dịch hàng hóa không thiết lập hệ thống kiểm soát nội bộ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5679,
+    5681,
+    7389,
+    7349,
+    7378,
+    7396,
+    5677,
+    7371,
+    7382,
+    8203
+  ]
+}

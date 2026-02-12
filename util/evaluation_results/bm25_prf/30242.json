@@ -1,0 +1,29 @@
+{
+  "qid": 30242,
+  "query": "Xe tải vận chuyển thực phẩm không thực hiện yêu cầu kiểm tra và xử lý y tế đối với phương tiện vận tải trước khi ra khỏi vùng có dịch trong tình trạng khẩn cấp về dịch bị xử phạt ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14553,
+    10413,
+    10428,
+    4717,
+    2123,
+    10422,
+    2961,
+    14775,
+    10418,
+    10415
+  ]
+}

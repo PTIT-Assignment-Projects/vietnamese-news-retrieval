@@ -1,0 +1,29 @@
+{
+  "qid": 87911,
+  "query": "Danh hiệu Tập thể lao động tiên tiến ngành Kiểm sát nhân dân được xét tặng cho những tập thể nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1354,
+    1336,
+    1331,
+    5588,
+    1369,
+    8862,
+    1342,
+    7853,
+    1156,
+    3477
+  ]
+}

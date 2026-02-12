@@ -1,0 +1,29 @@
+{
+  "qid": 100680,
+  "query": "Học sinh trung học phổ thông là người dân tộc Kinh thuộc hộ nghèo có được hưởng chính sách hỗ trợ không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14311,
+    14313,
+    14309,
+    7472,
+    14308,
+    2453,
+    14314,
+    6594,
+    9729,
+    9728
+  ]
+}

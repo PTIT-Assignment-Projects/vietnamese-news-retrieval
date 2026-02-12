@@ -1,0 +1,29 @@
+{
+  "qid": 59216,
+  "query": "Thời hạn quyết định áp dụng biện pháp chống lẫn tránh biện pháp phòng vệ thương mại là bao nhiêu ngày?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12930,
+    12926,
+    5295,
+    5290,
+    12928,
+    12848,
+    5296,
+    12850,
+    12927,
+    12920
+  ]
+}

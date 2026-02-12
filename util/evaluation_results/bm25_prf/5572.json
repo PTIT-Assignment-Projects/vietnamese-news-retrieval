@@ -1,0 +1,29 @@
+{
+  "qid": 5572,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có thẩm quyền xử phạt chủ xe ô tô sơn mâm xe màu khác chạy ra đường hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10303,
+    10304,
+    10321,
+    10345,
+    10306,
+    10308,
+    4461,
+    10328,
+    10325,
+    10332
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 70728,
+  "query": "Khách sạn có người nước ngoài lưu trú có được thu tín hiệu truyền hình trực tiếp từ vệ tinh không qua biên tập không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6394,
+    14917,
+    6395,
+    14919,
+    6393,
+    6383,
+    8061,
+    6386,
+    6382,
+    2713
+  ]
+}

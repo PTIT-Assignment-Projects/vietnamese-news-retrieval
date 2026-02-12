@@ -1,0 +1,29 @@
+{
+  "qid": 15843,
+  "query": "Việc hợp tác quốc tế trong quá trình tố tụng cạnh tranh được thực hiện dựa trên những nguyên tắc nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7959,
+    10976,
+    10959,
+    10963,
+    2554,
+    10961,
+    12931,
+    12160,
+    5308,
+    5322
+  ]
+}

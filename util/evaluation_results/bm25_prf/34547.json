@@ -1,0 +1,29 @@
+{
+  "qid": 34547,
+  "query": "Muốn tạm đình chỉ hoạt động cơ sở dịch vụ ăn uống công cộng trong vùng đang có dịch bệnh truyền nhiễm phải đáp ứng điều kiện gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10427,
+    10429,
+    10430,
+    14553,
+    14555,
+    5283,
+    10413,
+    10428,
+    1934,
+    10922
+  ]
+}

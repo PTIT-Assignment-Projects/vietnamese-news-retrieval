@@ -1,0 +1,29 @@
+{
+  "qid": 90347,
+  "query": "Xác định xuất xứ hàng hóa trong trường hợp có nhiều nước tham gia vào quá trình sản xuất được quy định ra sao?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1124,
+    1097,
+    2777,
+    14601,
+    2781,
+    14598,
+    14605,
+    2783,
+    5522,
+    14599
+  ]
+}

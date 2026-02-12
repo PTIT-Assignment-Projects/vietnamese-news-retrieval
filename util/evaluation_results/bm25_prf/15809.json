@@ -1,0 +1,29 @@
+{
+  "qid": 15809,
+  "query": "Cục trưởng Cục Quản lý thị trường cấp tỉnh có quyền xử phạt đối với hành vi kinh doanh sản phẩm đồ chơi trẻ em có nội dung ảnh hưởng đến sự phát triển lành mạnh của trẻ em hay không?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    14198,
+    14940,
+    4637,
+    14909,
+    14916,
+    14574,
+    14828,
+    14456,
+    14191,
+    2517
+  ]
+}

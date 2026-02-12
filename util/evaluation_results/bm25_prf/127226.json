@@ -1,0 +1,29 @@
+{
+  "qid": 127226,
+  "query": "Người đứng đầu nội bộ cơ sở khám chữa bệnh công lập cần công khai những nội dung gì nhằm thực hiện dân chủ trong hoạt động?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4124,
+    5946,
+    3153,
+    14227,
+    14254,
+    923,
+    14231,
+    8081,
+    14255,
+    5537
+  ]
+}

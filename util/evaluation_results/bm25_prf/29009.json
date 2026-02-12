@@ -1,0 +1,29 @@
+{
+  "qid": 29009,
+  "query": "Người sử dụng dịch vụ bưu chính không đồng ý với việc giải quyết khiếu nại của bên cung cấp dịch vụ thì được yêu cầu ai giải quyết?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4814,
+    4804,
+    4802,
+    4816,
+    4805,
+    4818,
+    4819,
+    4815,
+    7261,
+    4812
+  ]
+}

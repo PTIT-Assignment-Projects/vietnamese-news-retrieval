@@ -1,0 +1,29 @@
+{
+  "qid": 128389,
+  "query": "Người nước ngoài nhận trẻ em Việt Nam làm con nuôi phải thông báo tình hình phát triển của trẻ cho Bộ Tư pháp đúng không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3229,
+    3230,
+    3232,
+    3233,
+    3227,
+    3238,
+    13970,
+    3237,
+    3239,
+    3234
+  ]
+}

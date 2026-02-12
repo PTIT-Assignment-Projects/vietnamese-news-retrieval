@@ -1,0 +1,29 @@
+{
+  "qid": 125776,
+  "query": "Tổ chức đấu giá tài sản thông đồng, móc nối với người tham gia đấu giá trong quá trình tổ chức đấu giá thì người có tài sản đấu giá có quyền hủy bỏ hợp đồng dịch vụ đấu giá tài sản không?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    759,
+    696,
+    720,
+    749,
+    734,
+    752,
+    706,
+    725,
+    711,
+    692
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 87192,
+  "query": "Chủ tịch Ủy ban nhân dân xã có thẩm quyền xử phạt vi phạm hành chính đối với hành vi không lưu trữ thông tin về nguồn gốc thực phẩm của cơ sở kinh doanh sản phẩm thực phẩm hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14170,
+    11910,
+    14195,
+    14182,
+    14171,
+    14204,
+    14206,
+    14207,
+    14191,
+    11837
+  ]
+}

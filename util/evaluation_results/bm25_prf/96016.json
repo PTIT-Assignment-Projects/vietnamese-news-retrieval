@@ -1,0 +1,29 @@
+{
+  "qid": 96016,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt cơ sở sản xuất thức ăn chăn nuôi không thực hiện quy trình kiểm soát chất lượng không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    4541,
+    9661,
+    12433,
+    2455,
+    678,
+    2996,
+    13891,
+    8481,
+    4640
+  ]
+}

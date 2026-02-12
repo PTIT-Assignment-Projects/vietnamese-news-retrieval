@@ -1,0 +1,29 @@
+{
+  "qid": 117247,
+  "query": "Sau khi kết thúc thời gian tập sự hành nghề Thừa phát lại thì sẽ được bổ nhiệm làm Thừa phát lại đúng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5836,
+    5837,
+    5838,
+    8935,
+    8936,
+    8934,
+    5839,
+    5841,
+    5842,
+    5844
+  ]
+}

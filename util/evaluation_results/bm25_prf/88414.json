@@ -1,0 +1,29 @@
+{
+  "qid": 88414,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp ngừng cung cấp dịch vụ trò chơi điện tử nhưng không báo cáo đến cơ quan có thẩm quyền không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7949,
+    9735,
+    9737,
+    3250,
+    3248,
+    7945,
+    3267,
+    3268,
+    13145,
+    3252
+  ]
+}

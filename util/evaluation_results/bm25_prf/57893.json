@@ -1,0 +1,29 @@
+{
+  "qid": 57893,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt người không thực hiện xét nghiệm theo yêu cầu của cơ quan y tế không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8481,
+    8472,
+    4898,
+    4896,
+    8471,
+    7478,
+    13193,
+    3099,
+    14279,
+    1717
+  ]
+}

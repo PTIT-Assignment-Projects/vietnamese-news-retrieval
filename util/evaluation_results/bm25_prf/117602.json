@@ -1,0 +1,29 @@
+{
+  "qid": 117602,
+  "query": "Trường hợp nào tang vật bị tịch thu do vi phạm hành chính sẽ được thực hiện đấu giá theo thủ tục rút gọn?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    740,
+    14015,
+    14030,
+    14016,
+    14025,
+    691,
+    14027,
+    14024,
+    14031,
+    694
+  ]
+}

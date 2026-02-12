@@ -1,0 +1,29 @@
+{
+  "qid": 130814,
+  "query": "Xử lý số dư kinh phí chi thực hiện chính sách ưu đãi người có công với cách mạng và người trực tiếp tham gia kháng chiến năm 2023?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11058,
+    13388,
+    11040,
+    11039,
+    11060,
+    11052,
+    11054,
+    11057,
+    11042,
+    14394
+  ]
+}

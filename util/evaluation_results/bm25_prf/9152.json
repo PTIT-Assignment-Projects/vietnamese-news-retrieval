@@ -1,0 +1,29 @@
+{
+  "qid": 9152,
+  "query": "Quyết định sửa chữa quyết định giải quyết bồi thường Nhà nước phải được thực hiện trong thời gian bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12740,
+    11675,
+    12743,
+    12706,
+    12707,
+    8886,
+    12732,
+    8891,
+    8878,
+    12747
+  ]
+}

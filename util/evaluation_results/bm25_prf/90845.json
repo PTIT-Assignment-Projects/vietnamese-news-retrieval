@@ -1,0 +1,29 @@
+{
+  "qid": 90845,
+  "query": "Nội dung trên biên bản bàn giao tài sản cố định sửa chữa lớn hoàn thành áp dụng đối với doanh nghiệp vừa và nhỏ có được viết tắt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    852,
+    5757,
+    13201,
+    4302,
+    9705,
+    4061,
+    2669,
+    8738,
+    2298,
+    8806
+  ]
+}

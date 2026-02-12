@@ -1,0 +1,29 @@
+{
+  "qid": 114717,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt công ty kinh doanh dịch vụ lữ hành nội địa không thông tin về chương trình du lịch cho khách du lịch không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9780,
+    9773,
+    9774,
+    9801,
+    9808,
+    6609,
+    6610,
+    6607,
+    6624,
+    9775
+  ]
+}

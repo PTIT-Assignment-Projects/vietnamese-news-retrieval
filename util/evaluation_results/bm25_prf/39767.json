@@ -1,0 +1,29 @@
+{
+  "qid": 39767,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt chủ tàu biển không thực hiện mệnh lệnh của Cảng vụ hàng hải về tham gia chữa cháy ở vùng nước cảng biển không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7674,
+    7663,
+    7671,
+    9104,
+    7678,
+    7673,
+    7662,
+    7677,
+    7675,
+    13071
+  ]
+}

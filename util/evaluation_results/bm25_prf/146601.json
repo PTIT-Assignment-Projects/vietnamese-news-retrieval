@@ -1,0 +1,29 @@
+{
+  "qid": 146601,
+  "query": "Doanh nghiệp sẽ được cấp giấy phép FLEGT trước hay sau khi đăng ký tờ khai hải quan nếu xuất khẩu lô hàng gỗ vào thị trường EU?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    11354,
+    11358,
+    11351,
+    11360,
+    11352,
+    11347,
+    11364,
+    11361,
+    11373,
+    11371
+  ]
+}

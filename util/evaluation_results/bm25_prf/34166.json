@@ -1,0 +1,29 @@
+{
+  "qid": 34166,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt người chơi trò chơi điện tử G1 đăng ký không đúng thông tin cá nhân không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9735,
+    7949,
+    9737,
+    11694,
+    14904,
+    7950,
+    3267,
+    9736,
+    7945,
+    8472
+  ]
+}

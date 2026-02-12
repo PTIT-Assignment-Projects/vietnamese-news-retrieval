@@ -1,0 +1,29 @@
+{
+  "qid": 40453,
+  "query": "Trưởng đoàn Thanh tra chuyên ngành Bộ Quốc phòng có thể xử phạt doanh nghiệp công nghiệp không bàn giao đầy đủ tài liệu công nghệ đã được chuyển giao khi có quyết định thu hồi không?",
+  "metrics": {
+    "mrr": 0.16666666666666666,
+    "map": 0.16666666666666666,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.3562071871080222
+  },
+  "retrieved": [
+    3944,
+    4953,
+    13533,
+    11127,
+    7494,
+    4637,
+    7530,
+    7545,
+    13537,
+    4966
+  ]
+}

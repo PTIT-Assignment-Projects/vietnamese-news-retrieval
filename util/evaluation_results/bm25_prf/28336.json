@@ -1,0 +1,29 @@
+{
+  "qid": 28336,
+  "query": "Cơ quan nào có thẩm quyền tạm ngưng nhập khẩu hàng hóa dưới hình thức mua bán, trao đổi qua biên giới của cư dân biên giới?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5276,
+    13696,
+    9678,
+    5226,
+    9670,
+    13695,
+    13697,
+    5277,
+    13707,
+    8388
+  ]
+}

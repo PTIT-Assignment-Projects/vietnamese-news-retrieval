@@ -1,0 +1,29 @@
+{
+  "qid": 137483,
+  "query": "Đối với hoạt động cung ứng công nghệ thông tin thì nội dung dự toán chi tiết gồm các chi phí nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3798,
+    3797,
+    3796,
+    3800,
+    3799,
+    3802,
+    3795,
+    3794,
+    3801,
+    6015
+  ]
+}

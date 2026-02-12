@@ -1,0 +1,29 @@
+{
+  "qid": 114640,
+  "query": "Kinh phí triển khai Chương trình giám sát vào Chương trình giám sát vệ sinh an toàn thực phẩm trong thu hoạch nhuyễn thể hai mảnh vỏ theo phân cấp ngân sách nhà nước đúng không?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    2999,
+    8511,
+    8529,
+    11529,
+    2995,
+    3000,
+    9633,
+    5354,
+    11841,
+    9663
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 13388,
+  "query": "Nhiệm vụ giảng dạy của giảng viên trong các cơ sở đào tạo, bồi dưỡng cán bộ, công chức, viên chức được quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12819,
+    11007,
+    11017,
+    11008,
+    12807,
+    11533,
+    12817,
+    5502,
+    12818,
+    12815
+  ]
+}

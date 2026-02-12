@@ -1,0 +1,29 @@
+{
+  "qid": 143624,
+  "query": "Giáo viên trường phổ thông dân tộc bán trú tiểu học được cử làm Tổng phụ trách Đội phải đáp ứng những tiêu chuẩn gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2817,
+    6751,
+    2814,
+    4747,
+    8501,
+    7148,
+    8502,
+    1538,
+    1533,
+    8499
+  ]
+}

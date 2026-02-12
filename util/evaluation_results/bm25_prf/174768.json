@@ -1,0 +1,29 @@
+{
+  "qid": 174768,
+  "query": "Cán bộ, công chức, viên chức giám sát, kiểm tra thực hiện dân chủ trong cơ quan hành chính và đơn vị sự nghiệp công lập bao gồm những việc nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4124,
+    805,
+    5946,
+    662,
+    4036,
+    8169,
+    2021,
+    3869,
+    3153,
+    10978
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 158165,
+  "query": "Nếu phát hiện thông tin do mình tạo ra và đã được công khai không chính xác thì cơ quan đó có trách nhiệm gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11706,
+    11717,
+    11715,
+    826,
+    11705,
+    825,
+    4083,
+    11962,
+    6506,
+    3302
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 35346,
+  "query": "Học sinh gian lận mang tài liệu không được phép vào phòng thi trong kỳ thi trung học phổ thông quốc gia bị phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 0.5,
+    "p@1": 1.0,
+    "r@1": 0.5,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 0.5,
+    "ndcg@5": 0.6131471927654584,
+    "p@10": 0.1,
+    "r@10": 0.5,
+    "ndcg@10": 0.6131471927654584
+  },
+  "retrieved": [
+    4615,
+    4621,
+    9851,
+    4625,
+    10366,
+    14570,
+    9847,
+    4618,
+    3763,
+    14465
+  ]
+}

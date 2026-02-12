@@ -1,0 +1,29 @@
+{
+  "qid": 147712,
+  "query": "Trưởng đoàn thanh tra của Cục Báo chí có quyền xử phạt cơ quan báo chí không thông báo với cơ quan nhà nước có thẩm quyền khi thay đổi phóng viên thường trú không?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    14906,
+    14922,
+    14198,
+    4637,
+    14935,
+    14912,
+    14903,
+    3304,
+    14907,
+    11127
+  ]
+}

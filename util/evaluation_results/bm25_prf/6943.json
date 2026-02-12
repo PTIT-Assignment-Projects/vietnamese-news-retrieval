@@ -1,0 +1,29 @@
+{
+  "qid": 6943,
+  "query": "Hướng dẫn viên du lịch không hướng dẫn khách du lịch theo phân công nhiệm vụ được giao có vi phạm pháp luật không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9808,
+    9801,
+    9780,
+    9809,
+    6626,
+    9804,
+    6624,
+    6607,
+    9802,
+    9807
+  ]
+}

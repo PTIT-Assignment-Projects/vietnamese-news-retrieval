@@ -1,0 +1,29 @@
+{
+  "qid": 129973,
+  "query": "Trang phục Thừa phát lại dành cho nam gồm những trang phục nào theo quy định hiện nay?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5854,
+    3222,
+    9427,
+    12456,
+    2073,
+    4269,
+    4195,
+    8487,
+    12454,
+    4196
+  ]
+}

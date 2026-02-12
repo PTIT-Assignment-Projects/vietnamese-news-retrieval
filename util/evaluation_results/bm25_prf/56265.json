@@ -1,0 +1,29 @@
+{
+  "qid": 56265,
+  "query": "Có được tặng quà và tổ chức chiêu đãi trong lễ kỷ niệm ngày truyền thống của Thống kê Việt Nam hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13643,
+    6047,
+    6046,
+    985,
+    13648,
+    13655,
+    986,
+    6045,
+    32,
+    7702
+  ]
+}

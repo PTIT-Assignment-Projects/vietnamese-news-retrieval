@@ -1,0 +1,29 @@
+{
+  "qid": 87623,
+  "query": "Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch quốc tế đến Việt Nam có quyền hỗ trợ khách du lịch làm thủ tục quá cảnh không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9780,
+    9773,
+    9775,
+    9774,
+    9778,
+    9777,
+    6607,
+    9779,
+    6624,
+    6610
+  ]
+}

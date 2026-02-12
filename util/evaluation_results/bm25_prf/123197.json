@@ -1,0 +1,29 @@
+{
+  "qid": 123197,
+  "query": "Kinh doanh sản phẩm đặt cược trái với quy định pháp luật có thể bị tước quyền sử dụng Giấy chứng nhận đủ điều kiện kinh doanh đặt cược không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6514,
+    6515,
+    6467,
+    6525,
+    6529,
+    6500,
+    6505,
+    6494,
+    6507,
+    6466
+  ]
+}

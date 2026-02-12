@@ -1,0 +1,29 @@
+{
+  "qid": 125664,
+  "query": "Thông tư nào là phù hợp để thực hiện thủ tục bổ nhiệm chức danh kế toán trưởng trong đơn vị sự nghiệp công lập?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4389,
+    4394,
+    4395,
+    4392,
+    4391,
+    4399,
+    4396,
+    4388,
+    4393,
+    2895
+  ]
+}

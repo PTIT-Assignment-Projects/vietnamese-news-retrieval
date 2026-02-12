@@ -1,0 +1,29 @@
+{
+  "qid": 105376,
+  "query": "Trưởng phòng Phòng Nghiệp vụ và tổ chức thi hành án dân sự thuộc Cục Thi hành án dân sự Thành phố Hà Nội thực hiện nhiệm vụ gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2322,
+    2323,
+    2324,
+    9475,
+    2396,
+    2319,
+    9477,
+    9476,
+    2397,
+    2330
+  ]
+}

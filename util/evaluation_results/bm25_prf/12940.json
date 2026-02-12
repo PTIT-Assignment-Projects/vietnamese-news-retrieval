@@ -1,0 +1,29 @@
+{
+  "qid": 12940,
+  "query": "Các giấy tờ do cơ quan nước ngoài cấp thì có được công chứng, chứng thực bản sao tại Việt Nam hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11331,
+    11209,
+    11216,
+    11210,
+    3992,
+    1472,
+    12342,
+    1614,
+    7838,
+    11199
+  ]
+}

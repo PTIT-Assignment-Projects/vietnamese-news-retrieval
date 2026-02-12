@@ -1,0 +1,29 @@
+{
+  "qid": 97052,
+  "query": "Chủ tịch Hội đồng đấu giá tài sản có phải là người có quyền quyết định cuối cùng trong trường hợp kết quả biểu quyết hoặc số phiếu bằng nhau không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    748,
+    750,
+    5214,
+    2047,
+    7376,
+    731,
+    7359,
+    747,
+    749,
+    2044
+  ]
+}

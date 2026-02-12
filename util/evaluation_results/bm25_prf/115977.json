@@ -1,0 +1,29 @@
+{
+  "qid": 115977,
+  "query": "Nơi dành riêng cho người hút thuốc lá mà không có thiết bị phòng cháy chữa cháy thì bị xử phạt vi phạm hành chính bao nhiêu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14566,
+    1206,
+    1209,
+    1208,
+    1207,
+    7047,
+    1217,
+    1219,
+    7046,
+    2724
+  ]
+}

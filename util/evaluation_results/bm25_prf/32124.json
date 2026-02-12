@@ -1,0 +1,29 @@
+{
+  "qid": 32124,
+  "query": "Thời hạn xét thăng cấp bậc quân hàm đối với Binh nhì phục vụ trong Quân đội nhân dân Việt Nam là bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7334,
+    7332,
+    7331,
+    7330,
+    7340,
+    14491,
+    7328,
+    7333,
+    7341,
+    7335
+  ]
+}

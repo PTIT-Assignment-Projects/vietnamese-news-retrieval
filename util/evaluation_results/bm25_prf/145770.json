@@ -1,0 +1,29 @@
+{
+  "qid": 145770,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp viễn thông đóng góp tài chính không đầy đủ vào Quỹ dịch vụ viễn thông công ích không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2711,
+    8567,
+    2706,
+    2702,
+    2703,
+    2712,
+    2707,
+    12470,
+    12481,
+    12482
+  ]
+}

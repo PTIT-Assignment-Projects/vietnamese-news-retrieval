@@ -1,0 +1,29 @@
+{
+  "qid": 69048,
+  "query": "Sinh viên học chuyên ngành Sư phạm Toán học được Nhà nước hỗ trợ chi phí sinh hoạt bao nhiêu một tháng?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14383,
+    14385,
+    14384,
+    14386,
+    14387,
+    14391,
+    14380,
+    14390,
+    14388,
+    6929
+  ]
+}

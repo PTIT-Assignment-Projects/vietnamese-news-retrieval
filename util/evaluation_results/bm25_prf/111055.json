@@ -1,0 +1,29 @@
+{
+  "qid": 111055,
+  "query": "Tổ chức vận hành tàu biển có động cơ chạy bằng năng lượng hạt nhân mà không có giấy phép thì bị xử phạt vi phạm hành chính thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12024,
+    6936,
+    12019,
+    12023,
+    12060,
+    12056,
+    12025,
+    12032,
+    12036,
+    12021
+  ]
+}

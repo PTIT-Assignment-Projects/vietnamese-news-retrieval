@@ -1,0 +1,29 @@
+{
+  "qid": 77929,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt tổ chức cung ứng xăng dầu cho các cửa hàng bán lẻ xăng dầu tại khu vực biên giới không đúng quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11990,
+    11989,
+    11992,
+    11994,
+    11995,
+    11993,
+    11996,
+    11987,
+    11988,
+    11998
+  ]
+}

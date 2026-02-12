@@ -1,0 +1,29 @@
+{
+  "qid": 33940,
+  "query": "Trong phạm vi bồi thường theo trách nhiệm bồi thường của Nhà nước thì các thiệt hại nào không được bồi thường?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12699,
+    8901,
+    8880,
+    8885,
+    12695,
+    8899,
+    12707,
+    8886,
+    12706,
+    12765
+  ]
+}

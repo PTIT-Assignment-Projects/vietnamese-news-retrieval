@@ -1,0 +1,29 @@
+{
+  "qid": 40781,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Khoa học và Công nghệ có quyền xử phạt người nhập khẩu chất thải phóng xạ không?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    12019,
+    4637,
+    6937,
+    12024,
+    12036,
+    12023,
+    6934,
+    6935,
+    12994,
+    6933
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 104322,
+  "query": "Giao nhận tiền mặt trong ngành Ngân hàng với Kho bạc Nhà nước, đơn vị làm dịch vụ ngân quỹ của tổ chức tín dụng được pháp luật quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    382,
+    381,
+    379,
+    408,
+    384,
+    369,
+    171,
+    432,
+    416,
+    388
+  ]
+}

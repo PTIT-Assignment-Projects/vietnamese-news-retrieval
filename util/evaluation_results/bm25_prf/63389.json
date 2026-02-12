@@ -1,0 +1,29 @@
+{
+  "qid": 63389,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Khoa học và Công nghệ có quyền xử phạt tổ chức không bố trí nhân viên chịu trách nhiệm về an toàn bức xạ trong quá trình vận chuyển vật liệu phóng xạ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6937,
+    6934,
+    6936,
+    12021,
+    12019,
+    12032,
+    6935,
+    12045,
+    12023,
+    12024
+  ]
+}

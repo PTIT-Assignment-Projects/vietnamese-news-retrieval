@@ -1,0 +1,29 @@
+{
+  "qid": 15916,
+  "query": "Trong báo cáo tổng kết công tác tiêu hủy tiền cả năm của Hội đồng tiêu hủy trình Thống đốc Ngân hàng Nhà nước có những nội dung gì?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    3841,
+    3837,
+    7624,
+    7643,
+    7627,
+    3815,
+    7629,
+    3820,
+    3825,
+    7640
+  ]
+}

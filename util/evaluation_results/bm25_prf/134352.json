@@ -1,0 +1,29 @@
+{
+  "qid": 134352,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt người làm thay đổi cấu trúc của hệ sinh thái trong khu bảo tồn đất ngập nước không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14400,
+    14422,
+    14423,
+    14402,
+    14406,
+    14429,
+    7046,
+    14405,
+    14420,
+    14410
+  ]
+}

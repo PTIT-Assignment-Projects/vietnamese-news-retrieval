@@ -1,0 +1,29 @@
+{
+  "qid": 33962,
+  "query": "Trước khi gửi hồ sơ kiến nghị khởi tố thì Cơ quan thanh tra có cần phải họp lãnh đạo liên ngành hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3567,
+    3571,
+    3569,
+    3570,
+    10635,
+    5658,
+    1002,
+    10517,
+    5649,
+    989
+  ]
+}

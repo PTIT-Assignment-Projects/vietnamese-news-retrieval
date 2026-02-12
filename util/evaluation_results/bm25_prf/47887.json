@@ -1,0 +1,29 @@
+{
+  "qid": 47887,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt hoa tiêu hàng hải không sử dụng trang phục hoa tiêu không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9089,
+    11626,
+    13074,
+    11621,
+    9104,
+    11630,
+    13076,
+    11628,
+    469,
+    3739
+  ]
+}

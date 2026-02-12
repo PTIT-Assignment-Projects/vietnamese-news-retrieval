@@ -1,0 +1,29 @@
+{
+  "qid": 70056,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt Thừa phát lại tống đạt hồ sơ có liên quan đến tương trợ tư pháp trong lĩnh vực dân sự không đúng quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8960,
+    8958,
+    8989,
+    8959,
+    8988,
+    7965,
+    8928,
+    7968,
+    9412,
+    5835
+  ]
+}

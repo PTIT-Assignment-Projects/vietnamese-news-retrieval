@@ -1,0 +1,29 @@
+{
+  "qid": 42630,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt tổ chức chuyển khẩu xăng dầu khi không có Giấy phép kinh doanh xuất khẩu, nhập khẩu xăng dầu không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11989,
+    11995,
+    11996,
+    11994,
+    11990,
+    11992,
+    5266,
+    11987,
+    11993,
+    11988
+  ]
+}

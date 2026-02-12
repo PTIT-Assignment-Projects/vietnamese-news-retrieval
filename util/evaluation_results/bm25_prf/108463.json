@@ -1,0 +1,29 @@
+{
+  "qid": 108463,
+  "query": "Miễn nhiệm giám định viên tư pháp trong lĩnh vực giao thông vận tải theo thủ tục như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7923,
+    7922,
+    7919,
+    4002,
+    2005,
+    7926,
+    4008,
+    7927,
+    4007,
+    7934
+  ]
+}

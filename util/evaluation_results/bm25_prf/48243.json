@@ -1,0 +1,29 @@
+{
+  "qid": 48243,
+  "query": "Chánh Thanh tra Sở Tư pháp có quyền xử phạt người thực hiện trợ giúp pháp lý làm sai lệch các tài liệu trong hồ sơ vụ việc trợ giúp pháp lý không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1716,
+    2826,
+    10008,
+    2832,
+    5481,
+    10009,
+    13025,
+    8609,
+    13022,
+    10006
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 121058,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có được quyền xử phạt Ban tổ chức lễ hội ép buộc cá nhân tham gia đóng góp kinh phí tổ chức lễ hội không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2143,
+    13409,
+    13413,
+    13418,
+    13424,
+    2144,
+    2140,
+    13407,
+    13410,
+    13408
+  ]
+}

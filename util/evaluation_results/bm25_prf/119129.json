@@ -1,0 +1,29 @@
+{
+  "qid": 119129,
+  "query": "Giáo viên trong cơ sở giáo dục nghề nghiệp xúc phạm học viên có bị xử phạt hành chính hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6755,
+    4603,
+    6757,
+    6758,
+    6756,
+    6759,
+    9831,
+    3455,
+    6753,
+    6763
+  ]
+}

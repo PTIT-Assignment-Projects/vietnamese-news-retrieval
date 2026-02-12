@@ -1,0 +1,29 @@
+{
+  "qid": 49709,
+  "query": "Mức lãi suất trong hợp đồng chiết khấu công cụ chuyển nhượng, giấy tờ có giá khác phải đảm bảo trong mức bao nhiêu phần trăm?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4022,
+    4014,
+    4026,
+    4027,
+    4021,
+    4016,
+    4025,
+    4023,
+    4015,
+    4017
+  ]
+}

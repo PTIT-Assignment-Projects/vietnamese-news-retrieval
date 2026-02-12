@@ -1,0 +1,29 @@
+{
+  "qid": 152091,
+  "query": "Đơn vị kinh doanh vận tải hành khách du lịch bằng xe ô tô, đơn vị kinh doanh du lịch, lữ hành và lái xe được làm những gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13129,
+    13139,
+    13137,
+    13131,
+    10326,
+    13149,
+    13130,
+    13162,
+    13132,
+    13161
+  ]
+}

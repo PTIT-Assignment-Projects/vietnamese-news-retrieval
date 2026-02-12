@@ -1,0 +1,29 @@
+{
+  "qid": 121074,
+  "query": "Hồ sơ đề nghị thành lập Hội đồng quản lý đơn vị sự nghiệp công lập thuộc Ngân hàng Nhà nước Việt Nam gồm những nội dung gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3149,
+    5531,
+    5532,
+    3156,
+    10071,
+    3147,
+    3150,
+    5545,
+    3146,
+    3151
+  ]
+}

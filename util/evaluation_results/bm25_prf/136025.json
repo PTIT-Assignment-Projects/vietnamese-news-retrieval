@@ -1,0 +1,29 @@
+{
+  "qid": 136025,
+  "query": "Có được xét danh hiệu thi đua khen thưởng của Bộ Khoa học và công nghệ khi người lao động đang thực hiện hợp đồng lao động hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10014,
+    3477,
+    7853,
+    3478,
+    2088,
+    6299,
+    1336,
+    8862,
+    6282,
+    8760
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 35898,
+  "query": "Trách nhiệm quyết định phân công Phó thủ trưởng cơ quan điều tra giải quyết nguồn tin về tội phạm được ủy quyền cho Điều tra viên không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10513,
+    10515,
+    995,
+    10514,
+    10518,
+    10517,
+    10516,
+    996,
+    997,
+    10519
+  ]
+}

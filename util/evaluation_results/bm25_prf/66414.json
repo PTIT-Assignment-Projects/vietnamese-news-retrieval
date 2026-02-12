@@ -1,0 +1,29 @@
+{
+  "qid": 66414,
+  "query": "Người thi hành công vụ có lỗi gây thiệt hại đã nghỉ hưu, nghỉ việc thì trách nhiệm thu tiền hoàn trả được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12763,
+    12758,
+    12757,
+    12756,
+    12762,
+    12707,
+    12761,
+    12759,
+    12706,
+    12740
+  ]
+}

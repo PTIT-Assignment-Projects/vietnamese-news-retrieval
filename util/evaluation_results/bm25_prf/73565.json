@@ -1,0 +1,29 @@
+{
+  "qid": 73565,
+  "query": "Kinh phí cho hoạt động thanh tra chuyên ngành tôn giáo tại Ban Tôn giáo Chính phủ từ đâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4268,
+    4262,
+    4267,
+    4266,
+    4271,
+    4261,
+    4269,
+    4272,
+    2192,
+    4263
+  ]
+}

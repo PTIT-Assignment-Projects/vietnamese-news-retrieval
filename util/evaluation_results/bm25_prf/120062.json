@@ -1,0 +1,29 @@
+{
+  "qid": 120062,
+  "query": "Giới hạn trách nhiệm của người kinh doanh vận tải hàng hóa trong việc bồi thường hàng hóa hư hỏng được quy định thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13136,
+    13135,
+    13129,
+    13141,
+    10322,
+    10326,
+    10321,
+    13133,
+    13143,
+    13144
+  ]
+}

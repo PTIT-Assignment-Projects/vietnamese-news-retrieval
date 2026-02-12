@@ -1,0 +1,29 @@
+{
+  "qid": 152138,
+  "query": "Giấy xác nhận việc cấp giấy chứng nhận chứng nhận hoàn thành khóa huấn luyện của thuyền viên tàu biển Việt Nam được cấp theo thủ tục như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3768,
+    3719,
+    3784,
+    3767,
+    3734,
+    3738,
+    3759,
+    3766,
+    3776,
+    3760
+  ]
+}

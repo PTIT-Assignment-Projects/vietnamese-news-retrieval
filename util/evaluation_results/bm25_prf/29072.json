@@ -1,0 +1,29 @@
+{
+  "qid": 29072,
+  "query": "Bản sao giấy tờ có giá trị thay thế giấy khai sinh thì có được xem là cơ sở để đăng ký lại khai sinh không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4562,
+    2262,
+    2265,
+    4568,
+    4563,
+    4569,
+    14443,
+    5136,
+    4560,
+    4572
+  ]
+}

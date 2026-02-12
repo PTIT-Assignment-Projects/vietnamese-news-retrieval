@@ -1,0 +1,29 @@
+{
+  "qid": 67413,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt người không thực hiện đăng ký thay đổi chủ sở hữu tàu biển sau khi đã được chuyển quyền sở hữu không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1283,
+    11174,
+    11208,
+    7830,
+    1280,
+    11233,
+    7833,
+    1282,
+    11211,
+    7835
+  ]
+}

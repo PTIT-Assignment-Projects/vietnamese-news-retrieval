@@ -1,0 +1,29 @@
+{
+  "qid": 55539,
+  "query": "Phạm vi địa bàn hoạt động hải quan tại cửa khẩu cảng hàng không dân dụng quốc tế gồm những khu vực nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    468,
+    10410,
+    10386,
+    10385,
+    471,
+    467,
+    10404,
+    10402,
+    8311,
+    10395
+  ]
+}

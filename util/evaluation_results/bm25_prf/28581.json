@@ -1,0 +1,29 @@
+{
+  "qid": 28581,
+  "query": "Hiệu lực của Bộ luật hình sự đối với hành vi người nước ngoài phạm tội trên lãnh thổ nước Việt Nam được quy định ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10480,
+    7987,
+    7988,
+    7976,
+    10968,
+    7989,
+    1910,
+    10634,
+    7990,
+    13480
+  ]
+}

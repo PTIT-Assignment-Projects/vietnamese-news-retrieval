@@ -1,0 +1,29 @@
+{
+  "qid": 47257,
+  "query": "Mức phạt đối với trường học không tổ chức giáo dục cho người học về vệ sinh phòng bệnh truyền nhiễm là bao nhiêu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14547,
+    14557,
+    14551,
+    14546,
+    14548,
+    14553,
+    4612,
+    14775,
+    14554,
+    14552
+  ]
+}

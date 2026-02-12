@@ -1,0 +1,29 @@
+{
+  "qid": 144432,
+  "query": "Chủ tịch Ủy ban nhân dân huyện có thẩm quyền xử phạt đối với hành vi hoạt động trong khi giấy phép thành lập văn phòng đại diện đã hết hạn hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8249,
+    14923,
+    8250,
+    9009,
+    141,
+    4618,
+    10300,
+    14903,
+    679,
+    8251
+  ]
+}

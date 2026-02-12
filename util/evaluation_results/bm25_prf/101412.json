@@ -1,0 +1,29 @@
+{
+  "qid": 101412,
+  "query": "Nếu vụ việc bị tố giác, tin báo về tội phạm có nhiều tình tiết phức tạp thì thời hạn giải quyết bao nhiêu tháng?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10624,
+    1000,
+    997,
+    10533,
+    1002,
+    10626,
+    10622,
+    999,
+    995,
+    990
+  ]
+}

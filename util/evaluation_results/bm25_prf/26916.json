@@ -1,0 +1,29 @@
+{
+  "qid": 26916,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt cơ sở khảo nghiệm không lưu hồ sơ về quá trình khảo nghiệm thức ăn chăn nuôi không?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    12255,
+    12256,
+    12286,
+    12279,
+    12259,
+    12257,
+    12283,
+    4637,
+    12289,
+    12269
+  ]
+}

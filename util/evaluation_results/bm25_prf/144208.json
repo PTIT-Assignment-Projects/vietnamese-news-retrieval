@@ -1,0 +1,29 @@
+{
+  "qid": 144208,
+  "query": "Công ty kinh doanh kho ngoại quan xăng dầu có trách nhiệm như thế nào đối với việc xăng dầu sau khi pha chế từ kho ngoại quan xăng dầu đưa ra nước ngoài?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    11988,
+    11987,
+    11986,
+    11995,
+    11994,
+    11998,
+    8390,
+    11989,
+    11993,
+    11990
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 116186,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt tổ chức kinh doanh vận tải đa phương thức không có giấy phép do cơ quan có thẩm quyền cấp theo quy định không?",
+  "metrics": {
+    "mrr": 0.14285714285714285,
+    "map": 0.14285714285714285,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.3333333333333333
+  },
+  "retrieved": [
+    13148,
+    13145,
+    10379,
+    13144,
+    3531,
+    11127,
+    4637,
+    3304,
+    14198,
+    13162
+  ]
+}

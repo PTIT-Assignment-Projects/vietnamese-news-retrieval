@@ -1,0 +1,29 @@
+{
+  "qid": 73288,
+  "query": "Chủ tịch Ủy ban nhân dân quận có đủ thẩm quyền xử phạt đối với doanh nghiệp cố tình quảng cáo thuốc lá điện tử hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7292,
+    7288,
+    12522,
+    7294,
+    12418,
+    7289,
+    12414,
+    12413,
+    7291,
+    12523
+  ]
+}

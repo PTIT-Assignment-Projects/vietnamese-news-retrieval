@@ -1,0 +1,29 @@
+{
+  "qid": 102365,
+  "query": "Việc thực hiện các nghị quyết của Hội đồng quản lý trong tổ chức khoa học và công nghệ công lập sẽ do ai thực hiện?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3155,
+    921,
+    3153,
+    8234,
+    926,
+    923,
+    8260,
+    5540,
+    8266,
+    8231
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 75206,
+  "query": "Đối với Lễ Quốc tang thì lực lượng phục vụ cho Lễ tang do cơ quan nào chịu trách nhiệm chuẩn bị và số lượng được quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11758,
+    35,
+    11806,
+    11765,
+    11796,
+    11757,
+    11756,
+    11774,
+    11792,
+    11783
+  ]
+}

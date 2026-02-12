@@ -1,0 +1,29 @@
+{
+  "qid": 74410,
+  "query": "Doanh nghiệp có vốn đầu tư nước ngoài tại Việt Nam có được phép hoạt động khi không đăng ký giấy phép kinh doanh?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    6819,
+    6814,
+    14757,
+    6815,
+    6816,
+    6817,
+    6820,
+    6823,
+    6822,
+    9937
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 3904,
+  "query": "Thẩm quyền quyết định tặng thưởng danh hiệu thi đua xét tặng danh hiệu Chiến sĩ thi đua cơ sở trong các cơ quan công tác dân tộc thuộc về ai?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    1159,
+    2100,
+    6290,
+    7704,
+    1160,
+    1156,
+    7852,
+    2083,
+    8862,
+    5605
+  ]
+}

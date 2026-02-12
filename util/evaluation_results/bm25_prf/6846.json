@@ -1,0 +1,29 @@
+{
+  "qid": 6846,
+  "query": "Doanh nghiệp nhập khẩu được yêu cầu rà soát chấm dứt việc áp thuế chống bán phá giá khi đã loại trừ hành vi bán phá giá hay không?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.05,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 0.5,
+    "ndcg@10": 0.17723928678404774
+  },
+  "retrieved": [
+    12884,
+    12910,
+    5300,
+    12911,
+    12907,
+    12908,
+    12892,
+    12891,
+    12879,
+    12906
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 55052,
+  "query": "Để thực hiện các nội dung về quản lý an toàn đập, hồ chứa thủy lợi thì việc phân định nhiệm vụ chi đầu tư phát triển và chi thường xuyên sử dụng nguồn vốn ngân sách nhà nước được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14007,
+    14008,
+    13979,
+    13985,
+    13987,
+    14000,
+    14006,
+    13994,
+    13995,
+    13993
+  ]
+}

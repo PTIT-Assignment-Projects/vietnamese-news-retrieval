@@ -1,0 +1,29 @@
+{
+  "qid": 31726,
+  "query": "Đã có bằng cử nhân y khoa nước ngoài cấp thì khi cấp chứng chỉ hành nghề có cần chứng nhận đào tạo bổ sung không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12353,
+    12352,
+    12356,
+    12371,
+    12355,
+    12377,
+    12354,
+    12383,
+    7753,
+    13626
+  ]
+}

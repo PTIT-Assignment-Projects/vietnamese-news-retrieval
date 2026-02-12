@@ -1,0 +1,29 @@
+{
+  "qid": 157824,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã được quyền xử phạt tổ chức tín dụng cố ý làm sai lệch nội dung thông tin tín dụng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5646,
+    167,
+    5640,
+    5645,
+    6121,
+    5636,
+    407,
+    5639,
+    1302,
+    6120
+  ]
+}

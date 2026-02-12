@@ -1,0 +1,29 @@
+{
+  "qid": 54860,
+  "query": "Trưởng đoàn thanh tra của Cục Báo chí có quyền xử phạt nhà báo hoạt động báo chí không đúng tôn chỉ ghi trong giấy phép hoạt động báo chí của cơ quan báo chí đang công tác không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14907,
+    14906,
+    14908,
+    14904,
+    14909,
+    9736,
+    14935,
+    14198,
+    6385,
+    14903
+  ]
+}

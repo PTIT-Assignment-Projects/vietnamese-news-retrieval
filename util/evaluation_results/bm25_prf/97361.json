@@ -1,0 +1,29 @@
+{
+  "qid": 97361,
+  "query": "Quy trình, thủ tục cấp lại Giấy chứng nhận an toàn sinh học hết thời hạn được pháp luật quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11516,
+    11515,
+    14549,
+    11505,
+    11526,
+    11514,
+    11521,
+    11518,
+    11517,
+    13214
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 45052,
+  "query": "Hội đồng tư vấn tuyển chọn, giao trực tiếp thực hiện nhiệm vụ khoa học và công nghệ sẽ ưu tiên mời những đối tượng nào làm thành viên hội đồng?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8661,
+    8668,
+    8667,
+    8662,
+    8260,
+    8663,
+    8664,
+    8666,
+    8673,
+    8656
+  ]
+}

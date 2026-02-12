@@ -1,0 +1,29 @@
+{
+  "qid": 111242,
+  "query": "Khi xếp lương chức danh nghề nghiệp đối với viên chức chuyên ngành thư viện làm việc trong các đơn vị sự nghiệp công lập cần tuân theo nguyên tắc gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14249,
+    6463,
+    14270,
+    3466,
+    7457,
+    12587,
+    8453,
+    6449,
+    8605,
+    14231
+  ]
+}

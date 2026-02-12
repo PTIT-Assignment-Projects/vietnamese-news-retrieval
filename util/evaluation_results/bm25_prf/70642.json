@@ -1,0 +1,29 @@
+{
+  "qid": 70642,
+  "query": "Khi biểu diễn môn Khiêu vũ thể thao, cơ sở vật chất, trang thiết bị biểu diễn được chuẩn bị như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7747,
+    7746,
+    11969,
+    4411,
+    6616,
+    4412,
+    3407,
+    257,
+    3406,
+    3405
+  ]
+}

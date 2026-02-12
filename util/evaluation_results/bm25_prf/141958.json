@@ -1,0 +1,29 @@
+{
+  "qid": 141958,
+  "query": "Không thực hiện đúng quy trình tuyển sinh theo quy định thì cơ sở giáo dục sẽ bị xử phạt vi phạm hành chính bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9830,
+    9831,
+    4609,
+    10366,
+    4610,
+    4613,
+    9835,
+    4614,
+    4603,
+    4636
+  ]
+}

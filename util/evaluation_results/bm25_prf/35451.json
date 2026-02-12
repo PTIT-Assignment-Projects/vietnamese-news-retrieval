@@ -1,0 +1,29 @@
+{
+  "qid": 35451,
+  "query": "Tòa chuyên trách thuộc Tòa chuyên trách thuộc Tòa án nhân dân cấp tỉnh, Tòa án nhân dân cấp huyện bị giải thể khi nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    871,
+    869,
+    870,
+    867,
+    866,
+    868,
+    10945,
+    10823,
+    10859,
+    1131
+  ]
+}

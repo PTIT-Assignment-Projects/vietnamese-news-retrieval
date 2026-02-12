@@ -1,0 +1,29 @@
+{
+  "qid": 150661,
+  "query": "Kiểm sát viên kiểm sát việc tuân theo pháp luật trong giai đoạn xét xử phúc thẩm vụ án hình sự không có mặt tại phiên tòa thì xử lý như thế nào?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    10732,
+    10766,
+    10912,
+    10765,
+    3560,
+    10519,
+    10503,
+    10774,
+    10823,
+    10737
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 101727,
+  "query": "Để bảo đảm an toàn hệ thống thông tin trong hoạt động ngân hàng thì thiết bị di động được sử dụng để phục vụ công việc phải áp dụng các biện pháp kỹ thuật nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10201,
+    5345,
+    5354,
+    10223,
+    5344,
+    10238,
+    5351,
+    10191,
+    5347,
+    5343
+  ]
+}

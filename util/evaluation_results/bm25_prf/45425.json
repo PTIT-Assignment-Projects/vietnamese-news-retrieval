@@ -1,0 +1,29 @@
+{
+  "qid": 45425,
+  "query": "Triển khai công tác phòng, chống cháy nổ và chống ngập lụt cho kho tài liệu thư viện công lập được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2726,
+    13894,
+    13896,
+    4369,
+    13899,
+    13897,
+    2724,
+    13895,
+    8111,
+    4496
+  ]
+}

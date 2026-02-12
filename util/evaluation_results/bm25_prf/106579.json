@@ -1,0 +1,29 @@
+{
+  "qid": 106579,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt Văn phòng Thừa phát lại mở văn phòng đại diện không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8994,
+    8946,
+    8944,
+    8995,
+    8950,
+    8957,
+    8953,
+    8954,
+    8943,
+    9427
+  ]
+}

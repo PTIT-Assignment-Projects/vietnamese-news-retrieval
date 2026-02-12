@@ -1,0 +1,29 @@
+{
+  "qid": 147400,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt người giám định tư pháp lợi dụng việc giám định để trục lợi không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7926,
+    4008,
+    1013,
+    2664,
+    2666,
+    7919,
+    4002,
+    1012,
+    7927,
+    4009
+  ]
+}

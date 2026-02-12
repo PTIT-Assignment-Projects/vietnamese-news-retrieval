@@ -1,0 +1,29 @@
+{
+  "qid": 130018,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt hoa tiêu hàng hải tự ý dẫn tàu không đúng tuyến luồng hàng hải đã được công bố không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13084,
+    11626,
+    13074,
+    13088,
+    11621,
+    13076,
+    1279,
+    13071,
+    13073,
+    13075
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 50368,
+  "query": "Người làm trong thư viện mà đánh tráo sách nhưng không phải là sách cổ, quý hiếm, bộ sưu tập tài liệu có giá trị đặc biệt thì Chủ tịch Uỷ ban nhân dân cấp xã có thẩm quyền xử phạt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    144,
+    1847,
+    2740,
+    5170,
+    9342,
+    13821,
+    1462,
+    7733,
+    7289,
+    3903
+  ]
+}

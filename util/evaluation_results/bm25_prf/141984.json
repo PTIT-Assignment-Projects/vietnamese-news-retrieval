@@ -1,0 +1,29 @@
+{
+  "qid": 141984,
+  "query": "Nội dung cơ bản của nội quy người lao động làm việc trong lĩnh vực nghệ thuật được quy định ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3405,
+    3401,
+    3402,
+    3406,
+    3410,
+    3408,
+    3407,
+    3403,
+    3409,
+    3404
+  ]
+}

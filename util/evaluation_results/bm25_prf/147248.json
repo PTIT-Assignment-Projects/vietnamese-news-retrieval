@@ -1,0 +1,29 @@
+{
+  "qid": 147248,
+  "query": "Công chức cấp huyện đang trong thời gian thi hành quyết định kỷ luật tiếp tục có hành vi vi phạm thì bị áp dụng hình thức kỷ luật như thế nào?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    13779,
+    13753,
+    13742,
+    13764,
+    13767,
+    13746,
+    3868,
+    13778,
+    13749,
+    13744
+  ]
+}

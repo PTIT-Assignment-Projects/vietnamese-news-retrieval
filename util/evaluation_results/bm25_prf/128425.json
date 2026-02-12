@@ -1,0 +1,29 @@
+{
+  "qid": 128425,
+  "query": "Tiêu chuẩn chức danh nghề nghiệp giáo viên tiểu học hạng III hiện nay quy định ra sao?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2820,
+    1538,
+    1537,
+    3852,
+    1535,
+    2815,
+    2817,
+    7726,
+    12978,
+    3847
+  ]
+}

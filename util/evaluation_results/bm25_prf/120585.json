@@ -1,0 +1,29 @@
+{
+  "qid": 120585,
+  "query": "Có được phép ép buộc khách du lịch mua và sử dụng những dịch vụ không cần thiết trong tour không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3263,
+    3248,
+    3262,
+    6609,
+    3251,
+    3254,
+    3273,
+    7952,
+    3305,
+    3306
+  ]
+}

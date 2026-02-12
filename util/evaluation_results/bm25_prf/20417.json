@@ -1,0 +1,29 @@
+{
+  "qid": 20417,
+  "query": "Để được xét thăng hạng lên chức danh Kỹ thuật viên đường bộ hạng 2 thì phải có thời gian giữ chức danh Kỹ thuật viên đường bộ hạng 3 bao lâu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14239,
+    6924,
+    13119,
+    14236,
+    14249,
+    14248,
+    9588,
+    14240,
+    8737,
+    13125
+  ]
+}

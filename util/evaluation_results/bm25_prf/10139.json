@@ -1,0 +1,29 @@
+{
+  "qid": 10139,
+  "query": "Cơ quan nào có trách nhiệm tổ chức việc thực hiện các quy định về cơ sở vật chất và trang thiết bị khi tổ chức tập luyện và thi đấu môn Golf?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    257,
+    4411,
+    6616,
+    9261,
+    7746,
+    4414,
+    11969,
+    4415,
+    254,
+    9262
+  ]
+}

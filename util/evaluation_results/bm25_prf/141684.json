@@ -1,0 +1,29 @@
+{
+  "qid": 141684,
+  "query": "Người tập sự hành nghề Thừa phát lại có những quyền và nghĩa vụ như thế nào theo quy định hiện nay?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5841,
+    5842,
+    5836,
+    5837,
+    4212,
+    8935,
+    5838,
+    5839,
+    8934,
+    4208
+  ]
+}

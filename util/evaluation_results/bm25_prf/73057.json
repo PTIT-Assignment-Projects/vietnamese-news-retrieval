@@ -1,0 +1,29 @@
+{
+  "qid": 73057,
+  "query": "Chương trình nội kiểm có cần thông qua phê duyệt của lãnh đạo cơ sở khám chữa bệnh hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    267,
+    271,
+    264,
+    270,
+    269,
+    265,
+    266,
+    263,
+    4753,
+    9253
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 54574,
+  "query": "Phương pháp viên hạng 3 chuyên ngành Văn hóa cơ sở phải có thời gian công tác bao lâu mới đủ điều kiện xét thăng hạng Phương pháp viên hạng 2?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6460,
+    13119,
+    6459,
+    1536,
+    6452,
+    6453,
+    6924,
+    14239,
+    6450,
+    13125
+  ]
+}

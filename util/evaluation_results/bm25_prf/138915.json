@@ -1,0 +1,29 @@
+{
+  "qid": 138915,
+  "query": "Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát giao thông có quyền xử phạt hành chính đối với giáo viên dạy lái xe ô tô không đeo phù hiệu khi giảng dạy không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10335,
+    5999,
+    14940,
+    10379,
+    13160,
+    13149,
+    13148,
+    11533,
+    7124,
+    782
+  ]
+}

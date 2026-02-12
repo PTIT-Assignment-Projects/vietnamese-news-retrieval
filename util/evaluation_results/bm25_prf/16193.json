@@ -1,0 +1,29 @@
+{
+  "qid": 16193,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt chủ tàu biển bố trí hoa tiêu không đúng với kế hoạch điều động của Cảng vụ hàng hải mà không báo trước cho Cảng vụ hàng hải biết không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13074,
+    13950,
+    7671,
+    7678,
+    7674,
+    9104,
+    7663,
+    13076,
+    8375,
+    11626
+  ]
+}

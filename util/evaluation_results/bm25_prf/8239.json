@@ -1,0 +1,29 @@
+{
+  "qid": 8239,
+  "query": "Khi phát hành trái phiếu riêng lẻ thì tổ chức tín dụng nước ngoài cần tuân thủ những nguyên tắc nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1656,
+    13672,
+    13661,
+    13674,
+    13577,
+    13572,
+    13580,
+    13671,
+    13575,
+    13684
+  ]
+}

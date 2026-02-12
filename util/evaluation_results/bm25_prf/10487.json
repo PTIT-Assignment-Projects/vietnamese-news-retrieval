@@ -1,0 +1,29 @@
+{
+  "qid": 10487,
+  "query": "Danh sách người giảng dạy thực hành có phải đăng tải lên trang thông tin điện tử của cơ sở thực hành không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13625,
+    13633,
+    13634,
+    13627,
+    13620,
+    13632,
+    7145,
+    13628,
+    13621,
+    13629
+  ]
+}

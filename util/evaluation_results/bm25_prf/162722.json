@@ -1,0 +1,29 @@
+{
+  "qid": 162722,
+  "query": "Viên chức xét thăng hạng chức danh nghề nghiệp thư viện viên hạng 1 cần có thời gian công tác giữ chức danh nghề nghiệp thư viện viên hạng 2 trong bao lâu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13119,
+    14239,
+    6924,
+    8734,
+    2820,
+    1535,
+    14236,
+    3870,
+    13118,
+    14249
+  ]
+}

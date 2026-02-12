@@ -1,0 +1,29 @@
+{
+  "qid": 48008,
+  "query": "Quy trình chấm dứt hoạt động của Lãnh sự danh dự nước Cộng hòa xã hội chủ nghĩa Việt Nam được thực hiện ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1414,
+    1403,
+    1413,
+    1397,
+    1417,
+    1415,
+    1401,
+    1410,
+    1398,
+    1418
+  ]
+}

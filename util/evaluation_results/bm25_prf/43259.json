@@ -1,0 +1,29 @@
+{
+  "qid": 43259,
+  "query": "Khi áp dụng biện pháp cấm tiếp xúc với nạn nhân bạo lực gia đình phải ưu tiên bảo vệ quyền, lợi ích hợp pháp của đối tượng nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8035,
+    8037,
+    8038,
+    8034,
+    8027,
+    2284,
+    8040,
+    8039,
+    10954,
+    1688
+  ]
+}

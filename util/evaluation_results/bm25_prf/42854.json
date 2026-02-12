@@ -1,0 +1,29 @@
+{
+  "qid": 42854,
+  "query": "Bộ Tư pháp thực hiện đôn đốc công tác bồi thường nhà nước trong những trường hợp nào? Nội dung đôn đốc sẽ gồm những gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8890,
+    8892,
+    574,
+    12765,
+    8878,
+    8894,
+    215,
+    570,
+    571,
+    572
+  ]
+}

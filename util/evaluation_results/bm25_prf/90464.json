@@ -1,0 +1,29 @@
+{
+  "qid": 90464,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt cơ sở giáo dục không xây dựng hệ thống cơ sở dữ liệu quản lý văn bằng, chứng chỉ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4863,
+    13060,
+    7325,
+    4864,
+    14279,
+    3444,
+    4624,
+    4622,
+    3104,
+    11390
+  ]
+}

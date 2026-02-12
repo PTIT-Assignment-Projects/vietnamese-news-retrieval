@@ -1,0 +1,29 @@
+{
+  "qid": 156586,
+  "query": "Thanh toán trong giao dịch góp vốn và mua bán, chuyển nhượng phần vốn góp vào doanh nghiệp khác được thực hiện theo hình thức nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9471,
+    13009,
+    9469,
+    13000,
+    6816,
+    13013,
+    7360,
+    6817,
+    6825,
+    13014
+  ]
+}

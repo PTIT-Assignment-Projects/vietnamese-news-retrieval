@@ -1,0 +1,29 @@
+{
+  "qid": 109121,
+  "query": "Việc áp dụng biện pháp hạn ngạch thuế quan nhập khẩu đối với thuốc lá nguyên liệu phải đảm bảo những nguyên tắc nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5244,
+    5243,
+    12901,
+    5245,
+    1381,
+    5241,
+    5266,
+    5314,
+    5242,
+    5264
+  ]
+}

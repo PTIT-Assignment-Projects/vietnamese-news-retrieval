@@ -1,0 +1,29 @@
+{
+  "qid": 64940,
+  "query": "Doanh nghiệp có phải quy định về quy trình bảo dưỡng, sửa chữa máy trò chơi điện tử có thưởng vào Quy chế quản lý nội bộ không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3264,
+    3263,
+    3248,
+    3262,
+    3267,
+    3268,
+    3271,
+    3250,
+    3256,
+    3255
+  ]
+}

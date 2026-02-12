@@ -1,0 +1,29 @@
+{
+  "qid": 156907,
+  "query": "Phụ cấp ưu đãi và phụ cấp trách nhiệm công việc đối với giáo viên dạy lớp hòa nhập cho người khuyết tật là bao nhiêu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13842,
+    13835,
+    13839,
+    3788,
+    7563,
+    7560,
+    8463,
+    13847,
+    13836,
+    7147
+  ]
+}

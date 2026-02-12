@@ -1,0 +1,29 @@
+{
+  "qid": 152529,
+  "query": "Nhà nước có phải bồi thường khi không giảm thời hạn chấp hành hình phạt tù cho người được Tòa án giảm thời hạn chấp hành hình phạt tù không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 0.5,
+    "p@1": 1.0,
+    "r@1": 0.5,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 0.5,
+    "ndcg@5": 0.6131471927654584,
+    "p@10": 0.1,
+    "r@10": 0.5,
+    "ndcg@10": 0.6131471927654584
+  },
+  "retrieved": [
+    12712,
+    12710,
+    8013,
+    1891,
+    293,
+    8005,
+    1893,
+    10920,
+    12719,
+    7980
+  ]
+}

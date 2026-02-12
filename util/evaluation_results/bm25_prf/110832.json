@@ -1,0 +1,29 @@
+{
+  "qid": 110832,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có thẩm quyền xử phạt cha mẹ áp đặt việc sử dụng biện pháp tránh thai như là trách nhiệm của con gái trong gia đình không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11563,
+    14642,
+    1966,
+    11932,
+    12494,
+    9342,
+    7478,
+    8037,
+    7292,
+    1938
+  ]
+}

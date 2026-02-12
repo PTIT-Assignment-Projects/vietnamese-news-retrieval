@@ -1,0 +1,29 @@
+{
+  "qid": 125339,
+  "query": "Chánh Thanh tra Sở Lao động Thương binh và Xã hội có quyền xử phạt trường cao đẳng không công bố ngưỡng đầu vào đối với ngành, nghề đào tạo có quy định ngưỡng đầu vào không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2582,
+    9871,
+    3336,
+    4747,
+    11532,
+    4609,
+    3351,
+    11534,
+    3350,
+    9838
+  ]
+}

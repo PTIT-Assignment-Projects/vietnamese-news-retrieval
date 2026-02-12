@@ -1,0 +1,29 @@
+{
+  "qid": 36356,
+  "query": "Thủ tục, thời điểm bổ nhiệm kế toán trưởng tại các đơn vị kế toán trong lĩnh vực kế toán nhà nước được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4394,
+    4389,
+    4388,
+    4395,
+    4399,
+    4396,
+    4393,
+    4391,
+    2895,
+    2897
+  ]
+}

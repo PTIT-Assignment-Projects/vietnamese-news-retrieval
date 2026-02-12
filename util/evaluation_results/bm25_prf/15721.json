@@ -1,0 +1,29 @@
+{
+  "qid": 15721,
+  "query": "Phụ nữ mang thai thực hiện phá thai để lựa chọn giới tính thai nhi thì bị xử phạt vi phạm hành chính thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14641,
+    14638,
+    11564,
+    14639,
+    14640,
+    14574,
+    1112,
+    14591,
+    14584,
+    14642
+  ]
+}

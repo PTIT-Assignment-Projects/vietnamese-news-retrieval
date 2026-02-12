@@ -1,0 +1,29 @@
+{
+  "qid": 34702,
+  "query": "Mua máy trò chơi điện tử có thưởng vượt quá số lượng cho phép thì doanh nghiệp sẽ bị xử phạt vi phạm hành chính ra sao?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3262,
+    3263,
+    3248,
+    3290,
+    3250,
+    3299,
+    3255,
+    3297,
+    3254,
+    3253
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 100343,
+  "query": "Chánh thanh tra Bộ Quốc phòng có quyền xử phạt doanh nghiệp công nghiệp không chấp hành quyết định huy động tham gia diễn tập động viên công nghiệp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14784,
+    14785,
+    14783,
+    2572,
+    14780,
+    11127,
+    11390,
+    11419,
+    5344,
+    14198
+  ]
+}

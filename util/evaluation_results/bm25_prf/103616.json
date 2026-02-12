@@ -1,0 +1,29 @@
+{
+  "qid": 103616,
+  "query": "Trưởng Đoàn thanh tra chuyên ngành Bộ Văn hóa Thể thao và Du lịch có quyền phạt khách sạn không có nhân viên trực 24 giờ mỗi ngày không?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    14198,
+    12064,
+    4637,
+    11127,
+    3304,
+    11972,
+    4543,
+    4415,
+    7843,
+    2664
+  ]
+}

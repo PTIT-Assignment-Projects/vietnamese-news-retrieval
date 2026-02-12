@@ -1,0 +1,29 @@
+{
+  "qid": 56280,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người phá hoại nguồn gen giống cây trồng trong khu bảo tồn đến mức không thể khôi phục không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14405,
+    14406,
+    14410,
+    14422,
+    14435,
+    14400,
+    14411,
+    14431,
+    14404,
+    14425
+  ]
+}

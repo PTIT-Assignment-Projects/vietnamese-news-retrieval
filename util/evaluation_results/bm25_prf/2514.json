@@ -1,0 +1,29 @@
+{
+  "qid": 2514,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có thẩm quyền xử phạt công dân không nộp lại thẻ căn cước công dân khi vào trường giáo dưỡng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12639,
+    12637,
+    12630,
+    12635,
+    12641,
+    12644,
+    12640,
+    12645,
+    12634,
+    12632
+  ]
+}

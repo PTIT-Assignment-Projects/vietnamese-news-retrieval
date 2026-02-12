@@ -1,0 +1,29 @@
+{
+  "qid": 3046,
+  "query": "Công chức lãnh đạo cấp trung ương có khiếu nại về việc miễn nhiệm thì có phải chấp hành miễn nhiệm khi chờ quyết định giải quyết khiếu nại không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14263,
+    14262,
+    2360,
+    9465,
+    1757,
+    9473,
+    2361,
+    5504,
+    1487,
+    1746
+  ]
+}

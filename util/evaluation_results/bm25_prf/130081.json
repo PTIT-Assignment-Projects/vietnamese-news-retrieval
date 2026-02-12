@@ -1,0 +1,29 @@
+{
+  "qid": 130081,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp kinh doanh dịch vụ bưu chính chuyển nhượng giấy phép bưu chính trái pháp luật không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3958,
+    12152,
+    3952,
+    3957,
+    3951,
+    3963,
+    6377,
+    3947,
+    3960,
+    7288
+  ]
+}

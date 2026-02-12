@@ -1,0 +1,29 @@
+{
+  "qid": 102866,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt tổ chức không áp dụng biện pháp kỹ thuật theo quy định để bảo vệ thông tin cá nhân trên mạng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    679,
+    9009,
+    11694,
+    3099,
+    12302,
+    685,
+    10430,
+    4898,
+    14279,
+    8481
+  ]
+}

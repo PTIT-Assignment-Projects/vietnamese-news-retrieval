@@ -1,0 +1,29 @@
+{
+  "qid": 33234,
+  "query": "Trưởng đoàn thanh tra chuyên ngành cấp sở có quyền xử phạt tổ chức phong đẳng cấp vận động viên thể thao thành tích cao không bảo đảm tiêu chuẩn không?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    14198,
+    4637,
+    255,
+    11127,
+    3304,
+    257,
+    11615,
+    588,
+    4956,
+    586
+  ]
+}

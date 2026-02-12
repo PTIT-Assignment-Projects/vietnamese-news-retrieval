@@ -1,0 +1,29 @@
+{
+  "qid": 25141,
+  "query": "Người đại diện cơ sở tín ngưỡng có trách nhiệm thông báo về việc tổ chức lễ hội tín ngưỡng diễn ra định kỳ chậm nhất bao lâu trước ngày tổ chức?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2143,
+    2145,
+    2144,
+    2142,
+    2141,
+    2173,
+    2169,
+    13405,
+    2139,
+    2197
+  ]
+}

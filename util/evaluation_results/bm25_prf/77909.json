@@ -1,0 +1,29 @@
+{
+  "qid": 77909,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt tổ chức không mua bảo hiểm trách nhiệm bồi thường thiệt hại về môi trường không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3109,
+    6940,
+    14795,
+    3532,
+    13955,
+    13939,
+    14797,
+    4896,
+    6913,
+    12302
+  ]
+}

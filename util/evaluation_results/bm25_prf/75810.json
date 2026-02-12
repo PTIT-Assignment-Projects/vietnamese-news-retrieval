@@ -1,0 +1,29 @@
+{
+  "qid": 75810,
+  "query": "Cấp giấy chứng nhận đủ điều kiện kinh doanh hoạt động thể thao của doanh nghiệp kinh doanh dạy bộ môn yoga thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11980,
+    6500,
+    3277,
+    895,
+    11977,
+    11975,
+    11974,
+    6505,
+    3305,
+    6498
+  ]
+}

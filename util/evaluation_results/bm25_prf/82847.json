@@ -1,0 +1,29 @@
+{
+  "qid": 82847,
+  "query": "Để được xét thăng hạng lên viên chức an toàn thông tin hạng 3, viên chức chuyên ngành an toàn thông tin phải đáp ứng những điều kiện gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3876,
+    6924,
+    3870,
+    3872,
+    13119,
+    14249,
+    3873,
+    14238,
+    8733,
+    14239
+  ]
+}

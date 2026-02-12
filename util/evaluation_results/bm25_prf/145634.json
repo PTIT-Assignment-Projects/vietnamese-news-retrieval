@@ -1,0 +1,29 @@
+{
+  "qid": 145634,
+  "query": "Việc điều chỉnh mức hưởng trợ cấp sinh hoạt hàng tháng đối với nghệ nhân ưu tú có thu nhập thấp được thực hiện trong trường hợp nào?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    12344,
+    12343,
+    12346,
+    12336,
+    12342,
+    10142,
+    12337,
+    12338,
+    9460,
+    10143
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 68325,
+  "query": "Các tổ chức tôn giáo trực thuộc muốn hợp nhất thành một tổ chức tôn giáo trực thuộc mới có được không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2157,
+    2158,
+    2159,
+    2153,
+    2161,
+    4261,
+    2197,
+    2160,
+    2182,
+    2171
+  ]
+}

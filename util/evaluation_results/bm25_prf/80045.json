@@ -1,0 +1,29 @@
+{
+  "qid": 80045,
+  "query": "Văn phòng Thừa phát lại có thể ủy quyền việc xác minh điều kiện thi hành án cho một văn phòng khác thực hiện hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8975,
+    8971,
+    9417,
+    8970,
+    8986,
+    8990,
+    8973,
+    8969,
+    8980,
+    8974
+  ]
+}

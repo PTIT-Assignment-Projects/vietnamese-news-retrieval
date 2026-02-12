@@ -1,0 +1,29 @@
+{
+  "qid": 5342,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp viễn thông sử dụng kho số viễn thông khi chưa được phân bổ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2711,
+    2715,
+    2716,
+    8567,
+    2702,
+    2713,
+    12478,
+    8562,
+    4898,
+    1557
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 33178,
+  "query": "Tin báo về tội phạm phức tạp cần nhiều thời gian để xác minh thì thời hạn giải quyết có thể kéo dài lên đến 01 năm hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10624,
+    997,
+    989,
+    10626,
+    10625,
+    10622,
+    1000,
+    10623,
+    998,
+    994
+  ]
+}

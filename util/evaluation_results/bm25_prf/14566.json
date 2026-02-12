@@ -1,0 +1,29 @@
+{
+  "qid": 14566,
+  "query": "Trưởng đoàn thanh tra chuyên ngành cấp sở có quyền phạt cá nhân kinh doanh khách sạn nghỉ dưỡng không có nơi để xe cho khách không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    14198,
+    3304,
+    11127,
+    11615,
+    10321,
+    7027,
+    10326,
+    10322,
+    10325
+  ]
+}

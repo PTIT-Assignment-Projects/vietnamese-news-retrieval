@@ -1,0 +1,29 @@
+{
+  "qid": 148770,
+  "query": "Thẩm phán được phân công giải quyết vụ việc phá sản có quyền xử phạt doanh nghiệp không gửi báo cáo về tình hình thực hiện phương án phục hồi hoạt động kinh doanh cho Quản tài viên không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    899,
+    6612,
+    14753,
+    3280,
+    8683,
+    365,
+    903,
+    889,
+    7824,
+    11035
+  ]
+}

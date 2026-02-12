@@ -1,0 +1,29 @@
+{
+  "qid": 9996,
+  "query": "Trường mầm non sử dụng giáo viên không đáp ứng điều kiện quy định thì bị xử phạt vi phạm hành chính thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1529,
+    4603,
+    6360,
+    6751,
+    6357,
+    11926,
+    11935,
+    7318,
+    1532,
+    11934
+  ]
+}

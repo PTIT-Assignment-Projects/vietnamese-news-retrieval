@@ -1,0 +1,29 @@
+{
+  "qid": 43637,
+  "query": "Xử phạt người điều khiển xe thô sơ vi phạm quy định về điều kiện của phương tiện khi tham gia giao thông",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10378,
+    10306,
+    10328,
+    10333,
+    10318,
+    10308,
+    10331,
+    10304,
+    10345,
+    10380
+  ]
+}

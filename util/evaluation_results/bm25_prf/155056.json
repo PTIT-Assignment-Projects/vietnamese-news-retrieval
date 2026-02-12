@@ -1,0 +1,29 @@
+{
+  "qid": 155056,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt chủ tàu biển sử dụng phương tiện đưa đón hoa tiêu không bảo đảm điều kiện an toàn không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3778,
+    9089,
+    9104,
+    13938,
+    7663,
+    3744,
+    11621,
+    3779,
+    13950,
+    13074
+  ]
+}

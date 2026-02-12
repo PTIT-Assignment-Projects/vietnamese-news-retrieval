@@ -1,0 +1,29 @@
+{
+  "qid": 101860,
+  "query": "Người lao động làm lộ bí mật kinh doanh, bí mật công nghệ của doanh nghiệp thì phải xử lý như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13178,
+    11419,
+    4776,
+    405,
+    9397,
+    9390,
+    9383,
+    2917,
+    8963,
+    11403
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 60498,
+  "query": "Chứng từ kế toán nghiệp vụ thi hành án dân sự cần phải đảm bảo những nội dung tối thiểu nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    952,
+    951,
+    828,
+    953,
+    945,
+    959,
+    846,
+    829,
+    955,
+    12081
+  ]
+}

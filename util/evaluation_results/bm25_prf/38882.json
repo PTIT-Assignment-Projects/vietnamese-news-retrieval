@@ -1,0 +1,29 @@
+{
+  "qid": 38882,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp công nghiệp không phối hợp với cơ quan khảo sát để thực hiện nhiệm vụ khảo sát năng lực sản xuất không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    969,
+    1562,
+    6364,
+    9681,
+    8481,
+    2455,
+    13712,
+    4898,
+    11550,
+    5102
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 108112,
+  "query": "Nhà thuốc tự ý thay thế thuốc đã kê trong đơn thuốc bằng một thuốc khác tương tự để bán cho khách hàng thì có bị xử phạt hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11156,
+    859,
+    860,
+    862,
+    14582,
+    857,
+    7616,
+    861,
+    7618,
+    1103
+  ]
+}

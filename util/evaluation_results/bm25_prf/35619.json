@@ -1,0 +1,29 @@
+{
+  "qid": 35619,
+  "query": "Cơ quan đề xuất trình Thủ tướng Chính phủ quyết định cơ quan chủ trì thực hiện điều ước quốc tế trong thời hạn bao lâu kể từ ngày cơ quan có thẩm quyền quyết định chấp nhận sự ràng buộc của điều ước quốc tế?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12233,
+    12163,
+    12230,
+    12179,
+    12217,
+    12159,
+    12205,
+    12169,
+    12172,
+    12236
+  ]
+}

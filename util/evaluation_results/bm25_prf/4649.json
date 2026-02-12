@@ -1,0 +1,29 @@
+{
+  "qid": 4649,
+  "query": "Giám đốc Công an cấp tỉnh được quyền xử phạt người ngăn cản người khác cung cấp thông tin về trẻ em bị xâm hại cho cơ quan có thẩm quyền không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10954,
+    9908,
+    3236,
+    3239,
+    12709,
+    3238,
+    3237,
+    100,
+    10958,
+    11829
+  ]
+}

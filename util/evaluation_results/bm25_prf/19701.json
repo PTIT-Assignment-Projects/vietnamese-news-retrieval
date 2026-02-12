@@ -1,0 +1,29 @@
+{
+  "qid": 19701,
+  "query": "Chủ tịch Hội đồng quản lý trong đơn vị sự nghiệp công lập thuộc lĩnh vực giao thông vận tải có được hưởng phụ cấp chức vụ hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5537,
+    5545,
+    5529,
+    8194,
+    5528,
+    3156,
+    3154,
+    13775,
+    5542,
+    497
+  ]
+}

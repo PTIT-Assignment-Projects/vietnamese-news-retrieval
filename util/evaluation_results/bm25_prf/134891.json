@@ -1,0 +1,29 @@
+{
+  "qid": 134891,
+  "query": "Doanh nghiệp có phải gửi báo cáo giá cước công ích khi cung cấp dịch vụ viễn thông công ích di động hàng hải bắt buộc cho Bộ Thông tin và Truyền thông không?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    2709,
+    2704,
+    2703,
+    2719,
+    2707,
+    2706,
+    8567,
+    2705,
+    8568,
+    2702
+  ]
+}

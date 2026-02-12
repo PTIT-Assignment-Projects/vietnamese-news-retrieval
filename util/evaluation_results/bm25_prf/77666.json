@@ -1,0 +1,29 @@
+{
+  "qid": 77666,
+  "query": "Hồ sơ để cơ quan nhà nước yêu cầu chi nhánh ngân hàng nước ngoài cung cấp thông tin khách hàng bao gồm những tài liệu gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14529,
+    14525,
+    14535,
+    14523,
+    14524,
+    14528,
+    14522,
+    14534,
+    14533,
+    14532
+  ]
+}

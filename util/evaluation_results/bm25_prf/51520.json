@@ -1,0 +1,29 @@
+{
+  "qid": 51520,
+  "query": "Doanh nghiệp tư nhân không phải tổ chức tín dụng có thể cho doanh nghiệp khác vay vốn bằng tiền mặt hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    877,
+    2988,
+    2986,
+    2989,
+    875,
+    2983,
+    2977,
+    2987,
+    2982,
+    2971
+  ]
+}

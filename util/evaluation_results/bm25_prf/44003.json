@@ -1,0 +1,29 @@
+{
+  "qid": 44003,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt người trực tiếp khai thác thiết bị vô tuyến điện thuộc nghiệp vụ di động hàng hải không có chứng chỉ vô tuyến điện viên không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7905,
+    7906,
+    7910,
+    7913,
+    7912,
+    7916,
+    7915,
+    7917,
+    7908,
+    12533
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 120356,
+  "query": "Người bị tai nạn giao thông có quyền yêu cầu bồi thường thêm sau khi đã nhận tiền bồi thường trước đó hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4181,
+    4180,
+    4178,
+    14797,
+    11438,
+    14801,
+    11440,
+    4179,
+    4183,
+    4182
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 106061,
+  "query": "Trong hồ sơ kiến nghị khởi tố đối với quyết định không khởi tố vụ án hình sự có cần phải có báo cáo của Trưởng đoàn thanh tra không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3571,
+    3567,
+    3569,
+    3570,
+    10517,
+    10516,
+    10631,
+    10635,
+    10630,
+    10633
+  ]
+}

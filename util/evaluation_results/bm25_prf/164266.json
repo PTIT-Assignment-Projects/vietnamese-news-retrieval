@@ -1,0 +1,29 @@
+{
+  "qid": 164266,
+  "query": "Nhận tặng cho quyền sử dụng đất do Nhà nước giao đất theo chính sách hỗ trợ mà không đủ điều kiện thì bị xử phạt vi phạm hành chính như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11117,
+    11101,
+    11105,
+    11102,
+    11112,
+    11116,
+    11118,
+    2455,
+    11120,
+    11121
+  ]
+}

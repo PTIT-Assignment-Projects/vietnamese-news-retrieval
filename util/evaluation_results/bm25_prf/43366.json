@@ -1,0 +1,29 @@
+{
+  "qid": 43366,
+  "query": "Kiểm ngư viên trung cấp chuyên ngành nông nghiệp và phát triển nông thôn phải có trình độ đào tạo như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8523,
+    8522,
+    11535,
+    6793,
+    8526,
+    8785,
+    9662,
+    14296,
+    13370,
+    8521
+  ]
+}

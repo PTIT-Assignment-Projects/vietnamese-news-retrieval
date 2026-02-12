@@ -1,0 +1,29 @@
+{
+  "qid": 64081,
+  "query": "Cán bộ, công chức, viên chức tham gia ý kiến trong cơ quan hành chính và đơn vị sự nghiệp công lập thông qua hình thức nào?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    4124,
+    805,
+    806,
+    4133,
+    5946,
+    10978,
+    3869,
+    8169,
+    3153,
+    12004
+  ]
+}

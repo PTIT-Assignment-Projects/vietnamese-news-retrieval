@@ -1,0 +1,29 @@
+{
+  "qid": 3062,
+  "query": "Thời gian để đăng tải danh sách tổ chức giám định tư pháp theo vụ việc trong lĩnh vực giao thông vận tải là bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7926,
+    7919,
+    4008,
+    7922,
+    7923,
+    7927,
+    7934,
+    1013,
+    7925,
+    7924
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 62981,
+  "query": "Doanh nghiệp kinh doanh quạt điện có thuộc danh mục thiết bị phải dán nhãn năng lượng hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4292,
+    4296,
+    4293,
+    4295,
+    4294,
+    1999,
+    1981,
+    3263,
+    7500,
+    2000
+  ]
+}

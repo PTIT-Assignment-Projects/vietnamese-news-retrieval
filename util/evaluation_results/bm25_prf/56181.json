@@ -1,0 +1,29 @@
+{
+  "qid": 56181,
+  "query": "Quy trình đánh giá đối với cơ sở thử nghiệm có thay đổi về Thực hành tốt phòng thí nghiệm được thực hiện mấy bước?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4427,
+    4419,
+    13212,
+    4417,
+    2510,
+    14603,
+    2515,
+    4424,
+    4418,
+    4423
+  ]
+}

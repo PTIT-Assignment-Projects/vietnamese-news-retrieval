@@ -1,0 +1,29 @@
+{
+  "qid": 113520,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp viễn thông cung cấp số liệu được ghi nhận trên hệ thống kỹ thuật tại doanh nghiệp không chính xác không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9496,
+    9487,
+    9488,
+    9495,
+    9490,
+    12475,
+    9486,
+    9494,
+    7246,
+    7242
+  ]
+}

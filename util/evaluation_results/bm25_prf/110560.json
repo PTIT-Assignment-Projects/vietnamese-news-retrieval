@@ -1,0 +1,29 @@
+{
+  "qid": 110560,
+  "query": "Khi lấy lời khai người đại diện theo pháp luật của pháp nhân thương mại trong vụ án hình sự thì có được ghi âm ghi hình không?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    3558,
+    3559,
+    3557,
+    3560,
+    3553,
+    3561,
+    3554,
+    10910,
+    3555,
+    6705
+  ]
+}

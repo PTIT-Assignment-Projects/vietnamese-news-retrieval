@@ -1,0 +1,29 @@
+{
+  "qid": 28431,
+  "query": "Cán bộ chuyên trách bảo vệ an ninh trật tự có những nghĩa vụ gì khi áp dụng biện pháp vận động quần chúng bảo vệ an ninh trật tự?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6191,
+    6194,
+    6193,
+    6189,
+    6196,
+    6192,
+    6186,
+    6190,
+    6188,
+    6072
+  ]
+}

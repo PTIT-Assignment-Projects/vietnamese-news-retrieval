@@ -1,0 +1,29 @@
+{
+  "qid": 94644,
+  "query": "Đối với hành vi mất hộ chiếu nhưng không khai báo thì Chủ tịch Ủy ban nhân dân xã có quyền xử phạt hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8481,
+    8472,
+    8471,
+    8473,
+    14279,
+    8477,
+    12496,
+    315,
+    13768,
+    1717
+  ]
+}

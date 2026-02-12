@@ -1,0 +1,29 @@
+{
+  "qid": 168365,
+  "query": "Đội trưởng Đội Quản lý thị trường có thẩm quyền xử phạt doanh nghiệp lưu thông thức ăn thủy sản trên thị trường khi chưa gửi thông tin đến Bộ Nông nghiệp và Phát triển nông thôn không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14322,
+    14324,
+    14326,
+    14325,
+    14323,
+    12445,
+    6789,
+    14328,
+    10190,
+    8507
+  ]
+}

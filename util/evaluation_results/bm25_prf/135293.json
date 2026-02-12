@@ -1,0 +1,29 @@
+{
+  "qid": 135293,
+  "query": "Công chức giám sát hoạt động của Đoàn kiểm tra thuế có vi phạm pháp luật có thuộc trường hợp thay đổi công chức giám sát không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5121,
+    5119,
+    5122,
+    5123,
+    5115,
+    5124,
+    5126,
+    5114,
+    5110,
+    5112
+  ]
+}

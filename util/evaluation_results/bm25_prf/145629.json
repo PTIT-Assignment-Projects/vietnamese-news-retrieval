@@ -1,0 +1,29 @@
+{
+  "qid": 145629,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt tổ chức phát hành xuất bản phẩm điện tử nhưng không được cơ quan nhà nước có thẩm quyền xác nhận đăng ký hoạt động không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14932,
+    1468,
+    1475,
+    14924,
+    1463,
+    1466,
+    1470,
+    1464,
+    1459,
+    14928
+  ]
+}

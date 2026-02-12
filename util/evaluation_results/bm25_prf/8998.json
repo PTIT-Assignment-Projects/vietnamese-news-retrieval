@@ -1,0 +1,29 @@
+{
+  "qid": 8998,
+  "query": "Khi có yêu cầu thay đổi lịch trình chuyến đi từ khách du lịch, hướng dẫn viên du lịch có trách nhiệm gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9746,
+    9805,
+    9801,
+    9809,
+    9806,
+    9804,
+    9803,
+    9802,
+    9807,
+    6626
+  ]
+}

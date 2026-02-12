@@ -1,0 +1,29 @@
+{
+  "qid": 121846,
+  "query": "Hệ số lương của quản học viên chính nếu được bổ nhiệm khi trúng tuyển kỳ thi hoặc xét thăng hạng là bao nhiêu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14249,
+    14238,
+    6923,
+    13122,
+    14244,
+    14247,
+    6924,
+    14241,
+    6926,
+    3876
+  ]
+}

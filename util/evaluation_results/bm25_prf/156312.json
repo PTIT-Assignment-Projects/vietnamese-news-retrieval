@@ -1,0 +1,29 @@
+{
+  "qid": 156312,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt người không phải cử nhân luật nhưng tư vấn về pháp lý cho người mang thai hộ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14584,
+    14090,
+    14089,
+    14091,
+    11849,
+    1434,
+    2455,
+    14674,
+    11850,
+    4640
+  ]
+}

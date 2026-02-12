@@ -1,0 +1,29 @@
+{
+  "qid": 153735,
+  "query": "Không mở sổ theo dõi hoặc cấp thẻ điện tử để kiểm soát các đối tượng được ra vào Điểm kinh doanh bị xử phạt vi phạm hành chính như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11311,
+    3260,
+    3258,
+    3289,
+    3290,
+    3264,
+    3299,
+    3291,
+    3297,
+    11610
+  ]
+}

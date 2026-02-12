@@ -1,0 +1,29 @@
+{
+  "qid": 14958,
+  "query": "Thời gian tham gia bồi dưỡng và quy đổi thời gian tham gia bồi dưỡng nghiệp vụ của luật sư được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2646,
+    2655,
+    2656,
+    2642,
+    2652,
+    2654,
+    5834,
+    2647,
+    2650,
+    1621
+  ]
+}

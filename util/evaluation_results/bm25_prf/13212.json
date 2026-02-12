@@ -1,0 +1,29 @@
+{
+  "qid": 13212,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã được quyền xử phạt tổ chức tín dụng cản trở hoạt động sử dụng thông tin tín dụng hợp pháp của người khác không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5640,
+    5631,
+    11694,
+    11069,
+    6122,
+    14532,
+    14524,
+    5646,
+    13000,
+    1236
+  ]
+}

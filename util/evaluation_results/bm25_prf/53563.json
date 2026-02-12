@@ -1,0 +1,29 @@
+{
+  "qid": 53563,
+  "query": "Số giờ mỗi buổi học chương trình dạy văn hóa cho người đang chấp hành án phạt tù tại các trại giam là bao nhiêu tiếng?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1838,
+    1841,
+    1845,
+    1842,
+    6654,
+    3048,
+    3051,
+    1890,
+    1901,
+    1848
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 87670,
+  "query": "Không thống nhất được về việc sử dụng kết luận giám định đối với vụ việc tham nhũng sau khi đã thực hiện giám định lại thì cần xử lý như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1011,
+    1006,
+    1012,
+    1008,
+    10545,
+    343,
+    1004,
+    1013,
+    1010,
+    10577
+  ]
+}

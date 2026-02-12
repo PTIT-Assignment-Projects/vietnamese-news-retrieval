@@ -1,0 +1,29 @@
+{
+  "qid": 121914,
+  "query": "Những đơn vị nào có trách nhiệm bố trí kinh phí, phương tiện cho công tác rà soát, hệ thống hóa văn bản quy phạm pháp luật?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6355,
+    6328,
+    6354,
+    558,
+    555,
+    6353,
+    4098,
+    6325,
+    13318,
+    6326
+  ]
+}

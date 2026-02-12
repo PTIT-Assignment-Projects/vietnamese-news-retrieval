@@ -1,0 +1,29 @@
+{
+  "qid": 77113,
+  "query": "Cấp Giấy chứng nhận đăng ký thuế và thông báo mã số thuế cho doanh nghiệp được pháp luật quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    897,
+    891,
+    13340,
+    895,
+    13339,
+    892,
+    11957,
+    11954,
+    11941,
+    11956
+  ]
+}

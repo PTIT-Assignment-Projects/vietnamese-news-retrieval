@@ -1,0 +1,29 @@
+{
+  "qid": 92175,
+  "query": "Thời gian quy định khiếu nại hoặc khởi kiện quyết định vi phạm hành chính của Chủ tịch Ủy ban nhân dân xã là bao nhiêu ngày?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3104,
+    3099,
+    1707,
+    1717,
+    9233,
+    1761,
+    12302,
+    3103,
+    1756,
+    4896
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 114642,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt tổ chức phát hành xuất bản phẩm nhập khẩu khi chưa có sự đồng ý của cơ quan yêu cầu thẩm định nội dung không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1471,
+    14931,
+    14924,
+    1463,
+    1470,
+    1466,
+    14929,
+    14904,
+    1464,
+    14930
+  ]
+}

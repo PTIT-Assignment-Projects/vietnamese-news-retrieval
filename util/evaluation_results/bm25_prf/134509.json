@@ -1,0 +1,29 @@
+{
+  "qid": 134509,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã nơi có biên giới có quyền xử phạt vi phạm hành chính đối với hành vi canh tác, đào bới trong phạm vi đường thông tầm nhìn biên giới không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4640,
+    3128,
+    11615,
+    9687,
+    4700,
+    9669,
+    3130,
+    13695,
+    9683,
+    13708
+  ]
+}

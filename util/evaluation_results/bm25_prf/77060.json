@@ -1,0 +1,29 @@
+{
+  "qid": 77060,
+  "query": "Xử phạt đối với hành vi sử dụng giấy phép lái xe hạng A1 điều khiển xe mô tô hai bánh có dung tích xi lanh từ 175 cm3 trở lên",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10319,
+    10304,
+    10306,
+    10345,
+    10301,
+    10332,
+    10303,
+    11427,
+    10331,
+    10321
+  ]
+}

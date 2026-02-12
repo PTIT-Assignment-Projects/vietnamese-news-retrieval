@@ -1,0 +1,29 @@
+{
+  "qid": 3614,
+  "query": "Thi đua thường xuyên có phải là hình thức của phong trào thi đua trong ngành ngân hàng hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1322,
+    5586,
+    7845,
+    5587,
+    1136,
+    2083,
+    5622,
+    7849,
+    10019,
+    5615
+  ]
+}

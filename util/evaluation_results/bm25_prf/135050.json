@@ -1,0 +1,29 @@
+{
+  "qid": 135050,
+  "query": "Chánh Thanh tra Sở Tài nguyên và Môi trường được quyền xử phạt tổ chức khai thác khoáng sản đá quý có khối lượng khoáng sản nguyên khai là 90 tấn mà không có giấy phép không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11127,
+    6270,
+    7827,
+    7820,
+    5435,
+    7841,
+    7237,
+    14895,
+    5477,
+    9599
+  ]
+}

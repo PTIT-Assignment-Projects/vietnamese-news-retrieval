@@ -1,0 +1,29 @@
+{
+  "qid": 46564,
+  "query": "Thời gian gửi kế hoạch số lượng người làm việc hàng năm của các đơn vị sự nghiệp công lập thuộc phạm vi quản lý của bộ, ngành, địa phương là khi nào?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    12007,
+    12008,
+    12010,
+    12014,
+    12017,
+    12011,
+    14273,
+    12013,
+    12004,
+    14214
+  ]
+}

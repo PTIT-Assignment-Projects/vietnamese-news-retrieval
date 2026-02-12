@@ -1,0 +1,29 @@
+{
+  "qid": 122816,
+  "query": "Tổ chức lấy ý kiến của cán bộ chủ chốt về nhân sự được giới thiệu trong quy trình bổ nhiệm chức danh người đứng đầu Báo Giáo dục và Thời đại như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14253,
+    14258,
+    2345,
+    2339,
+    2341,
+    2352,
+    2349,
+    2342,
+    2346,
+    14252
+  ]
+}

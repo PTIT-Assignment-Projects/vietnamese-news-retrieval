@@ -1,0 +1,29 @@
+{
+  "qid": 157840,
+  "query": "Trước khi xây dựng cơ sở dữ liệu địa chính thì văn phòng đăng ký đất đai cần thực hiện phân loại tài liệu, dữ liệu thu thập được như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5404,
+    5403,
+    5418,
+    5420,
+    5422,
+    5398,
+    5421,
+    5406,
+    5426,
+    5408
+  ]
+}

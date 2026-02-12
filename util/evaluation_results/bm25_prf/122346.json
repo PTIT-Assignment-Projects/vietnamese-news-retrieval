@@ -1,0 +1,29 @@
+{
+  "qid": 122346,
+  "query": "Chủ tịch Ủy ban nhân dân cấp nào được quyền xử phạt hành chính nếu tổ chức nhập khẩu hàng hóa không thanh toán các chi phí phát sinh trong quá trình thu hồi hàng hóa có khuyết tật?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6179,
+    14810,
+    14809,
+    14828,
+    14827,
+    12063,
+    8339,
+    14851,
+    13365,
+    12709
+  ]
+}

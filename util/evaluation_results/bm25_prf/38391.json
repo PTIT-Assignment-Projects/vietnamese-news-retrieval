@@ -1,0 +1,29 @@
+{
+  "qid": 38391,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt người không có chứng chỉ hành nghề biên tập nhưng đứng tên biên tập viên trên xuất bản phẩm không?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    1457,
+    14924,
+    14198,
+    14928,
+    4637,
+    14940,
+    1456,
+    14925,
+    14935,
+    14929
+  ]
+}

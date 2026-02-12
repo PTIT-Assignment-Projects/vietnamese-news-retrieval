@@ -1,0 +1,29 @@
+{
+  "qid": 81463,
+  "query": "Bổ nhiệm và xếp lương theo chức danh nghề nghiệp đối với nhân viên thiết bị tại trường trung học công lập theo nguyên tắc gì?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    8809,
+    8813,
+    7785,
+    7782,
+    7726,
+    1539,
+    7786,
+    3846,
+    2814,
+    7787
+  ]
+}

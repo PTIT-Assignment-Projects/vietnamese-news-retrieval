@@ -1,0 +1,29 @@
+{
+  "qid": 79994,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt người sử dụng dịch vụ viễn thông để khóa mật mã và thông tin riêng của cá nhân khác không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8481,
+    8472,
+    8471,
+    4898,
+    4896,
+    3099,
+    3104,
+    2711,
+    11694,
+    13193
+  ]
+}

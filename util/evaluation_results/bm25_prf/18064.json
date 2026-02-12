@@ -1,0 +1,29 @@
+{
+  "qid": 18064,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền lập biên bản và xử phạt tổ chức khai báo sai lệch thông tin trong hồ sơ đề nghị công bố mở cảng biển không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7674,
+    11645,
+    7675,
+    11630,
+    7669,
+    7663,
+    7673,
+    11628,
+    7662,
+    7666
+  ]
+}

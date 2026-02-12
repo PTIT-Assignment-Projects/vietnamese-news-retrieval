@@ -1,0 +1,29 @@
+{
+  "qid": 81265,
+  "query": "Doanh nghiệp kinh doanh bất động sản phải gửi hóa đơn điện tử có mã của cơ quan thuế đến người mua trong vòng bao lâu sau khi nhận được hóa đơn?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14869,
+    14857,
+    14889,
+    14870,
+    14856,
+    14859,
+    14865,
+    4030,
+    14888,
+    14887
+  ]
+}

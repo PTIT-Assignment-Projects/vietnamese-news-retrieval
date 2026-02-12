@@ -1,0 +1,29 @@
+{
+  "qid": 53014,
+  "query": "Người Việt Nam có được chơi tại địa điểm kinh doanh trò chơi điện tử có thưởng cho người nước ngoài hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3248,
+    3259,
+    3266,
+    3268,
+    3267,
+    3262,
+    11319,
+    3283,
+    3256,
+    3255
+  ]
+}

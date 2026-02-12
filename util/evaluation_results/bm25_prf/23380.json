@@ -1,0 +1,29 @@
+{
+  "qid": 23380,
+  "query": "Thẩm quyền áp dụng biện pháp bắt buộc chữa bệnh đối với người đang chấp hành hình phạt tù thuộc về ai?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10920,
+    12719,
+    10922,
+    10919,
+    4436,
+    1890,
+    90,
+    12710,
+    1934,
+    8004
+  ]
+}

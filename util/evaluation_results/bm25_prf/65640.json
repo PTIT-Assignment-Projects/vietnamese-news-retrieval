@@ -1,0 +1,29 @@
+{
+  "qid": 65640,
+  "query": "Thời gian tham gia bồi dưỡng nghiệp vụ công chứng hàng năm tối thiểu là bao nhiêu giờ?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1620,
+    1621,
+    1622,
+    1607,
+    1623,
+    1636,
+    1616,
+    1619,
+    1618,
+    4206
+  ]
+}

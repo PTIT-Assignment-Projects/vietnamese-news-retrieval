@@ -1,0 +1,29 @@
+{
+  "qid": 140664,
+  "query": "Chủ tịch Ủy ban nhân dân huyện có thẩm quyền xử phạt vi phạm hành chính hành vi làm việc trên phương tiện khi vượt quá nồng độ cồn quy định hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10364,
+    4640,
+    10361,
+    3304,
+    10306,
+    10370,
+    10360,
+    10327,
+    10358,
+    11615
+  ]
+}

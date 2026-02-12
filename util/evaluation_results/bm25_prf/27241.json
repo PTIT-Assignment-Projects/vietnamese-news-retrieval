@@ -1,0 +1,29 @@
+{
+  "qid": 27241,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt cơ sở xét nghiệm không đánh giá nguy cơ xảy ra sự cố an toàn sinh học tại cơ sở không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11523,
+    11524,
+    14549,
+    11522,
+    11505,
+    11510,
+    11515,
+    8143,
+    6914,
+    6918
+  ]
+}

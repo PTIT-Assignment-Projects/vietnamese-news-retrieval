@@ -1,0 +1,29 @@
+{
+  "qid": 140982,
+  "query": "Trưởng ban Ban Tôn giáo Chính phủ kiến nghị Bộ trưởng Bộ Nội vụ phối hợp thành lập Đoàn thanh tra liên ngành trong trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4266,
+    4262,
+    4263,
+    4261,
+    4268,
+    4270,
+    4271,
+    4267,
+    4265,
+    4260
+  ]
+}

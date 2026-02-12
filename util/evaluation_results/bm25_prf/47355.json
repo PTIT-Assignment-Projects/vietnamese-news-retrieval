@@ -1,0 +1,29 @@
+{
+  "qid": 47355,
+  "query": "Thỏa thuận bảo vệ bí mật kinh doanh, bí mật công nghệ giữa người lao động và doanh nghiệp được quy định ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13178,
+    11419,
+    4776,
+    13318,
+    7517,
+    11403,
+    11393,
+    4785,
+    4769,
+    7538
+  ]
+}

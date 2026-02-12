@@ -1,0 +1,29 @@
+{
+  "qid": 106812,
+  "query": "Đơn vị khai thác bảo trì đường cao tốc có được phép huy động phương tiện đang lưu hành trên đường cao tốc để vận chuyển người cần hỗ trợ cứu hộ không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8448,
+    8449,
+    8446,
+    8450,
+    8445,
+    8447,
+    8444,
+    10307,
+    8451,
+    4485
+  ]
+}

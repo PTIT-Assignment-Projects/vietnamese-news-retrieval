@@ -1,0 +1,29 @@
+{
+  "qid": 51167,
+  "query": "Thay đổi địa chỉ doanh nghiệp nhưng không làm thay đổi cơ quan quản lý thuế thì doanh nghiệp cần chuẩn bị những giấy tờ gì cho hồ sơ thay đổi thông tin đăng ký thuế?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11950,
+    11957,
+    11954,
+    13339,
+    11951,
+    11958,
+    11956,
+    894,
+    13350,
+    897
+  ]
+}

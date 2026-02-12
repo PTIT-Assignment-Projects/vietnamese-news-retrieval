@@ -1,0 +1,29 @@
+{
+  "qid": 167557,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt hãng hàng không không lưu giữ hành lý không có người nhận không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    1795,
+    14198,
+    5938,
+    11127,
+    3304,
+    10377,
+    2931,
+    2933,
+    12971
+  ]
+}

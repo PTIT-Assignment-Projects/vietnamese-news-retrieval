@@ -1,0 +1,29 @@
+{
+  "qid": 153257,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt thuyền viên cho thuê chứng chỉ chuyên môn của mình không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3719,
+    3771,
+    3735,
+    3784,
+    3769,
+    7664,
+    3779,
+    7662,
+    3770,
+    3717
+  ]
+}

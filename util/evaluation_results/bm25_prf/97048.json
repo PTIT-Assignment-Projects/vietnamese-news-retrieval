@@ -1,0 +1,29 @@
+{
+  "qid": 97048,
+  "query": "Doanh nghiệp kinh doanh kết cấu hạ tầng đường sắt không giám sát việc khám kỹ thuật của đoàn tàu theo quy định thì bị phạt bao nhiêu tiền?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10338,
+    10368,
+    10367,
+    10347,
+    10343,
+    10369,
+    10346,
+    10355,
+    10337,
+    10363
+  ]
+}

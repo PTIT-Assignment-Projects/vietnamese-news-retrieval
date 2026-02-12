@@ -1,0 +1,29 @@
+{
+  "qid": 16836,
+  "query": "Chánh Thanh tra sở Văn hóa, Thể thao và Du lịch có quyền xử phạt công ty du lịch nội địa không phối hợp với cơ quan nhà nước để xử lý các hành vi vi phạm pháp luật của khách du lịch không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14198,
+    6623,
+    12523,
+    12064,
+    2284,
+    12522,
+    2288,
+    12521,
+    4415,
+    2285
+  ]
+}

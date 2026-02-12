@@ -1,0 +1,29 @@
+{
+  "qid": 84384,
+  "query": "Trạm trưởng trạm kiểm soát Biên phòng có quyền xử phạt vi phạm hành chính đối với hành vi quay phim chụp ảnh ở khu vực có biển cấm nằm trong khu vực biên giới biển không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9675,
+    14936,
+    11622,
+    9680,
+    14566,
+    9687,
+    9667,
+    13707,
+    476,
+    13703
+  ]
+}

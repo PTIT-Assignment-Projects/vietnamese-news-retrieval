@@ -1,0 +1,29 @@
+{
+  "qid": 158843,
+  "query": "Giấy đề nghị tạm ứng của nhân viên đã được lập thành chứng từ điện tử trên hệ thống nội bộ thì có bắt buộc phải in ra để lưu trữ trong hồ sơ kế toán không?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    2870,
+    12083,
+    2868,
+    12081,
+    5827,
+    7572,
+    14863,
+    2862,
+    5869,
+    13350
+  ]
+}

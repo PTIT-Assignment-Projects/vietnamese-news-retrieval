@@ -1,0 +1,29 @@
+{
+  "qid": 3208,
+  "query": "Công chức lãnh đạo thuộc Bộ Y tế có được kéo dài thời gian giữ chức vụ nếu tính đến tháng đủ tuổi nghỉ hưu còn dưới 02 năm công tác hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14256,
+    2334,
+    14260,
+    14259,
+    2357,
+    2396,
+    14263,
+    4394,
+    11496,
+    11798
+  ]
+}

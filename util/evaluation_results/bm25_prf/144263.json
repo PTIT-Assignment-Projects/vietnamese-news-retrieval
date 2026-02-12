@@ -1,0 +1,29 @@
+{
+  "qid": 144263,
+  "query": "Hệ số lương được áp dụng đối với viên chức giữ chức danh kỹ thuật viên kiểm tra vệ sinh thú y hạng 4 là bao nhiêu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1536,
+    6460,
+    8457,
+    7726,
+    8612,
+    7561,
+    7562,
+    7563,
+    8458,
+    14492
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 90476,
+  "query": "Kinh phí phục vụ công tác chuyển giao vật chứng để yêu cầu nước ngoài tiếp tục truy cứu trách nhiệm hình sự do ai chi trả?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1910,
+    1915,
+    1909,
+    1925,
+    1912,
+    7983,
+    1908,
+    1923,
+    1921,
+    10962
+  ]
+}

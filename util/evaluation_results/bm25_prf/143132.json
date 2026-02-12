@@ -1,0 +1,29 @@
+{
+  "qid": 143132,
+  "query": "Khi thực hiện xác minh điều kiện thi hành án dân sự thì người yêu cầu và văn phòng thừa phát lại có phải ký hợp đồng không?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    9412,
+    8959,
+    9421,
+    8988,
+    9411,
+    9417,
+    8958,
+    9422,
+    9413,
+    8970
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 1753,
+  "query": "Cơ quan nào giải quyết tố cáo đối với hành vi vi phạm pháp luật về quản lý nhà nước trong lĩnh vực tư pháp của Tòa án nhân dân?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1521,
+    1485,
+    1520,
+    1522,
+    1198,
+    1483,
+    1516,
+    1523,
+    1503,
+    3168
+  ]
+}

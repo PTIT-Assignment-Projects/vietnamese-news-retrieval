@@ -1,0 +1,29 @@
+{
+  "qid": 59640,
+  "query": "Giám đốc Công an cấp tỉnh được quyền xử phạt người ngăn cản việc cung cấp thông tin về trẻ em có nguy cơ bị bóc lột cho cơ quan có thẩm quyền không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11829,
+    3236,
+    9908,
+    11830,
+    11832,
+    11127,
+    9336,
+    14170,
+    3304,
+    4636
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 23417,
+  "query": "Sử dụng hình ảnh bản đồ Việt Nam không có hai quần đảo Trường Sa, Hoàng Sa để minh họa trên xuất bản phẩm thì nhà xuất bản bị xử phạt thế nào?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    1462,
+    1463,
+    1459,
+    14926,
+    1467,
+    1456,
+    14924,
+    1458,
+    14904,
+    14929
+  ]
+}

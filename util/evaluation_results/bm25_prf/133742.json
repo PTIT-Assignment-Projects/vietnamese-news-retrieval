@@ -1,0 +1,29 @@
+{
+  "qid": 133742,
+  "query": "Trưởng đoàn thanh tra của Cục Báo chí có quyền xử phạt tổ chức họp báo có nội dung gây ảnh hưởng đến lợi ích quốc gia không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    14912,
+    14198,
+    4054,
+    4052,
+    1674,
+    14916,
+    9736,
+    14909,
+    11127
+  ]
+}

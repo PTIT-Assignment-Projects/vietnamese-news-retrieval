@@ -1,0 +1,29 @@
+{
+  "qid": 166539,
+  "query": "Hồ sơ ủy thác tư pháp dân sự của nước ngoài trong trường hợp chưa có Điều ước quốc tế giữa Việt Nam và nước đó thì yêu cầu những loại giấy tờ gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7969,
+    7970,
+    8022,
+    7968,
+    8017,
+    7976,
+    7971,
+    7961,
+    8019,
+    1917
+  ]
+}

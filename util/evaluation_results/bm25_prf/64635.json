@@ -1,0 +1,29 @@
+{
+  "qid": 64635,
+  "query": "Doanh nghiệp có cần xin giấy phép nhập khẩu sản phẩm an toàn thông tin mạng khi nhập khẩu sản phẩm tường lửa hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 0.5,
+    "p@1": 1.0,
+    "r@1": 0.5,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 0.5,
+    "ndcg@5": 0.6131471927654584,
+    "p@10": 0.1,
+    "r@10": 0.5,
+    "ndcg@10": 0.6131471927654584
+  },
+  "retrieved": [
+    12148,
+    12150,
+    12145,
+    12146,
+    12149,
+    12156,
+    10388,
+    12152,
+    12155,
+    12153
+  ]
+}

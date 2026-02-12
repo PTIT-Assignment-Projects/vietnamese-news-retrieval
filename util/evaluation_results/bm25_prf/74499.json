@@ -1,0 +1,29 @@
+{
+  "qid": 74499,
+  "query": "Hồ sơ đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa cho doanh nghiệp được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9775,
+    9778,
+    9774,
+    6624,
+    6607,
+    9773,
+    9780,
+    9777,
+    6612,
+    9779
+  ]
+}

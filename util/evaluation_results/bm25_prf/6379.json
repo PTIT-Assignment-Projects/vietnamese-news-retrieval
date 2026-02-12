@@ -1,0 +1,29 @@
+{
+  "qid": 6379,
+  "query": "Trong tổ chức Cảnh sát môi trường thì những ai có thể ủy quyền cho cấp phó thực hiện thẩm quyền của mình?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11832,
+    11830,
+    11829,
+    11837,
+    11839,
+    11835,
+    790,
+    789,
+    14940,
+    11827
+  ]
+}

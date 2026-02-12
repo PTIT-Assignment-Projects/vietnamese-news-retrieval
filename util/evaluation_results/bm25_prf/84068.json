@@ -1,0 +1,29 @@
+{
+  "qid": 84068,
+  "query": "Áp dụng kỹ thuật mới, phương pháp mới trong khám bệnh chữa bệnh lần đầu tiên tại Việt Nam theo các nguyên tắc nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7265,
+    7263,
+    7270,
+    7268,
+    7269,
+    7262,
+    7271,
+    2425,
+    7266,
+    7272
+  ]
+}

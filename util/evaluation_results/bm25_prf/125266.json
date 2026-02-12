@@ -1,0 +1,29 @@
+{
+  "qid": 125266,
+  "query": "Ai có trách nhiệm yêu cầu cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại phục hồi danh dự cho người bị thiệt hại trong Bồi thường Nhà nước?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    12693,
+    12707,
+    12749,
+    8890,
+    12747,
+    12743,
+    12695,
+    12699,
+    12735,
+    12723
+  ]
+}

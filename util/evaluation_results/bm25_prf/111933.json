@@ -1,0 +1,29 @@
+{
+  "qid": 111933,
+  "query": "Người được ủy quyền ký các văn bản tham gia nghiệp vụ vay cầm cố giấy tờ có giá của Ngân hàng Nhà nước với tổ chức tín dụng có được ủy quyền lại cho người thứ ba không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    167,
+    176,
+    170,
+    171,
+    4026,
+    4027,
+    165,
+    174,
+    159,
+    4014
+  ]
+}

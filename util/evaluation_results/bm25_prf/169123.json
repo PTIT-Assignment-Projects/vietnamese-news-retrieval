@@ -1,0 +1,29 @@
+{
+  "qid": 169123,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt Thừa phát lại cho người khác sử dụng thẻ thừa phát lại để hành nghề không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8941,
+    9427,
+    8994,
+    8942,
+    5838,
+    5863,
+    8995,
+    8938,
+    5837,
+    8954
+  ]
+}

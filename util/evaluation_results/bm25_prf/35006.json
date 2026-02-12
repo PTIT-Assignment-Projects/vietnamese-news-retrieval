@@ -1,0 +1,29 @@
+{
+  "qid": 35006,
+  "query": "Nguyên tắc và mục đích xây dựng Bộ Quy tắc ứng xử trong cơ sở giáo dục phổ thông, cơ sở giáo dục thường xuyên được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6753,
+    6751,
+    6763,
+    6758,
+    7319,
+    6762,
+    6752,
+    7175,
+    5968,
+    7172
+  ]
+}

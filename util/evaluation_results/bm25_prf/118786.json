@@ -1,0 +1,29 @@
+{
+  "qid": 118786,
+  "query": "Trường hợp người khiếu nại về việc mất bưu chính là người già yếu thì có được ủy quyền cho người khác khiếu nại không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4804,
+    1712,
+    4812,
+    4802,
+    1496,
+    1716,
+    4810,
+    4813,
+    1713,
+    1498
+  ]
+}

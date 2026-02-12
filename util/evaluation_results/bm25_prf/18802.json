@@ -1,0 +1,29 @@
+{
+  "qid": 18802,
+  "query": "Hạ sĩ quan Quân đội nhân dân Việt Nam đang phục vụ tại ngũ được xét thăng cấp bậc quân hàm phải đáp ứng các điều kiện gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7334,
+    7331,
+    7332,
+    7330,
+    7340,
+    14491,
+    7328,
+    7341,
+    7329,
+    7339
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 30158,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt chủ điểm cung cấp dịch vụ niêm yết công khai nội quy sử dụng dịch vụ trò chơi điện tử công cộng nhưng không đầy đủ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3952,
+    7949,
+    3282,
+    3958,
+    10430,
+    3957,
+    10429,
+    3960,
+    7945,
+    9796
+  ]
+}

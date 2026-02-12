@@ -1,0 +1,29 @@
+{
+  "qid": 107905,
+  "query": "Khi nhận tiền do Kho tiền Trung ương giao để nhập kho tiền tiêu hủy thì bao tiền được niêm phong như thế nào? Và thực hiện dưới sự giám sát của ai?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3828,
+    3829,
+    3823,
+    7630,
+    7631,
+    7635,
+    3831,
+    3830,
+    7636,
+    3836
+  ]
+}

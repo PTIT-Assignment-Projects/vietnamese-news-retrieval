@@ -1,0 +1,29 @@
+{
+  "qid": 26347,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Tổng cục Giáo dục nghề nghiệp có quyền phạt trường cao đẳng tuyển sinh sai đối tượng học trình độ cao đẳng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4610,
+    492,
+    4606,
+    13626,
+    3336,
+    4609,
+    9842,
+    4603,
+    3455,
+    4611
+  ]
+}

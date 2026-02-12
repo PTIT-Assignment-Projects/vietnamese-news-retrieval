@@ -1,0 +1,29 @@
+{
+  "qid": 79254,
+  "query": "Các đối tượng nào được thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh để khai thác thông tin phục vụ công tác chuyên môn nghiệp vụ?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6394,
+    14917,
+    6395,
+    6393,
+    2713,
+    6386,
+    8573,
+    14918,
+    6383,
+    6369
+  ]
+}

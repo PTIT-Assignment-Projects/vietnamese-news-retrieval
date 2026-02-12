@@ -1,0 +1,29 @@
+{
+  "qid": 97391,
+  "query": "Nếu không kinh nghiệp mà vẫn làm người điều hành Điểm kinh doanh trò chơi điện tử có thưởng thì có sao không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3248,
+    3267,
+    11319,
+    3268,
+    3250,
+    3256,
+    3262,
+    3271,
+    3249,
+    3255
+  ]
+}

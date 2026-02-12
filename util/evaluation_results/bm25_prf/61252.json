@@ -1,0 +1,29 @@
+{
+  "qid": 61252,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt người sử dụng bao bì lưu chứa chất thải nguy hại không đáp ứng yêu cầu kỹ thuật theo quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5190,
+    5188,
+    5191,
+    5187,
+    5189,
+    14296,
+    4539,
+    8708,
+    5192,
+    11509
+  ]
+}

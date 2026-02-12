@@ -1,0 +1,29 @@
+{
+  "qid": 11396,
+  "query": "Có hai năm liên tiếp được xếp loại chất lượng ở mức không hoàn thành nhiệm vụ có được miễn nhiệm công chức lãnh đạo của Bộ Giáo dục và Đào tạo không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14262,
+    3868,
+    8170,
+    2360,
+    2356,
+    13779,
+    5973,
+    317,
+    3869,
+    7726
+  ]
+}

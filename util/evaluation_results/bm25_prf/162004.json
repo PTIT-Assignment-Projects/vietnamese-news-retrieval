@@ -1,0 +1,29 @@
+{
+  "qid": 162004,
+  "query": "Có thể áp dụng biện pháp tạm ngừng xuất khẩu, tạm ngừng nhập khẩu đối với hàng hóa bị kiểm soát khẩn cấp hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5235,
+    5273,
+    5236,
+    5272,
+    5237,
+    5274,
+    5266,
+    5264,
+    8326,
+    5271
+  ]
+}

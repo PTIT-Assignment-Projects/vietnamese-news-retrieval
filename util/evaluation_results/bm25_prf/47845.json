@@ -1,0 +1,29 @@
+{
+  "qid": 47845,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt tổ chức để các công trình khai thác dầu khí trên biển quá thời gian phải xử lý không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4172,
+    8472,
+    8471,
+    8481,
+    4896,
+    4898,
+    8473,
+    4155,
+    14279,
+    3105
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 129857,
+  "query": "Người nộp hồ sơ đề nghị cấp thẻ hướng dẫn viên có thể nộp bảng điểm thay cho các văn bằng, chứng chỉ do luật định không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9803,
+    9806,
+    9804,
+    9805,
+    9807,
+    6624,
+    6626,
+    9802,
+    141,
+    6607
+  ]
+}

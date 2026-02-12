@@ -1,0 +1,29 @@
+{
+  "qid": 41170,
+  "query": "Thi môn chuyên môn, nghiệp vụ khi thi thăng hạng chức danh nghề nghiệp hạng 2 lên hạng 1 chuyên ngành nghệ thuật biểu diễn như thế nào?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    13119,
+    13121,
+    14246,
+    3876,
+    6924,
+    3873,
+    14247,
+    12599,
+    13118,
+    13120
+  ]
+}

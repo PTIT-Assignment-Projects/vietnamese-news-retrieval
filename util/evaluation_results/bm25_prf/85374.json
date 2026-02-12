@@ -1,0 +1,29 @@
+{
+  "qid": 85374,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Khoa học và Công nghệ có quyền xử phạt tổ chức không khai báo chất thải phóng xạ do việc tiến hành công việc bức xạ sinh ra không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12023,
+    12024,
+    12060,
+    12032,
+    12025,
+    12019,
+    12040,
+    6934,
+    12021,
+    6937
+  ]
+}

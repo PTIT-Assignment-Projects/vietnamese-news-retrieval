@@ -1,0 +1,29 @@
+{
+  "qid": 107171,
+  "query": "Cơ quan điều tra có phải cơ quan tiếp nhận văn bản kiến nghị khi phát hiện dấu hiệu tội phạm trong quá trình thanh tra không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3567,
+    3568,
+    4978,
+    10621,
+    992,
+    10622,
+    3572,
+    10630,
+    3571,
+    10482
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 145277,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt doanh nghiệp sử dụng thiết bị chuyên ngành thuốc lá nhập khẩu không có nguồn gốc hợp pháp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8472,
+    8481,
+    8471,
+    4896,
+    4898,
+    14279,
+    8280,
+    1717,
+    11694,
+    4640
+  ]
+}

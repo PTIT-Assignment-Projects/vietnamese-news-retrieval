@@ -1,0 +1,29 @@
+{
+  "qid": 109034,
+  "query": "Chánh Thanh tra Sở có quyền xử phạt người có hành vi xúc phạm danh dự, nhân phẩm người thành lập doanh nghiệp vì định kiến giới không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4629,
+    4627,
+    11127,
+    14912,
+    11615,
+    14198,
+    14925,
+    3304,
+    14642,
+    14935
+  ]
+}

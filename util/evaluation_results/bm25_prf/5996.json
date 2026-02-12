@@ -1,0 +1,29 @@
+{
+  "qid": 5996,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người đốt cây khai hoang trong phạm vi đường biên giới trên đất liền không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9683,
+    9687,
+    13709,
+    9682,
+    9681,
+    13718,
+    9667,
+    13710,
+    13696,
+    13704
+  ]
+}

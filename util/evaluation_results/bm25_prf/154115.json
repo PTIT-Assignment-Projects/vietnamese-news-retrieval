@@ -1,0 +1,29 @@
+{
+  "qid": 154115,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Tổng cục Giáo dục nghề nghiệp có quyền xử phạt người cố ý làm hư hỏng tài sản tại cơ sở giáo dục nghề nghiệp tư thục không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3467,
+    13379,
+    13387,
+    8733,
+    3466,
+    14271,
+    3456,
+    1529,
+    2814,
+    4603
+  ]
+}

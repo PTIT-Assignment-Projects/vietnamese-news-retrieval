@@ -1,0 +1,29 @@
+{
+  "qid": 143456,
+  "query": "Văn phòng Thừa phát bị thu hồi Quyết định cho phép thành lập do không hoạt động thì phải có trách nhiệm gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8956,
+    8957,
+    8994,
+    8953,
+    5860,
+    8948,
+    8954,
+    8952,
+    5867,
+    8947
+  ]
+}

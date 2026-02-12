@@ -1,0 +1,29 @@
+{
+  "qid": 21696,
+  "query": "Chủ tịch Ủy ban nhân dân xã có quyền xử phạt đối với hành vi quảng cáo sai sự thật về thức ăn chăn nuôi, thức ăn thủy sản hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    4541,
+    14591,
+    14184,
+    14185,
+    14198,
+    14925,
+    4715,
+    3290,
+    12433
+  ]
+}

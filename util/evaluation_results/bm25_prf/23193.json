@@ -1,0 +1,29 @@
+{
+  "qid": 23193,
+  "query": "Công chức được bổ nhiệm lại chức vụ lãnh đạo tại các doanh nghiệp 100% vốn nhà nước thuộc Bộ Nông nghiệp và Phát triển nông thôn phải đáp ứng những điều kiện gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8753,
+    14256,
+    2356,
+    2334,
+    8740,
+    14425,
+    13056,
+    8194,
+    2360,
+    10995
+  ]
+}

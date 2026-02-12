@@ -1,0 +1,29 @@
+{
+  "qid": 110561,
+  "query": "Ai có quyền sử dụng kết quả ghi âm ghi hình việc lấy lời khai người đại diện theo pháp luật của pháp nhân trong giai đoạn điều tra, truy tố?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3559,
+    3558,
+    3553,
+    3557,
+    3560,
+    3561,
+    10910,
+    3554,
+    3555,
+    6705
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 19890,
+  "query": "Doanh nghiệp chế biến và xuất khẩu gỗ cần những giấy tờ gì để chứng minh việc tuân thủ quy định của pháp luật về môi trường để được phân loại vào doanh nghiệp nhóm 1?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11371,
+    11347,
+    11345,
+    11352,
+    11357,
+    11372,
+    11353,
+    11366,
+    11348,
+    11354
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 96919,
+  "query": "Chánh Thanh tra Sở Tài nguyên và Môi trường được quyền xử phạt doanh nghiệp xây dựng mới công trình khai thác nước dưới đất trong vùng hạn chế khai thác không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11127,
+    7827,
+    7820,
+    7841,
+    5435,
+    5477,
+    7826,
+    691,
+    11234,
+    10138
+  ]
+}

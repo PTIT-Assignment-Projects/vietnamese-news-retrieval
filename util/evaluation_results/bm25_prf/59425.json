@@ -1,0 +1,29 @@
+{
+  "qid": 59425,
+  "query": "Sở Tư pháp thông báo việc thay đổi nội dung đăng ký hoạt động của doanh nghiệp đấu giá tư nhân cho cơ quan thuế khi nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    714,
+    719,
+    713,
+    712,
+    718,
+    716,
+    715,
+    710,
+    717,
+    767
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 65565,
+  "query": "Có phải hợp pháp hóa lãnh sự đối với những giấy tờ khi giải quyết thủ tục đăng ký hộ tịch tại Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2260,
+    13505,
+    2273,
+    2272,
+    2267,
+    2262,
+    13508,
+    7962,
+    2271,
+    2263
+  ]
+}

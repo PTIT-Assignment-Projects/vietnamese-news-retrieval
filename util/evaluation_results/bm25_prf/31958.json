@@ -1,0 +1,29 @@
+{
+  "qid": 31958,
+  "query": "Người dân xây dựng nhà ở trái phép trên đất trồng cây hàng năm thì Chủ tịch Ủy ban nhân dân xã có quyền cưỡng chế công trình hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10351,
+    2466,
+    1591,
+    10349,
+    11106,
+    11915,
+    15000,
+    1557,
+    10302,
+    5570
+  ]
+}

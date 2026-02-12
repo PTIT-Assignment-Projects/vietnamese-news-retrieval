@@ -1,0 +1,29 @@
+{
+  "qid": 162724,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có thẩm quyền ra quyết định xử phạt vi phạm hành chính đối với hành vi đào phá đường quộc lộ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6911,
+    4640,
+    3533,
+    10350,
+    1717,
+    3535,
+    14850,
+    3534,
+    11615,
+    3099
+  ]
+}

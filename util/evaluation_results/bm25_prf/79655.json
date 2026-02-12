@@ -1,0 +1,29 @@
+{
+  "qid": 79655,
+  "query": "Việc thực hiện dân chủ trong hoạt động của cơ quan, đơn vị thuộc Ủy ban Dân tộc phải đảm bảo những yêu cầu nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1316,
+    1313,
+    1312,
+    2529,
+    2032,
+    4760,
+    4762,
+    2459,
+    1303,
+    11917
+  ]
+}

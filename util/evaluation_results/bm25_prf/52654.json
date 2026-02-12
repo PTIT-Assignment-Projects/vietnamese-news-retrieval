@@ -1,0 +1,29 @@
+{
+  "qid": 52654,
+  "query": "Thanh niên xung phong tham gia kháng chiến có thuộc đối tượng được Lao động - Thương binh và Xã hội chi chế độ trợ cấp một lần không?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    11039,
+    11042,
+    13730,
+    13723,
+    13725,
+    13731,
+    13734,
+    13726,
+    13722,
+    13736
+  ]
+}

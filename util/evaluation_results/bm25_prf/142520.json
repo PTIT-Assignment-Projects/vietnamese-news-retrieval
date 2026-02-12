@@ -1,0 +1,29 @@
+{
+  "qid": 142520,
+  "query": "Cơ quan Việt Nam được từ chối chuyển giao người đang chấp hành hình phạt tù tại Việt Nam cho nước ngoài trong trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8006,
+    8005,
+    8004,
+    8013,
+    293,
+    280,
+    283,
+    278,
+    8020,
+    291
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 155819,
+  "query": "Nhà xuất bản không đề nghị cơ quan có thẩm quyền cấp lại giấy phép hoạt động kinh doanh nhập khẩu xuất bản phẩm khi bị mất thì bị xử phạt thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14931,
+    14923,
+    14929,
+    14904,
+    14924,
+    14928,
+    14930,
+    14617,
+    14932,
+    14925
+  ]
+}

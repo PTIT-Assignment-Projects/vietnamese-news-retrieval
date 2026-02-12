@@ -1,0 +1,29 @@
+{
+  "qid": 111434,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền lập biên bản và xử phạt tổ chức tự ý đổi tên cảng biển không đúng với tên do cơ quan có thẩm quyền công bố không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7674,
+    7669,
+    7662,
+    7663,
+    7673,
+    7677,
+    7666,
+    7671,
+    7678,
+    7672
+  ]
+}

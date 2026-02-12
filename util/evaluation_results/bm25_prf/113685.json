@@ -1,0 +1,29 @@
+{
+  "qid": 113685,
+  "query": "Thời gian trả lời hồ sơ đề nghị cử chức sắc, chức việc, nhà tu hành, tín đồ tham gia hoạt động tôn giáo, đào tạo tôn giáo ở nước ngoài là bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2180,
+    2139,
+    2182,
+    2138,
+    2134,
+    2132,
+    2193,
+    2178,
+    2165,
+    2136
+  ]
+}

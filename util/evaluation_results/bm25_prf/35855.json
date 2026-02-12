@@ -1,0 +1,29 @@
+{
+  "qid": 35855,
+  "query": "Tòa gia đình và người chưa thành niên tại Tòa án nhân dân huyện có thẩm quyền giải quyết các vụ việc nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    868,
+    867,
+    869,
+    866,
+    2516,
+    870,
+    871,
+    10945,
+    6692,
+    2520
+  ]
+}

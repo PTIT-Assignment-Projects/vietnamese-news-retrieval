@@ -1,0 +1,29 @@
+{
+  "qid": 111367,
+  "query": "Các cơ quan, tổ chức của Việt Nam được tiến hành những hoạt động nào khi hợp tác quốc tế trong lĩnh vực phòng chống ma tuý?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4688,
+    4684,
+    4689,
+    4690,
+    4686,
+    4703,
+    3882,
+    4700,
+    4683,
+    14513
+  ]
+}

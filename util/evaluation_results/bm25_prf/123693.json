@@ -1,0 +1,29 @@
+{
+  "qid": 123693,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt tổ chức vận chuyển hàng không chất thải hạt nhân mà không được phép của cơ quan có thẩm quyền không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    10377,
+    12019,
+    14198,
+    11127,
+    3304,
+    12024,
+    6556,
+    10363,
+    13148
+  ]
+}

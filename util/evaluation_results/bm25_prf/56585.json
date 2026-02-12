@@ -1,0 +1,29 @@
+{
+  "qid": 56585,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt cá nhân đưa vật thể thuộc diện kiểm dịch thực vật tới nơi không quy định trong Giấy phép kiểm dịch không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14301,
+    14302,
+    14303,
+    5024,
+    14304,
+    14294,
+    5286,
+    5018,
+    14305,
+    4539
+  ]
+}

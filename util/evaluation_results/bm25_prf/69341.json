@@ -1,0 +1,29 @@
+{
+  "qid": 69341,
+  "query": "Có áp dụng hình thức kỷ luật giáng chức đối với công chức cấp huyện giữ chức vụ quản lý khi vi phạm quy định về trật tự an ninh xã hội gây hậu quả nghiêm trọng không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13749,
+    13748,
+    13746,
+    13753,
+    13747,
+    13779,
+    13764,
+    8224,
+    4094,
+    8937
+  ]
+}

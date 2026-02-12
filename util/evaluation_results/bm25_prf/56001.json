@@ -1,0 +1,29 @@
+{
+  "qid": 56001,
+  "query": "Thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cùng cấp đối với bản án hình sự sơ thẩm là bao lâu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10835,
+    10739,
+    9242,
+    10737,
+    10504,
+    10834,
+    10839,
+    10807,
+    10825,
+    10743
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 121687,
+  "query": "Tiêu chuẩn về đạo đức nghề nghiệp của viên chức chuyên ngành tuyên truyền viên văn hóa ra sao?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13119,
+    6459,
+    9588,
+    7465,
+    6460,
+    6924,
+    12599,
+    8734,
+    14239,
+    13118
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 29396,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt hãng hàng không không có xe lăn phục vụ người khuyết tật tại nhà ga của sân bay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5874,
+    5938,
+    5879,
+    5917,
+    5876,
+    5929,
+    5878,
+    5877,
+    5935,
+    5921
+  ]
+}

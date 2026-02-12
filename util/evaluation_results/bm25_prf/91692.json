@@ -1,0 +1,29 @@
+{
+  "qid": 91692,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt tổ chức mua bán con giống vật nuôi là gà Đông Tảo mà không lưu đầy đủ hồ sơ giống không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8471,
+    8472,
+    8481,
+    3128,
+    8473,
+    8478,
+    14279,
+    5369,
+    8477,
+    7593
+  ]
+}

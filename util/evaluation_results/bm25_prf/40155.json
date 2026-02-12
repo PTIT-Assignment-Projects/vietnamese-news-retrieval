@@ -1,0 +1,29 @@
+{
+  "qid": 40155,
+  "query": "Quân nhân chuyên nghiệp có thâm niên 20 năm đã phục viên thì có phải đối tượng được khám chữa bệnh trong các bệnh viện quân y theo chế độ BHYT không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12068,
+    12067,
+    12076,
+    12069,
+    12071,
+    12073,
+    12074,
+    4799,
+    8464,
+    14777
+  ]
+}

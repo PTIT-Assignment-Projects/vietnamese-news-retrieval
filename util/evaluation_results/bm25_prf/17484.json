@@ -1,0 +1,29 @@
+{
+  "qid": 17484,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt tổ chức nhận chuyển nhượng website thương mại điện tử bán hàng mà không thông báo với cơ quan có thẩm quyền không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12344,
+    12346,
+    11915,
+    8481,
+    4896,
+    3104,
+    8472,
+    8471,
+    1717,
+    13193
+  ]
+}

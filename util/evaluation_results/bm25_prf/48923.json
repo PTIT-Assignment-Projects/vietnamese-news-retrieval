@@ -1,0 +1,29 @@
+{
+  "qid": 48923,
+  "query": "Người thực hiện chứng thực có được nhận xét gì vào sơ yếu lý lịch không? Lời chứng thực chữ ký trên sơ yếu lý lịch gồm những nội dung gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1412,
+    2007,
+    2376,
+    4395,
+    14255,
+    4006,
+    7805,
+    2164,
+    14260,
+    3992
+  ]
+}

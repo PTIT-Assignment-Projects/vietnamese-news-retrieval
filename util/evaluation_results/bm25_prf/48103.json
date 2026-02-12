@@ -1,0 +1,29 @@
+{
+  "qid": 48103,
+  "query": "Thời hạn tổ chức tín dụng đề nghị chiết khấu tiến hành thủ tục chuyển quyền sở hữu và giao nhận giấy tờ có giá cho Ngân hàng Nhà nước là bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    171,
+    176,
+    175,
+    4025,
+    159,
+    174,
+    163,
+    4027,
+    165,
+    4021
+  ]
+}

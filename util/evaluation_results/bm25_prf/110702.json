@@ -1,0 +1,29 @@
+{
+  "qid": 110702,
+  "query": "Cán bộ cấp huyện có hành vi vi phạm quy định về bảo vệ bí mật nhà nước gây hậu quả nghiêm trọng thì áp dụng hình thức kỷ luật gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 0.5,
+    "ndcg@1": 1.0,
+    "p@5": 0.4,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.2,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13749,
+    13748,
+    13746,
+    13753,
+    4094,
+    13778,
+    13742,
+    13741,
+    8937,
+    1044
+  ]
+}

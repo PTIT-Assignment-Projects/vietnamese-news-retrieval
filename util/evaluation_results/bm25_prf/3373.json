@@ -1,0 +1,29 @@
+{
+  "qid": 3373,
+  "query": "Chủ tịch Ủy ban nhân dân tỉnh có quyền xử phạt doanh nghiệp công nghiệp làm mất tài liệu công nghệ do Nhà nước giao để phục vụ cho động viên công nghiệp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6364,
+    6363,
+    6365,
+    14717,
+    7299,
+    14715,
+    14727,
+    7295,
+    11390,
+    14729
+  ]
+}

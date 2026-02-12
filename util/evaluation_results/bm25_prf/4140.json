@@ -1,0 +1,29 @@
+{
+  "qid": 4140,
+  "query": "Các khoản doanh thu và chi phí của Công ty Quản lý tài sản của các tổ chức tín dụng Việt Nam được xác định bằng đơn vị tiền tệ nào?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    350,
+    359,
+    357,
+    5805,
+    5822,
+    355,
+    5797,
+    5792,
+    365,
+    936
+  ]
+}

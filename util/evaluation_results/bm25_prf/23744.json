@@ -1,0 +1,29 @@
+{
+  "qid": 23744,
+  "query": "Cho tổ chức khác sử dụng giấy phép kinh doanh dịch vụ lữ hành của doanh nghiệp để hoạt động kinh doanh có vi phạm không?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    9779,
+    6612,
+    9780,
+    9775,
+    9774,
+    9777,
+    6613,
+    9752,
+    9778,
+    9787
+  ]
+}

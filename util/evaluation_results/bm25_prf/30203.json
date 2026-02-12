@@ -1,0 +1,29 @@
+{
+  "qid": 30203,
+  "query": "Thời gian quyết định đóng tạm thời cảng hàng không, sân bay khi có thiên tai, dịch bệnh, ô nhiễm môi trường, sự cố, tai nạn hàng không là bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5916,
+    5913,
+    5914,
+    5915,
+    5922,
+    4372,
+    5923,
+    12958,
+    5921,
+    5877
+  ]
+}

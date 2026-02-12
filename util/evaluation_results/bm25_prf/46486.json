@@ -1,0 +1,29 @@
+{
+  "qid": 46486,
+  "query": "Trưởng đoàn thanh tra của Cục Xuất bản được quyền xử phạt nhà xuất bản sử dụng hình ảnh bản đồ có đường lưỡi bò để minh họa trên xuất bản phẩm không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1463,
+    1462,
+    1477,
+    14904,
+    7737,
+    1459,
+    1460,
+    1464,
+    1475,
+    14929
+  ]
+}

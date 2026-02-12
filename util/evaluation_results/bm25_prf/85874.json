@@ -1,0 +1,29 @@
+{
+  "qid": 85874,
+  "query": "Trưởng đoàn thanh tra chuyên ngành Bộ Tư pháp có quyền xử phạt người giám định tư pháp không giải thích kết luận giám định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10690,
+    2666,
+    1011,
+    7928,
+    1012,
+    10545,
+    1006,
+    1008,
+    8909,
+    343
+  ]
+}

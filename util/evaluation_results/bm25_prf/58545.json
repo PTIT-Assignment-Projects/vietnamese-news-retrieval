@@ -1,0 +1,29 @@
+{
+  "qid": 58545,
+  "query": "Hồ sơ đề nghị cấp lại giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh do bị mất gồm những tài liệu nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    11882,
+    11880,
+    11876,
+    11904,
+    11885,
+    11897,
+    11900,
+    11901,
+    11889,
+    11887
+  ]
+}

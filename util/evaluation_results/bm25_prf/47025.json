@@ -1,0 +1,29 @@
+{
+  "qid": 47025,
+  "query": "Kinh phí thực hiện công tác giải quyết việc nuôi con nuôi của tổ chức con nuôi nước ngoài tại Việt Nam gồm những khoản nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13970,
+    13965,
+    13963,
+    3232,
+    13971,
+    13966,
+    13964,
+    3239,
+    13969,
+    3227
+  ]
+}

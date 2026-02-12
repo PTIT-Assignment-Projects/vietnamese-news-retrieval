@@ -1,0 +1,29 @@
+{
+  "qid": 27030,
+  "query": "Xử lý kết quả kiểm tra sau thông quan trong trường hợp Chi cục trưởng Chi cục Hải quan ban hành quyết định kiểm tra được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    8404,
+    8336,
+    8407,
+    8339,
+    10392,
+    8347,
+    10407,
+    8334,
+    8333,
+    8355
+  ]
+}

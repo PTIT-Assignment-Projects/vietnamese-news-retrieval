@@ -1,0 +1,29 @@
+{
+  "qid": 68316,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt thuyền trưởng không thông báo cho hoa tiêu hàng hải biết về đặc điểm và tính năng điều động của tàu thuyền không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13074,
+    13071,
+    13076,
+    13079,
+    13073,
+    9089,
+    13088,
+    7674,
+    13084,
+    11626
+  ]
+}

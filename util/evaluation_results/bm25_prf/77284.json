@@ -1,0 +1,29 @@
+{
+  "qid": 77284,
+  "query": "Đi xe máy quá cũ khi bộ phận giảm khói không còn bảo đảm quy chuẩn môi trường về khí thải thì có bị tịch thu xe không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10314,
+    14334,
+    10345,
+    10328,
+    10332,
+    10306,
+    10319,
+    10331,
+    10320,
+    10334
+  ]
+}

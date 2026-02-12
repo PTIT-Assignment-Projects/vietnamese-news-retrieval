@@ -1,0 +1,29 @@
+{
+  "qid": 127407,
+  "query": "Thanh tra viên chuyên ngành hàng hải được quyền xử phạt chủ tàu biển khi tàu biển không có bảng phân công chữa cháy ở những vị trí trên tàu theo quy định không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3782,
+    3783,
+    3719,
+    7663,
+    7674,
+    3754,
+    3744,
+    3781,
+    7673,
+    3752
+  ]
+}

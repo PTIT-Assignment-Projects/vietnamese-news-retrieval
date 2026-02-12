@@ -1,0 +1,29 @@
+{
+  "qid": 152249,
+  "query": "Doanh nghiệp siêu nhỏ phải xử lý như thế nào trong trường hợp nghiệp vụ kinh tế, tài chính phát sinh bằng ngoại tệ?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    5790,
+    2854,
+    5748,
+    5749,
+    5801,
+    2849,
+    2868,
+    5795,
+    2862,
+    2848
+  ]
+}

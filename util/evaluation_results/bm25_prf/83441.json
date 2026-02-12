@@ -1,0 +1,29 @@
+{
+  "qid": 83441,
+  "query": "Trong trường hợp việc mua bán vàng miếng giữa tổ chức tín dụng và Ngân hàng Nhà nước thực hiện thông qua hình thức đấu thầu thì có các tài liệu giao dịch gì?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.43067655807339306,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.43067655807339306
+  },
+  "retrieved": [
+    6130,
+    6127,
+    6119,
+    6125,
+    6129,
+    6137,
+    6121,
+    6133,
+    6122,
+    6136
+  ]
+}

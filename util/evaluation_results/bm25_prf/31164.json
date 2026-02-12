@@ -1,0 +1,29 @@
+{
+  "qid": 31164,
+  "query": "Việc lập dự toán chi tiết hoạt động ứng dụng công nghệ thông tin sử dụng kinh phí chi thường xuyên thuộc nguồn vốn ngân sách nhà nước dựa trên cơ sở nào?",
+  "metrics": {
+    "mrr": 0.1111111111111111,
+    "map": 0.1111111111111111,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.3010299956639812
+  },
+  "retrieved": [
+    3794,
+    3795,
+    4592,
+    4593,
+    14892,
+    14896,
+    11530,
+    14514,
+    3798,
+    10270
+  ]
+}

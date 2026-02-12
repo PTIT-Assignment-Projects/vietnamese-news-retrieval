@@ -1,0 +1,29 @@
+{
+  "qid": 135188,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người sử dụng thuốc thú y trong Danh mục thuốc thú y cấm sử dụng tại Việt Nam để chữa bệnh cho động vật không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4540,
+    4712,
+    9633,
+    4539,
+    11063,
+    9635,
+    9623,
+    14582,
+    14607,
+    9632
+  ]
+}

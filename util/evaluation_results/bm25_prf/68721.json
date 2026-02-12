@@ -1,0 +1,29 @@
+{
+  "qid": 68721,
+  "query": "Rớt thi viết trong kỳ thi sát hạch cấp chứng chỉ hành nghề hoạt động đấu thầu thì có thể bảo lưu kết quả nội dung thi trắc nghiệm không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4514,
+    4506,
+    4515,
+    4505,
+    4516,
+    4512,
+    4503,
+    4504,
+    4502,
+    4513
+  ]
+}

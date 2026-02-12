@@ -1,0 +1,29 @@
+{
+  "qid": 54335,
+  "query": "Ủy ban nhân dân cấp xã đánh giá số cộng tác viên thể dục thể thao tham gia phong trào thể dục thể thao quần chúng bằng tiêu chí nào?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    1297,
+    1291,
+    1288,
+    1299,
+    1286,
+    1294,
+    7292,
+    1295,
+    1298,
+    1289
+  ]
+}

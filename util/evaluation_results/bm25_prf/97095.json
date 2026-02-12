@@ -1,0 +1,29 @@
+{
+  "qid": 97095,
+  "query": "Hồ sơ để tổ chức tín dụng thực hiện thiết lập quan hệ giao dịch mua bán vàng miếng với Ngân hàng Nhà nước được quy định thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6120,
+    6122,
+    6137,
+    6136,
+    6127,
+    6132,
+    6129,
+    6119,
+    6125,
+    6126
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 61836,
+  "query": "Thành viên cơ quan Việt Nam ở nước ngoài có được phụ cấp một khoản tiền khoán cho cả nhiệm kỳ để mua trang phục đối ngoại không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8797,
+    8799,
+    7898,
+    11096,
+    7897,
+    11094,
+    7900,
+    4456,
+    7899,
+    8789
+  ]
+}

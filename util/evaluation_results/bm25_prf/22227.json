@@ -1,0 +1,29 @@
+{
+  "qid": 22227,
+  "query": "Bảo vệ kho vật chứng có phải là người thuộc biên chế của cơ quan thi hành án hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    948,
+    959,
+    953,
+    947,
+    950,
+    829,
+    955,
+    951,
+    945,
+    949
+  ]
+}

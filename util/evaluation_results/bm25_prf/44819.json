@@ -1,0 +1,29 @@
+{
+  "qid": 44819,
+  "query": "Hồ sơ đăng ký khai sinh cho trẻ em sinh ra ở nước ngoài có mẹ là công dân Việt Nam cần chuẩn bị những gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4560,
+    2262,
+    3130,
+    2265,
+    4584,
+    2270,
+    5136,
+    4568,
+    1787,
+    14443
+  ]
+}

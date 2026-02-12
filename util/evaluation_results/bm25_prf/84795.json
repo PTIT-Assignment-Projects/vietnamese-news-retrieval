@@ -1,0 +1,29 @@
+{
+  "qid": 84795,
+  "query": "Thực hiện hoàn trả chi phí cưỡng chế thi hành quyết định xử phạt vi phạm hành chính thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5394,
+    5389,
+    5391,
+    5393,
+    11610,
+    13364,
+    11823,
+    11822,
+    14544,
+    3533
+  ]
+}

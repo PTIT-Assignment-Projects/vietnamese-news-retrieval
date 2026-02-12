@@ -1,0 +1,29 @@
+{
+  "qid": 83623,
+  "query": "Bộ Ngoại giao có trách nhiệm gì trong việc chuyển giao hồ sơ, vật chứng để yêu cầu nước ngoài tiếp tục truy cứu trách nhiệm hình sự?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    1915,
+    1925,
+    1910,
+    1909,
+    1921,
+    1912,
+    7983,
+    1923,
+    7987,
+    1918
+  ]
+}

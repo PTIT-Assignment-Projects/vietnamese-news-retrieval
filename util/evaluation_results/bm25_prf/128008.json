@@ -1,0 +1,29 @@
+{
+  "qid": 128008,
+  "query": "Thủ tục cấp sổ đỏ đối với dự án kinh doanh bất động sản không phải dự án phát triển nhà ở được thực hiện theo quy định mới từ ngày nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7296,
+    2470,
+    6493,
+    6921,
+    6364,
+    10276,
+    3530,
+    11418,
+    351,
+    14741
+  ]
+}

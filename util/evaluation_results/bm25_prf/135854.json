@@ -1,0 +1,29 @@
+{
+  "qid": 135854,
+  "query": "Ngoài loại hình công ty hợp danh thì doanh nghiệp đấu giá tài sản có thể thành lập dưới hình thức nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    710,
+    712,
+    715,
+    9426,
+    8951,
+    6588,
+    14855,
+    716,
+    8943,
+    767
+  ]
+}

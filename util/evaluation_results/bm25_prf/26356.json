@@ -1,0 +1,29 @@
+{
+  "qid": 26356,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có thẩm quyền xử phạt hình chính đối với hành vi tụ tập bạn bè đánh bài tại nhà riêng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4640,
+    8481,
+    3099,
+    1717,
+    8166,
+    3104,
+    8472,
+    3105,
+    8471,
+    1884
+  ]
+}

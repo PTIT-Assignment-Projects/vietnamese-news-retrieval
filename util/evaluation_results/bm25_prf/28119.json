@@ -1,0 +1,29 @@
+{
+  "qid": 28119,
+  "query": "Kỳ kế toán năm cuối cùng có thời gian ngắn thì có được phép cộng với kỳ kế toán năm trước đó để tính thành một kỳ kế toán năm không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    2856,
+    2870,
+    5827,
+    5780,
+    12083,
+    2873,
+    5823,
+    5824,
+    5766,
+    2868
+  ]
+}

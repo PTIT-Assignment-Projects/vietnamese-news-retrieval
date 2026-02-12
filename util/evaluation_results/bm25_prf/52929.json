@@ -1,0 +1,29 @@
+{
+  "qid": 52929,
+  "query": "Hồ sơ đóng tạm thời cảng hàng không sân bay khi Giấy chứng nhận khai thác cảng hàng không sân bay bị thu hồi gồm những gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5915,
+    5913,
+    5923,
+    5924,
+    5916,
+    5914,
+    5922,
+    5926,
+    5872,
+    5910
+  ]
+}

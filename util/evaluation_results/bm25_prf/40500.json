@@ -1,0 +1,29 @@
+{
+  "qid": 40500,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt hãng hàng không không thực hiện bảo trì công trình hàng không theo kế hoạch được phê duyệt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5918,
+    5876,
+    5917,
+    5879,
+    5875,
+    5921,
+    5929,
+    5874,
+    5877,
+    5916
+  ]
+}

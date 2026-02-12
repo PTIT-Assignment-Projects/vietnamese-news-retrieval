@@ -1,0 +1,29 @@
+{
+  "qid": 27590,
+  "query": "Đối với hành vi không thông tin kịp thời để lực lượng chức năng đến cứu nạn người trên biển thì Chủ tịch Ủy ban nhân dân huyện có quyền xử phạt vi phạm hành chính không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8722,
+    2563,
+    8721,
+    8728,
+    14005,
+    10171,
+    10169,
+    6556,
+    8720,
+    8727
+  ]
+}

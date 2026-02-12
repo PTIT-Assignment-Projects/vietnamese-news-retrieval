@@ -1,0 +1,29 @@
+{
+  "qid": 113217,
+  "query": "Mua, nhập khẩu máy trò chơi điện tử có thưởng, đồng tiền quy ước, thiết bị trò chơi kinh doanh trò chơi điện tử có thưởng cho người nước ngoài?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3263,
+    3248,
+    3262,
+    3250,
+    3251,
+    3256,
+    3255,
+    3266,
+    12836,
+    3268
+  ]
+}

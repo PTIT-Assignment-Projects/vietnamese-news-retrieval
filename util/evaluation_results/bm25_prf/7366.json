@@ -1,0 +1,29 @@
+{
+  "qid": 7366,
+  "query": "Chức danh nghề nghiệp dinh dưỡng làm việc trong các đơn vị sự nghiệp công lập được áp dụng hệ số lương viên chức nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12013,
+    12014,
+    12010,
+    4888,
+    12002,
+    12001,
+    12017,
+    14211,
+    12004,
+    1536
+  ]
+}

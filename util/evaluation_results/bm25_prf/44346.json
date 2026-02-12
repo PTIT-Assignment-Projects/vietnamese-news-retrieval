@@ -1,0 +1,29 @@
+{
+  "qid": 44346,
+  "query": "Phòng hỗ trợ giáo dục hòa nhập cho người khuyết tật có được trang bị vật dụng đặc thù để dạy học hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3432,
+    3428,
+    3436,
+    3441,
+    3431,
+    3427,
+    3442,
+    3446,
+    3435,
+    3443
+  ]
+}

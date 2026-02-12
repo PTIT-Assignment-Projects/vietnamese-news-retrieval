@@ -1,0 +1,29 @@
+{
+  "qid": 36808,
+  "query": "Người tổ chức hội thảo giới thiệu mỹ phẩm không đúng với nội dung đã thông báo tới cơ quan có thẩm quyền thì bị xử phạt thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14610,
+    14608,
+    9530,
+    9539,
+    9521,
+    9538,
+    9541,
+    9533,
+    9519,
+    9524
+  ]
+}

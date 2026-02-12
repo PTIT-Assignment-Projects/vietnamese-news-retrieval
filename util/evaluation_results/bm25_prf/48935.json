@@ -1,0 +1,29 @@
+{
+  "qid": 48935,
+  "query": "Việc cấp lại Thẻ hành nghề xử lý vật thể thuộc diện kiểm dịch thực vật được thực hiện theo trình tự nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5022,
+    5024,
+    5018,
+    5020,
+    5017,
+    5019,
+    5015,
+    5026,
+    5286,
+    14302
+  ]
+}

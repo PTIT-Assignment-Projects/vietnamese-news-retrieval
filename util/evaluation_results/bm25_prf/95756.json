@@ -1,0 +1,29 @@
+{
+  "qid": 95756,
+  "query": "Công ty có trách nhiệm về bồi thường và trợ cấp trong những trường hợp đặc thù khi người lao động bị tai nạn lao động ra sao?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    4182,
+    4181,
+    4180,
+    4185,
+    4187,
+    4183,
+    4186,
+    4176,
+    4178,
+    14098
+  ]
+}

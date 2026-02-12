@@ -1,0 +1,29 @@
+{
+  "qid": 95011,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt tổ chức đấu giá tài sản Cản trở, gây khó khăn cho người tham gia đấu giá trong việc đăng ký tham gia đấu giá, tham gia cuộc đấu giá không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    696,
+    720,
+    725,
+    752,
+    759,
+    746,
+    723,
+    736,
+    726,
+    721
+  ]
+}

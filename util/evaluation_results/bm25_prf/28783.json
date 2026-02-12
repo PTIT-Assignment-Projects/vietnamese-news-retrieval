@@ -1,0 +1,29 @@
+{
+  "qid": 28783,
+  "query": "Trại viên cơ sở giáo dục bắt buộc có phải tiếp tục ở lại cơ sở nếu bị đánh giá chưa tiếp bộ sau khi chấp hành xong quyết định?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1935,
+    1930,
+    1968,
+    1932,
+    7279,
+    1970,
+    1929,
+    2111,
+    7280,
+    7277
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 140709,
+  "query": "Trường hợp giáo viên trung học cơ sở hạng III chưa đáp ứng được trình độ chuẩn được đào tạo thì có được áp dụng hệ số lương từ 2,34 đến hệ số lương 4,98 hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1537,
+    1536,
+    7726,
+    8457,
+    6460,
+    8612,
+    3852,
+    8458,
+    1534,
+    1533
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 99972,
+  "query": "Hướng dẫn viên văn hóa hạng 3 có thời gian công tác giữ chức danh nghề nghiệp hướng dẫn viên văn hóa hạng 4 bao lâu thì được xét thăng hạng?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6460,
+    1536,
+    13119,
+    6459,
+    6455,
+    6456,
+    14239,
+    8612,
+    13125,
+    8457
+  ]
+}

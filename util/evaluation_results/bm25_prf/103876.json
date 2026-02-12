@@ -1,0 +1,29 @@
+{
+  "qid": 103876,
+  "query": "Xử lý kết quả kiểm tra sau thông quan khi Tổng cục trưởng Tổng cục Hải quan ban hành quyết định kiểm tra được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8407,
+    8320,
+    8405,
+    11070,
+    8331,
+    8404,
+    14531,
+    8333,
+    11073,
+    8406
+  ]
+}

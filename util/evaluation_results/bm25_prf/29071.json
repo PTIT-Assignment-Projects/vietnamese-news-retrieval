@@ -1,0 +1,29 @@
+{
+  "qid": 29071,
+  "query": "Trường hợp khi đăng ký khai sinh mà cha mẹ không thỏa thuận được về họ, dân tộc, quê quán của con thì những thông tin đó được xác định như thế nào?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    2262,
+    4559,
+    3130,
+    4560,
+    4582,
+    4572,
+    4569,
+    4563,
+    4562,
+    4568
+  ]
+}

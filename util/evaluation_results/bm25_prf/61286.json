@@ -1,0 +1,29 @@
+{
+  "qid": 61286,
+  "query": "Trưởng đoàn thanh tra của Cục Báo chí có quyền xử phạt tổ chức cung cấp thông tin có nội dung quy kết tội danh khi chưa có bản án kết tội của tòa án trên trang thông tin điện tử tổng hợp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14921,
+    14904,
+    14909,
+    14198,
+    9736,
+    9735,
+    9737,
+    14915,
+    4624,
+    14906
+  ]
+}

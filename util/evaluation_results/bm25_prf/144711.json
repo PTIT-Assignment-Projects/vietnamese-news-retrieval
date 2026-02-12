@@ -1,0 +1,29 @@
+{
+  "qid": 144711,
+  "query": "Ngoài đơn xin cấp Giấy chứng nhận đủ điều kiện kinh doanh đặt cược bóng đá quốc tế thì hồ sơ đề nghị cấp giấy chứng nhận còn cần những gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6502,
+    6505,
+    6504,
+    6499,
+    6498,
+    6542,
+    6501,
+    6494,
+    6467,
+    9775
+  ]
+}

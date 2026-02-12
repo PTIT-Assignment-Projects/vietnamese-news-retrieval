@@ -1,0 +1,29 @@
+{
+  "qid": 77510,
+  "query": "Người quản lý doanh nghiệp nhà nước chưa thực hiện quy trình xem xét bổ nhiệm lại vị trí, chức danh trong trường hợp nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14262,
+    11920,
+    2356,
+    13051,
+    14220,
+    14254,
+    14251,
+    13770,
+    7337,
+    11613
+  ]
+}

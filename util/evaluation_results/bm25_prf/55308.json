@@ -1,0 +1,29 @@
+{
+  "qid": 55308,
+  "query": "Quy trình xử lý hồ sơ đăng ký tổ chức hoạt động ủng hộ qua Cổng Thông tin điện tử nhân đạo quốc gia được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9493,
+    9486,
+    9496,
+    9484,
+    9491,
+    9489,
+    9495,
+    9490,
+    9492,
+    9488
+  ]
+}

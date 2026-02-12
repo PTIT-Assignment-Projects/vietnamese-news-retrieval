@@ -1,0 +1,29 @@
+{
+  "qid": 133617,
+  "query": "Thủ tục kiểm tra báo cáo quyết toán của doanh nghiệp kinh doanh hàng miễn thuế được quy định thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10407,
+    10408,
+    10412,
+    10392,
+    10403,
+    10394,
+    10393,
+    10389,
+    10399,
+    10404
+  ]
+}

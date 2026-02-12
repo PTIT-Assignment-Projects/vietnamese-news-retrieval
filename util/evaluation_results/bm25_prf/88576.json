@@ -1,0 +1,29 @@
+{
+  "qid": 88576,
+  "query": "Trang phục khi tham dự lễ kỷ niệm ngày Giỗ Tổ Hùng Vương vào những năm không phải năm tròn, không phải năm lẻ 5 được quy định như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4196,
+    4194,
+    4192,
+    4193,
+    4198,
+    4197,
+    4191,
+    4190,
+    12449,
+    4199
+  ]
+}

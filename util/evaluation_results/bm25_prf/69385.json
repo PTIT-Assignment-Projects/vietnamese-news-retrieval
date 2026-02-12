@@ -1,0 +1,29 @@
+{
+  "qid": 69385,
+  "query": "Trách nhiệm công bố quyết định thanh tra hành chính thuộc về ai và trong thời gian bao nhiêu ngày?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7022,
+    4970,
+    4968,
+    13391,
+    4951,
+    7017,
+    5119,
+    7023,
+    4983,
+    4955
+  ]
+}

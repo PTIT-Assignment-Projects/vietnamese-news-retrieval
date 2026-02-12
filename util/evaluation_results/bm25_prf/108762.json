@@ -1,0 +1,29 @@
+{
+  "qid": 108762,
+  "query": "Thẩm phán chủ tọa phiên tòa có được tự ý thay thế biện pháp ngăn chặn khác trong trường hợp biện pháp tạm hoãn xuất cảnh hết thời hạn áp dụng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10755,
+    10824,
+    10765,
+    10970,
+    10601,
+    10522,
+    10774,
+    10756,
+    1186,
+    10859
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 96282,
+  "query": "Doanh nghiệp kinh doanh trò chơi điện tử có thưởng dành cho người nước ngoài không mở sổ quản lý máy trò chơi điện tử có thưởng bị xử lý như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3248,
+    3262,
+    3255,
+    3256,
+    3263,
+    3253,
+    3267,
+    3254,
+    3299,
+    3268
+  ]
+}

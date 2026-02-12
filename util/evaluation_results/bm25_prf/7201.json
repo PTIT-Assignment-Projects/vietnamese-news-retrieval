@@ -1,0 +1,29 @@
+{
+  "qid": 7201,
+  "query": "Chỉ một người tham gia đấu giá tài sản thi hành án, một người trả giá thì thực hiện kiểm sát được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    736,
+    692,
+    728,
+    729,
+    739,
+    737,
+    738,
+    730,
+    727,
+    745
+  ]
+}

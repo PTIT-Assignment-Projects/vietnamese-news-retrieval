@@ -1,0 +1,29 @@
+{
+  "qid": 118473,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã được quyền xử phạt người ép buộc cha mẹ già lang thang kiếm sống không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4577,
+    8472,
+    8471,
+    8481,
+    12496,
+    4896,
+    8473,
+    8280,
+    3130,
+    12344
+  ]
+}

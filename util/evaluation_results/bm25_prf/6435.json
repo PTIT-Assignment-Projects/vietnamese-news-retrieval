@@ -1,0 +1,29 @@
+{
+  "qid": 6435,
+  "query": "Tổ chức tín dụng chỉ được cung cấp thông tin khách hàng cho tổ chức, cá nhân khác trong những trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14532,
+    14529,
+    14523,
+    14534,
+    14522,
+    14533,
+    14525,
+    14535,
+    14527,
+    14528
+  ]
+}

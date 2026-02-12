@@ -1,0 +1,29 @@
+{
+  "qid": 102812,
+  "query": "Các hình thức khiếu nại đến Ban thanh tra nhân dân tại bệnh viện có bao gồm gửi đơn thư, gọi điện thoại, đến trực tiếp không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1526,
+    1525,
+    3171,
+    1489,
+    1507,
+    1504,
+    1527,
+    1524,
+    1516,
+    5994
+  ]
+}

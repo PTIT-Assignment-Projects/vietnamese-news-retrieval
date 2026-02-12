@@ -1,0 +1,29 @@
+{
+  "qid": 77158,
+  "query": "Cá nhân ngành Kiểm sát nhân dân được xét tặng danh hiệu Chiến sỹ thi đua cơ sở có được xét nâng bậc lương trước hạn hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1370,
+    1360,
+    1333,
+    1331,
+    1357,
+    3477,
+    3485,
+    1353,
+    1332,
+    1369
+  ]
+}

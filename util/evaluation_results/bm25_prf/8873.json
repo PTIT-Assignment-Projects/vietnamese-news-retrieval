@@ -1,0 +1,29 @@
+{
+  "qid": 8873,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt cá nhân không thực hiện phục hồi môi trường khu vực đất bị ô nhiễm không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10176,
+    3116,
+    3109,
+    3117,
+    3110,
+    3118,
+    10179,
+    8683,
+    3120,
+    2455
+  ]
+}

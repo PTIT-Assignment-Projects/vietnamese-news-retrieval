@@ -1,0 +1,29 @@
+{
+  "qid": 116884,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người xuất khẩu giống cây trồng thuộc Danh Mục giống cây trồng quý hiếm cấm xuất khẩu không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5286,
+    9938,
+    8325,
+    5228,
+    8326,
+    5273,
+    5233,
+    5274,
+    5271,
+    5272
+  ]
+}

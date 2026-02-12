@@ -1,0 +1,29 @@
+{
+  "qid": 99902,
+  "query": "Có các danh hiệu thi đua ngành Lao động, Thương binh và Xã hội nào đối với tập thể? Có danh hiệu Tập thể lao động xuất sắc không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8841,
+    5588,
+    7851,
+    5604,
+    7687,
+    1141,
+    7704,
+    8862,
+    10036,
+    7859
+  ]
+}

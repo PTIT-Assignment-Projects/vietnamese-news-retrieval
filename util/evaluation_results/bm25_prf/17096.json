@@ -1,0 +1,29 @@
+{
+  "qid": 17096,
+  "query": "Trưởng đoàn thanh tra của Cục Báo chí có quyền xử phạt tổ chức thiết lập trang thông tin điện tử tổng hợp không triển khai quy trình quản lý thông tin công cộng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14921,
+    14904,
+    9735,
+    6599,
+    9737,
+    7914,
+    9736,
+    14198,
+    5116,
+    6602
+  ]
+}

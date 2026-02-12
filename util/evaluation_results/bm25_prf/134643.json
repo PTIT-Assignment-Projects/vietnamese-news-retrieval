@@ -1,0 +1,29 @@
+{
+  "qid": 134643,
+  "query": "Trường hợp nào được công nhận biết tiếng Việt thành thạo trong cơ sở khám bệnh, chữa bệnh mà người hành nghề không phải qua kiểm tra?",
+  "metrics": {
+    "mrr": 0.2,
+    "map": 0.2,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.38685280723454163,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.38685280723454163
+  },
+  "retrieved": [
+    12367,
+    7753,
+    12369,
+    12368,
+    7754,
+    7756,
+    12354,
+    14579,
+    7757,
+    7760
+  ]
+}

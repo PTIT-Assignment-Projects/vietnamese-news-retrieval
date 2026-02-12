@@ -1,0 +1,29 @@
+{
+  "qid": 74170,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt người bán hàng rong nài ép khách du lịch mua hàng hóa không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12344,
+    12346,
+    7292,
+    9752,
+    7293,
+    6049,
+    9342,
+    7607,
+    13418,
+    7294
+  ]
+}

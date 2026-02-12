@@ -1,0 +1,29 @@
+{
+  "qid": 134672,
+  "query": "Con của sĩ quan Quân đội nhân dân Việt Nam trúng tuyển trong kỳ thi tuyển công chức Thuế phải đáp ứng đầy đủ các điều kiện như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2372,
+    2363,
+    2375,
+    14213,
+    2374,
+    702,
+    14491,
+    8075,
+    8937,
+    6068
+  ]
+}

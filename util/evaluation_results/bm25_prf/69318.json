@@ -1,0 +1,29 @@
+{
+  "qid": 69318,
+  "query": "Thực hiện quyết định đặc xá của nước chuyển giao đối với người đang chấp hành án phạt tù theo trình tự như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    296,
+    294,
+    292,
+    3989,
+    8013,
+    291,
+    6991,
+    295,
+    12712,
+    280
+  ]
+}

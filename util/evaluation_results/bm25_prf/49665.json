@@ -1,0 +1,29 @@
+{
+  "qid": 49665,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt đối với hành vi sản xuất sản phẩm thức ăn chăn nuôi thương mại chưa được công bố thông tin sản phẩm không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12438,
+    12445,
+    12430,
+    12444,
+    12428,
+    9661,
+    13891,
+    12433,
+    14828,
+    14611
+  ]
+}

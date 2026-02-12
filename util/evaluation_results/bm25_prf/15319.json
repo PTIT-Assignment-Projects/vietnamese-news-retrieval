@@ -1,0 +1,29 @@
+{
+  "qid": 15319,
+  "query": "Trình tự công bố hoạt động khu neo đậu được thực hiện như thế nào theo quy định pháp luật hiện nay?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9070,
+    9071,
+    9058,
+    9106,
+    9109,
+    9061,
+    9069,
+    9047,
+    9110,
+    9050
+  ]
+}

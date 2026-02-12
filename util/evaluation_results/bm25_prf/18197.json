@@ -1,0 +1,29 @@
+{
+  "qid": 18197,
+  "query": "Thủ tục chấp thuận hồ sơ đề nghị chuyển nhượng Phần vốn góp cho thành viên góp vốn mới được thực hiện ra sao?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13009,
+    13000,
+    9471,
+    13008,
+    5643,
+    7355,
+    13013,
+    5631,
+    539,
+    5639
+  ]
+}

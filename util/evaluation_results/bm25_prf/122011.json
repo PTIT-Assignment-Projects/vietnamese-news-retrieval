@@ -1,0 +1,29 @@
+{
+  "qid": 122011,
+  "query": "Bị Tòa án tuyên phạt án treo do tham gia đường dây làm bằng giả thì giáo viên có được tiếp tục giảng dạy nữa hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8153,
+    8152,
+    8151,
+    8154,
+    4443,
+    8148,
+    4442,
+    533,
+    10840,
+    3986
+  ]
+}

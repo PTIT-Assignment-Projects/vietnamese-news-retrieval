@@ -1,0 +1,29 @@
+{
+  "qid": 125436,
+  "query": "Tổ chức kinh doanh dịch vụ lưu trú du lịch với loại hình biệt thự du lịch có bắt buộc phải niêm yết giá dịch vụ hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9796,
+    9793,
+    9795,
+    9792,
+    9752,
+    6624,
+    9746,
+    9791,
+    9799,
+    9769
+  ]
+}

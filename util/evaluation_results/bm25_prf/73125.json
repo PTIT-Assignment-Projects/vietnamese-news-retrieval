@@ -1,0 +1,29 @@
+{
+  "qid": 73125,
+  "query": "Phương pháp viên hạng 4 chuyên ngành văn hóa cơ sở cần đáp ứng những tiêu chuẩn chung về đạo đức nghề nghiệp như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6459,
+    13119,
+    6460,
+    1536,
+    6924,
+    9588,
+    14239,
+    8734,
+    6450,
+    7465
+  ]
+}

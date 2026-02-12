@@ -1,0 +1,29 @@
+{
+  "qid": 88781,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải có quyền xử phạt người làm sai lệch kết quả giám định sức khỏe cho nhân viên hàng không không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    11127,
+    12971,
+    14198,
+    12974,
+    3304,
+    10377,
+    6555,
+    4983,
+    6556
+  ]
+}

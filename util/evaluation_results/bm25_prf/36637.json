@@ -1,0 +1,29 @@
+{
+  "qid": 36637,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt tổ chức không triển khai hệ thống kỹ thuật nghiệp vụ để ngăn chặn phần mềm độc hại không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3104,
+    3099,
+    3103,
+    9233,
+    3105,
+    4898,
+    4896,
+    679,
+    3098,
+    1761
+  ]
+}

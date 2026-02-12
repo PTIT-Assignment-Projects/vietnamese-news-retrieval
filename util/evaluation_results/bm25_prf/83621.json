@@ -1,0 +1,29 @@
+{
+  "qid": 83621,
+  "query": "Công tác tiếp nhận, chuyển giao hồ sơ, vật chứng để yêu cầu nước ngoài tiếp tục truy cứu trách nhiệm hình sự phải đáp ứng các điều kiện nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1909,
+    1910,
+    1925,
+    7983,
+    1915,
+    1921,
+    1923,
+    1908,
+    7987,
+    1912
+  ]
+}

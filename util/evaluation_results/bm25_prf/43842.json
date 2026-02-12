@@ -1,0 +1,29 @@
+{
+  "qid": 43842,
+  "query": "Hồ sơ bổ nhiệm viên chức quản lý trong trường hợp sáp nhập, chia tách đơn vị sự nghiệp công lập sẽ gồm những gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14254,
+    2159,
+    2158,
+    2157,
+    13771,
+    2153,
+    4261,
+    5504,
+    2161,
+    11960
+  ]
+}

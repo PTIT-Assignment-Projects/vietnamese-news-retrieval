@@ -1,0 +1,29 @@
+{
+  "qid": 32796,
+  "query": "Thăng hạng chức danh nghề nghiệp từ đạo diễn nghệ thuật hạng IV lên đạo diễn nghệ thuật hạng III phải đảm bảo điều kiện gì về thời gian công tác?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13119,
+    12588,
+    12599,
+    13123,
+    12587,
+    7460,
+    8612,
+    12594,
+    3870,
+    3876
+  ]
+}

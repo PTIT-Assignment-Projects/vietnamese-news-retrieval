@@ -1,0 +1,29 @@
+{
+  "qid": 9505,
+  "query": "Thời hạn Ngân hàng Phát triển Việt Nam phải gửi kế hoạch khắc phục để đảm bảo tuân thủ đúng các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động ngân hàng là bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7885,
+    7889,
+    7877,
+    7886,
+    7887,
+    7880,
+    880,
+    2451,
+    7879,
+    10067
+  ]
+}

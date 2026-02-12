@@ -1,0 +1,29 @@
+{
+  "qid": 159488,
+  "query": "Công chức đang bị điều tra, truy tố, xét xử có được bổ nhiệm lại hoặc kéo dài thời gian giữ chức vụ lãnh đạo, quản lý không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14256,
+    2334,
+    14260,
+    14259,
+    2357,
+    13781,
+    2396,
+    14263,
+    13745,
+    5542
+  ]
+}

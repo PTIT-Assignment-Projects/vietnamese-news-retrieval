@@ -1,0 +1,29 @@
+{
+  "qid": 101123,
+  "query": "Cục Quản lý Dược có cần công bố trên trang thông tin điện tử về chấp nhận yêu cầu dữ bảo mất dữ liệu thử nghiệm của cơ sở đăng ký thuốc không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4730,
+    1128,
+    4732,
+    4733,
+    4419,
+    4731,
+    4736,
+    3539,
+    4729,
+    4424
+  ]
+}

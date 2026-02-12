@@ -1,0 +1,29 @@
+{
+  "qid": 4154,
+  "query": "Chuyển nơi khám chữa bệnh ban đầu cho con từ TPHCM về Bình Dương thì liên hệ cơ quan nào để thực hiện?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5139,
+    5142,
+    5149,
+    9342,
+    5143,
+    129,
+    9253,
+    3142,
+    10145,
+    11814
+  ]
+}

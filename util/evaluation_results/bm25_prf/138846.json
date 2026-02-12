@@ -1,0 +1,29 @@
+{
+  "qid": 138846,
+  "query": "Cơ quan hải quan tiến hành kiểm tra đột xuất nguyên liệu, vật tư tồn kho bảo thuế trong trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8401,
+    8400,
+    8403,
+    8402,
+    8399,
+    8345,
+    8347,
+    8344,
+    8343,
+    11995
+  ]
+}

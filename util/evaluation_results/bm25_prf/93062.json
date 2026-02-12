@@ -1,0 +1,29 @@
+{
+  "qid": 93062,
+  "query": "Viên chức có người thân trong gia đình bị kết án tù treo thì có được bổ nhiệm thăng chức Trưởng phòng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    504,
+    13063,
+    13058,
+    2920,
+    13059,
+    7301,
+    11765,
+    2339,
+    11766,
+    7338
+  ]
+}

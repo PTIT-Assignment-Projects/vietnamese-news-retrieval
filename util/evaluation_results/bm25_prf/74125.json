@@ -1,0 +1,29 @@
+{
+  "qid": 74125,
+  "query": "Trong vụ án hình sự có người bị buộc tội là người dưới 18 tuổi nếu có sự mâu thuẫn giữa các giấy tờ, tài liệu dùng để xác định tuổi của họ thì xử lý thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6697,
+    10892,
+    10550,
+    10549,
+    10891,
+    10492,
+    10503,
+    2537,
+    2829,
+    10893
+  ]
+}

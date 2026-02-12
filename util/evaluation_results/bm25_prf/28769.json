@@ -1,0 +1,29 @@
+{
+  "qid": 28769,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt cơ sở y tế giúp người đang mang thai loại bỏ thai nhi vì lựa chọn giới tính không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14641,
+    14639,
+    14638,
+    14640,
+    11564,
+    14584,
+    14574,
+    14642,
+    14586,
+    11615
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 108210,
+  "query": "Trong việc liên thông Tổ chức cung cấp dịch vụ chứng thực chữ ký số quốc gia và Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ có trách nhiệm thế nào?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    4531,
+    4530,
+    4535,
+    4532,
+    4528,
+    4534,
+    4529,
+    3318,
+    13326,
+    1460
+  ]
+}

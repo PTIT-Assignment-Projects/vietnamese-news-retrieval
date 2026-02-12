@@ -1,0 +1,29 @@
+{
+  "qid": 78124,
+  "query": "Việc yêu cầu phục hồi danh dự đối với người bị thiệt hại đã chết mà không có người thừa kế và đã có quyết định đình chỉ giải giải quyết yêu cầu bồi thường được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    12743,
+    12733,
+    12749,
+    12747,
+    12707,
+    12735,
+    12695,
+    12698,
+    12693,
+    10508
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 163760,
+  "query": "Người nước ngoài cần chuẩn bị những giấy tờ nào cho hồ sơ đề nghị kiểm tra, công nhận biết tiếng Việt thành thạo trong khám chữa bệnh?",
+  "metrics": {
+    "mrr": 0.3333333333333333,
+    "map": 0.3333333333333333,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.5,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.5
+  },
+  "retrieved": [
+    12367,
+    12368,
+    12369,
+    7756,
+    7753,
+    7754,
+    7757,
+    7760,
+    12354,
+    14701
+  ]
+}

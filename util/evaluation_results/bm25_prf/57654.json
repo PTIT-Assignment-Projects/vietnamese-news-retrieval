@@ -1,0 +1,29 @@
+{
+  "qid": 57654,
+  "query": "Nếu có nhiều bị can trong quá trình thực hiện hỏi cung thì việc hỏi cung được thực hiện thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3557,
+    10661,
+    10660,
+    6705,
+    3559,
+    3558,
+    3553,
+    3560,
+    10550,
+    3561
+  ]
+}

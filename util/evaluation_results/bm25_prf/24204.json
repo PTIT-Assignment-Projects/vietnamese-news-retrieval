@@ -1,0 +1,29 @@
+{
+  "qid": 24204,
+  "query": "Tổ chức sinh hoạt văn hóa văn nghệ và vui chơi giải trí của phạm nhân là người chưa thành niên được quy định thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1847,
+    1848,
+    14450,
+    1958,
+    14448,
+    1837,
+    9250,
+    1835,
+    1838,
+    1849
+  ]
+}

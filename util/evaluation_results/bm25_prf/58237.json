@@ -1,0 +1,29 @@
+{
+  "qid": 58237,
+  "query": "Người khai thác cảng hàng không sân bay phải đảm bảo những yêu cầu về các hoạt động chủ trì, điều phối và quản lý ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5877,
+    5879,
+    5933,
+    5935,
+    5878,
+    12958,
+    5880,
+    5881,
+    5929,
+    5875
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 66413,
+  "query": "Trường hợp người thi hành công vụ có lỗi gây thiệt hại chuyển sang cơ quan, tổ chức khác thì trách nhiệm thu tiền hoàn trả thuộc về cơ quan nào?",
+  "metrics": {
+    "mrr": 0.25,
+    "map": 0.25,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 0.5,
+    "ndcg@5": 0.2640681225725909,
+    "p@10": 0.2,
+    "r@10": 1.0,
+    "ndcg@10": 0.45749452618986164
+  },
+  "retrieved": [
+    12758,
+    12757,
+    12756,
+    12762,
+    12763,
+    12707,
+    12761,
+    12759,
+    12740,
+    12706
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 104117,
+  "query": "Doanh nghiệp có vốn đầu tư nước ngoài được kinh doanh dịch vụ lữ hành quốc tế phục vụ đối tượng khách du lịch nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9773,
+    9781,
+    9780,
+    9775,
+    9778,
+    9774,
+    9779,
+    6609,
+    9801,
+    9787
+  ]
+}

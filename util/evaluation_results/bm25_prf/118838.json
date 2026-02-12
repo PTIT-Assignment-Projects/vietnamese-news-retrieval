@@ -1,0 +1,29 @@
+{
+  "qid": 118838,
+  "query": "Trong kinh doanh vận tải hành khách theo hợp đồng, hợp đồng vận chuyển hành khách phải bao gồm những nội dung tối thiểu nào?",
+  "metrics": {
+    "mrr": 0.125,
+    "map": 0.125,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.31546487678572877
+  },
+  "retrieved": [
+    13133,
+    13129,
+    13139,
+    13130,
+    10321,
+    10326,
+    13149,
+    13141,
+    13137,
+    13161
+  ]
+}

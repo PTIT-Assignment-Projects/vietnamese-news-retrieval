@@ -1,0 +1,29 @@
+{
+  "qid": 32758,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt người làm rơi rơm, rạ xuống vùng nước đường thủy nội địa không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9049,
+    9079,
+    9050,
+    9108,
+    9085,
+    9053,
+    9075,
+    9072,
+    9078,
+    9081
+  ]
+}

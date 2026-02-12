@@ -1,0 +1,29 @@
+{
+  "qid": 44670,
+  "query": "Ban Chủ nhiệm chương trình đào tạo của trường trung cấp nghề bao gồm những ai và Ban Chủ nhiệm do ai thành lập?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3343,
+    3344,
+    3340,
+    4217,
+    2098,
+    3339,
+    8667,
+    11756,
+    9865,
+    2096
+  ]
+}

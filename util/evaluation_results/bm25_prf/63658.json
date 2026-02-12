@@ -1,0 +1,29 @@
+{
+  "qid": 63658,
+  "query": "Tổ chức tín dụng mua bán vàng miếng với Ngân hàng Nhà nước không được hoàn trả tiền đặt cọc trong trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6133,
+    6137,
+    6129,
+    6127,
+    6126,
+    6122,
+    6132,
+    6120,
+    6136,
+    6130
+  ]
+}

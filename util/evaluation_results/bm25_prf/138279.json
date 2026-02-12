@@ -1,0 +1,29 @@
+{
+  "qid": 138279,
+  "query": "Kể từ ngày nhận được quyết định hành chính hoặc biết được quyết định hành chính thì thời hiệu khiếu nại là bao nhiêu ngày?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1709,
+    13745,
+    1702,
+    1718,
+    1757,
+    1701,
+    1711,
+    1754,
+    1756,
+    3168
+  ]
+}

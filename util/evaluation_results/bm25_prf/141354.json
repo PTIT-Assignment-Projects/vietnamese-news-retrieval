@@ -1,0 +1,29 @@
+{
+  "qid": 141354,
+  "query": "Sau khi kết thúc điều tra vụ án hình sự người bào chữa có quyền yêu cầu sao chụp tài liệu trong hồ sơ vụ án liên quan đến họ không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10559,
+    10550,
+    2533,
+    10565,
+    2537,
+    10503,
+    10803,
+    2532,
+    13030,
+    10716
+  ]
+}

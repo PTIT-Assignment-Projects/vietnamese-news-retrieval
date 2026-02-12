@@ -1,0 +1,29 @@
+{
+  "qid": 101422,
+  "query": "Tài sản tạm giữ tồn đọng trong kho vật chứng từ 01 năm trở lên thì cơ quan thi hành án dân sự xử lý như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    957,
+    955,
+    950,
+    947,
+    959,
+    948,
+    956,
+    953,
+    829,
+    946
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 22303,
+  "query": "Sử dụng tàu cá có chiều dài 07 mét để khai thác thủy sản mà không có giấy phép khai thác thủy sản thì bị xử phạt vi phạm hành chính như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14180,
+    14484,
+    14198,
+    4637,
+    10360,
+    14480,
+    10311,
+    10340,
+    10357,
+    10370
+  ]
+}

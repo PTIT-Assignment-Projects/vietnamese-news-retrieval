@@ -1,0 +1,29 @@
+{
+  "qid": 112167,
+  "query": "Hồ sơ đề nghị xét tặng danh hiệu Cờ thi đua của Chính phủ cho tập thể tiêu biểu xuất sắc nhất ngành Kiểm sát nhân dân năm 2023 gồm những gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1337,
+    1336,
+    10031,
+    1342,
+    5593,
+    1341,
+    3478,
+    7853,
+    6296,
+    7692
+  ]
+}

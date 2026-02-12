@@ -1,0 +1,29 @@
+{
+  "qid": 108197,
+  "query": "Tổng cục Giáo dục nghề nghiệp có trách nhiệm trình Bộ trưởng phê duyệt kế hoạch thanh tra chậm nhất vào ngày nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13390,
+    7039,
+    4263,
+    7010,
+    8857,
+    13380,
+    4262,
+    13372,
+    8807,
+    9479
+  ]
+}

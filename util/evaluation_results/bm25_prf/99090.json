@@ -1,0 +1,29 @@
+{
+  "qid": 99090,
+  "query": "Doanh nghiệp nội địa có thể gửi hàng hóa mua được từ doanh nghiệp chế xuất vào kho ngoại quan hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10389,
+    8392,
+    8395,
+    11995,
+    471,
+    12272,
+    10392,
+    10399,
+    8401,
+    13358
+  ]
+}

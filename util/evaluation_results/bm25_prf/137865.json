@@ -1,0 +1,29 @@
+{
+  "qid": 137865,
+  "query": "Danh hiệu Lao động tiên tiến ngành Thông tin và Truyền thông được xét tặng cho những cá nhân nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5588,
+    10036,
+    8862,
+    5604,
+    1141,
+    2086,
+    6286,
+    7687,
+    3477,
+    7704
+  ]
+}

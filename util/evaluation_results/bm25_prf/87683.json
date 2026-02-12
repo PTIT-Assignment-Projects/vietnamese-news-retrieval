@@ -1,0 +1,29 @@
+{
+  "qid": 87683,
+  "query": "Kinh doanh cơ sở lưu trú du lịch là nhà nghỉ có cần xin cấp giấy chứng nhận đủ điều kiện an ninh trật tự hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9792,
+    9793,
+    9752,
+    9791,
+    9796,
+    6624,
+    9795,
+    9769,
+    8052,
+    8053
+  ]
+}

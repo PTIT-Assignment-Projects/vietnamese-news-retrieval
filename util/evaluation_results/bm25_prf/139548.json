@@ -1,0 +1,29 @@
+{
+  "qid": 139548,
+  "query": "Thời hạn thanh toán khi tổ chức tín dụng mua vàng miếng của Ngân hàng Nhà nước được quy định thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6132,
+    6122,
+    6129,
+    6136,
+    6137,
+    6120,
+    6133,
+    6119,
+    6125,
+    6127
+  ]
+}

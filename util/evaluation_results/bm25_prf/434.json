@@ -1,0 +1,29 @@
+{
+  "qid": 434,
+  "query": "Doanh nghiệp kinh doanh casino tạm ngừng hoạt động kinh doanh theo yêu cầu của cơ quan quản lý nhà nước thì có cần thông báo cho người chơi biết không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3252,
+    3250,
+    3307,
+    14868,
+    3277,
+    3308,
+    3248,
+    11953,
+    3267,
+    3258
+  ]
+}

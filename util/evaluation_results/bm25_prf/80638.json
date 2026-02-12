@@ -1,0 +1,29 @@
+{
+  "qid": 80638,
+  "query": "Có cần phân loại dữ liệu để xây dựng dữ liệu không gian và dữ liệu thuộc tính quy hoạch, kế hoạch sử dụng đất hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    5438,
+    5405,
+    5404,
+    5456,
+    5408,
+    5406,
+    5429,
+    5432,
+    5422,
+    5470
+  ]
+}

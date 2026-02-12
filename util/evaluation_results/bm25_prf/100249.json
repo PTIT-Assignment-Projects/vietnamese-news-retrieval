@@ -1,0 +1,29 @@
+{
+  "qid": 100249,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt vi phạm hành chính đối với người mẹ vứt bỏ con mới đẻ tại cổng chùa không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13768,
+    4640,
+    3104,
+    12497,
+    11615,
+    4896,
+    7594,
+    12499,
+    8481,
+    1717
+  ]
+}

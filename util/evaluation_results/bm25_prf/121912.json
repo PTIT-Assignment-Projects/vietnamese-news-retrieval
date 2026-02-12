@@ -1,0 +1,29 @@
+{
+  "qid": 121912,
+  "query": "Những văn bản quy phạm pháp luật nào thuộc thẩm quyền rà soát, hệ thống hóa của Thanh tra Chính phủ?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6355,
+    6328,
+    6325,
+    6354,
+    6353,
+    6326,
+    6332,
+    6343,
+    6322,
+    6335
+  ]
+}

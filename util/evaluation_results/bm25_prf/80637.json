@@ -1,0 +1,29 @@
+{
+  "qid": 80637,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người đưa tác phẩm nhiếp ảnh từ Việt Nam ra nước ngoài triển lãm mà không có giấy phép không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1077,
+    13808,
+    1075,
+    13809,
+    1070,
+    7289,
+    13797,
+    1074,
+    13798,
+    13811
+  ]
+}

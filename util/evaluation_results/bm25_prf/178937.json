@@ -1,0 +1,29 @@
+{
+  "qid": 178937,
+  "query": "Mỗi người hướng dẫn tập luyện môn Thể dục thẩm mỹ được hướng dẫn tối đa bao nhiêu người trong một buổi tập?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    4414,
+    4415,
+    257,
+    6039,
+    255,
+    4751,
+    254,
+    1291,
+    1292,
+    253
+  ]
+}

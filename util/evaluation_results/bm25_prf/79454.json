@@ -1,0 +1,29 @@
+{
+  "qid": 79454,
+  "query": "Trong các hoạt động xúc tiến du lịch thì việc cơ quan du lịch nước ngoài muốn thành lập văn phòng đại diện tại Việt Nam thì sẽ cần hồ sơ và trình tự thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9812,
+    6032,
+    141,
+    9811,
+    6027,
+    9787,
+    6030,
+    5329,
+    6031,
+    6036
+  ]
+}

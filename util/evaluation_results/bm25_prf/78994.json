@@ -1,0 +1,29 @@
+{
+  "qid": 78994,
+  "query": "Kinh phí thực hiện các nhiệm vụ liên quan đến cấp nước an toàn của Ban Chỉ đạo cấp nước an toàn cấp tỉnh được lấy từ đâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8145,
+    8146,
+    8144,
+    8141,
+    8143,
+    8140,
+    8147,
+    8142,
+    5342,
+    1061
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 111339,
+  "query": "Nhà xuất khẩu mới có quyền nộp Hồ sơ yêu cầu rà soát biện pháp chống bán phá giá, chống trợ cấp khi đáp ứng các điều kiện gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12912,
+    12906,
+    12909,
+    12907,
+    12911,
+    12891,
+    12905,
+    12883,
+    12884,
+    12908
+  ]
+}

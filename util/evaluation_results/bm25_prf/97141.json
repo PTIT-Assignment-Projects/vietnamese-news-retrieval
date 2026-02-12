@@ -1,0 +1,29 @@
+{
+  "qid": 97141,
+  "query": "Kinh phí chi chế độ chính sách đối với người làm việc tại cơ sở khám bệnh, chữa bệnh quân dân y được lấy từ nguồn nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14778,
+    14784,
+    14785,
+    9579,
+    12357,
+    7284,
+    11814,
+    2965,
+    12362,
+    266
+  ]
+}

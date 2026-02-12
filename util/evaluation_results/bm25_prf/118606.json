@@ -1,0 +1,29 @@
+{
+  "qid": 118606,
+  "query": "Không báo cáo Bộ Y tế bằng văn bản sau khi khắc mới, khắc lại, thu hồi, hủy, hủy giá trị sử dụng, mất con dấu kiểm dịch y tế bị xử phạt ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    14554,
+    9643,
+    9642,
+    9636,
+    9637,
+    9640,
+    135,
+    9646,
+    9638,
+    9649
+  ]
+}

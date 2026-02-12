@@ -1,0 +1,29 @@
+{
+  "qid": 134161,
+  "query": "Văn phòng Thừa phát lại có thể tiếp nhận thêm Thừa phát lại hợp danh mới sau khi đã đăng ký thành lập không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8951,
+    8943,
+    8957,
+    8948,
+    8956,
+    8955,
+    9426,
+    8950,
+    8953,
+    8994
+  ]
+}

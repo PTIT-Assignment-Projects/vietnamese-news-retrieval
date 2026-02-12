@@ -1,0 +1,29 @@
+{
+  "qid": 130383,
+  "query": "Hội đồng kỷ luật công chức cấp tỉnh họp khi nào? Hội đồng kỷ luật công chức cấp tỉnh họp có phải lập thành biên bản không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13767,
+    13769,
+    13765,
+    13778,
+    13770,
+    1752,
+    13766,
+    13768,
+    2336,
+    13775
+  ]
+}

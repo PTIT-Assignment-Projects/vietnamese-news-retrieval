@@ -1,0 +1,29 @@
+{
+  "qid": 20733,
+  "query": "Các tài liệu chứng minh máy trò chơi, bàn trò chơi đáp ứng điều kiện theo quy định có cần công chứng không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3262,
+    3299,
+    3254,
+    3308,
+    3253,
+    3248,
+    3255,
+    3274,
+    3267,
+    3271
+  ]
+}

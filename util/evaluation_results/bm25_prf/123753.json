@@ -1,0 +1,29 @@
+{
+  "qid": 123753,
+  "query": "Trang phục đối với công chức chưa phải là thanh tra chuyên ngành nông nghiệp và phát triển nông thôn được quy định thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    13370,
+    13793,
+    7013,
+    4268,
+    14425,
+    14296,
+    12284,
+    8522,
+    12436,
+    4271
+  ]
+}

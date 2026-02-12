@@ -1,0 +1,29 @@
+{
+  "qid": 38410,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt doanh nghiệp quảng cáo trò chơi điện tử G1 khi chưa được cấp có thẩm quyền phê duyệt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    7949,
+    12522,
+    7292,
+    13193,
+    7289,
+    3248,
+    8280,
+    3283,
+    8283,
+    3306
+  ]
+}

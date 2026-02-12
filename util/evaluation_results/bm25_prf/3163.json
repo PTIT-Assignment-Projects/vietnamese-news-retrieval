@@ -1,0 +1,29 @@
+{
+  "qid": 3163,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt chủ quản hệ thống thông tin quan trọng quốc gia không thực hiện đánh giá rủi ro an toàn thông tin mạng theo định kỳ không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5347,
+    5353,
+    5343,
+    5345,
+    5349,
+    5351,
+    5348,
+    5342,
+    5354,
+    5341
+  ]
+}

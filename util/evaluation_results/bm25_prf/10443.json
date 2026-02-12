@@ -1,0 +1,29 @@
+{
+  "qid": 10443,
+  "query": "Công chức làm nhiệm vụ tiếp công dân thường xuyên tại Trụ sở tiếp công dân Trung ương mặc trang phục xuân hè từ ngày nào?",
+  "metrics": {
+    "mrr": 0.5,
+    "map": 0.5,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 0.6309297535714575,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.6309297535714575
+  },
+  "retrieved": [
+    3217,
+    3222,
+    3216,
+    3165,
+    633,
+    634,
+    1666,
+    1759,
+    3180,
+    4901
+  ]
+}

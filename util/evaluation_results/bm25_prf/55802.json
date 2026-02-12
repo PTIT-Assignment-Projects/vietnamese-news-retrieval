@@ -1,0 +1,29 @@
+{
+  "qid": 55802,
+  "query": "Cách xác định tiền lãi phạt chậm thanh toán tiền mua tín phiếu theo phương thức đấu thầu như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13678,
+    13683,
+    13580,
+    13658,
+    13581,
+    13590,
+    13661,
+    13680,
+    13584,
+    13547
+  ]
+}

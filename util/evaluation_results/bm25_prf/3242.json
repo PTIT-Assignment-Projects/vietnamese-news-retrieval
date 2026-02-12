@@ -1,0 +1,29 @@
+{
+  "qid": 3242,
+  "query": "Giám đốc Công an cấp tỉnh được quyền xử phạt người không thông báo cho nơi tiếp nhận thông tin về hành vi xâm hại trẻ em không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    444,
+    448,
+    449,
+    4640,
+    446,
+    9908,
+    3236,
+    4636,
+    7483,
+    7487
+  ]
+}

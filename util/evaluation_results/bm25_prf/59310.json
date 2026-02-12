@@ -1,0 +1,29 @@
+{
+  "qid": 59310,
+  "query": "Văn bản yêu cầu định giá tài sản trong vụ án hình sự có các nội dung nào? Tiếp nhận và triển khai yêu cầu định giá tài sản được tiến hành thực hiện ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10692,
+    10695,
+    10578,
+    10934,
+    10691,
+    10697,
+    10693,
+    2043,
+    10729,
+    10698
+  ]
+}

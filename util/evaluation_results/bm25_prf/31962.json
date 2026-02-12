@@ -1,0 +1,29 @@
+{
+  "qid": 31962,
+  "query": "Chính sách đối với người trực tiếp tham gia phòng chống bạo lực gia đình mà bị thiệt hại về tài sản được quy định ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8031,
+    1692,
+    1689,
+    8030,
+    1699,
+    8042,
+    1694,
+    1688,
+    1693,
+    8035
+  ]
+}

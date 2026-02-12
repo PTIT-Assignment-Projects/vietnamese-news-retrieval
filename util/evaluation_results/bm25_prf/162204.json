@@ -1,0 +1,29 @@
+{
+  "qid": 162204,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có quyền xử phạt người bán dâm cho hai người trở lên cùng một lúc không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8472,
+    8471,
+    8481,
+    8473,
+    8203,
+    8280,
+    14279,
+    8477,
+    14281,
+    4896
+  ]
+}

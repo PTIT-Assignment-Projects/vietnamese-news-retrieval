@@ -1,0 +1,29 @@
+{
+  "qid": 138436,
+  "query": "Thông tư 4/2023/TT-BNV bãi bỏ hướng dẫn thực hiện xét nâng ngạch không qua thi đối với cán bộ, công chức viên chức đã có thông báo nghỉ hưu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6926,
+    3870,
+    11003,
+    8457,
+    14274,
+    3873,
+    7787,
+    14269,
+    8612,
+    6924
+  ]
+}

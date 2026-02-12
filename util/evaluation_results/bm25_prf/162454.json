@@ -1,0 +1,29 @@
+{
+  "qid": 162454,
+  "query": "Hiện nay có áp dụng chính sách khen thưởng, hỗ trợ thực hiện tốt công tác dân số đối với phụ nữ sinh đủ 2 con trước 35 tuổi không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    1640,
+    1642,
+    1638,
+    1641,
+    7480,
+    7479,
+    1643,
+    7470,
+    11568,
+    8869
+  ]
+}

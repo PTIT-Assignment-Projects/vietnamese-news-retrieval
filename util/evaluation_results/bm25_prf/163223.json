@@ -1,0 +1,29 @@
+{
+  "qid": 163223,
+  "query": "Phiên tòa tái thẩm đối với quyết định của Tòa án bị kháng nghị trong vụ án hình sự được thực hiện theo thủ tục như thế nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10825,
+    10823,
+    10732,
+    10859,
+    10932,
+    10530,
+    10912,
+    10817,
+    10504,
+    10831
+  ]
+}

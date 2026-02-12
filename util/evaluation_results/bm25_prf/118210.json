@@ -1,0 +1,29 @@
+{
+  "qid": 118210,
+  "query": "Chủ tịch Ủy ban nhân dân cấp xã có thẩm quyền xử phạt người ngồi phía sau vòng tay qua người phía trước để điều khiển xe máy hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1717,
+    8481,
+    8472,
+    8471,
+    8280,
+    8473,
+    4896,
+    13193,
+    3104,
+    1761
+  ]
+}

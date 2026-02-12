@@ -1,0 +1,29 @@
+{
+  "qid": 18702,
+  "query": "Có các loại kinh phí gì trong việc xây dựng, duy trì và phát triển Cơ sở dữ liệu quốc gia về khoa học và công nghệ?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12780,
+    12797,
+    12802,
+    12787,
+    12782,
+    12788,
+    12777,
+    12803,
+    12805,
+    12775
+  ]
+}

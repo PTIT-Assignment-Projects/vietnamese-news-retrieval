@@ -1,0 +1,29 @@
+{
+  "qid": 87066,
+  "query": "Viên chức bị chuyển công tác hoặc biệt phái đến nơi làm việc mới thì có cần ký lại hợp đồng lao động mới không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    1142,
+    7852,
+    10014,
+    2087,
+    14268,
+    14273,
+    4130,
+    1330,
+    14264,
+    1159
+  ]
+}

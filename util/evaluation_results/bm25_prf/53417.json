@@ -1,0 +1,29 @@
+{
+  "qid": 53417,
+  "query": "Tổng mức dư nợ cấp tín dụng của mạng lưới hoạt động quỹ tín dụng nhân dân trên 100 triệu đồng ký kết trước ngày Thông tư 09/2018/TT-NHNN có hiệu lực có cần phải thu hồi hay không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    10062,
+    7884,
+    10067,
+    5648,
+    7882,
+    10103,
+    2452,
+    13276,
+    10104,
+    9120
+  ]
+}

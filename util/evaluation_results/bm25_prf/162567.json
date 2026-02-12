@@ -1,0 +1,29 @@
+{
+  "qid": 162567,
+  "query": "Khi kiểm sát việc tuân theo pháp luật trong giai đoạn xét xử sơ thẩm vụ án hình sự Kiểm sát viên đề nghị hoãn phiên tòa trong những trường hợp nào?",
+  "metrics": {
+    "mrr": 0.14285714285714285,
+    "map": 0.14285714285714285,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.3333333333333333
+  },
+  "retrieved": [
+    10732,
+    10766,
+    10774,
+    10765,
+    10530,
+    10519,
+    10829,
+    10528,
+    10737,
+    10912
+  ]
+}

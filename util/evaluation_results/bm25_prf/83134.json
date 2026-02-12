@@ -1,0 +1,29 @@
+{
+  "qid": 83134,
+  "query": "Khi nào chính thức áp dụng quy định mới về bồi thường cho hành khách bị delay chuyến bay?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5929,
+    5938,
+    12958,
+    1793,
+    7436,
+    8371,
+    2940,
+    5877,
+    5921,
+    2943
+  ]
+}

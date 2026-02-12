@@ -1,0 +1,29 @@
+{
+  "qid": 101198,
+  "query": "Về việc công nhận hạng cơ sở lưu trú du lịch sẽ do cơ quan nào thẩm định, công nhận và một số quy định khác về xếp hạng cơ sở lưu trú du lịch?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    9793,
+    9795,
+    9796,
+    9752,
+    6624,
+    9794,
+    9799,
+    9792,
+    9769,
+    9791
+  ]
+}

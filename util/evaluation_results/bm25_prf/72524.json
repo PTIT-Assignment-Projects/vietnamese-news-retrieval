@@ -1,0 +1,29 @@
+{
+  "qid": 72524,
+  "query": "Quy định pháp luật về tuyên truyền, hướng dẫn gia đình thực hiện các biện pháp nâng cao chất lượng dân số",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    11581,
+    11561,
+    11562,
+    11559,
+    11583,
+    11585,
+    11569,
+    11572,
+    2919,
+    11578
+  ]
+}

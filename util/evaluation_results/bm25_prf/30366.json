@@ -1,0 +1,29 @@
+{
+  "qid": 30366,
+  "query": "Trình tự thủ tục để thành lập văn phòng đại diện tại Việt Nam của tổ chức khoa học và công nghệ nước ngoài được thực hiện ra sao?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    8249,
+    8250,
+    8251,
+    8248,
+    8247,
+    8229,
+    8244,
+    2489,
+    141,
+    8246
+  ]
+}

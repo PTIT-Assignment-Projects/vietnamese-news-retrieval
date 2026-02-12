@@ -1,0 +1,29 @@
+{
+  "qid": 10186,
+  "query": "Trưởng đoàn thanh tra chuyên ngành của Sở Lao động Thương binh và Xã hội có quyền xử phạt người sửa chữa giấy tờ trong hồ sơ tuyển sinh để được trúng tuyển trình độ cao đẳng không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9871,
+    11127,
+    3434,
+    4610,
+    13396,
+    11534,
+    13376,
+    13391,
+    13372,
+    6619
+  ]
+}

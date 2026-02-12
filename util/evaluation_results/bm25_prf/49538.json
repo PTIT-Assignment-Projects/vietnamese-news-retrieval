@@ -1,0 +1,29 @@
+{
+  "qid": 49538,
+  "query": "Thời lượng khóa cập nhật kiến thức cho hướng dẫn viên du lịch nội địa và hướng dẫn viên du lịch quốc tế là bao lâu?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    6623,
+    9805,
+    6607,
+    9808,
+    9801,
+    6624,
+    6626,
+    9803,
+    9802,
+    9804
+  ]
+}

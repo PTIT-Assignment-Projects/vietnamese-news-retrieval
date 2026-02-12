@@ -1,0 +1,29 @@
+{
+  "qid": 48561,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện được quyền xử phạt cơ sở tiêm chủng không thực hiện đúng quy định về bảo quản vắc xin không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14550,
+    11664,
+    11666,
+    11665,
+    14602,
+    11670,
+    11660,
+    11663,
+    11669,
+    11659
+  ]
+}

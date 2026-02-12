@@ -1,0 +1,29 @@
+{
+  "qid": 2232,
+  "query": "Việc ra quyết định thanh tra chuyên ngành đột xuất có thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân tỉnh hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    3099,
+    3105,
+    3104,
+    4898,
+    4896,
+    9233,
+    8481,
+    4956,
+    3103,
+    8472
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 4026,
+  "query": "Cơ sở Đo lường Chất lượng giữ chuẩn đo lường trong lĩnh vực quân sự, quốc phòng thực hiện các hoạt động gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2606,
+    2632,
+    2610,
+    2618,
+    2602,
+    2608,
+    2622,
+    2619,
+    2604,
+    2620
+  ]
+}

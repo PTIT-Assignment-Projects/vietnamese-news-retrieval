@@ -1,0 +1,29 @@
+{
+  "qid": 149973,
+  "query": "Quyền và trách nhiệm của doanh nghiệp hoạt động kinh doanh trò chơi điện tử có thưởng dành cho người nước ngoài? Giấy xác nhận, đổi đồng tiền quy ước có giá trị bao lâu?",
+  "metrics": {
+    "mrr": 0.1,
+    "map": 0.1,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 0.2890648263178879
+  },
+  "retrieved": [
+    12836,
+    3263,
+    12841,
+    3266,
+    12837,
+    3250,
+    3261,
+    3248,
+    12834,
+    12845
+  ]
+}

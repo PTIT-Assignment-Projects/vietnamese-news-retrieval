@@ -1,0 +1,29 @@
+{
+  "qid": 40473,
+  "query": "Giấy chứng nhận đủ điều kiện kinh doanh casino tự động bị hết hiệu lực và bị thu hồi trong trường hợp nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3277,
+    3308,
+    3273,
+    6500,
+    3276,
+    12842,
+    3253,
+    3274,
+    3270,
+    3280
+  ]
+}

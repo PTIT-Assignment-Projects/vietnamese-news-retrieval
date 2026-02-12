@@ -1,0 +1,29 @@
+{
+  "qid": 165232,
+  "query": "Quy trình thủ tục đối với tỉnh lần đầu đề nghị kiểm tra công nhận tỉnh đạt chuẩn phổ cập giáo dục xóa mù chữ được thực hiện như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    7324,
+    7323,
+    7326,
+    7316,
+    7325,
+    7317,
+    7327,
+    7321,
+    7322,
+    7319
+  ]
+}

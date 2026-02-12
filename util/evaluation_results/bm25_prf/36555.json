@@ -1,0 +1,29 @@
+{
+  "qid": 36555,
+  "query": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt người tẩy xóa Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    6514,
+    3291,
+    14832,
+    11127,
+    14917,
+    2455,
+    4541,
+    14611,
+    3304
+  ]
+}

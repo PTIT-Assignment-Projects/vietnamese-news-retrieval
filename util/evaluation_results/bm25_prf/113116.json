@@ -1,0 +1,29 @@
+{
+  "qid": 113116,
+  "query": "Mối quan hệ giữa Hội đồng quản lý với người đứng đầu đơn vị sự nghiệp công lập thuộc ngành tài nguyên và môi trường được quy định như thế nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3155,
+    3153,
+    3146,
+    3149,
+    12004,
+    14215,
+    13775,
+    12015,
+    12007,
+    4124
+  ]
+}

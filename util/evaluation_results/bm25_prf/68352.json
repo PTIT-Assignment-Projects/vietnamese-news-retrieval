@@ -1,0 +1,29 @@
+{
+  "qid": 68352,
+  "query": "Cơ quan ngoại giao có yêu cầu thăm gặp, tiếp xúc lãnh sự với phạm nhân mang quốc tịch nước mình phải gửi văn bản đề nghị đến cơ quan nào?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    3012,
+    3017,
+    3015,
+    3013,
+    7647,
+    3014,
+    3010,
+    9251,
+    3011,
+    3018
+  ]
+}

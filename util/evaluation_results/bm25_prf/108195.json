@@ -1,0 +1,29 @@
+{
+  "qid": 108195,
+  "query": "Tổng cục Giáo dục nghề nghiệp có được thực hiện chức năng thanh tra chuyên ngành Lao động Thương binh và Xã hội không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    13372,
+    13401,
+    13390,
+    13376,
+    8807,
+    13379,
+    13396,
+    8835,
+    13393,
+    8857
+  ]
+}

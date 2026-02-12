@@ -1,0 +1,29 @@
+{
+  "qid": 117949,
+  "query": "Đưa người nước ngoài vào khu vực biên giới đất liền mà không thông báo với Công an, Bộ đội Biên phòng cấp tỉnh nơi đến có bị xử phạt không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9682,
+    9687,
+    9681,
+    9683,
+    13709,
+    9684,
+    13712,
+    13704,
+    9667,
+    9673
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 32387,
+  "query": "Trách nhiệm của Bộ Nông nghiệp và Phát triển nông thôn trong quản lý nhà nước về nông nghiệp hữu cơ là gì?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    12445,
+    12443,
+    12439,
+    12435,
+    12428,
+    12441,
+    12442,
+    12440,
+    12434,
+    12284
+  ]
+}

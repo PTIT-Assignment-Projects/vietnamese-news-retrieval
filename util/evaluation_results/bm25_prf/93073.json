@@ -1,0 +1,29 @@
+{
+  "qid": 93073,
+  "query": "Thời gian chốt số liệu báo cáo tình hình lập và quản lý cơ sở dữ liệu công trình ngầm của đô thị của Sở Xây dựng và UBND cấp huyện là khi nào?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    14994,
+    2676,
+    14993,
+    1088,
+    7296,
+    2675,
+    7300,
+    1090,
+    7299,
+    5441
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 113846,
+  "query": "Người được giao thực hiện nhiệm vụ thanh tra chuyên ngành trường tiểu học cần có những tiêu chuẩn gì?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    2817,
+    1538,
+    1532,
+    1533,
+    2814,
+    2820,
+    1537,
+    1531,
+    8501,
+    2815
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 24056,
+  "query": "Bộ phận kiểm toán nội bộ của doanh nghiệp được quyền tiến hành các hoạt động kiểm toán đột xuất hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    5679,
+    5677,
+    5682,
+    5675,
+    5681,
+    5671,
+    5684,
+    7378,
+    5687,
+    5692
+  ]
+}

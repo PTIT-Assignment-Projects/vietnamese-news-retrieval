@@ -1,0 +1,29 @@
+{
+  "qid": 53864,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt người điều khiển phương tiện không tuân theo chỉ dẫn của người điều tiết giao thông không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    10345,
+    10308,
+    10306,
+    10304,
+    10332,
+    10331,
+    10333,
+    10318,
+    10303,
+    10378
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qid": 1491,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có thẩm quyền xử phạt đối với người tiết lộ cho người bạo lực gia đình biết nơi tạm lánh của nạn nhân bạo lực gia đình không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    8039,
+    1688,
+    1692,
+    1689,
+    8043,
+    8040,
+    8027,
+    8042,
+    8037,
+    8035
+  ]
+}

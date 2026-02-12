@@ -1,0 +1,29 @@
+{
+  "qid": 125279,
+  "query": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền xử phạt cơ sở kinh doanh dịch vụ chăm sóc sức khỏe đạt tiêu chuẩn phục vụ khách du lịch không có nội quy, quy trình hoạt động không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    6617,
+    14473,
+    9131,
+    7938,
+    1642,
+    9797,
+    14587,
+    6039,
+    1696,
+    7141
+  ]
+}

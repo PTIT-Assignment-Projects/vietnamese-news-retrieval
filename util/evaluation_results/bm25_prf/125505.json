@@ -1,0 +1,29 @@
+{
+  "qid": 125505,
+  "query": "Cục trưởng Cục Đường thủy nội địa Việt Nam có quyền xử phạt người đặt vó đánh bắt cá trên sông gây cản trở hoạt động di chuyển của tàu, thuyền hay không?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    9072,
+    9107,
+    9053,
+    11165,
+    9047,
+    9109,
+    9055,
+    9108,
+    8818,
+    9078
+  ]
+}

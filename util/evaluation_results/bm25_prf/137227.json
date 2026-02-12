@@ -1,0 +1,29 @@
+{
+  "qid": 137227,
+  "query": "Trưởng đoàn thanh tra của Cục Báo chí có quyền xử phạt cá nhân tổ chức họp báo khi đã bị cơ quan nhà nước có thẩm quyền đình chỉ không?",
+  "metrics": {
+    "mrr": 1.0,
+    "map": 1.0,
+    "p@1": 1.0,
+    "r@1": 1.0,
+    "ndcg@1": 1.0,
+    "p@5": 0.2,
+    "r@5": 1.0,
+    "ndcg@5": 1.0,
+    "p@10": 0.1,
+    "r@10": 1.0,
+    "ndcg@10": 1.0
+  },
+  "retrieved": [
+    4637,
+    14198,
+    14912,
+    4054,
+    11127,
+    4052,
+    14935,
+    9737,
+    7011,
+    4973
+  ]
+}

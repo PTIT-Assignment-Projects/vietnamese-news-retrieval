@@ -1,0 +1,29 @@
+{
+  "qid": 178936,
+  "query": "Cơ sở vật chất và trang thiết bị thi đấu môn Thể dục thẩm mỹ tại Việt Nam như thế nào để đảm bảo yêu cầu hoạt động thi đấu?",
+  "metrics": {
+    "mrr": 0.0,
+    "map": 0.0,
+    "p@1": 0.0,
+    "r@1": 0.0,
+    "ndcg@1": 0.0,
+    "p@5": 0.0,
+    "r@5": 0.0,
+    "ndcg@5": 0.0,
+    "p@10": 0.0,
+    "r@10": 0.0,
+    "ndcg@10": 0.0
+  },
+  "retrieved": [
+    257,
+    4411,
+    254,
+    7746,
+    6616,
+    256,
+    9262,
+    12983,
+    9261,
+    9266
+  ]
+}
