@@ -6,7 +6,7 @@ from src.dependencies.constant import CID_COLUMN, TEXT_COLUMN, CORPUS_PATH, UTIL
     TF_IDF_MATRIX_PICKLE_PATH, DOC_LENGTH_PICKLE_PATH, NORMALIZED_TFIDF_PICKLE_PATH, L2_PAIR_PICKLE_PATH, BM25_STATS_PICKLE_PATH
 from src.dependencies.spark import SparkIRSystem
 from src.preprocessing.data_loader import load_data
-from src.preprocessing.preprocessing import process_text
+from src.preprocessing.preprocessing import process_text, get_dependencies
 from src.util.pickle_handling import load_pickle_file, save_to_pickle_file
 
 
@@ -317,6 +317,46 @@ class SparkInvertedIndexIR(SparkIRSystem):
 
         return scores
 
+    def expand_query_prf(self, query_str, top_docs, num_expansion_terms=5):
+        """
+        Extract top terms from the highest ranked documents to expand the query. (Driver/Local)
+        """
+        term_freqs = defaultdict(int)
+        # Using dependencies directly
+        _, stopwords, _ = get_dependencies()
+        
+        relevant_tokens = []
+        for doc_id in top_docs:
+            content = self.documents.get(doc_id, "")
+            tokens = content.split()
+            relevant_tokens.extend([t for t in tokens if t not in stopwords and len(t) > 1])
+        
+        for t in relevant_tokens:
+            term_freqs[t] += 1
+        
+        # Sort by frequency and take top N expansion terms
+        # Don't expand with terms already in query if possible (optional)
+        query_terms = set(process_text(query_str).split())
+        new_terms = [t for t, freq in sorted(term_freqs.items(), key=lambda x: x[1], reverse=True) 
+                     if t not in query_terms]
+        
+        expansion = new_terms[:num_expansion_terms]
+        return query_str + " " + " ".join(expansion)
+
+    def retrieve_bm25_prf(self, query_str, k=10, prf_k=3, expansion_terms=3):
+        """BM25 with Pseudo-Relevance Feedback expansion"""
+        # 1. First pass
+        initial_results = self.retrieve_bm25(query_str, k=prf_k)
+        if not initial_results:
+            return self.retrieve_bm25(query_str, k=k)
+        
+        # 2. Expand
+        top_ids = [r[0] for r in initial_results]
+        expanded_query = self.expand_query_prf(query_str, top_ids, num_expansion_terms=expansion_terms)
+        print(f"  [PRF] Expanded Query: {expanded_query}")
+        
+        # 3. Second pass
+        return self.retrieve_bm25(expanded_query, k=k)
 
     def retrieve(self, query_str, k=10):
         """

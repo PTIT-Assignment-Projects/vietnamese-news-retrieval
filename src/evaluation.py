@@ -46,7 +46,7 @@ def calculate_ndcg_at_k(retrieved_ids, true_set, k):
 
 # --- SPARK WORKER LOGIC ---
 
-def evaluate_query_batch(row, tf_idf_bc, idf_bc, lengths_bc, vocab_bc, k_vals, qid_col, method="tfidf", bm25_stats_bc=None, tf_matrix_bc=None, N_bc=None):
+def evaluate_query_batch(row, tf_idf_bc, idf_bc, lengths_bc, vocab_bc, k_vals, qid_col, method="tfidf", bm25_stats_bc=None, tf_matrix_bc=None, N_bc=None, docs_bc=None):
     """
     This function runs on Spark Executors. It performs retrieval locally using 
     broadcasted data instead of triggering sub-spark jobs.
@@ -59,80 +59,106 @@ def evaluate_query_batch(row, tf_idf_bc, idf_bc, lengths_bc, vocab_bc, k_vals, q
     # Ground truth handle
     true_set = set(ground_truth) if isinstance(ground_truth, list) else {ground_truth}
     
-    # 1. Preprocess query locally
-    processed_query = process_text(query_str)
-    q_tokens = processed_query.split()
-    
+    # Dependencies for preprocessing on worker
+    from src.preprocessing.preprocessing import get_dependencies, process_text
+    _, stopwords, _ = get_dependencies()
     vocab = vocab_bc.value
-    valid_query_tokens = [t for t in q_tokens if t in vocab]
-    
-    if not valid_query_tokens: return None
 
-    doc_scores = defaultdict(float)
-    
-    if method == "tfidf":
-        # Union logic to match BM25 sample size coverage
-        matching_docs = set()
-        tf_q = defaultdict(int)
-        for t in q_tokens:
-            if t in vocab:
+    def get_scores(current_query):
+        processed = process_text(current_query)
+        q_tokens = processed.split()
+        valid_query_tokens = [t for t in q_tokens if t in vocab]
+        if not valid_query_tokens: return [], []
+
+        local_doc_scores = defaultdict(float)
+        
+        if method == "tfidf":
+            matching_docs = set()
+            tf_q = defaultdict(int)
+            for t in valid_query_tokens:
                 tf_q[t] += 1
                 doc_list = set(tf_idf_bc.value.get(t, {}).keys())
-                matching_docs.update(doc_list) # Any doc with any query term
-        
-        if not matching_docs: return None
+                matching_docs.update(doc_list)
+            
+            if not matching_docs: return [], []
+            
+            # Query Vector
+            q_vec = {}
+            q_len_sq = 0
+            for term, count in tf_q.items():
+                weight = (1 + math.log10(count)) * idf_bc.value.get(term, 0.0)
+                q_vec[term] = weight
+                q_len_sq += weight ** 2
+            q_len = math.sqrt(q_len_sq)
 
-        # Build Query Vector
-        q_vec = {}
-        q_len_sq = 0
-        idf_matrix = idf_bc.value
-        for term, count in tf_q.items():
-            weight = (1 + math.log10(count)) * idf_matrix.get(term, 0.0)
-            q_vec[term] = weight
-            q_len_sq += weight ** 2
-        q_len = math.sqrt(q_len_sq)
+            tfidf_mat = tf_idf_bc.value
+            for term, q_weight in q_vec.items():
+                if term in tfidf_mat:
+                    for d_id, d_weight in tfidf_mat[term].items():
+                        if d_id in matching_docs:
+                            local_doc_scores[d_id] += q_weight * d_weight
+            
+            # Normalize
+            final = []
+            lengths = lengths_bc.value
+            for d_id, dot_p in local_doc_scores.items():
+                score = dot_p / (q_len * lengths.get(d_id, 1.0))
+                if score > 0: final.append((d_id, score))
+            return final, valid_query_tokens
 
-        # Compute Cosine Similarity Locally
-        tfidf_mat = tf_idf_bc.value
-        for term, q_weight in q_vec.items():
-            if term in tfidf_mat:
-                for doc_id, d_weight in tfidf_mat[term].items():
-                    if doc_id in matching_docs:
-                        doc_scores[doc_id] += q_weight * d_weight
-        
-        # Normalize scores
-        lengths = lengths_bc.value
-        final_scores = []
-        for doc_id, dot_prod in doc_scores.items():
-            score = dot_prod / (q_len * lengths.get(doc_id, 1.0))
-            if score > 0:
-                final_scores.append((doc_id, score))
-                
-    elif method == "bm25":
-        k1, b = 1.2, 0.75
-        avgdl = bm25_stats_bc.value['avg_doc_length']
-        doc_counts = bm25_stats_bc.value['doc_token_counts']
-        tf_matrix = tf_matrix_bc.value
-        N = N_bc.value
-        
-        for token in valid_query_tokens:
-            if token in tf_matrix:
-                df = len(tf_matrix[token])
-                # BM25 IDF
-                idf = math.log((N - df + 0.5) / (df + 0.5) + 1)
-                for doc_id, tf in tf_matrix[token].items():
-                    doc_len = doc_counts.get(doc_id, 0)
-                    score = idf * (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * doc_len / avgdl))
-                    doc_scores[doc_id] += score
-        
-        final_scores = list(doc_scores.items())
+        elif method in ["bm25", "bm25_prf"]:
+            k1, b = 1.2, 0.75
+            avgdl = bm25_stats_bc.value['avg_doc_length']
+            doc_counts = bm25_stats_bc.value['doc_token_counts']
+            tf_mat = tf_matrix_bc.value
+            N = N_bc.value
+            
+            for token in valid_query_tokens:
+                if token in tf_mat:
+                    df = len(tf_mat[token])
+                    idf = math.log((N - df + 0.5) / (df + 0.5) + 1)
+                    for d_id, tf in tf_mat[token].items():
+                        score = idf * (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * doc_counts.get(d_id, 0) / avgdl))
+                        local_doc_scores[d_id] += score
+            return list(local_doc_scores.items()), valid_query_tokens
 
-    # Rank & Get Top K
-    max_k = max(k_vals)
+    # Retrieval Logic
+    if method == "bm25_prf":
+        # First Pass: k=3 for PRF
+        first_pass_scores, initial_tokens = get_scores(query_str)
+        if not first_pass_scores: return None
+        
+        first_pass_scores.sort(key=lambda x: x[1], reverse=True)
+        top_ids = [s[0] for s in first_pass_scores[:3]] # PRF k=3
+        
+        # Query Expansion
+        expansion_freqs = defaultdict(int)
+        docs = docs_bc.value
+        query_set = set(initial_tokens)
+        
+        for d_id in top_ids:
+            doc_content = docs.get(d_id, "")
+            doc_tokens = doc_content.split()
+            for t in doc_tokens:
+                if t not in stopwords and t not in query_set and len(t) > 1:
+                    expansion_freqs[t] += 1
+        
+        new_terms = sorted(expansion_freqs.items(), key=lambda x: x[1], reverse=True)[:3]
+        expanded_query = query_str + " " + " ".join([t[0] for t in new_terms])
+        
+        # Second Pass
+        final_scores, _ = get_scores(expanded_query)
+    else:
+        final_scores, _ = get_scores(query_str)
+
+    if not final_scores: return None
+
+    # Rank & Metrics
     final_scores.sort(key=lambda x: x[1], reverse=True)
+    max_k = max(k_vals)
     retrieved_ids = [s[0] for s in final_scores[:max_k]]
 
-    # 4. Calculate Batch Metrics
+    # Calculate Batch Metrics
     results = {
         'mrr': calculate_mrr(retrieved_ids, true_set),
         'map': calculate_ap(retrieved_ids, true_set),
@@ -142,17 +168,12 @@ def evaluate_query_batch(row, tf_idf_bc, idf_bc, lengths_bc, vocab_bc, k_vals, q
         results[f'r@{k}'] = calculate_recall_at_k(retrieved_ids, true_set, k)
         results[f'ndcg@{k}'] = calculate_ndcg_at_k(retrieved_ids, true_set, k)
         
-    return {
-        'qid': qid,
-        'query': query_str,
-        'metrics': results,
-        'retrieved': retrieved_ids
-    }
+    return {'qid': qid, 'query': query_str, 'metrics': results, 'retrieved': retrieved_ids}
 
-def run_evaluation_for_method(spark_ir, queries_rdd, method, tf_idf_bc, idf_bc, lengths_bc, vocab_bc, bm25_stats_bc, tf_matrix_bc, N_bc, k_values, qid_col):
+def run_evaluation_for_method(spark_ir, queries_rdd, method, tf_idf_bc, idf_bc, lengths_bc, vocab_bc, bm25_stats_bc, tf_matrix_bc, N_bc, docs_bc, k_values, qid_col):
     print(f"Starting parallel evaluation for {method}...")
     metrics_rdd = queries_rdd.map(
-        lambda row: evaluate_query_batch(row, tf_idf_bc, idf_bc, lengths_bc, vocab_bc, k_values, qid_col, method, bm25_stats_bc, tf_matrix_bc, N_bc)
+        lambda row: evaluate_query_batch(row, tf_idf_bc, idf_bc, lengths_bc, vocab_bc, k_values, qid_col, method, bm25_stats_bc, tf_matrix_bc, N_bc, docs_bc)
     ).filter(lambda x: x is not None)
 
     results_list = metrics_rdd.collect()
@@ -206,6 +227,7 @@ def evaluate():
     })
     tf_matrix_bc = spark_ir.context.broadcast(spark_ir.tf_matrix)
     N_bc = spark_ir.context.broadcast(spark_ir.doc_count)
+    docs_bc = spark_ir.context.broadcast(spark_ir.documents)
 
     k_values = [1, 5, 10]
     from src.dependencies.constant import QID_COLUMN as QID_COL
@@ -218,8 +240,8 @@ def evaluate():
     queries_rdd = combined_df.rdd.repartition(num_workers).cache()
 
     all_summaries = {}
-    for method in ["tfidf", "bm25"]:
-        res = run_evaluation_for_method(spark_ir, queries_rdd, method, tf_idf_bc, idf_bc, lengths_bc, vocab_bc, bm25_stats_bc, tf_matrix_bc, N_bc, k_values, QID_COL)
+    for method in ["tfidf", "bm25", "bm25_prf"]:
+        res = run_evaluation_for_method(spark_ir, queries_rdd, method, tf_idf_bc, idf_bc, lengths_bc, vocab_bc, bm25_stats_bc, tf_matrix_bc, N_bc, docs_bc, k_values, QID_COL)
         if res:
             summary, num_q = res
             all_summaries[method] = summary
